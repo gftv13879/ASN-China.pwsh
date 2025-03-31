@@ -44,14 +44,23 @@ jobs:
     
         # 不需要单独设置参数了，因为输入输出文件名是固定的
         # 直接运行脚本，并传入固定的文件名和 -RawOutput 开关
+      # - name: Run ASN to CIDR Conversion Script
+      #   run: |
+      #     # 直接调用脚本
+      #     # -InputAsnFilePath 指向仓库根目录的 ASN.China.list
+      #     # -OutputFilePath 指向仓库根目录的 IP.China.list
+      #     # -RawOutput 指定输出纯文本列表格式
+      #     ./Get-AsnPrefixes.ps1 -InputAsnFilePath $GITHUB_WORKSPACE/ASN.China.list -OutputFilePath $GITHUB_WORKSPACE/IP.China.list -RawOutput
+      #   shell: pwsh
+
+      
+      # 修改后的步骤:
       - name: Run ASN to CIDR Conversion Script
         run: |
-          # 直接调用脚本
-          # -InputAsnFilePath 指向仓库根目录的 ASN.China.list
-          # -OutputFilePath 指向仓库根目录的 IP.China.list
-          # -RawOutput 指定输出纯文本列表格式
-          ./Get-AsnPrefixes.ps1 -InputAsnFilePath $GITHUB_WORKSPACE/ASN.China.list -OutputFilePath $GITHUB_WORKSPACE/IP.China.list -RawOutput
-        shell: pwsh
+          # 在 PowerShell 命令中明确使用 $env:GITHUB_WORKSPACE 来访问环境变量
+          # 同时给路径加上引号增加稳健性
+          ./Get-AsnPrefixes.ps1 -InputAsnFilePath "$env:GITHUB_WORKSPACE/ASN.China.list" -OutputFilePath "$env:GITHUB_WORKSPACE/IP.China.list" -RawOutput
+        shell: pwsh # 仍然指定使用 pwsh 执行
   
         # 上传生成的 IP.China.list 文件
       - uses: stefanzweifel/git-auto-commit-action@v4
