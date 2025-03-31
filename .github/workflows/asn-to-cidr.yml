@@ -1,0 +1,42 @@
+name: ASN to CIDR Conversion (China List)
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch: # Allows manual triggering
+  push:
+    branches: [ main ] # Trigger on push to main branch
+    paths: # Only trigger if ASN list or workflow file changes
+      - 'ASN.China.list'
+      - '.github/workflows/asn-to-cidr.yml'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'ASN.China.list'
+      - '.github/workflows/asn-to-cidr.yml'
+
+jobs:
+  convert:
+    name: Convert China ASN List to CIDR Prefixes
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/powershell:latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 不需要单独设置参数了，因为输入输出文件名是固定的
+      # 直接运行脚本，并传入固定的文件名和 -RawOutput 开关
+      - name: Run ASN to CIDR Conversion Script
+        run: |
+          # 直接调用脚本
+          # -InputAsnFilePath 指向仓库根目录的 ASN.China.list
+          # -OutputFilePath 指向仓库根目录的 IP.China.list
+          # -RawOutput 指定输出纯文本列表格式
+          ./Get-AsnPrefixes.ps1 -InputAsnFilePath $GITHUB_WORKSPACE/ASN.China.list -OutputFilePath $GITHUB_WORKSPACE/IP.China.list -RawOutput
+        shell: pwsh
+
+      # 上传生成的 IP.China.list 文件
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update ASN List
