@@ -21,12 +21,29 @@ jobs:
     container:
       image: mcr.microsoft.com/powershell:latest
 
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      # 不需要单独设置参数了，因为输入输出文件名是固定的
-      # 直接运行脚本，并传入固定的文件名和 -RawOutput 开关
+        
+      # 新增的调试步骤
+      - name: List Workspace Contents 
+        run: ls -la $GITHUB_WORKSPACE
+        shell: bash # 使用 bash 执行 ls 命令比较方便
+  
+    # # 你原来的运行脚本步骤
+    # - name: Run ASN to CIDR Conversion Script
+    #   run: |
+    #     ./Get-AsnPrefixes.ps1 -InputAsnFilePath $GITHUB_WORKSPACE/ASN.China.list -OutputFilePath $GITHUB_WORKSPACE/IP.China.list -RawOutput
+    #   shell: pwsh 
+  
+    # # ... 后续步骤 ...
+    #   steps:
+    #     - name: Checkout repository
+    #       uses: actions/checkout@v4
+    
+        # 不需要单独设置参数了，因为输入输出文件名是固定的
+        # 直接运行脚本，并传入固定的文件名和 -RawOutput 开关
       - name: Run ASN to CIDR Conversion Script
         run: |
           # 直接调用脚本
@@ -35,8 +52,8 @@ jobs:
           # -RawOutput 指定输出纯文本列表格式
           ./Get-AsnPrefixes.ps1 -InputAsnFilePath $GITHUB_WORKSPACE/ASN.China.list -OutputFilePath $GITHUB_WORKSPACE/IP.China.list -RawOutput
         shell: pwsh
-
-      # 上传生成的 IP.China.list 文件
+  
+        # 上传生成的 IP.China.list 文件
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update ASN List
