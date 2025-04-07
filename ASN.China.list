@@ -1,5 +1,5 @@
 // ASN Information in China. (Source: https://bgp.he.net/country/CN, Script based on https://github.com/gftv13879/ASN-China.pwsh)
-// Last Updated: UTC 2025-04-07 23:04:35
+// Last Updated: UTC 2025-04-07 23:10:58
 // PowerShell Core script. Format: IP-ASN,AS_NUMBER // AS_NAME
 
 IP-ASN,140731 // TOHU Public Internet
