@@ -1,6 +1,6 @@
-// ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-04-07 14:53:11
-// Made by Vincent, All rights reserved. 
+// ASN Information in China. (Source: https://bgp.he.net/country/CN, Script based on https://github.com/gftv13879/ASN-China.pwsh)
+// Last Updated: UTC 2025-04-07 14:53:31
+// PowerShell Core script. Format: IP-ASN,AS_NUMBER // AS_NAME
 
 IP-ASN,140731 // TOHU Public Internet
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
@@ -437,6 +437,7 @@ IP-ASN,131497 // Volkswagen (China) Investment Co., LTD
 IP-ASN,131495 // Beijing nine cloud infinite network technology co., LTD
 IP-ASN,131486 // Beijing Jingdong 360 Degree E-commerce Co., Ltd.
 IP-ASN,131325 // China Telecom KunMing
+IP-ASN,131192 // 
 IP-ASN,10206 // China Unicom Zhongwei Cloud
 IP-ASN,9401 // National Library of China
 IP-ASN,64021 // Network-Transit
@@ -541,6 +542,7 @@ IP-ASN,151296 // Changzhou Jieyun Network Technology Co. Ltd.
 IP-ASN,151284 // China Internet Network Information Center
 IP-ASN,151185 // China Telecom
 IP-ASN,150374 // Jiang Men Shi Tian Da Cloud Co. Ltd
+IP-ASN,149648 // 
 IP-ASN,149511 // Yamu Technologies Co., Ltd.
 IP-ASN,147008 // Shenzhen Dianjiang Technology Co Ltd
 IP-ASN,146841 // Tianjin GiantDC Data Technology Co.Ltd
@@ -4950,6 +4952,7 @@ IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,142553 // Airs Project Private Network Main
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,142418 // TaterLi Education And Research Network
+IP-ASN,142280 // 
 IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
 IP-ASN,142106 // China Education and Research Network (CERNET)
 IP-ASN,142105 // China Education and Research Network (CERNET)
@@ -5188,6 +5191,7 @@ IP-ASN,137256 // CatIO Network
 IP-ASN,136725 // Chen Jitong
 IP-ASN,136591 // MxxCloud LLC
 IP-ASN,136535 // Yang Mengqi
+IP-ASN,134993 // 
 IP-ASN,134775 // CHINANET Guangdong province Zhusanjiao MAN network
 IP-ASN,134708 // TLY NETWORKS S.A.
 IP-ASN,134488 // CTJ's Global Network
