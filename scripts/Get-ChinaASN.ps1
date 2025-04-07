@@ -137,6 +137,7 @@ function Update-ChinaAsnList {
     Write-Verbose "Attempting to fetch ASN data from $Url"
     $response = $null
     try {
+        # UseBasicParsing is crucial for cross-platform compatibility and avoids IE engine dependency
         $response = Invoke-WebRequest -Uri $Url -Headers $Headers -UseBasicParsing -ErrorAction Stop
         Write-Verbose "Successfully fetched data (Status: $($response.StatusCode)). Content length: $($response.RawContentLength) bytes."
     } catch {
@@ -193,8 +194,9 @@ function Update-ChinaAsnList {
             # Extract and trim ASN number and name
             $asnNumber = $match.Groups[1].Value.Trim()
             $asnNameRaw = $match.Groups[2].Value.Trim()
+            # Remove any HTML tags from the name (basic cleanup)
             $asnNameClean = $asnNameRaw -replace '<[^>]+>'
-            # Optional: Decode HTML entities
+            # Optional: Decode HTML entities if needed (e.g., & -> &)
             # try { $asnNameClean = [System.Net.WebUtility]::HtmlDecode($asnNameClean) } catch { Write-Warning "Could not HTML decode name: $asnNameClean" }
 
             # Validate ASN number is not empty after trimming
@@ -203,6 +205,7 @@ function Update-ChinaAsnList {
                 # --- Attempt to Write to the First File ---
                 $primaryFileInfo = "IP-ASN,{0} // {1}" -f $asnNumber, $asnNameClean
                 try {
+                    # Use ErrorAction Stop to trigger the catch block on failure
                     Add-Content -Path $DestinationFile -Value $primaryFileInfo -Encoding UTF8 -ErrorAction Stop
                     $processedCountPrimary++ # Increment success count for primary file
                     Write-Verbose "Added to '$DestinationFile': $primaryFileInfo"
@@ -210,11 +213,12 @@ function Update-ChinaAsnList {
                     # Log error for primary file, but DO NOT stop or skip secondary write attempt
                     Write-Warning "Failed to write ASN $asnNumber to primary file '$DestinationFile'. Error: $($_.Exception.Message)"
                     # Note: $processedCountPrimary is NOT incremented on failure.
-                } # <-- Closing brace for inner try/catch
+                } # <-- Closing brace for inner try/catch for primary file
 
                 # --- Attempt to Write to the Second File (Independently) ---
                 $secondaryFileInfo = "AS$asnNumber"
                 try {
+                    # Use ErrorAction Stop to trigger the catch block on failure
                     Add-Content -Path $SecondaryOutputFile -Value $secondaryFileInfo -Encoding UTF8 -ErrorAction Stop
                     $processedCountSecondary++ # Increment success count for secondary file
                     Write-Verbose "Added to '$SecondaryOutputFile': $secondaryFileInfo"
@@ -222,19 +226,19 @@ function Update-ChinaAsnList {
                     # Log error for secondary file
                     Write-Warning "Failed to write ASN $asnNumber to secondary file '$SecondaryOutputFile'. Error: $($_.Exception.Message)"
                     # Note: $processedCountSecondary is NOT incremented on failure.
-                } # <-- Closing brace for inner try/catch
+                } # <-- Closing brace for inner try/catch for secondary file
                 # Both write attempts are now complete for this ASN, regardless of individual success/failure.
 
             } else {
                 # ASN number was blank or whitespace after trimming
                 Write-Warning "Skipping match because the extracted ASN number is blank or whitespace. Raw Name: '$asnNameRaw'. Full Match: '$($match.Value)'"
                 $skippedValidationCount++ # Increment validation skip count
-            } # <-- Closing brace for inner if
+            } # <-- Closing brace for inner if (ASN validation)
         } else {
             # Regex match didn't have enough capture groups
             Write-Warning "Skipping match because it did not contain the expected number of groups (found $($match.Groups.Count), expected at least 3). Full match: '$($match.Value)'"
             $skippedValidationCount++ # Increment validation skip count
-        } # <-- Closing brace for outer if
+        } # <-- Closing brace for outer if (Group count check)
     } # <-- Closing brace for foreach loop
 
     # --- Final Summary ---
@@ -275,7 +279,7 @@ try {
     Update-ChinaAsnList -DestinationFile $OutputFile -SecondaryOutputFile $SecondOutputFile -Url $DataSourceUrl -Headers $RequestHeaders -Verbose:$VerbosePreference
     Write-Host "Script finished successfully." # Moved here to indicate completion after processing
 } catch {
-    # Catch any exceptions thrown from Update-ChinaAsnList or Initialize-OutputFile
+    # Catch any exceptions thrown from Update-ChinaAsnList or Initialize-OutputFile (initialization/fetch failures)
     Write-Error "Script execution FAILED."
     # Error details should have been written by the function that threw the exception.
     # Exit with a non-zero code to indicate failure, useful for automation.
