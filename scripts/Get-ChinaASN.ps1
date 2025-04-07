@@ -56,7 +56,8 @@ function Initialize-OutputFile {
 
     Write-Verbose "Initializing output file: $FilePath"
     # Get current UTC time
-    $utcTime = (Get-Date).ToUniversalTime() -Format "yyyy-MM-dd HH:mm:ss"
+    $utcTime = ((Get-Date).ToUniversalTime()).ToString("yyyy-MM-dd HH:mm:ss")
+
 
     # Create header content using a here-string for readability
     $header = @"
