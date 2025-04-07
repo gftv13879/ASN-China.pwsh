@@ -17,9 +17,9 @@ jobs:
     # Specify the runner environment
     runs-on: ubuntu-latest
 
-    # Specify the container image to run the job steps in
-    container:
-      image: mcr.microsoft.com/powershell:latest # Use the official PowerShell Core image
+    # # Specify the container image to run the job steps in
+    # container:
+    #   image: mcr.microsoft.com/powershell:latest # Use the official PowerShell Core image
 
     steps:
       # 1. Check out the repository code
@@ -27,16 +27,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4 # Use a specific stable version
 
-      # 2. Execute your PowerShell script
-      # Assumes your script is located at 'scripts/Get-ChinaASN.ps1' in your repo
-      # and it generates/updates 'ASN.China.list' in the root of the workspace
-      - name: Run PowerShell script to update ASN list
-        # Use 'pwsh' (the PowerShell Core executable) available in the container
-        # -File specifies the script file path relative to the workspace root
-        # -Verbose provides detailed output in the Actions logs, useful for debugging
-        run: pwsh -File ./scripts/Get-ChinaASN.ps1 -Verbose
-        # PowerShell scripts should ideally exit with a non-zero code on failure (like using `exit 1` or `throw`),
-        # which will automatically cause this step to fail if the script encounters a critical error.
+      # # 2. Execute your PowerShell script
+      # # Assumes your script is located at 'scripts/Get-ChinaASN.ps1' in your repo
+      # # and it generates/updates 'ASN.China.list' in the root of the workspace
+      # - name: Run PowerShell script to update ASN list
+      #   # Use 'pwsh' (the PowerShell Core executable) available in the container
+      #   # -File specifies the script file path relative to the workspace root
+      #   # -Verbose provides detailed output in the Actions logs, useful for debugging
+      #   run: pwsh -File ./scripts/Get-ChinaASN.ps1 -Verbose
+      #   # PowerShell scripts should ideally exit with a non-zero code on failure (like using `exit 1` or `throw`),
+      #   # which will automatically cause this step to fail if the script encounters a critical error.
+
+      
+      #  使用 Docker 在 PowerShell 容器内运行脚本
+      #    -v "${{ github.workspace }}":"/workspace" 将主机的工作目录挂载到容器的 /workspace
+      #    -w "/workspace" 设置容器内的工作目录
+      #    脚本的路径 ./scripts/Get-ChinaASN.ps1 是相对于挂载后的 /workspace 目录
+      #    脚本生成的 ASN.China.list 文件会直接出现在主机的工作区 (${{ github.workspace }})
+      - name: Run PowerShell script inside container to update ASN list
+        run: |
+          docker run --rm \
+            -v "${{ github.workspace }}":"/workspace" \
+            -w "/workspace" \
+            mcr.microsoft.com/powershell:latest \
+            pwsh -File ./scripts/Get-ChinaASN.ps1 -Verbose
 
       # 3. Commit the updated ASN list back to the repository
       # This step uses a popular action to handle git add, commit, and push automatically.
