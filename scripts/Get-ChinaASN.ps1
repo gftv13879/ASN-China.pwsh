@@ -175,103 +175,91 @@ function Update-ChinaAsnList {
     Write-Verbose "Found $matchCount potential ASN entries."
     Write-Host "Processing $matchCount ASN entries..."
 
-    # 4. Process Matches and Append to Files
-    # --- Start of the Moved Processing Block ---
-    # Initialize counters
-    $processedCountPrimary = 0
-    $processedCountSecondary = 0
-    $skippedCount = 0
-    $totalMatches = $matches.Matches.Count # Already have $matchCount, use it.
+# 4. Process Matches and Append to Files
+# --- Start of the Modified Processing Block ---
+$processedCountPrimary = 0
+$processedCountSecondary = 0
+$skippedValidationCount = 0 # Counter specifically for validation skips
 
-    Write-Verbose "Primary output file: $DestinationFile"
-    Write-Verbose "Secondary output file: $SecondaryOutputFile"
+Write-Verbose "Primary output file: $DestinationFile"
+Write-Verbose "Secondary output file: $SecondaryOutputFile"
 
-    # --- Processing Loop ---
-    foreach ($match in $matches.Matches) {
-        # Check if the match has the expected number of capture groups
-        # Group 0: Full match
-        # Group 1: Expected ASN Number (captured from ASXXXX)
-        # Group 2: Expected ASN Name (content of second <td>)
-        if ($match.Groups.Count -ge 3) {
-            # Extract and trim ASN number and name
-            $asnNumber = $match.Groups[1].Value.Trim()
-            $asnNameRaw = $match.Groups[2].Value.Trim() # Keep raw name for potential debugging
+# --- Processing Loop ---
+foreach ($match in $matches.Matches) {
+    # Check if the match has the expected number of capture groups
+    if ($match.Groups.Count -ge 3) {
+        # Extract and trim ASN number and name
+        $asnNumber = $match.Groups[1].Value.Trim()
+        $asnNameRaw = $match.Groups[2].Value.Trim()
+        $asnNameClean = $asnNameRaw -replace '<[^>]+>'
+        # Optional: Decode HTML entities
+        # try { $asnNameClean = [System.Net.WebUtility]::HtmlDecode($asnNameClean) } catch { Write-Warning "Could not HTML decode name: $asnNameClean" }
 
-            # Clean the ASN Name: Remove potential HTML tags (basic removal)
-            $asnNameClean = $asnNameRaw -replace '<[^>]+>'
-            # Optional: Decode HTML entities like & -> & if needed
-            # try { $asnNameClean = [System.Net.WebUtility]::HtmlDecode($asnNameClean) } catch { Write-Warning "Could not HTML decode name: $asnNameClean" }
+        # Validate ASN number is not empty after trimming
+        if (-not [string]::IsNullOrWhiteSpace($asnNumber)) {
 
-            # Validate ASN number is not empty after trimming
-            if (-not [string]::IsNullOrWhiteSpace($asnNumber)) {
-
-                # --- Write to the first file (e.g., ASN.China.list format) ---
-                $primaryFileInfo = "IP-ASN,{0} // {1}" -f $asnNumber, $asnNameClean
-                $writePrimarySuccess = $false
-                try {
-                    # Use Add-Content for appending
-                    Add-Content -Path $DestinationFile -Value $primaryFileInfo -Encoding UTF8 -ErrorAction Stop
-                    $processedCountPrimary++
-                    $writePrimarySuccess = $true # Mark primary write as successful
-                    Write-Verbose "Added to '$DestinationFile': $primaryFileInfo"
-                } catch {
-                    Write-Warning "Failed to write ASN $asnNumber to primary file '$DestinationFile'. Error: $($_.Exception.Message)"
-                    # Option 1 (Default): Skip this ASN entirely and continue with the next match
-                    Write-Warning "Skipping all writes for ASN $asnNumber due to primary file write error."
-                    $skippedCount++
-                    continue # Move to the next $match in the foreach loop
-                    # Option 2: Stop the entire script if the primary file write fails (uncomment below)
-                    # Write-Error "Critical error writing to primary file '$DestinationFile'. Stopping script."
-                    # throw $_ # Re-throws the caught exception, stopping the script
-                }
-
-                # --- Write to the second file (e.g., ASN.China.txt format) ---
-                # This block only executes if the write to the *first* file was successful
-                if ($writePrimarySuccess) {
-                    $secondaryFileInfo = "AS$asnNumber"
-                    try {
-                         # Use Add-Content for appending
-                        Add-Content -Path $SecondaryOutputFile -Value $secondaryFileInfo -Encoding UTF8 -ErrorAction Stop
-                        $processedCountSecondary++
-                        Write-Verbose "Added to '$SecondaryOutputFile': $secondaryFileInfo"
-                    } catch {
-                        # Writing to the secondary file might be less critical.
-                        # Log a warning but allow processing to continue for other ASNs.
-                        Write-Warning "Failed to write ASN $asnNumber to secondary file '$SecondaryOutputFile'. Error: $($_.Exception.Message)"
-                        # Note: $processedCountSecondary will not be incremented for this ASN.
-                        # Script continues to the next $match regardless of this specific error.
-                    }
-                }
-
-            } else {
-                # ASN number was blank or whitespace after trimming
-                Write-Warning "Skipping match because the extracted ASN number is blank or whitespace. Raw Name: '$asnNameRaw'. Full Match: '$($match.Value)'"
-                $skippedCount++
+            # --- Attempt to Write to the First File ---
+            $primaryFileInfo = "IP-ASN,{0} // {1}" -f $asnNumber, $asnNameClean
+            try {
+                Add-Content -Path $DestinationFile -Value $primaryFileInfo -Encoding UTF8 -ErrorAction Stop
+                $processedCountPrimary++ # Increment success count for primary file
+                Write-Verbose "Added to '$DestinationFile': $primaryFileInfo"
+            } catch {
+                # Log error for primary file, but DO NOT stop or skip secondary write attempt
+                Write-Warning "Failed to write ASN $asnNumber to primary file '$DestinationFile'. Error: $($_.Exception.Message)"
+                # Note: $processedCountPrimary is NOT incremented on failure.
             }
+
+            # --- Attempt to Write to the Second File (Independently) ---
+            $secondaryFileInfo = "AS$asnNumber"
+            try {
+                Add-Content -Path $SecondaryOutputFile -Value $secondaryFileInfo -Encoding UTF8 -ErrorAction Stop
+                $processedCountSecondary++ # Increment success count for secondary file
+                Write-Verbose "Added to '$SecondaryOutputFile': $secondaryFileInfo"
+            } catch {
+                # Log error for secondary file
+                Write-Warning "Failed to write ASN $asnNumber to secondary file '$SecondaryOutputFile'. Error: $($_.Exception.Message)"
+                # Note: $processedCountSecondary is NOT incremented on failure.
+            }
+            # Both write attempts are now complete for this ASN, regardless of individual success/failure.
+
         } else {
-            # Regex match didn't have enough capture groups
-            Write-Warning "Skipping match because it did not contain the expected number of groups (found $($match.Groups.Count), expected at least 3). Full match: '$($match.Value)'"
-            $skippedCount++
+            # ASN number was blank or whitespace after trimming
+            Write-Warning "Skipping match because the extracted ASN number is blank or whitespace. Raw Name: '$asnNameRaw'. Full Match: '$($match.Value)'"
+            $skippedValidationCount++ # Increment validation skip count
         }
-    } # End foreach loop
-
-    # --- Final Summary ---
-    Write-Host "----------------------------------------"
-    Write-Host "ASN Processing Complete."
-    Write-Host "Total regex matches found: $matchCount" # Use matchCount from earlier
-    Write-Host "Successfully wrote $processedCountPrimary entries to primary file '$DestinationFile'."
-    Write-Host "Successfully wrote $processedCountSecondary entries to secondary file '$SecondaryOutputFile'."
-    if ($skippedCount -gt 0) {
-        Write-Host "Skipped $skippedCount entries due to missing data, insufficient groups, or primary write errors."
+    } else {
+        # Regex match didn't have enough capture groups
+        Write-Warning "Skipping match because it did not contain the expected number of groups (found $($match.Groups.Count), expected at least 3). Full match: '$($match.Value)'"
+        $skippedValidationCount++ # Increment validation skip count
     }
-    if ($processedCountPrimary -ne $processedCountSecondary) {
-         Write-Warning "Note: The number of entries written to the two files differs. This may be due to errors writing ONLY to the secondary file."
-    }
-    Write-Host "----------------------------------------"
-    # --- End of the Moved Processing Block ---
+} # End foreach loop
 
-} # <-- This closing brace NOW correctly closes the Update-ChinaAsnList function
+# --- Final Summary ---
+Write-Host "----------------------------------------"
+Write-Host "ASN Processing Complete."
+Write-Host "Total regex matches found: $matchCount"
+Write-Host "Successfully wrote $processedCountPrimary entries to primary file '$DestinationFile'."
+Write-Host "Successfully wrote $processedCountSecondary entries to secondary file '$SecondaryOutputFile'."
 
+if ($skippedValidationCount -gt 0) {
+    Write-Host "Skipped $skippedValidationCount entries due to validation errors (missing data or insufficient groups)."
+}
+
+# Calculate potential write failures based on processed counts vs. valid matches
+$potentialValidEntries = $matchCount - $skippedValidationCount
+$primaryWriteFailures = $potentialValidEntries - $processedCountPrimary
+$secondaryWriteFailures = $potentialValidEntries - $processedCountSecondary
+
+if ($primaryWriteFailures -gt 0) {
+    Write-Warning "Note: There were $primaryWriteFailures potential write failures for the primary file (check warnings above)."
+}
+if ($secondaryWriteFailures -gt 0) {
+    Write-Warning "Note: There were $secondaryWriteFailures potential write failures for the secondary file (check warnings above)."
+}
+
+Write-Host "----------------------------------------"
+# --- End of the Modified Processing Block ---
 
 # --- Execute Main Logic ---
 Write-Verbose "Starting script execution..."
