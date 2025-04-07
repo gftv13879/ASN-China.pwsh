@@ -128,12 +128,26 @@ function Update-ChinaAsnList {
     # Use Select-String to find all matches in the content
     $matches = $htmlContent | Select-String -Pattern $rowRegex -AllMatches
 
+    # if ($null -eq $matches -or $matches.Matches.Count -eq 0) {
+    #     Write-Warning "No ASN rows found matching the expected pattern. The website structure might have changed, or the table is empty."
+    #     # Continue script completion, but the file will only contain the header.
+    #     return
+    # }
     if ($null -eq $matches -or $matches.Matches.Count -eq 0) {
         Write-Warning "No ASN rows found matching the expected pattern. The website structure might have changed, or the table is empty."
-        # Continue script completion, but the file will only contain the header.
-        return
+    
+        # --- START DEBUG OUTPUT ---
+        Write-Warning "Attempting to dump first 5KB and last 1KB of HTML content for debugging:"
+        Write-Host "===== HTML Start (First 5KB) ====="
+        Write-Host $htmlContent.Substring(0, [System.Math]::Min($htmlContent.Length, 5000))
+        Write-Host "===== HTML End (First 5KB) ====="
+        Write-Host "===== HTML End (Last 1KB) ====="
+        Write-Host $htmlContent.Substring([System.Math]::Max(0, $htmlContent.Length - 1000))
+        Write-Host "===== HTML End (Last 1KB) ====="
+        # --- END DEBUG OUTPUT ---
+    
+        return # Continue to finish "successfully" but without data
     }
-
     $matchCount = $matches.Matches.Count
     Write-Verbose "Found $matchCount potential ASN entries."
     Write-Host "Processing $matchCount ASN entries..."
