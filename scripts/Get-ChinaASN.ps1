@@ -4,34 +4,38 @@ Fetches and saves the latest China ASN list from bgp.he.net using PowerShell Cor
 
 .DESCRIPTION
 This script scrapes ASN information for China from the Hurricane Electric BGP toolkit website (bgp.he.net).
-It extracts ASN numbers and names, formats them, and saves the list to a specified file.
+It extracts ASN numbers and names, formats them, and saves the list to two files:
+1. A detailed list (e.g., ASN.China.list) with IP-ASN format.
+2. A simple list (e.g., ASN.China.txt) with just AS numbers (ASXXXX).
 It utilizes PowerShell Core best practices like CmdletBinding, Verbose output, and standard function naming.
 
 .PARAMETER OutputFile
-The path to the file where the ASN list will be saved. Defaults to 'ASN.China.list' in the current directory.
-
-.EXAMPLE
-.\Update-ChinaAsnList.ps1
-Fetches data and saves it to .\ASN.China.list.
-
-.EXAMPLE
-.\Update-ChinaAsnList.ps1 -OutputFile C:\data\ChinaASNs.txt
-Fetches data and saves it to the specified path.
-
-.EXAMPLE
-.\Update-ChinaAsnList.ps1 -Verbose
-Runs the script with detailed verbose output showing each step.
+The path to the file where the main ASN list (IP-ASN format) will be saved.
+Defaults to 'ASN.China.list' in the current directory.
 
 .NOTES
-Author: Based on Python script by Vincent Young, adapted for PowerShell Core by AI.
+Author: Based on Python script by Vincent Young, adapted for PowerShell Core by AI & User.
 Original Python Project: https://github.com/gftv13879/ASN-China.pwsh
 Data Source: https://bgp.he.net/country/CN
 Requires: PowerShell Core (pwsh) 6+ with internet connectivity.
-Version: 2.0 (PowerShell Core rewrite)
+Generates two files: the one specified by -OutputFile and a secondary file named 'ASN.China.txt'.
+Version: 2.1 (Combined logic, dual file output)
 
 .LINK
 Original Python Project: https://github.com/gftv13879/ASN-China.pwsh
 Data Source: https://bgp.he.net/country/CN
+
+.EXAMPLE
+.\Get-ChinaASN.ps1
+Fetches data and saves it to .\ASN.China.list and .\ASN.China.txt.
+
+.EXAMPLE
+.\Get-ChinaASN.ps1 -OutputFile C:\data\ChinaASNs_detail.list
+Fetches data and saves the detailed list to the specified path, and the simple list to C:\data\ASN.China.txt.
+
+.EXAMPLE
+.\Get-ChinaASN.ps1 -Verbose
+Runs the script with detailed verbose output showing each step.
 #>
 [CmdletBinding()] # Enables common parameters like -Verbose
 param(
@@ -45,27 +49,26 @@ $RequestHeaders = @{
     # Standard User-Agent often used in PowerShell scripts
     "User-Agent" = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 PowerShellCore/$(($PSVersionTable.PSVersion).ToString())"
 }
+# Determine the directory of the primary output file for the secondary file
+$OutputDirectory = Split-Path -Path $OutputFile -Parent
+if ([string]::IsNullOrWhiteSpace($OutputDirectory)) {
+    $OutputDirectory = "." # Use current directory if no path specified
+}
+$SecondOutputFile = Join-Path -Path $OutputDirectory -ChildPath "ASN.China.txt"
+
 
 # --- Function to Initialize Output File ---
 function Initialize-OutputFile {
     [CmdletBinding()]
     param(
         [Parameter(Mandatory = $true)]
-        [string]$FilePath
+        [string]$FilePath,
+
+        [Parameter(Mandatory = $false)]
+        [string]$HeaderText # Allow custom header or no header
     )
 
     Write-Verbose "Initializing output file: $FilePath"
-    # Get current UTC time
-    $utcTime = ((Get-Date).ToUniversalTime()).ToString("yyyy-MM-dd HH:mm:ss")
-
-
-    # Create header content using a here-string for readability
-    $header = @"
-// ASN Information in China. (Source: $DataSourceUrl, Script based on https://github.com/gftv13879/ASN-China.pwsh)
-// Last Updated: UTC $utcTime
-// PowerShell Core script. Format: IP-ASN,AS_NUMBER // AS_NAME
-
-"@
 
     try {
         # Use Resolve-Path to get the full path for clearer error messages if needed
@@ -75,9 +78,15 @@ function Initialize-OutputFile {
         } else {
              Write-Verbose "Output path specified: $FilePath"
         }
-        
-        # Write header to file, overwriting. Use UTF8 encoding without BOM for better cross-platform compatibility.
-        Set-Content -Path $FilePath -Value $header -Encoding UTF8 -Force -ErrorAction Stop # Make error terminating
+
+        # Write content to file, overwriting. Use UTF8 encoding without BOM for better cross-platform compatibility.
+        # Only write header if provided
+        if (-not [string]::IsNullOrEmpty($HeaderText)) {
+             Set-Content -Path $FilePath -Value $HeaderText -Encoding UTF8 -Force -ErrorAction Stop # Make error terminating
+        } else {
+             # Create an empty file or clear existing content
+             Set-Content -Path $FilePath -Value $null -Encoding UTF8 -Force -ErrorAction Stop
+        }
         Write-Verbose "Output file initialized successfully."
     } catch {
         # Catch block is triggered if Set-Content fails due to -ErrorAction Stop
@@ -95,28 +104,32 @@ function Update-ChinaAsnList {
         [string]$DestinationFile,
 
         [Parameter(Mandatory = $true)]
+        [string]$SecondaryOutputFile, # Added parameter for second file
+
+        [Parameter(Mandatory = $true)]
         [string]$Url,
 
         [Parameter(Mandatory = $true)]
         [hashtable]$Headers
     )
 
-    $SecondOutputFile = "ASN.China.txt"
+    # 1. Initialize the output files (overwrites existing, adds header to primary)
+    Write-Verbose "Initializing primary output file: $DestinationFile"
+    # Get current UTC time
+    $utcTime = ((Get-Date).ToUniversalTime()).ToString("yyyy-MM-dd HH:mm:ss")
+    # Create header content using a here-string for readability
+    $header = @"
+// ASN Information in China. (Source: $DataSourceUrl, Script based on https://github.com/gftv13879/ASN-China.pwsh)
+// Last Updated: UTC $utcTime
+// PowerShell Core script. Format: IP-ASN,AS_NUMBER // AS_NAME
 
-    
+"@
+    # Initialize primary file with header
+    Initialize-OutputFile -FilePath $DestinationFile -HeaderText $header -Verbose:$VerbosePreference
 
-    # 1. Initialize the output file (overwrites existing, adds header)
-    # If Initialize-OutputFile fails, it will throw an exception halting this function.
-    Initialize-OutputFile -FilePath $DestinationFile -Verbose:$VerbosePreference
-
-        Write-Verbose "Initializing secondary output file: $SecondOutputFile"
-    try {
-        Set-Content -Path $SecondOutputFile -Value "" -Encoding UTF8 -Force -ErrorAction Stop
-        Write-Verbose "Secondary output file initialized successfully."
-    } catch {
-        Write-Error "FATAL: Failed to initialize secondary output file '$SecondOutputFile'. Error: $($_.Exception.Message)"
-        throw $_
-    }
+    # Initialize secondary file (empty)
+    Write-Verbose "Initializing secondary output file: $SecondaryOutputFile"
+    Initialize-OutputFile -FilePath $SecondaryOutputFile -HeaderText $null -Verbose:$VerbosePreference # No header for second file
 
     # 2. Fetch Web Content
     Write-Verbose "Attempting to fetch ASN data from $Url"
@@ -135,74 +148,50 @@ function Update-ChinaAsnList {
     # Regex to find table rows (<tr>) and extract ASN number (Group 1) and Name (Group 2)
     # (?si) -> s: dot matches newline; i: case-insensitive (good practice)
     # *? -> non-greedy match
-    $rowRegex = '(?si)<tr>\s*<td><a.*?href="/AS\d+?".*?>AS(\d+?)</a></td>\s*<td>(.*?)</td>'
+    # Updated Regex to be slightly more robust against whitespace variations and potentially nested tags in name cell
+    $rowRegex = '(?si)<tr>\s*<td><a.*?href="/AS(\d+?)".*?>AS\1</a></td>\s*<td>(.*?)</td>'
 
     Write-Verbose "Parsing HTML content using regex pattern: $rowRegex"
     # Use Select-String to find all matches in the content
     $matches = $htmlContent | Select-String -Pattern $rowRegex -AllMatches
 
-    # if ($null -eq $matches -or $matches.Matches.Count -eq 0) {
-    #     Write-Warning "No ASN rows found matching the expected pattern. The website structure might have changed, or the table is empty."
-    #     # Continue script completion, but the file will only contain the header.
-    #     return
-    # }
     if ($null -eq $matches -or $matches.Matches.Count -eq 0) {
         Write-Warning "No ASN rows found matching the expected pattern. The website structure might have changed, or the table is empty."
-    
-        # --- START DEBUG OUTPUT ---
-        Write-Warning "Attempting to dump first 5KB and last 1KB of HTML content for debugging:"
-        Write-Host "===== HTML Start  ====="
-        Write-Host $htmlContent
-        Write-Host "===== HTML End  ====="
 
+        # --- START DEBUG OUTPUT ---
+        # Uncomment below lines if you need to debug the HTML content when no matches are found
+        # Write-Warning "Attempting to dump first 5KB of HTML content for debugging:"
+        # Write-Host "===== HTML Start (First 5KB) ====="
+        # Write-Host $htmlContent.Substring(0, [System.Math]::Min($htmlContent.Length, 5120))
+        # Write-Host "===== HTML End ====="
         # --- END DEBUG OUTPUT ---
-    
+
+        # Even if no data, script technically completed its task (fetching and checking)
+        Write-Host "Processing complete. No ASN entries found to write."
         return # Continue to finish "successfully" but without data
     }
+
     $matchCount = $matches.Matches.Count
     Write-Verbose "Found $matchCount potential ASN entries."
     Write-Host "Processing $matchCount ASN entries..."
-    $processedCount = 0
-    $processedCountSecondFile = 0
 
-    # 4. Process Matches and Append to File
-# Assume the following variables are defined before this block:
-# $matches:          The result object from Select-String or a similar regex operation,
-#                    containing a .Matches property (a collection of Match objects).
-# $DestinationFile:  The path for the first output file (e.g., "ASN.China.list").
-# $SecondOutputFile: The path for the second output file (e.g., "ASN.China.txt").
-
-# --- Initialization ---
-# Validate required variables (optional but good practice)
-if ($null -eq $matches -or $null -eq $matches.Matches) {
-    Write-Error "Input variable `$matches or `$matches.Matches` is null. Cannot proceed."
-    # Consider stopping script execution here if appropriate (e.g., throw or return)
-    # For example: throw "Input matches collection is missing."
-    # Or if in a function: return
-} elseif ([string]::IsNullOrWhiteSpace($DestinationFile)) {
-    Write-Error "Variable `$DestinationFile` (path for primary output) is not set."
-    # throw "DestinationFile path is missing."
-} elseif ([string]::IsNullOrWhiteSpace($SecondOutputFile)) {
-    Write-Error "Variable `$SecondOutputFile` (path for secondary output) is not set."
-    # throw "SecondOutputFile path is missing."
-} else {
+    # 4. Process Matches and Append to Files
+    # --- Start of the Moved Processing Block ---
     # Initialize counters
     $processedCountPrimary = 0
     $processedCountSecondary = 0
     $skippedCount = 0
-    $totalMatches = $matches.Matches.Count
+    $totalMatches = $matches.Matches.Count # Already have $matchCount, use it.
 
-    Write-Host "Starting ASN processing..."
-    Write-Verbose "Found $totalMatches potential matches from input."
     Write-Verbose "Primary output file: $DestinationFile"
-    Write-Verbose "Secondary output file: $SecondOutputFile"
+    Write-Verbose "Secondary output file: $SecondaryOutputFile"
 
     # --- Processing Loop ---
     foreach ($match in $matches.Matches) {
         # Check if the match has the expected number of capture groups
         # Group 0: Full match
-        # Group 1: Expected ASN Number
-        # Group 2: Expected ASN Name
+        # Group 1: Expected ASN Number (captured from ASXXXX)
+        # Group 2: Expected ASN Name (content of second <td>)
         if ($match.Groups.Count -ge 3) {
             # Extract and trim ASN number and name
             $asnNumber = $match.Groups[1].Value.Trim()
@@ -220,6 +209,7 @@ if ($null -eq $matches -or $null -eq $matches.Matches) {
                 $primaryFileInfo = "IP-ASN,{0} // {1}" -f $asnNumber, $asnNameClean
                 $writePrimarySuccess = $false
                 try {
+                    # Use Add-Content for appending
                     Add-Content -Path $DestinationFile -Value $primaryFileInfo -Encoding UTF8 -ErrorAction Stop
                     $processedCountPrimary++
                     $writePrimarySuccess = $true # Mark primary write as successful
@@ -240,13 +230,14 @@ if ($null -eq $matches -or $null -eq $matches.Matches) {
                 if ($writePrimarySuccess) {
                     $secondaryFileInfo = "AS$asnNumber"
                     try {
-                        Add-Content -Path $SecondOutputFile -Value $secondaryFileInfo -Encoding UTF8 -ErrorAction Stop
+                         # Use Add-Content for appending
+                        Add-Content -Path $SecondaryOutputFile -Value $secondaryFileInfo -Encoding UTF8 -ErrorAction Stop
                         $processedCountSecondary++
-                        Write-Verbose "Added to '$SecondOutputFile': $secondaryFileInfo"
+                        Write-Verbose "Added to '$SecondaryOutputFile': $secondaryFileInfo"
                     } catch {
                         # Writing to the secondary file might be less critical.
                         # Log a warning but allow processing to continue for other ASNs.
-                        Write-Warning "Failed to write ASN $asnNumber to secondary file '$SecondOutputFile'. Error: $($_.Exception.Message)"
+                        Write-Warning "Failed to write ASN $asnNumber to secondary file '$SecondaryOutputFile'. Error: $($_.Exception.Message)"
                         # Note: $processedCountSecondary will not be incremented for this ASN.
                         # Script continues to the next $match regardless of this specific error.
                     }
@@ -267,27 +258,32 @@ if ($null -eq $matches -or $null -eq $matches.Matches) {
     # --- Final Summary ---
     Write-Host "----------------------------------------"
     Write-Host "ASN Processing Complete."
-    Write-Host "Total regex matches processed: $totalMatches"
+    Write-Host "Total regex matches found: $matchCount" # Use matchCount from earlier
     Write-Host "Successfully wrote $processedCountPrimary entries to primary file '$DestinationFile'."
-    Write-Host "Successfully wrote $processedCountSecondary entries to secondary file '$SecondOutputFile'."
+    Write-Host "Successfully wrote $processedCountSecondary entries to secondary file '$SecondaryOutputFile'."
     if ($skippedCount -gt 0) {
         Write-Host "Skipped $skippedCount entries due to missing data, insufficient groups, or primary write errors."
     }
     if ($processedCountPrimary -ne $processedCountSecondary) {
-         Write-Warning "Note: The number of entries written to the two files differs. This is expected if there were errors writing ONLY to the secondary file."
+         Write-Warning "Note: The number of entries written to the two files differs. This may be due to errors writing ONLY to the secondary file."
     }
     Write-Host "----------------------------------------"
-} # End initial validation else block
+    # --- End of the Moved Processing Block ---
+
+} # <-- This closing brace NOW correctly closes the Update-ChinaAsnList function
 
 
 # --- Execute Main Logic ---
 Write-Verbose "Starting script execution..."
+Write-Verbose "Primary output file will be: $OutputFile"
+Write-Verbose "Secondary output file will be: $SecondOutputFile"
 try {
-    Update-ChinaAsnList -DestinationFile $OutputFile -Url $DataSourceUrl -Headers $RequestHeaders -Verbose:$VerbosePreference
-    Write-Verbose "Script finished successfully."
+    # Pass both file paths to the function
+    Update-ChinaAsnList -DestinationFile $OutputFile -SecondaryOutputFile $SecondOutputFile -Url $DataSourceUrl -Headers $RequestHeaders -Verbose:$VerbosePreference
+    Write-Host "Script finished successfully." # Moved here to indicate completion after processing
 } catch {
     # Catch any exceptions thrown from Update-ChinaAsnList or Initialize-OutputFile
-    Write-Error "Script execution failed."
+    Write-Error "Script execution FAILED."
     # Error details should have been written by the function that threw the exception.
     # Exit with a non-zero code to indicate failure, useful for automation.
     exit 1
