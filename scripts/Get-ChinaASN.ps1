@@ -122,7 +122,7 @@ function Update-ChinaAsnList {
     # Regex to find table rows (<tr>) and extract ASN number (Group 1) and Name (Group 2)
     # (?si) -> s: dot matches newline; i: case-insensitive (good practice)
     # *? -> non-greedy match
-    $rowRegex = '(?si)<tr>\s*<td><a href="/AS\d+?">AS(\d+?)</a></td>\s*<td>(.*?)</td>'
+    $rowRegex = '(?si)<tr>\s*<td><a.*?href="/AS\d+?".*?>AS(\d+?)</a></td>\s*<td>(.*?)</td>'
 
     Write-Verbose "Parsing HTML content using regex pattern: $rowRegex"
     # Use Select-String to find all matches in the content
