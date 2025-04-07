@@ -138,12 +138,10 @@ function Update-ChinaAsnList {
     
         # --- START DEBUG OUTPUT ---
         Write-Warning "Attempting to dump first 5KB and last 1KB of HTML content for debugging:"
-        Write-Host "===== HTML Start (First 5KB) ====="
-        Write-Host $htmlContent.Substring(0, [System.Math]::Min($htmlContent.Length, 5000))
-        Write-Host "===== HTML End (First 5KB) ====="
-        Write-Host "===== HTML End (Last 1KB) ====="
-        Write-Host $htmlContent.Substring([System.Math]::Max(0, $htmlContent.Length - 1000))
-        Write-Host "===== HTML End (Last 1KB) ====="
+        Write-Host "===== HTML Start  ====="
+        Write-Host $htmlContent
+        Write-Host "===== HTML End  ====="
+
         # --- END DEBUG OUTPUT ---
     
         return # Continue to finish "successfully" but without data
