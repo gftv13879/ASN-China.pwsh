@@ -1,0 +1,92 @@
+name: Update China ASN List
+
+on:
+  # Schedule the workflow to run automatically (e.g., daily at 01:00 UTC)
+  schedule:
+    - cron: '0 1 * * *' # Runs every day at 1 AM UTC. Adjust as needed.
+
+  # Allow manual triggering from the GitHub Actions UI
+  workflow_dispatch:
+
+# Set permissions for the workflow to allow writing back to the repository
+permissions:
+  contents: write # Required to checkout code and push changes
+
+jobs:
+  update_list:
+    # Specify the runner environment
+    runs-on: ubuntu-latest
+
+    # # Specify the container image to run the job steps in
+    # container:
+    #   image: mcr.microsoft.com/powershell:latest # Use the official PowerShell Core image
+
+    steps:
+      # 1. Check out the repository code
+      # This makes your repository files available in the workspace directory
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Use a specific stable version
+
+      # # 2. Execute your PowerShell script
+      # # Assumes your script is located at 'scripts/Get-ChinaASN.ps1' in your repo
+      # # and it generates/updates 'ASN.China.list' in the root of the workspace
+      # - name: Run PowerShell script to update ASN list
+      #   # Use 'pwsh' (the PowerShell Core executable) available in the container
+      #   # -File specifies the script file path relative to the workspace root
+      #   # -Verbose provides detailed output in the Actions logs, useful for debugging
+      #   run: pwsh -File ./scripts/Get-ChinaASN.ps1 -Verbose
+      #   # PowerShell scripts should ideally exit with a non-zero code on failure (like using `exit 1` or `throw`),
+      #   # which will automatically cause this step to fail if the script encounters a critical error.
+
+      
+      #  使用 Docker 在 PowerShell 容器内运行脚本
+      #    -v "${{ github.workspace }}":"/workspace" 将主机的工作目录挂载到容器的 /workspace
+      #    -w "/workspace" 设置容器内的工作目录
+      #    脚本的路径 ./scripts/Get-ChinaASN.ps1 是相对于挂载后的 /workspace 目录
+      #    脚本生成的 ASN.China.list 文件会直接出现在主机的工作区 (${{ github.workspace }})
+      - name: Run PowerShell script inside container to update ASN list
+        run: |
+          docker run --rm \
+            -v "${{ github.workspace }}":"/workspace" \
+            -w "/workspace" \
+            mcr.microsoft.com/powershell:latest \
+            pwsh -File ./scripts/Get-ChinaASN-json.ps1 -Verbose
+
+      # 3. Commit the updated ASN list back to the repository
+      # This step uses a popular action to handle git add, commit, and push automatically.
+      # It will only commit if the specified file(s) have changed.
+      - name: Commit and push updated ASN list
+        uses: stefanzweifel/git-auto-commit-action@v5 # Use a specific stable version
+        with:
+          # Required: Message for the commit
+          commit_message: "Automated update: China ASN list"
+
+          # Optional: Specify the file pattern to commit.
+          # If your script outputs to a different location/name, change this.
+          # Defaults to committing all changed files if not specified.
+          file_pattern: ASN.China.list
+
+          # Optional: Set committer name and email (defaults are usually sufficient)
+          # commit_user_name: github-actions[bot]
+          # commit_user_email: github-actions[bot]@users.noreply.github.com
+
+          # Optional: Add options to the commit command (e.g., --signoff)
+          # commit_options: '--signoff'
+
+          # Optional: Specify the branch to push to (defaults to the current branch)
+          # push_options: '--force' # Use with caution
+
+# --- Explanation ---
+# name: The name of the workflow displayed on GitHub.
+# on: Defines the events that trigger the workflow.
+#   schedule: Runs the workflow on a schedule defined by cron syntax. '0 1 * * *' means 1:00 AM UTC daily.
+#   workflow_dispatch: Adds a button in the Actions tab to run the workflow manually.
+# permissions: Defines the permissions granted to the GITHUB_TOKEN for this workflow run. `contents: write` is needed for actions/checkout to fetch code and for the commit action to push changes.
+# jobs: Contains the list of jobs to run.
+#   update_list: The ID of the job.
+#     runs-on: Specifies the type of machine to run the job on (GitHub-hosted runner).
+#     container: Specifies a Docker container to run the steps in.
+#       image: The Docker image to use (official PowerShell Core image).
+#     steps: A sequence of tasks to be executed.
+#       uses: Specifies an action to run (reusable units of code). `actions/checkout` fetches your code, `stefanzweifel/git-auto-commit-action` handles committing.
+#       run: Executes command-line programs using the container's default shell (which is `pwsh` in this case, but explicitly calling `pwsh -File ...` is clearer).
