@@ -29,7 +29,7 @@ jobs:
 
       # # 2. Execute your PowerShell script
       # # Assumes your script is located at 'scripts/Get-ChinaASN.ps1' in your repo
-      # # and it generates/updates 'ASN.China.list' in the root of the workspace
+      # # and it generates/updates 'ASN.China.list.json' in the root of the workspace
       # - name: Run PowerShell script to update ASN list
       #   # Use 'pwsh' (the PowerShell Core executable) available in the container
       #   # -File specifies the script file path relative to the workspace root
@@ -43,7 +43,7 @@ jobs:
       #    -v "${{ github.workspace }}":"/workspace" 将主机的工作目录挂载到容器的 /workspace
       #    -w "/workspace" 设置容器内的工作目录
       #    脚本的路径 ./scripts/Get-ChinaASN.ps1 是相对于挂载后的 /workspace 目录
-      #    脚本生成的 ASN.China.list 文件会直接出现在主机的工作区 (${{ github.workspace }})
+      #    脚本生成的 ASN.China.list.json 文件会直接出现在主机的工作区 (${{ github.workspace }})
       - name: Run PowerShell script inside container to update ASN list
         run: |
           docker run --rm \
@@ -64,7 +64,7 @@ jobs:
           # Optional: Specify the file pattern to commit.
           # If your script outputs to a different location/name, change this.
           # Defaults to committing all changed files if not specified.
-          file_pattern: ASN.China.list
+          file_pattern: ASN.China.list.json
 
           # Optional: Set committer name and email (defaults are usually sufficient)
           # commit_user_name: github-actions[bot]
