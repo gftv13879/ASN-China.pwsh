@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-04-15 03:27:56",
+    "last_updated_utc": "2025-04-16 03:26:39",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5208
   },
@@ -83,24 +83,24 @@
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 137897,
@@ -211,10 +211,6 @@
       "asn_name": "CHINANET SiChuan Telecom Internet Data Center"
     },
     {
-      "asn_number": 59045,
-      "asn_name": "Guangzhou navigation information technology co., LTD"
-    },
-    {
       "asn_number": 24489,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
@@ -231,6 +227,10 @@
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
     {
+      "asn_number": 59045,
+      "asn_name": "Guangzhou navigation information technology co., LTD"
+    },
+    {
       "asn_number": 59019,
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
@@ -245,10 +245,6 @@
     {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 58461,
@@ -1439,6 +1435,10 @@
       "asn_name": "CHINATELECOM Guangdong province Shaoguan 5G network"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 139887,
       "asn_name": "CHINANET YANTAI IDC"
     },
@@ -2129,6 +2129,10 @@
     {
       "asn_number": 153633,
       "asn_name": "KVQNET"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152920,
@@ -3053,10 +3057,6 @@
     {
       "asn_number": 153458,
       "asn_name": "Haruzakura Cloud"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 153333,
