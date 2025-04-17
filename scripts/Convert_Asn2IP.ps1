@@ -57,16 +57,31 @@ $VerbosePreference = 'Continue' # 显示详细进度
 # 使用 ConcurrentDictionary 保证线程安全
 $asnToPrefixMap = [System.Collections.Concurrent.ConcurrentDictionary[string, System.Collections.Generic.List[string]]]::new()
 
-# --- Helper Function to Add to Map (线程安全版本) ---
+# --- Helper Function to Add to Map (线程安全版本 - 使用 Monitor) ---
 function Add-PrefixToMap {
     param(
         [string]$Asn,
         [string]$Prefix
     )
     if ($Asn -notmatch '^\d+$') { Write-Warning "为前缀 '$Prefix' 跳过无效的 ASN 格式 '$Asn'"; return }
-    if ($Prefix -notmatch '/') { Write-Warning "为 ASN '$Asn' 跳过无效的前缀格式 '$Prefix'"; return }
+    # Basic prefix validation (avoids adding obviously bad data)
+    if ($Prefix -notmatch '^[0-9a-fA-F:.]+/\d{1,3}$') { Write-Warning "为 ASN '$Asn' 跳过无效的前缀格式 '$Prefix'"; return }
+
+    # GetOrAdd is thread-safe for retrieving/creating the list instance
     $prefixList = $asnToPrefixMap.GetOrAdd($Asn, { [System.Collections.Generic.List[string]]::new() })
-    lock ($prefixList) { if (-not $prefixList.Contains($Prefix)) { $prefixList.Add($Prefix) } }
+
+    # Use Monitor to lock the specific list instance before modifying it
+    [System.Threading.Monitor]::Enter($prefixList)
+    try {
+        # Check if the prefix already exists within this specific list
+        if (-not $prefixList.Contains($Prefix)) {
+            $prefixList.Add($Prefix)
+        }
+    }
+    finally {
+        # Ensure the lock is always released, even if errors occur inside the try block
+        [System.Threading.Monitor]::Exit($prefixList)
+    }
 }
 
 # --- Helper Function: 下载、流式解压并逐行处理 Gzip URL 内容 ---
