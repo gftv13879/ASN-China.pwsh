@@ -102,10 +102,12 @@ function Process-GzippedUrlStreamLineByLine {
         $contentEncoding = $webResponse.Headers["Content-Encoding"]
         if ($contentEncoding -ne $null -and $contentEncoding.ToLowerInvariant().Contains("gzip")) {
             Write-Verbose "使用 GzipStream 解压来自 $Url 的流..."
+            # StreamReader handles BOM automatically when using appropriate encoding like UTF8
             $gzipStream = [System.IO.Compression.GzipStream]::new($responseStream, [System.IO.Compression.CompressionMode]::Decompress)
             $streamReader = [System.IO.StreamReader]::new($gzipStream, [System.Text.Encoding]::UTF8)
         } else {
             Write-Verbose "直接读取来自 $Url 的响应流 (非 Gzip)..."
+            # StreamReader handles BOM automatically
             $streamReader = [System.IO.StreamReader]::new($responseStream, [System.Text.Encoding]::UTF8)
         }
         Write-Verbose "开始逐行读取和处理 $Url 的数据..."
@@ -118,16 +120,13 @@ function Process-GzippedUrlStreamLineByLine {
     } catch {
         # Throw the exception to be caught by the caller if needed
         throw "处理 URL '$Url' 的流时出错: $($_.Exception.ToString())"
-        # Return $false is unreachable after throw
-        # return $false
      }
     finally {
         # Dispose resources in reverse order of creation
         if ($streamReader -ne $null) { $streamReader.Dispose() }
         if ($gzipStream -ne $null) { $gzipStream.Dispose() }
-        # Closing the response should close the underlying stream, but explicit closing is safer
-        if ($responseStream -ne $null) { $responseStream.Close() }
-        if ($webResponse -ne $null) { $webResponse.Close() }
+        if ($responseStream -ne $null) { $responseStream.Close() } # Close stream
+        if ($webResponse -ne $null) { $webResponse.Close() } # Close response
         Write-Verbose "已清理 $Url 的流资源."
     }
 }
@@ -137,25 +136,31 @@ function Get-UrlContentText {
     param( [string]$Url )
     Write-Verbose "正在下载文本内容 (内存中): $Url..."
     try {
+        # Use Invoke-WebRequest to fetch content
         $webRequest = Invoke-WebRequest -Uri $Url -UseBasicParsing -TimeoutSec 120
+        # Check for successful response
         if ($webRequest.StatusCode -eq 200) {
-            Write-Verbose "成功从 $Url 下载了文本内容."; $content = $webRequest.Content
-            # Handle potential BOM more robustly
-            if ($content.StartsWith([char]0xFEFF) -or $content.StartsWith([char]0xFFFE)) { # UTF-16 LE/BE BOM
-                $content = $content.Substring(1)
-            } elseif ($content.StartsWith([char]0xEFBBBF)) { # UTF-8 BOM
-                $content = $content.Substring(3)
-            }
-            # Split lines consistently
+            Write-Verbose "成功从 $Url 下载了文本内容."
+            # Get the raw content string
+            $content = $webRequest.Content
+
+            # --- REMOVED MANUAL BOM CHECK LOGIC ---
+            # Relying on Invoke-WebRequest and subsequent processing (like -split)
+
+            # Split into lines based on standard newline characters
             return $content -split '\r?\n'
         } else {
+            # Throw an error for unsuccessful downloads
             throw "下载失败，URL '$Url'，HTTP 状态码: $($webRequest.StatusCode)"
         }
     } catch {
+        # Catch any exceptions during download or processing
+        # Report the specific error message from the exception
         Write-Error "下载文本 URL '$Url' 时出错: $($_.Exception.Message)"
-        return $null # Indicate failure
+        return $null # Return null to indicate failure clearly
     }
 }
+
 
 # --- Main Script Logic ---
 Write-Host "--- 开始 ASN 到 IP 前缀映射生成 (过滤流式处理, 输出 JSON) ---"
@@ -188,9 +193,8 @@ foreach ($ipVersion in $ripeUrls.Keys) {
         Write-Host "完成处理 RIPE $ipVersion 数据源."
     } catch {
         Write-Warning "处理 RIPE $ipVersion 数据源 $url 时遇到错误: $($_.Exception.Message)"
-        # Consider whether to continue or exit upon error
+        # Decide action on error (e.g., continue or exit)
         # continue
-        # exit 1
     }
 }
 
@@ -228,36 +232,31 @@ $caidaSources = @{
 foreach ($ipVersion in $caidaSources.Keys) {
     $sourceInfo = $caidaSources[$ipVersion]; $logUrl = $sourceInfo.LogUrl; $baseUrl = $sourceInfo.BaseUrl.TrimEnd('/')
     Write-Host "获取 CAIDA $ipVersion 日志: $logUrl..."; $logLines = Get-UrlContentText -Url $logUrl
-    if ($logLines -eq $null) { Write-Warning "未能下载 CAIDA $ipVersion 日志，跳过."; continue }
+    # Check if download failed (Get-UrlContentText returns $null on error)
+    if ($logLines -eq $null) {
+        Write-Warning "未能下载或处理 CAIDA $ipVersion 日志，跳过 CAIDA $ipVersion 数据源."; continue
+    }
 
     $latestSeqNum = -1L; $latestPath = $null
-    # Process log lines to find the latest file path based on sequence number
+    # Process log lines to find the latest file path
     foreach($logLine in $logLines) {
-        if ($logLine.StartsWith('#') -or [string]::IsNullOrWhiteSpace($logLine)) { continue } # Skip comments/blank
-        # Format: <SEQ>\t<TIMESTAMP>\t<PATH> ...
-        $logParts = $logLine -split '\t+' # Split by one or more tabs
+        if ($logLine.StartsWith('#') -or [string]::IsNullOrWhiteSpace($logLine)) { continue }
+        $logParts = $logLine -split '\t+'
         if ($logParts.Count -ge 3) {
             $seqNumStr = $logParts[0].Trim()
-            # --- FIX: Initialize $seqNum before using [ref] ---
-            $seqNum = 0L # Initialize as Long (Int64)
-            # --- End FIX ---
-            # Use TryParse with [ref] - $seqNum must exist before this line
+            $seqNum = 0L # Initialize before [ref]
             if ([long]::TryParse($seqNumStr, [ref]$seqNum)) {
                 if ($seqNum -gt $latestSeqNum) {
                     $latestSeqNum = $seqNum
-                    $latestPath = $logParts[2].Trim() # Get the path
+                    $latestPath = $logParts[2].Trim()
                 }
             }
-            # Optional: Warn if parsing fails
-            # else {
-            #    Write-Warning "无法将 CAIDA 日志行中的 SEQ '$seqNumStr' 解析为 long: '$logLine'"
-            # }
+            #else { Write-Warning "无法将 CAIDA 日志行中的 SEQ '$seqNumStr' 解析为 long: '$logLine'" }
         }
     }
 
     if (-not $latestPath) { Write-Warning "无法从 CAIDA $ipVersion 日志 '$logUrl' 确定最新路径，跳过."; continue }
     Write-Host "找到最新的 CAIDA $ipVersion 路径: $latestPath (Seq: $latestSeqNum)"
-    # Construct full URL, handling potential leading slash in path
     $dataUrl = if ($latestPath.StartsWith('/')) { "$baseUrl$latestPath" } else { "$baseUrl/$latestPath" }
 
     Write-Host "开始处理 CAIDA $ipVersion 数据源: $dataUrl"
@@ -272,17 +271,16 @@ foreach ($ipVersion in $caidaSources.Keys) {
 
 # --- 5. 读取并解析 ASN 过滤文件 ---
 Write-Host "`n--- 读取 ASN 过滤文件 ---"
-# Resolve the absolute path for AsnFilterFile for clarity in messages
 try {
     $resolvedAsnFilterFile = $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($AsnFilterFile)
 } catch {
-    Write-Error "无法解析 ASN 过滤文件路径 '$AsnFilterFile': $($_.Exception.Message)"
-    exit 1
+    Write-Error "无法解析 ASN 过滤文件路径 '$AsnFilterFile': $($_.Exception.Message)"; exit 1
 }
 $asnFilterSet = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
 
-$filterFileExists = Test-Path -Path $resolvedAsnFilterFile -PathType Leaf
-if (-not $filterFileExists) { Write-Error "指定的 ASN 过滤文件未找到: '$resolvedAsnFilterFile'. 脚本将退出。"; exit 1 }
+if (-not (Test-Path -Path $resolvedAsnFilterFile -PathType Leaf)) {
+    Write-Error "指定的 ASN 过滤文件未找到: '$resolvedAsnFilterFile'. 脚本将退出."; exit 1
+}
 
 try {
     Write-Verbose "正在读取并解析 JSON 文件: $resolvedAsnFilterFile"
@@ -309,8 +307,7 @@ try {
     if ($asnAddedToFilter -lt $asnProcessedFromJson) { Write-Warning "JSON 文件中包含 $($asnProcessedFromJson - $asnAddedToFilter) 个重复、无效或缺失的 ASN 条目。" }
     if ($asnAddedToFilter -eq 0) { Write-Warning "目标 ASN 过滤器为空，输出将为空。" }
 } catch {
-    Write-Error "读取或解析 ASN 过滤文件 '$resolvedAsnFilterFile' 时出错: $($_.Exception.ToString())"
-    exit 1
+    Write-Error "读取或解析 ASN 过滤文件 '$resolvedAsnFilterFile' 时出错: $($_.Exception.ToString())"; exit 1
 }
 
 # --- 6. 生成过滤后的输出 (JSON 格式) ---
@@ -318,8 +315,7 @@ Write-Host "`n--- 生成过滤后的 JSON 输出文件 ---"
 try {
     $resolvedOutputFile = $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($OutputFile)
 } catch {
-     Write-Error "无法解析输出文件路径 '$OutputFile': $($_.Exception.Message)"
-     exit 1
+     Write-Error "无法解析输出文件路径 '$OutputFile': $($_.Exception.Message)"; exit 1
 }
 
 $filteredOutputList = [System.Collections.Generic.List[PSCustomObject]]::new()
@@ -327,7 +323,6 @@ $totalFilteredPrefixMappingCount = 0
 $asnsFoundInMap = 0
 
 Write-Host "正在根据过滤列表构建 JSON 输出结构..."
-
 $sortedFilteredAsns = $asnFilterSet | Sort-Object { [int64]$_ }
 
 foreach ($asnToFilter in $sortedFilteredAsns) {
@@ -360,15 +355,13 @@ try {
     Write-Host "正在将构建的对象转换为 JSON 并写入输出文件: $resolvedOutputFile ..."
     $jsonOutput = $finalOutputObject | ConvertTo-Json -Depth 5 #-Compress
 
-    # Ensure output directory exists
     $outputDirectory = Split-Path -Path $resolvedOutputFile -Parent
     if (-not (Test-Path -Path $outputDirectory -PathType Container)) {
         Write-Verbose "创建输出目录: $outputDirectory"
         New-Item -Path $outputDirectory -ItemType Directory -Force | Out-Null
     }
 
-    # Write file with UTF8 (No BOM) encoding
-    $streamWriter = [System.IO.StreamWriter]::new($resolvedOutputFile, $false, [System.Text.UTF8Encoding]::new($false))
+    $streamWriter = [System.IO.StreamWriter]::new($resolvedOutputFile, $false, [System.Text.UTF8Encoding]::new($false)) # Overwrite, No BOM
     $streamWriter.Write($jsonOutput)
     $streamWriter.Close()
 
@@ -377,8 +370,7 @@ try {
         Write-Warning "注意: 过滤列表中的 $($asnFilterSet.Count - $asnsFoundInMap) 个 ASN 在 RIPE/CAIDA 数据中未找到对应的前缀。"
     }
 } catch {
-     Write-Error "转换 JSON 或写入输出文件 '$resolvedOutputFile' 失败: $($_.Exception.ToString())"
-     exit 1
+     Write-Error "转换 JSON 或写入输出文件 '$resolvedOutputFile' 失败: $($_.Exception.ToString())"; exit 1
 }
 
 $stopwatch.Stop()
