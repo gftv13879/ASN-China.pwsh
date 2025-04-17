@@ -1,68 +1,92 @@
-name: ASN to CIDR Conversion (China List)
+name: Update China ASN List
 
-# Controls when the workflow will run
 on:
-  workflow_dispatch: # Allows manual triggering
-  push:
-    branches: [ main ] # Trigger on push to main branch
-    paths: # Only trigger if ASN list or workflow file changes
-      - 'ASN.China.list'
-      - '.github/workflows/asn-to-cidr.yml'
-  pull_request:
-    branches: [ main ]
-    paths:
-      - 'ASN.China.list'
-      - '.github/workflows/asn-to-cidr.yml'
+  # Schedule the workflow to run automatically (e.g., daily at 01:00 UTC)
+  schedule:
+    - cron: '0 1 * * *' # Runs every day at 1 AM UTC. Adjust as needed.
+
+  # Allow manual triggering from the GitHub Actions UI
+  workflow_dispatch:
+
+# Set permissions for the workflow to allow writing back to the repository
+permissions:
+  contents: write # Required to checkout code and push changes
 
 jobs:
-  convert:
-    name: Convert China ASN List to CIDR Prefixes
+  update_list:
+    # Specify the runner environment
     runs-on: ubuntu-latest
-    container:
-      image: mcr.microsoft.com/powershell:latest
 
-      
+    # # Specify the container image to run the job steps in
+    # container:
+    #   image: mcr.microsoft.com/powershell:latest # Use the official PowerShell Core image
+
     steps:
+      # 1. Check out the repository code
+      # This makes your repository files available in the workspace directory
       - name: Checkout repository
-        uses: actions/checkout@v4
-        
-      # 新增的调试步骤
-      - name: List Workspace Contents 
-        run: ls -la $GITHUB_WORKSPACE
-        shell: bash # 使用 bash 执行 ls 命令比较方便
-  
-    # # 你原来的运行脚本步骤
-    # - name: Run ASN to CIDR Conversion Script
-    #   run: |
-    #     ./Get-AsnPrefixes.ps1 -InputAsnFilePath $GITHUB_WORKSPACE/ASN.China.list -OutputFilePath $GITHUB_WORKSPACE/IP.China.list -RawOutput
-    #   shell: pwsh 
-  
-    # # ... 后续步骤 ...
-    #   steps:
-    #     - name: Checkout repository
-    #       uses: actions/checkout@v4
-    
-        # 不需要单独设置参数了，因为输入输出文件名是固定的
-        # 直接运行脚本，并传入固定的文件名和 -RawOutput 开关
-      # - name: Run ASN to CIDR Conversion Script
-      #   run: |
-      #     # 直接调用脚本
-      #     # -InputAsnFilePath 指向仓库根目录的 ASN.China.list
-      #     # -OutputFilePath 指向仓库根目录的 IP.China.list
-      #     # -RawOutput 指定输出纯文本列表格式
-      #     ./Get-AsnPrefixes.ps1 -InputAsnFilePath $GITHUB_WORKSPACE/ASN.China.list -OutputFilePath $GITHUB_WORKSPACE/IP.China.list -RawOutput
-      #   shell: pwsh
+        uses: actions/checkout@v4 # Use a specific stable version
+
+      # # 2. Execute your PowerShell script
+      # # Assumes your script is located at 'scripts/Get-ChinaASN.ps1' in your repo
+      # # and it generates/updates 'ASN.China.list.json' in the root of the workspace
+      # - name: Run PowerShell script to update ASN list
+      #   # Use 'pwsh' (the PowerShell Core executable) available in the container
+      #   # -File specifies the script file path relative to the workspace root
+      #   # -Verbose provides detailed output in the Actions logs, useful for debugging
+      #   run: pwsh -File ./scripts/Get-ChinaASN.ps1 -Verbose
+      #   # PowerShell scripts should ideally exit with a non-zero code on failure (like using `exit 1` or `throw`),
+      #   # which will automatically cause this step to fail if the script encounters a critical error.
 
       
-      # 修改后的步骤:
-      - name: Run ASN to CIDR Conversion Script
+      #  使用 Docker 在 PowerShell 容器内运行脚本
+      #    -v "${{ github.workspace }}":"/workspace" 将主机的工作目录挂载到容器的 /workspace
+      #    -w "/workspace" 设置容器内的工作目录
+      #    脚本的路径 ./scripts/Get-ChinaASN.ps1 是相对于挂载后的 /workspace 目录
+      #    脚本生成的 ASN.China.list.json 文件会直接出现在主机的工作区 (${{ github.workspace }})
+      - name: Run PowerShell script inside container to update ASN list
         run: |
-          # 在 PowerShell 命令中明确使用 $env:GITHUB_WORKSPACE 来访问环境变量
-          # 同时给路径加上引号增加稳健性
-          ./Get-AsnPrefixes.ps1 -InputAsnFilePath "$env:GITHUB_WORKSPACE/ASN.China.list" -OutputFilePath "$env:GITHUB_WORKSPACE/IP.China.list" -RawOutput
-        shell: pwsh # 仍然指定使用 pwsh 执行
-  
-        # 上传生成的 IP.China.list 文件
-      - uses: stefanzweifel/git-auto-commit-action@v4
+          docker run --rm \
+            -v "${{ github.workspace }}":"/workspace" \
+            -w "/workspace" \
+            mcr.microsoft.com/powershell:latest \
+            pwsh -File ./scripts/Convert_Asn2IP.ps1 -Verbose
+
+      # 3. Commit the updated ASN list back to the repository
+      # This step uses a popular action to handle git add, commit, and push automatically.
+      # It will only commit if the specified file(s) have changed.
+      - name: Commit and push updated ASN list
+        uses: stefanzweifel/git-auto-commit-action@v5 # Use a specific stable version
         with:
-          commit_message: Update ASN List
+          # Required: Message for the commit
+          commit_message: "Automated update: China ASN list"
+
+          # Optional: Specify the file pattern to commit.
+          # If your script outputs to a different location/name, change this.
+          # Defaults to committing all changed files if not specified.
+          file_pattern: IP.China.list.json
+
+          # Optional: Set committer name and email (defaults are usually sufficient)
+          # commit_user_name: github-actions[bot]
+          # commit_user_email: github-actions[bot]@users.noreply.github.com
+
+          # Optional: Add options to the commit command (e.g., --signoff)
+          # commit_options: '--signoff'
+
+          # Optional: Specify the branch to push to (defaults to the current branch)
+          # push_options: '--force' # Use with caution
+
+# --- Explanation ---
+# name: The name of the workflow displayed on GitHub.
+# on: Defines the events that trigger the workflow.
+#   schedule: Runs the workflow on a schedule defined by cron syntax. '0 1 * * *' means 1:00 AM UTC daily.
+#   workflow_dispatch: Adds a button in the Actions tab to run the workflow manually.
+# permissions: Defines the permissions granted to the GITHUB_TOKEN for this workflow run. `contents: write` is needed for actions/checkout to fetch code and for the commit action to push changes.
+# jobs: Contains the list of jobs to run.
+#   update_list: The ID of the job.
+#     runs-on: Specifies the type of machine to run the job on (GitHub-hosted runner).
+#     container: Specifies a Docker container to run the steps in.
+#       image: The Docker image to use (official PowerShell Core image).
+#     steps: A sequence of tasks to be executed.
+#       uses: Specifies an action to run (reusable units of code). `actions/checkout` fetches your code, `stefanzweifel/git-auto-commit-action` handles committing.
+#       run: Executes command-line programs using the container's default shell (which is `pwsh` in this case, but explicitly calling `pwsh -File ...` is clearer).
