@@ -28,7 +28,7 @@
 
 .PARAMETER OutputFile
   输出 JSON 文件的路径和名称。
-  默认为存储库根目录下的 './asn_to_prefix_map_filtered.json'。
+  默认为存储库根目录下的 './IP.China.list.json'。
 
 .EXAMPLE
   # 在 scripts 目录中运行，使用父目录的 ASN.China.list.json 文件进行过滤, 输出 JSON 到父目录
@@ -46,7 +46,7 @@ param(
 
     # 输出 JSON 文件的路径和名称
     # 默认指向相对于脚本位置的父目录中的文件 (存储库根目录)
-    [string]$OutputFile = "../IP.China.list.json" # 默认输出改为 .json
+    [string]$OutputFile = "../IP.China.list.json" # <<< 注意：您已更改此默认输出文件名
 )
 
 # --- Configuration ---
@@ -109,13 +109,24 @@ function Process-GzippedUrlStreamLineByLine {
             $streamReader = [System.IO.StreamReader]::new($responseStream, [System.Text.Encoding]::UTF8)
         }
         Write-Verbose "开始逐行读取和处理 $Url 的数据..."
-        while (($line = $streamReader.ReadLine()) -ne $null) { & $LineProcessor $line; $linesProcessed++ }
+        while (($line = $streamReader.ReadLine()) -ne $null) {
+             & $LineProcessor $line
+             $linesProcessed++
+        }
         Write-Verbose "成功完成 $Url 的流式处理，共处理 $linesProcessed 行."
         return $true
-    } catch { Write-Error "处理 URL '$Url' 的流时出错: $($_.Exception.ToString())"; return $false }
+    } catch {
+        # Throw the exception to be caught by the caller if needed
+        throw "处理 URL '$Url' 的流时出错: $($_.Exception.ToString())"
+        # Return $false is unreachable after throw
+        # return $false
+     }
     finally {
+        # Dispose resources in reverse order of creation
         if ($streamReader -ne $null) { $streamReader.Dispose() }
         if ($gzipStream -ne $null) { $gzipStream.Dispose() }
+        # Closing the response should close the underlying stream, but explicit closing is safer
+        if ($responseStream -ne $null) { $responseStream.Close() }
         if ($webResponse -ne $null) { $webResponse.Close() }
         Write-Verbose "已清理 $Url 的流资源."
     }
@@ -129,12 +140,21 @@ function Get-UrlContentText {
         $webRequest = Invoke-WebRequest -Uri $Url -UseBasicParsing -TimeoutSec 120
         if ($webRequest.StatusCode -eq 200) {
             Write-Verbose "成功从 $Url 下载了文本内容."; $content = $webRequest.Content
-            # Handle potential BOM
-            if ($content.StartsWith([char]0xFEFF) -or $content.StartsWith([char]0xFFFE)) { $content = $content.Substring(1) }
-            # More robust BOM check using GetPreamble (requires reading bytes first, less ideal here)
-            return $content -split '\r?\n' # Split into lines
-        } else { throw "下载失败，HTTP 状态码: $($webRequest.StatusCode)" }
-    } catch { Write-Error "下载文本 URL '$Url' 时出错: $($_.Exception.Message)"; return $null }
+            # Handle potential BOM more robustly
+            if ($content.StartsWith([char]0xFEFF) -or $content.StartsWith([char]0xFFFE)) { # UTF-16 LE/BE BOM
+                $content = $content.Substring(1)
+            } elseif ($content.StartsWith([char]0xEFBBBF)) { # UTF-8 BOM
+                $content = $content.Substring(3)
+            }
+            # Split lines consistently
+            return $content -split '\r?\n'
+        } else {
+            throw "下载失败，URL '$Url'，HTTP 状态码: $($webRequest.StatusCode)"
+        }
+    } catch {
+        Write-Error "下载文本 URL '$Url' 时出错: $($_.Exception.Message)"
+        return $null # Indicate failure
+    }
 }
 
 # --- Main Script Logic ---
@@ -144,8 +164,8 @@ $stopwatch = [System.Diagnostics.Stopwatch]::StartNew()
 # --- 1. 定义 RIPE 行处理逻辑 ---
 $ripeLineProcessor = {
     param($line)
-    # Skip comments and empty lines
-    if ($line -match '^\s*%' -or $line -match '^\s*$') { return }
+    # Skip comments and empty lines efficiently
+    if ($line.StartsWith('%') -or [string]::IsNullOrWhiteSpace($line)) { return }
     $parts = $line -split '\t+' # Split by one or more tabs
     if ($parts.Count -ge 2) {
         $asn = $parts[0].Trim()
@@ -163,25 +183,28 @@ $ripeUrls = @{
 foreach ($ipVersion in $ripeUrls.Keys) {
     $url = $ripeUrls[$ipVersion]
     Write-Host "开始处理 RIPE $ipVersion 数据源: $url"
-    $success = Process-GzippedUrlStreamLineByLine -Url $url -LineProcessor $ripeLineProcessor
-    if (-not $success) { Write-Warning "处理 RIPE $ipVersion 数据源 $url 时遇到错误。" } else { Write-Host "完成处理 RIPE $ipVersion 数据源." }
+    try {
+        $success = Process-GzippedUrlStreamLineByLine -Url $url -LineProcessor $ripeLineProcessor
+        Write-Host "完成处理 RIPE $ipVersion 数据源."
+    } catch {
+        Write-Warning "处理 RIPE $ipVersion 数据源 $url 时遇到错误: $($_.Exception.Message)"
+        # Consider whether to continue or exit upon error
+        # continue
+        # exit 1
+    }
 }
 
 # --- 3. 定义 CAIDA 行处理逻辑 ---
 $caidaLineProcessor = {
     param($line)
-    # Skip comments and empty lines
-    if ($line -match '^\s*#' -or $line -match '^\s*$') { return }
-    # Format: <PREFIX>\t<LENGTH>\t<ASN>[,<ASN>|_<ASN>]
-    $parts = $line -split '\t+' # Split by one or more tabs
+    if ($line.StartsWith('#') -or [string]::IsNullOrWhiteSpace($line)) { return }
+    $parts = $line -split '\t+'
     if ($parts.Count -eq 3) {
         $prefixIp = $parts[0].Trim()
         $prefixLen = $parts[1].Trim()
         $asString = $parts[2].Trim()
-        # Validate prefix length and IP part
         if (($prefixLen -match '^\d{1,3}$') -and ($prefixIp -match '^[0-9a-fA-F:.]+$')) {
             $fullPrefix = "$prefixIp/$prefixLen"
-            # Split ASNs by comma or underscore, validate they are digits
             $individualASNs = $asString -split '[_,]' | ForEach-Object { $_.Trim() } | Where-Object { $_ -match '^\d+$' }
             if ($individualASNs) {
                 foreach ($asn in $individualASNs) { Add-PrefixToMap -Asn $asn -Prefix $fullPrefix }
@@ -189,8 +212,10 @@ $caidaLineProcessor = {
                  Write-Warning "在前缀 '$fullPrefix' 的行中未找到有效的 ASN: '$asString'"
             }
         } else {
-            Write-Warning "跳过无效的 CAIDA 行格式: '$line'"
+            Write-Warning "跳过无效的 CAIDA 行格式 (IP/Length): '$line'"
         }
+    } else {
+         Write-Warning "跳过无效的 CAIDA 行格式 (Parts Count): '$line'"
     }
 }
 
@@ -208,17 +233,25 @@ foreach ($ipVersion in $caidaSources.Keys) {
     $latestSeqNum = -1L; $latestPath = $null
     # Process log lines to find the latest file path based on sequence number
     foreach($logLine in $logLines) {
-        if ($logLine -match '^\s*#' -or $logLine -match '^\s*$') { continue } # Skip comments/blank
+        if ($logLine.StartsWith('#') -or [string]::IsNullOrWhiteSpace($logLine)) { continue } # Skip comments/blank
         # Format: <SEQ>\t<TIMESTAMP>\t<PATH> ...
         $logParts = $logLine -split '\t+' # Split by one or more tabs
         if ($logParts.Count -ge 3) {
             $seqNumStr = $logParts[0].Trim()
+            # --- FIX: Initialize $seqNum before using [ref] ---
+            $seqNum = 0L # Initialize as Long (Int64)
+            # --- End FIX ---
+            # Use TryParse with [ref] - $seqNum must exist before this line
             if ([long]::TryParse($seqNumStr, [ref]$seqNum)) {
                 if ($seqNum -gt $latestSeqNum) {
                     $latestSeqNum = $seqNum
                     $latestPath = $logParts[2].Trim() # Get the path
                 }
             }
+            # Optional: Warn if parsing fails
+            # else {
+            #    Write-Warning "无法将 CAIDA 日志行中的 SEQ '$seqNumStr' 解析为 long: '$logLine'"
+            # }
         }
     }
 
@@ -228,16 +261,25 @@ foreach ($ipVersion in $caidaSources.Keys) {
     $dataUrl = if ($latestPath.StartsWith('/')) { "$baseUrl$latestPath" } else { "$baseUrl/$latestPath" }
 
     Write-Host "开始处理 CAIDA $ipVersion 数据源: $dataUrl"
-    $success = Process-GzippedUrlStreamLineByLine -Url $dataUrl -LineProcessor $caidaLineProcessor
-    if (-not $success) { Write-Warning "处理 CAIDA $ipVersion 数据源 $dataUrl 时遇到错误。" } else { Write-Host "完成处理 CAIDA $ipVersion 数据源." }
+     try {
+        $success = Process-GzippedUrlStreamLineByLine -Url $dataUrl -LineProcessor $caidaLineProcessor
+        Write-Host "完成处理 CAIDA $ipVersion 数据源."
+     } catch {
+        Write-Warning "处理 CAIDA $ipVersion 数据源 $dataUrl 时遇到错误: $($_.Exception.Message)"
+        # continue or exit
+     }
 }
 
 # --- 5. 读取并解析 ASN 过滤文件 ---
 Write-Host "`n--- 读取 ASN 过滤文件 ---"
 # Resolve the absolute path for AsnFilterFile for clarity in messages
-$resolvedAsnFilterFile = $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($AsnFilterFile)
-# 使用 HashSet 存储目标 ASN 以便快速查找
-$asnFilterSet = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase) # 使用不区分大小写的比较器
+try {
+    $resolvedAsnFilterFile = $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($AsnFilterFile)
+} catch {
+    Write-Error "无法解析 ASN 过滤文件路径 '$AsnFilterFile': $($_.Exception.Message)"
+    exit 1
+}
+$asnFilterSet = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
 
 $filterFileExists = Test-Path -Path $resolvedAsnFilterFile -PathType Leaf
 if (-not $filterFileExists) { Write-Error "指定的 ASN 过滤文件未找到: '$resolvedAsnFilterFile'. 脚本将退出。"; exit 1 }
@@ -245,31 +287,40 @@ if (-not $filterFileExists) { Write-Error "指定的 ASN 过滤文件未找到: 
 try {
     Write-Verbose "正在读取并解析 JSON 文件: $resolvedAsnFilterFile"
     $jsonContent = Get-Content -Path $resolvedAsnFilterFile -Raw | ConvertFrom-Json
-    if ($null -eq $jsonContent.asns) { throw "JSON 文件 '$resolvedAsnFilterFile' 缺少 'asns' 数组。" }
+    if ($null -eq $jsonContent.asns -or $jsonContent.asns -isnot [array]) {
+         throw "JSON 文件 '$resolvedAsnFilterFile' 缺少 'asns' 数组或格式不正确。"
+    }
 
     $asnProcessedFromJson = 0; $asnAddedToFilter = 0
     foreach ($asnEntry in $jsonContent.asns) {
         $asnProcessedFromJson++
         if ($null -ne $asnEntry.asn_number) {
-            $asnString = $asnEntry.asn_number.ToString().Trim() # Ensure it's a string and trimmed
+            $asnString = $asnEntry.asn_number.ToString().Trim()
             if ($asnString -match '^\d+$') {
-                if ($asnFilterSet.Add($asnString)) { $asnAddedToFilter++ } # Add returns $true if added (wasn't present)
+                if ($asnFilterSet.Add($asnString)) { $asnAddedToFilter++ }
             } else {
-                Write-Warning "在 JSON 文件中跳过无效的 asn_number: '$($asnEntry.asn_number)'"
+                Write-Warning "在 JSON 文件中跳过无效的 asn_number (非数字): '$($asnEntry.asn_number)'"
             }
         } else {
-             Write-Warning "在 JSON 文件中找到空的 'asn_number' 条目。"
+             Write-Warning "在 JSON 文件中找到空的或缺失的 'asn_number' 条目。"
         }
     }
     Write-Host "从 '$resolvedAsnFilterFile' (共 $asnProcessedFromJson 条记录) 加载了 $asnAddedToFilter 个唯一的有效 ASN 用于过滤。"
-    if ($asnAddedToFilter -lt $asnProcessedFromJson) { Write-Warning "JSON 文件中包含 $($asnProcessedFromJson - $asnAddedToFilter) 个重复或无效的 ASN 条目。" }
+    if ($asnAddedToFilter -lt $asnProcessedFromJson) { Write-Warning "JSON 文件中包含 $($asnProcessedFromJson - $asnAddedToFilter) 个重复、无效或缺失的 ASN 条目。" }
     if ($asnAddedToFilter -eq 0) { Write-Warning "目标 ASN 过滤器为空，输出将为空。" }
-} catch { Write-Error "读取或解析 ASN 过滤文件 '$resolvedAsnFilterFile' 时出错: $($_.Exception.ToString())"; exit 1 }
+} catch {
+    Write-Error "读取或解析 ASN 过滤文件 '$resolvedAsnFilterFile' 时出错: $($_.Exception.ToString())"
+    exit 1
+}
 
 # --- 6. 生成过滤后的输出 (JSON 格式) ---
 Write-Host "`n--- 生成过滤后的 JSON 输出文件 ---"
-# Resolve the absolute path for OutputFile
-$resolvedOutputFile = $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($OutputFile)
+try {
+    $resolvedOutputFile = $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($OutputFile)
+} catch {
+     Write-Error "无法解析输出文件路径 '$OutputFile': $($_.Exception.Message)"
+     exit 1
+}
 
 $filteredOutputList = [System.Collections.Generic.List[PSCustomObject]]::new()
 $totalFilteredPrefixMappingCount = 0
@@ -277,53 +328,49 @@ $asnsFoundInMap = 0
 
 Write-Host "正在根据过滤列表构建 JSON 输出结构..."
 
-# 对过滤列表中的 ASN 进行排序，以便输出 JSON 中的顺序一致
-$sortedFilteredAsns = $asnFilterSet | Sort-Object { [int64]$_ } # Sort numerically
+$sortedFilteredAsns = $asnFilterSet | Sort-Object { [int64]$_ }
 
 foreach ($asnToFilter in $sortedFilteredAsns) {
-    # Check if this ASN exists in our collected data
-    $prefixListData = $null # Ensure variable is reset or defined in scope
+    $prefixListData = $null
     if ($asnToPrefixMap.TryGetValue($asnToFilter, [ref]$prefixListData)) {
         $asnsFoundInMap++
-        # Sort the prefix list (important for consistency)
-        # Consider natural sorting or IP address sorting if needed, standard sort for now
         $sortedPrefixes = $prefixListData | Sort-Object
-
         $totalFilteredPrefixMappingCount += $sortedPrefixes.Count
-
-        # Create PowerShell object for JSON output
         $asnObject = [PSCustomObject]@{
-            asn_number = $asnToFilter # Keep ASN as string
-            prefixes   = $sortedPrefixes # List of prefixes
+            asn_number = $asnToFilter
+            prefixes   = $sortedPrefixes
         }
         $filteredOutputList.Add($asnObject)
     }
-    # else: ASN from filter list not found in data, so it's skipped in the output map
 }
 
-# Build the final output object, including metadata
 $finalOutputObject = [PSCustomObject]@{
     metadata = [PSCustomObject]@{
-        generation_timestamp_utc = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ") # ISO 8601 format
+        generation_timestamp_utc = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
         data_sources             = @("RIPE RISwhois Dumps", "CAIDA RouteViews pfx2as")
-        filter_file              = $resolvedAsnFilterFile # Use resolved path
+        filter_file              = $resolvedAsnFilterFile
         filtered_asn_count_in_file = $asnFilterSet.Count
         filtered_asn_count_found_in_data = $asnsFoundInMap
         total_prefix_mappings_output = $totalFilteredPrefixMappingCount
     }
-    asn_prefix_map = $filteredOutputList # List of ASN objects
+    asn_prefix_map = $filteredOutputList
 }
 
 try {
     Write-Host "正在将构建的对象转换为 JSON 并写入输出文件: $resolvedOutputFile ..."
-    # Use ConvertTo-Json, specify sufficient depth
-    $jsonOutput = $finalOutputObject | ConvertTo-Json -Depth 5 #-Compress # Optional: Remove -Compress for formatted JSON
+    $jsonOutput = $finalOutputObject | ConvertTo-Json -Depth 5 #-Compress
 
-    # Write file ensuring UTF-8 encoding without BOM
-    # Using .NET StreamWriter for better control
-    $streamWriter = [System.IO.StreamWriter]::new($resolvedOutputFile, $false, [System.Text.UTF8Encoding]::new($false)) # $false = no BOM
+    # Ensure output directory exists
+    $outputDirectory = Split-Path -Path $resolvedOutputFile -Parent
+    if (-not (Test-Path -Path $outputDirectory -PathType Container)) {
+        Write-Verbose "创建输出目录: $outputDirectory"
+        New-Item -Path $outputDirectory -ItemType Directory -Force | Out-Null
+    }
+
+    # Write file with UTF8 (No BOM) encoding
+    $streamWriter = [System.IO.StreamWriter]::new($resolvedOutputFile, $false, [System.Text.UTF8Encoding]::new($false))
     $streamWriter.Write($jsonOutput)
-    $streamWriter.Close() # Close releases the file handle
+    $streamWriter.Close()
 
     Write-Host "成功将 $totalFilteredPrefixMappingCount 条过滤后的 ASN 到 IP 前缀映射以 JSON 格式写入到: $resolvedOutputFile"
     if ($asnsFoundInMap -lt $asnFilterSet.Count) {
@@ -331,7 +378,7 @@ try {
     }
 } catch {
      Write-Error "转换 JSON 或写入输出文件 '$resolvedOutputFile' 失败: $($_.Exception.ToString())"
-     exit 1 # Exit with error code on failure
+     exit 1
 }
 
 $stopwatch.Stop()
