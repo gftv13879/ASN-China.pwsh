@@ -1,4 +1,4 @@
-name: Update China ASN List
+name: Update China IP List
 
 on:
   # Schedule the workflow to run automatically (e.g., daily at 01:00 UTC)
