@@ -46,7 +46,7 @@ param(
 
     # 输出 JSON 文件的路径和名称
     # 默认指向相对于脚本位置的父目录中的文件 (存储库根目录)
-    [string]$OutputFile = "../asn_to_prefix_map_filtered.json" # 默认输出改为 .json
+    [string]$OutputFile = "../IP.China.list.json" # 默认输出改为 .json
 )
 
 # --- Configuration ---
