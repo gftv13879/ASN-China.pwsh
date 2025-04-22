@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-04-21 03:31:45",
+    "last_updated_utc": "2025-04-22 03:25:40",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5208
   },
@@ -231,10 +231,6 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 24489,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
@@ -249,6 +245,10 @@
     {
       "asn_number": 58461,
       "asn_name": "China Telecom HangZhou IDC"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38365,
@@ -325,10 +325,6 @@
     {
       "asn_number": 136173,
       "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
-    },
-    {
-      "asn_number": 9812,
-      "asn_name": "Oriental Cable Network Co., Ltd."
     },
     {
       "asn_number": 9809,
@@ -441,6 +437,10 @@
     {
       "asn_number": 133219,
       "asn_name": "NewMedia Express Pte Ltd"
+    },
+    {
+      "asn_number": 9812,
+      "asn_name": "Oriental Cable Network Co., Ltd."
     },
     {
       "asn_number": 9394,
@@ -943,6 +943,10 @@
       "asn_name": "Zero Cirrus Cloud Computing (Shanghai) Co., Ltd."
     },
     {
+      "asn_number": 138169,
+      "asn_name": "China Telecom"
+    },
+    {
       "asn_number": 137806,
       "asn_name": "WMGS Consulting (Shenzhen) Co.Ltd"
     },
@@ -1105,10 +1109,6 @@
     {
       "asn_number": 59034,
       "asn_name": "BeiJing Wish Network Technology CO.,LTD."
-    },
-    {
-      "asn_number": 59016,
-      "asn_name": "China Broadcast Henan Network Co., Ltd"
     },
     {
       "asn_number": 58854,
@@ -1503,10 +1503,6 @@
       "asn_name": "CERNET2 regional IX at Ocean University of China"
     },
     {
-      "asn_number": 138169,
-      "asn_name": "China Telecom"
-    },
-    {
       "asn_number": 137794,
       "asn_name": "Dahe tianchi (Beijing) network co. LTD"
     },
@@ -1827,10 +1823,6 @@
       "asn_name": "Suqian Pugongying Network Service Co.,Ltd"
     },
     {
-      "asn_number": 63565,
-      "asn_name": "Beijing lian guang tong network technology co., LTD"
-    },
-    {
       "asn_number": 63555,
       "asn_name": "Beijing Beilong Yunhai Network Data Technology Corporation"
     },
@@ -1869,6 +1861,10 @@
     {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
+    },
+    {
+      "asn_number": 59016,
+      "asn_name": "China Broadcast Henan Network Co., Ltd"
     },
     {
       "asn_number": 59011,
@@ -2873,6 +2869,10 @@
     {
       "asn_number": 210714,
       "asn_name": "Wang Yongjin"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 209661,
@@ -5440,39 +5440,39 @@
     },
     {
       "asn_number": 146242,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146241,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146240,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146239,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146238,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146237,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146236,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146235,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146234,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146233,
@@ -7524,131 +7524,131 @@
     },
     {
       "asn_number": 145721,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145720,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145719,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145718,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145717,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145716,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145715,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145714,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145713,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145712,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145711,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145710,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145709,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145708,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145707,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145706,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145705,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145704,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145703,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145702,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145701,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145700,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145699,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145698,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145697,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145696,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145695,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145694,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145693,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145692,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145691,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145690,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145689,
@@ -7656,7 +7656,7 @@
     },
     {
       "asn_number": 145688,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145687,
@@ -7664,27 +7664,27 @@
     },
     {
       "asn_number": 145686,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145685,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145684,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145683,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145682,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145681,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145680,
@@ -7692,211 +7692,211 @@
     },
     {
       "asn_number": 145679,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145678,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145677,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145676,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145675,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145674,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145673,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145672,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145671,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145670,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145669,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145668,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145667,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145666,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145665,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145664,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145663,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145662,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145661,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145660,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145659,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145658,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145657,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145656,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145655,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145654,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145653,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145652,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145651,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145650,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145649,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145648,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145647,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145646,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145645,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145644,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145643,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145642,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145641,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145640,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145639,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145638,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145637,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145636,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145635,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145634,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145633,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145632,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145631,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145630,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145629,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145628,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145627,
@@ -7904,83 +7904,83 @@
     },
     {
       "asn_number": 145626,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145625,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145624,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145623,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145622,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145621,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145620,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145619,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145618,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145617,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145616,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145615,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145614,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145613,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145612,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145611,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145610,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145609,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145608,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145607,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145606,
@@ -7988,7 +7988,7 @@
     },
     {
       "asn_number": 145605,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145604,
@@ -7996,7 +7996,7 @@
     },
     {
       "asn_number": 145603,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145602,
@@ -8004,103 +8004,103 @@
     },
     {
       "asn_number": 145601,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145600,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145599,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145598,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145597,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145596,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145595,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145594,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145593,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145592,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145591,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145590,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145589,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145588,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145587,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145586,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145585,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145584,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145583,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145582,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145581,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145580,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145579,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145578,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145577,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145576,
@@ -8108,247 +8108,247 @@
     },
     {
       "asn_number": 145575,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145574,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145573,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145572,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145571,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145570,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145569,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145568,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145567,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145566,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145565,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145564,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145563,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145562,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145561,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145560,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145559,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145558,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145557,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145556,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145555,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145554,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145553,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145552,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145551,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145550,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145549,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145548,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145547,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145546,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145545,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145544,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145543,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145542,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145541,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145540,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145539,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145538,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145537,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145536,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145535,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145534,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145533,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145532,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145531,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145530,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145529,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145528,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145527,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145526,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145525,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145524,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145523,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145522,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145521,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145520,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145519,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145518,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145517,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145516,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145515,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145514,
@@ -8356,175 +8356,175 @@
     },
     {
       "asn_number": 145513,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145512,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145511,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145510,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145509,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145508,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145507,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145506,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145505,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145504,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145503,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145502,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145501,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145500,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145499,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145498,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145497,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145496,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145495,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145494,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145493,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145492,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145491,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145490,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145489,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145488,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145487,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145486,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145485,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145484,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145483,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145482,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145481,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145480,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145479,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145478,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145477,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145476,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145475,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145474,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145473,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145472,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145471,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145470,
@@ -8532,11 +8532,11 @@
     },
     {
       "asn_number": 145469,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145468,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145467,
@@ -8544,95 +8544,95 @@
     },
     {
       "asn_number": 145466,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145465,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145464,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145463,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145462,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145461,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145460,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145459,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145458,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145457,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145456,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145455,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145454,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145453,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145452,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145451,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145450,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145449,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145448,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145447,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145446,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145445,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145444,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145443,
@@ -8640,167 +8640,167 @@
     },
     {
       "asn_number": 145442,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145441,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145440,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145439,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145438,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145437,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145436,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145435,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145434,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145433,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145432,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145431,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145430,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145429,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145428,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145427,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145426,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145425,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145424,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145423,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145422,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145421,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145420,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145419,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145418,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145417,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145416,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145415,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145414,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145413,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145412,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145411,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145410,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145409,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145408,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145407,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145406,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145405,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145404,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145403,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145402,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145401,
@@ -8808,55 +8808,55 @@
     },
     {
       "asn_number": 145400,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145399,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145398,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145397,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145396,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145395,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145394,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145393,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145392,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145391,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145390,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145389,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145388,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145387,
@@ -8864,175 +8864,175 @@
     },
     {
       "asn_number": 145386,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145385,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145384,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145383,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145382,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145381,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145380,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145379,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145378,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145377,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145376,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145375,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145374,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145373,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145372,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145371,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145370,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145369,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145368,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145367,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145366,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145365,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145364,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145363,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145362,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145361,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145360,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145359,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145358,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145357,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145356,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145355,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145354,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145353,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145352,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145351,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145350,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145349,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145348,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145347,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145346,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145345,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145344,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145343,
@@ -9040,51 +9040,51 @@
     },
     {
       "asn_number": 145342,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145341,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145340,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145339,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145338,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145337,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145336,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145335,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145334,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145333,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145332,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145331,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145330,
@@ -9092,39 +9092,39 @@
     },
     {
       "asn_number": 145329,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145328,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145327,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145326,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145325,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145324,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145323,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145322,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145321,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145320,
@@ -9132,27 +9132,27 @@
     },
     {
       "asn_number": 145319,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145318,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145317,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145316,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145315,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145314,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145313,
@@ -9164,11 +9164,11 @@
     },
     {
       "asn_number": 145311,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145310,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145309,
@@ -9176,43 +9176,43 @@
     },
     {
       "asn_number": 145308,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145307,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145306,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145305,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145304,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145303,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145302,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145301,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145300,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145299,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145298,
@@ -9220,75 +9220,75 @@
     },
     {
       "asn_number": 145297,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145296,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145295,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145294,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145293,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145292,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145291,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145290,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145289,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145288,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145287,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145286,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145285,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145284,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145283,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145282,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145281,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145280,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145279,
@@ -9296,11 +9296,11 @@
     },
     {
       "asn_number": 145278,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145277,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145276,
@@ -9308,31 +9308,31 @@
     },
     {
       "asn_number": 145275,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145274,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145273,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145272,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145271,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145270,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145269,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145268,
@@ -9340,119 +9340,119 @@
     },
     {
       "asn_number": 145267,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145266,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145265,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145264,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145263,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145262,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145261,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145260,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145259,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145258,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145257,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145256,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145255,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145254,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145253,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145252,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145251,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145250,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145249,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145248,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145247,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145246,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145245,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145244,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145243,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145242,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145241,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145240,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145239,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145238,
@@ -9460,63 +9460,63 @@
     },
     {
       "asn_number": 145237,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145236,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145235,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145234,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145233,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145232,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145231,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145230,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145229,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145228,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145227,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145226,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145225,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145224,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145223,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145222,
@@ -9524,27 +9524,27 @@
     },
     {
       "asn_number": 145221,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145220,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145219,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145218,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145217,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145216,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145215,
@@ -9552,23 +9552,23 @@
     },
     {
       "asn_number": 145214,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145213,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145212,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145211,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145210,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145209,
@@ -11620,199 +11620,199 @@
     },
     {
       "asn_number": 144697,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144696,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144695,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144694,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144693,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144692,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144691,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144690,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144689,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144688,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144687,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144686,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144685,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144684,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144683,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144682,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144681,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144680,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144679,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144678,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144677,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144676,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144675,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144674,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144673,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144672,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144671,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144670,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144669,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144668,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144667,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144666,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144665,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144664,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144663,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144662,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144661,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144660,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144659,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144658,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144657,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144656,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144655,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144654,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144653,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144652,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144651,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144650,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144649,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144648,
@@ -11820,127 +11820,127 @@
     },
     {
       "asn_number": 144647,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144646,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144645,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144644,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144643,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144642,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144641,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144640,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144639,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144638,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144637,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144636,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144635,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144634,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144633,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144632,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144631,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144630,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144629,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144628,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144627,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144626,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144625,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144624,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144623,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144622,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144621,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144620,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144619,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144618,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144617,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144616,
@@ -11948,15 +11948,15 @@
     },
     {
       "asn_number": 144615,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144614,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144613,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144612,
@@ -11964,95 +11964,95 @@
     },
     {
       "asn_number": 144611,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144610,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144609,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144608,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144607,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144606,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144605,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144604,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144603,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144602,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144601,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144600,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144599,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144598,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144597,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144596,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144595,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144594,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144593,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144592,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144591,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144590,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144589,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144588,
@@ -12060,35 +12060,35 @@
     },
     {
       "asn_number": 144587,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144586,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144585,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144584,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144583,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144582,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144581,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144580,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144579,
@@ -12096,55 +12096,55 @@
     },
     {
       "asn_number": 144578,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144577,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144576,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144575,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144574,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144573,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144572,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144571,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144570,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144569,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144568,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144567,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144566,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144565,
@@ -12152,7 +12152,7 @@
     },
     {
       "asn_number": 144564,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144563,
@@ -12160,15 +12160,15 @@
     },
     {
       "asn_number": 144562,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144561,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144560,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144559,
@@ -12176,183 +12176,183 @@
     },
     {
       "asn_number": 144558,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144557,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144556,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144555,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144554,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144553,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144552,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144551,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144550,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144549,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144548,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144547,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144546,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144545,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144544,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144543,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144542,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144541,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144540,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144539,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144538,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144537,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144536,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144535,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144534,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144533,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144532,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144531,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144530,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144529,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144528,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144527,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144526,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144525,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144524,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144523,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144522,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144521,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144520,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144519,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144518,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144517,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144516,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144515,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144514,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144513,
@@ -12360,47 +12360,47 @@
     },
     {
       "asn_number": 144512,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144511,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144510,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144509,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144508,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144507,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144506,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144505,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144504,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144503,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144502,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144501,
@@ -12408,207 +12408,207 @@
     },
     {
       "asn_number": 144500,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144499,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144498,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144497,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144496,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144495,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144494,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144493,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144492,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144491,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144490,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144489,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144488,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144487,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144486,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144485,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144484,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144483,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144482,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144481,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144480,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144479,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144478,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144477,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144476,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144475,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144474,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144473,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144472,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144471,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144470,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144469,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144468,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144467,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144466,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144465,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144464,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144463,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144462,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144461,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144460,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144459,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144458,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144457,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144456,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144455,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144454,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144453,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144452,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144451,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144450,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144449,
@@ -12616,143 +12616,143 @@
     },
     {
       "asn_number": 144448,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144447,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144446,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144445,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144444,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144443,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144442,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144441,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144440,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144439,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144438,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144437,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144436,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144435,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144434,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144433,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144432,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144431,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144430,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144429,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144428,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144427,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144426,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144425,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144424,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144423,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144422,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144421,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144420,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144419,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144418,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144417,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144416,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144415,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144414,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144413,
@@ -12760,35 +12760,35 @@
     },
     {
       "asn_number": 144412,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144411,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144410,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144409,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144408,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144407,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144406,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144405,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144404,
@@ -12796,79 +12796,79 @@
     },
     {
       "asn_number": 144403,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144402,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144401,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144400,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144399,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144398,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144397,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144396,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144395,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144394,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144393,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144392,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144391,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144390,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144389,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144388,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144387,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144386,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144385,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144384,
@@ -12880,147 +12880,147 @@
     },
     {
       "asn_number": 144382,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144381,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144380,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144379,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144378,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144377,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144376,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144375,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144374,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144373,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144372,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144371,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144370,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144369,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144368,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144367,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144366,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144365,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144364,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144363,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144362,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144361,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144360,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144359,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144358,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144357,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144356,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144355,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144354,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144353,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144352,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144351,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144350,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144349,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144348,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144347,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144346,
@@ -13048,35 +13048,35 @@
     },
     {
       "asn_number": 144340,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144339,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144338,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144337,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144336,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144335,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144334,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144333,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144332,
@@ -13084,15 +13084,15 @@
     },
     {
       "asn_number": 144331,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144330,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144329,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144328,
@@ -13100,11 +13100,11 @@
     },
     {
       "asn_number": 144327,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144326,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144325,
@@ -13112,79 +13112,79 @@
     },
     {
       "asn_number": 144324,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144323,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144322,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144321,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144320,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144319,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144318,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144317,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144316,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144315,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144314,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144313,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144312,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144311,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144310,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144309,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144308,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144307,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144306,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144305,
@@ -13192,35 +13192,35 @@
     },
     {
       "asn_number": 144304,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144303,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144302,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144301,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144300,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144299,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144298,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144297,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144296,
@@ -13228,63 +13228,63 @@
     },
     {
       "asn_number": 144295,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144294,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144293,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144292,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144291,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144290,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144289,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144288,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144287,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144286,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144285,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144284,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144283,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144282,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144281,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144280,
@@ -13292,23 +13292,23 @@
     },
     {
       "asn_number": 144279,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144278,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144277,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144276,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144275,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144274,
@@ -13316,27 +13316,27 @@
     },
     {
       "asn_number": 144273,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144272,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144271,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144270,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144269,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144268,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144267,
@@ -13344,51 +13344,51 @@
     },
     {
       "asn_number": 144266,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144265,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144264,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144263,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144262,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144261,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144260,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144259,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144258,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144257,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144256,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144255,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144254,
@@ -13396,15 +13396,15 @@
     },
     {
       "asn_number": 144253,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144252,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144251,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144250,
@@ -13412,7 +13412,7 @@
     },
     {
       "asn_number": 144249,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144248,
@@ -13420,43 +13420,43 @@
     },
     {
       "asn_number": 144247,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144246,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144245,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144244,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144243,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144242,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144241,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144240,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144239,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144238,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144237,
@@ -13464,27 +13464,27 @@
     },
     {
       "asn_number": 144236,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144235,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144234,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144233,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144232,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144231,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144230,
@@ -13492,31 +13492,31 @@
     },
     {
       "asn_number": 144229,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144228,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144227,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144226,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144225,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144224,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144223,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144222,
@@ -13524,67 +13524,67 @@
     },
     {
       "asn_number": 144221,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144220,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144219,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144218,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144217,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144216,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144215,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144214,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144213,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144212,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144211,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144210,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144209,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144208,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144207,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144206,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144205,
@@ -13592,19 +13592,19 @@
     },
     {
       "asn_number": 144204,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144203,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144202,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144201,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144200,
@@ -13612,19 +13612,19 @@
     },
     {
       "asn_number": 144199,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144198,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144197,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144196,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144195,
@@ -13632,27 +13632,27 @@
     },
     {
       "asn_number": 144194,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144193,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144192,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144191,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144190,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144189,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144188,
@@ -13660,7 +13660,7 @@
     },
     {
       "asn_number": 144187,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144186,
@@ -15716,283 +15716,283 @@
     },
     {
       "asn_number": 143673,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143672,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143671,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143670,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143669,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143668,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143667,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143666,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143665,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143664,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143663,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143662,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143661,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143660,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143659,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143658,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143657,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143656,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143655,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143654,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143653,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143652,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143651,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143650,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143649,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143648,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143647,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143646,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143645,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143644,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143643,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143642,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143641,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143640,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143639,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143638,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143637,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143636,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143635,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143634,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143633,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143632,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143631,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143630,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143629,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143628,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143627,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143626,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143625,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143624,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143623,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143622,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143621,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143620,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143619,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143618,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143617,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143616,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143615,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143614,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143613,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143612,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143611,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143610,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143609,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143608,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143607,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143606,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143605,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143604,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143603,
@@ -16568,11 +16568,11 @@
     },
     {
       "asn_number": 143460,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143459,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143458,
@@ -16820,7 +16820,7 @@
     },
     {
       "asn_number": 143397,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143396,
@@ -16876,15 +16876,15 @@
     },
     {
       "asn_number": 143383,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143382,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143381,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143380,
@@ -17324,7 +17324,7 @@
     },
     {
       "asn_number": 143271,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143270,
@@ -19840,7 +19840,7 @@
     },
     {
       "asn_number": 142106,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 142105,
@@ -19936,7 +19936,7 @@
     },
     {
       "asn_number": 142082,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 142081,
@@ -19960,11 +19960,11 @@
     },
     {
       "asn_number": 142076,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 142075,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 142074,
