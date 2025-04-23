@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-04-22 03:25:40",
+    "last_updated_utc": "2025-04-23 03:26:18",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5208
   },
@@ -107,12 +107,12 @@
       "asn_name": "PAN-LIAN TECHNOLOGY CO., LIMITED"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 146788,
@@ -135,12 +135,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 56040,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 56040,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 4811,
@@ -231,6 +231,10 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 24489,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
@@ -245,10 +249,6 @@
     {
       "asn_number": 58461,
       "asn_name": "China Telecom HangZhou IDC"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38365,
@@ -483,10 +483,6 @@
       "asn_name": "Beijing Internet Harbor Technology Co., Ltd"
     },
     {
-      "asn_number": 56015,
-      "asn_name": "China Sports Lottery Technology Development Co., Ltd"
-    },
-    {
       "asn_number": 55468,
       "asn_name": "China Radio International"
     },
@@ -565,10 +561,6 @@
     {
       "asn_number": 137801,
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
-    },
-    {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137746,
@@ -959,6 +951,10 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
+    },
+    {
       "asn_number": 137715,
       "asn_name": "GTJA Securities"
     },
@@ -1145,6 +1141,10 @@
     {
       "asn_number": 56044,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 56015,
+      "asn_name": "China Sports Lottery Technology Development Co., Ltd"
     },
     {
       "asn_number": 56005,
