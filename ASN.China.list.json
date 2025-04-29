@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-04-28 03:32:11",
+    "last_updated_utc": "2025-04-29 03:27:59",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5207
   },
@@ -87,12 +87,12 @@
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 58879,
@@ -407,10 +407,6 @@
       "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
     {
-      "asn_number": 58834,
-      "asn_name": "Guangdong Cable Corporation Limited"
-    },
-    {
       "asn_number": 58563,
       "asn_name": "CHINANET Hubei province network"
     },
@@ -491,10 +487,6 @@
       "asn_name": "Jiangsu Wuxi International IDC network"
     },
     {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
-    },
-    {
       "asn_number": 137735,
       "asn_name": "China Construction Bank"
     },
@@ -561,6 +553,10 @@
     {
       "asn_number": 58866,
       "asn_name": "China Financial Certification Authority"
+    },
+    {
+      "asn_number": 58834,
+      "asn_name": "Guangdong Cable Corporation Limited"
     },
     {
       "asn_number": 58811,
@@ -701,6 +697,10 @@
     {
       "asn_number": 137801,
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137746,
@@ -999,10 +999,6 @@
       "asn_name": "17/FL, International Bank Center,"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 213404,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
@@ -1100,7 +1096,7 @@
     },
     {
       "asn_number": 140716,
-      "asn_name": "China Unicom"
+      "asn_name": "UNICOM JiangSu WuXi IDC network"
     },
     {
       "asn_number": 140647,
@@ -1236,11 +1232,7 @@
     },
     {
       "asn_number": 137691,
-      "asn_name": "CHINATELECOM HEILONGJIANG IDC"
-    },
-    {
-      "asn_number": 136199,
-      "asn_name": "CHINANET GUANGDONG YUEDONG MAN"
+      "asn_name": "Heilongjiang Province, P.R.China."
     },
     {
       "asn_number": 136189,
@@ -1252,7 +1244,7 @@
     },
     {
       "asn_number": 135363,
-      "asn_name": "Chongqing Fuxuan Information Technology Co., Limited"
+      "asn_name": "Beijing Dunhuang Heguang Information Technology Co.,Lt."
     },
     {
       "asn_number": 134810,
@@ -1260,7 +1252,7 @@
     },
     {
       "asn_number": 134761,
-      "asn_name": "CHINANET NINGXIA ZHONGWEI IDC"
+      "asn_name": "CHINANET NINGXIA province ZHONGWEI IDC network"
     },
     {
       "asn_number": 134760,
@@ -1300,7 +1292,7 @@
     },
     {
       "asn_number": 132225,
-      "asn_name": "CHINATELECOM QINGHAI 5G NETWORK"
+      "asn_name": "China Telecom"
     },
     {
       "asn_number": 131578,
@@ -1771,6 +1763,10 @@
       "asn_name": "Peng Wang"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 213769,
       "asn_name": "wang guanwei"
     },
@@ -1856,7 +1852,7 @@
     },
     {
       "asn_number": 152120,
-      "asn_name": "China Unicom"
+      "asn_name": "China Unicom TianJing GaoCun IDC network"
     },
     {
       "asn_number": 151823,
@@ -1928,7 +1924,7 @@
     },
     {
       "asn_number": 147038,
-      "asn_name": "CHINANET QINGYANG IDC"
+      "asn_name": "China Telecom"
     },
     {
       "asn_number": 147008,
@@ -2064,7 +2060,7 @@
     },
     {
       "asn_number": 140553,
-      "asn_name": "CHINATELECOM XINJIANG SHENGJI 5G NETWORK"
+      "asn_name": "CHINATELECOM XINJIANG province Shengji 5G network"
     },
     {
       "asn_number": 140527,
@@ -2080,7 +2076,7 @@
     },
     {
       "asn_number": 140329,
-      "asn_name": "CHINATELECOM FUJIAN FUZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM Fujian province Fuzhou 5G network"
     },
     {
       "asn_number": 140293,
@@ -2096,7 +2092,7 @@
     },
     {
       "asn_number": 139887,
-      "asn_name": "CHINANET YANTAI IDC"
+      "asn_name": "ChinaNet Shandong Yantai IDC network"
     },
     {
       "asn_number": 139769,
@@ -2104,7 +2100,7 @@
     },
     {
       "asn_number": 139767,
-      "asn_name": "CHINANET OA"
+      "asn_name": "China Telecom Headquarters OA network"
     },
     {
       "asn_number": 139726,
@@ -2196,7 +2192,7 @@
     },
     {
       "asn_number": 138378,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "CERNET2 regional IX at Yunnan University"
     },
     {
       "asn_number": 138369,
@@ -2260,7 +2256,7 @@
     },
     {
       "asn_number": 137695,
-      "asn_name": "CHINATELECOM XINJIANG WULUMUQI MAN"
+      "asn_name": "CHINATELECOM Xinjiang Wulumuqi MAN network"
     },
     {
       "asn_number": 137694,
@@ -2272,7 +2268,7 @@
     },
     {
       "asn_number": 137692,
-      "asn_name": "CHINATELECOM IOT GUANGDONG NETWORK"
+      "asn_name": "IOT Guangdong network, Chinatelecom, P.R.China."
     },
     {
       "asn_number": 137690,
@@ -2312,19 +2308,19 @@
     },
     {
       "asn_number": 136545,
-      "asn_name": "KLAYER LLC"
+      "asn_name": "Blue Data Center"
     },
     {
       "asn_number": 136200,
-      "asn_name": "CHINANET GUANGDONG FOSHAN MAN"
+      "asn_name": "CHINANET Guangdong province Foshan MAN network"
     },
     {
       "asn_number": 136197,
-      "asn_name": "CHINATELECOM HEBEI XIONGAN"
+      "asn_name": "Xiong'an, Hebei Province, P.R.China."
     },
     {
       "asn_number": 136194,
-      "asn_name": "CHINATELECOM HUBEI HUANGSHI IDC"
+      "asn_name": "Huangshi, Hubei Province, P.R.China."
     },
     {
       "asn_number": 136192,
@@ -2360,7 +2356,7 @@
     },
     {
       "asn_number": 135054,
-      "asn_name": "China Mobile Communications Corporation"
+      "asn_name": "China Mobile Group Hainan Co., Ltd."
     },
     {
       "asn_number": 135006,
@@ -3000,7 +2996,7 @@
     },
     {
       "asn_number": 200592,
-      "asn_name": "Junyang Liang"
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 200545,
@@ -3256,7 +3252,7 @@
     },
     {
       "asn_number": 151451,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151450,
@@ -3360,7 +3356,7 @@
     },
     {
       "asn_number": 151425,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151424,
@@ -3372,7 +3368,7 @@
     },
     {
       "asn_number": 151416,
-      "asn_name": "Liu Lang"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151331,
@@ -3436,7 +3432,7 @@
     },
     {
       "asn_number": 146741,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146740,
@@ -3732,7 +3728,7 @@
     },
     {
       "asn_number": 146667,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146666,
@@ -3764,7 +3760,7 @@
     },
     {
       "asn_number": 146659,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146658,
@@ -3824,7 +3820,7 @@
     },
     {
       "asn_number": 146644,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146643,
@@ -4032,7 +4028,7 @@
     },
     {
       "asn_number": 146592,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146591,
@@ -4180,7 +4176,7 @@
     },
     {
       "asn_number": 146555,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146554,
@@ -4348,7 +4344,7 @@
     },
     {
       "asn_number": 146513,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146512,
@@ -4484,7 +4480,7 @@
     },
     {
       "asn_number": 146479,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146478,
@@ -4916,7 +4912,7 @@
     },
     {
       "asn_number": 146371,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146370,
@@ -5284,7 +5280,7 @@
     },
     {
       "asn_number": 146279,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146278,
@@ -5320,7 +5316,7 @@
     },
     {
       "asn_number": 146270,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146269,
@@ -5364,7 +5360,7 @@
     },
     {
       "asn_number": 146259,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 146258,
@@ -8520,7 +8516,7 @@
     },
     {
       "asn_number": 145470,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 145469,
@@ -13016,27 +13012,27 @@
     },
     {
       "asn_number": 144346,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144345,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144344,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144343,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144342,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144341,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 144340,
@@ -20008,7 +20004,7 @@
     },
     {
       "asn_number": 140863,
-      "asn_name": "CHINATELECOM JIANGXI FUZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM Jiangxi province Fuzhou 5G network"
     },
     {
       "asn_number": 140862,
@@ -20016,7 +20012,7 @@
     },
     {
       "asn_number": 140861,
-      "asn_name": "CHINATELECOM JIANGXI GANZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM Jiangxi province Ganzhou 5G network"
     },
     {
       "asn_number": 140860,
@@ -20024,7 +20020,7 @@
     },
     {
       "asn_number": 140859,
-      "asn_name": "CHINATELECOM JIANGXI PINGXIANG 5G NETWORK"
+      "asn_name": "CHINATELECOM Jiangxi province Pingxiang 5G network"
     },
     {
       "asn_number": 140858,
@@ -20032,15 +20028,15 @@
     },
     {
       "asn_number": 140857,
-      "asn_name": "CHINATELECOM JIANGXI YINGTAN 5G NETWORK"
+      "asn_name": "CHINATELECOM Jiangxi province yingtan 5G network"
     },
     {
       "asn_number": 140856,
-      "asn_name": "CHINATELECOM JIANGXI SHANGRAO 5G NETWORK"
+      "asn_name": "CHINATELECOM Jiangxi province Shangrao 5G network"
     },
     {
       "asn_number": 140855,
-      "asn_name": "CHINATELECOM JIANGXI JINGDEZHEN 5G NETWORK"
+      "asn_name": "CHINATELECOM Jiangxi province Jingdezhen 5G network"
     },
     {
       "asn_number": 140854,
@@ -20108,7 +20104,7 @@
     },
     {
       "asn_number": 140536,
-      "asn_name": "CHINATELECOM HUBEI SUIZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM Hubei province Suizhou 5G network"
     },
     {
       "asn_number": 140535,
@@ -20120,11 +20116,11 @@
     },
     {
       "asn_number": 140533,
-      "asn_name": "CHINATELECOM HUBEI JINGZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM Hubei province Jingzhou 5G network"
     },
     {
       "asn_number": 140532,
-      "asn_name": "CHINATELECOM HUBEI XIAOGAN 5G NETWORK"
+      "asn_name": "CHINATELECOM Hubei province Xiaogan 5G network"
     },
     {
       "asn_number": 140531,
@@ -20132,7 +20128,7 @@
     },
     {
       "asn_number": 140530,
-      "asn_name": "CHINATELECOM HUBEI EZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM Hubei province Ezhou 5G network"
     },
     {
       "asn_number": 140529,
@@ -20140,7 +20136,7 @@
     },
     {
       "asn_number": 140528,
-      "asn_name": "CHINATELECOM HUBEI YICHANG 5G NETWORK"
+      "asn_name": "CHINATELECOM Hubei province Yichang 5G network"
     },
     {
       "asn_number": 140522,
@@ -20148,15 +20144,15 @@
     },
     {
       "asn_number": 140521,
-      "asn_name": "CHINATELECOM GUANGXI HEZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM GUANGXI province HeZhou 5G network"
     },
     {
       "asn_number": 140520,
-      "asn_name": "CHINATELECOM GUANGXI LAIBIN 5G NETWORK"
+      "asn_name": "CHINATELECOM GUANGXI province LaiBin 5G network"
     },
     {
       "asn_number": 140519,
-      "asn_name": "CHINATELECOM GUANGXI CHONGZUO 5G NETWORK"
+      "asn_name": "CHINATELECOM GUANGXI province ChongZuo 5G network"
     },
     {
       "asn_number": 140518,
@@ -20176,7 +20172,7 @@
     },
     {
       "asn_number": 140514,
-      "asn_name": "CHINATELECOM GUANGXI GUIGANG 5G NETWORK"
+      "asn_name": "CHINATELECOM GUANGXI province GuiGang 5G network"
     },
     {
       "asn_number": 140513,
@@ -20188,7 +20184,7 @@
     },
     {
       "asn_number": 140511,
-      "asn_name": "CHINATELECOM GUANGXI GUILIN 5G NETWORK"
+      "asn_name": "CHINATELECOM GUANGXI province GuiLin 5G network"
     },
     {
       "asn_number": 140510,
@@ -20196,7 +20192,7 @@
     },
     {
       "asn_number": 140509,
-      "asn_name": "CHINATELECOM GUANGXI NANNING 5G NETWORK"
+      "asn_name": "CHINATELECOM GUANGXI province NanNing 5G network"
     },
     {
       "asn_number": 140508,
@@ -20208,11 +20204,11 @@
     },
     {
       "asn_number": 140496,
-      "asn_name": "CHINATELECOM ZHEJIANG LISHUI 5G NETWORK"
+      "asn_name": "CHINATELECOM ZHEJIANG province LISHUI 5G network"
     },
     {
       "asn_number": 140495,
-      "asn_name": "CHINATELECOM ZHEJIANG QUZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM ZHEJIANG province QUZHOU 5G network"
     },
     {
       "asn_number": 140494,
@@ -20224,7 +20220,7 @@
     },
     {
       "asn_number": 140492,
-      "asn_name": "CHINATELECOM ZHEJIANG SHAOXING 5G NETWORK"
+      "asn_name": "CHINATELECOM ZHEJIANG province SHAOXING 5G network"
     },
     {
       "asn_number": 140491,
@@ -20240,15 +20236,15 @@
     },
     {
       "asn_number": 140488,
-      "asn_name": "CHINATELECOM ZHEJIANG NINGBO 5G NETWORK"
+      "asn_name": "CHINATELECOM ZHEJIANG province NINGBO 5G network"
     },
     {
       "asn_number": 140487,
-      "asn_name": "CHINATELECOM ZHEJIANG HANGZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM ZHEJIANG province HANGZHOU 5G network"
     },
     {
       "asn_number": 140483,
-      "asn_name": "CHINATELECOM ZHEJIANG SHENGJI 5G NETWORK"
+      "asn_name": "CHINATELECOM ZHEJIANG province Shengji 5G network"
     },
     {
       "asn_number": 140378,
@@ -20256,7 +20252,7 @@
     },
     {
       "asn_number": 140377,
-      "asn_name": "CHINATELECOM HUNAN SHAOYANG 5G NETWORK"
+      "asn_name": "CHINATELECOM Hunan province Shaoyang 5G network"
     },
     {
       "asn_number": 140376,
@@ -20280,7 +20276,7 @@
     },
     {
       "asn_number": 140371,
-      "asn_name": "CHINATELECOM HUNAN YONGZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM Hunan province Yongzhou 5G network"
     },
     {
       "asn_number": 140370,
@@ -20288,11 +20284,11 @@
     },
     {
       "asn_number": 140369,
-      "asn_name": "CHINATELECOM HUNAN XIANGTAN 5G NETWORK"
+      "asn_name": "CHINATELECOM Hunan province Xiangtan 5G network"
     },
     {
       "asn_number": 140368,
-      "asn_name": "CHINATELECOM HUNAN ZHUZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM Hunan province Zhuzhou 5G network"
     },
     {
       "asn_number": 140367,
@@ -20312,11 +20308,11 @@
     },
     {
       "asn_number": 140361,
-      "asn_name": "CHINATELECOM YUNNAN ZHAOTONG 5G NETWORK"
+      "asn_name": "CHINATELECOM Yunnan province Zhaotong 5G network"
     },
     {
       "asn_number": 140360,
-      "asn_name": "CHINATELECOM YUNNAN YUXI 5G NETWORK"
+      "asn_name": "CHINATELECOM Yunnan province Yuxi 5G network"
     },
     {
       "asn_number": 140359,
@@ -20324,7 +20320,7 @@
     },
     {
       "asn_number": 140358,
-      "asn_name": "CHINATELECOM YUNNAN QUJING 5G NETWORK"
+      "asn_name": "CHINATELECOM Yunnan province Qujing 5G network"
     },
     {
       "asn_number": 140357,
@@ -20332,7 +20328,7 @@
     },
     {
       "asn_number": 140356,
-      "asn_name": "CHINATELECOM YUNNAN NUJIANG 5G NETWORK"
+      "asn_name": "CHINATELECOM Yunnan province Nujiang 5G network"
     },
     {
       "asn_number": 140355,
@@ -20340,7 +20336,7 @@
     },
     {
       "asn_number": 140354,
-      "asn_name": "CHINATELECOM YUNNAN LIJIANG 5G NETWORK"
+      "asn_name": "CHINATELECOM Yunnan province Lijiang 5G network"
     },
     {
       "asn_number": 140353,
@@ -20360,7 +20356,7 @@
     },
     {
       "asn_number": 140349,
-      "asn_name": "CHINATELECOM YUNNAN CHUXIONG 5G NETWORK"
+      "asn_name": "CHINATELECOM Yunnan province Chuxiong 5G network"
     },
     {
       "asn_number": 140348,
@@ -20376,7 +20372,7 @@
     },
     {
       "asn_number": 140337,
-      "asn_name": "CHINATELECOM FUJIAN NANPING 5G NETWORK"
+      "asn_name": "CHINATELECOM Fujian province Nanping 5G network"
     },
     {
       "asn_number": 140336,
@@ -20404,7 +20400,7 @@
     },
     {
       "asn_number": 140328,
-      "asn_name": "CHINATELECOM FUJIAN SHENGJI 5G NETWORK"
+      "asn_name": "CHINATELECOM Fujian province Shengji 5G network"
     },
     {
       "asn_number": 140320,
@@ -20412,11 +20408,11 @@
     },
     {
       "asn_number": 140319,
-      "asn_name": "CHINATELECOM GUANGDONG QINGYUAN 5G NETWORK"
+      "asn_name": "CHINATELECOM Guangdong province Qingyuan 5G network"
     },
     {
       "asn_number": 140318,
-      "asn_name": "CHINATELECOM GUANGDONG HEYUAN 5G NETWORK"
+      "asn_name": "CHINATELECOM Guangdong province Heyuan 5G network"
     },
     {
       "asn_number": 140316,
@@ -20424,11 +20420,11 @@
     },
     {
       "asn_number": 140315,
-      "asn_name": "CHINATELECOM GUANGDONG JIEYANG 5G NETWORK"
+      "asn_name": "CHINATELECOM Guangdong province Jieyang 5G network"
     },
     {
       "asn_number": 140314,
-      "asn_name": "CHINATELECOM GUANGDONG SHANTOU 5G NETWORK"
+      "asn_name": "CHINATELECOM Guangdong province Shantou 5G network"
     },
     {
       "asn_number": 140313,
@@ -20440,7 +20436,7 @@
     },
     {
       "asn_number": 140311,
-      "asn_name": "CHINATELECOM GUANGDONG JIANGMEN 5G NETWORK"
+      "asn_name": "CHINATELECOM Guangdong province Jiangmen 5G network"
     },
     {
       "asn_number": 140310,
@@ -20496,7 +20492,7 @@
     },
     {
       "asn_number": 140291,
-      "asn_name": "CHINATELECOM JIANGSU NANJING 5G NETWORK"
+      "asn_name": "CHINATELECOM Jiangsu province Nanjing 5G network"
     },
     {
       "asn_number": 140290,
@@ -20536,7 +20532,7 @@
     },
     {
       "asn_number": 140255,
-      "asn_name": "CHINATELECOM ANHUI CHUZHOU 5G NETWORK"
+      "asn_name": "CHINATELECOM Anhui province Chuzhou 5G network"
     },
     {
       "asn_number": 140254,
@@ -20548,7 +20544,7 @@
     },
     {
       "asn_number": 140252,
-      "asn_name": "CHINATELECOM ANHUI HUAIBEI 5G NETWORK"
+      "asn_name": "CHINATELECOM Anhui province Huaibei 5G network"
     },
     {
       "asn_number": 140251,
@@ -20588,7 +20584,7 @@
     },
     {
       "asn_number": 140053,
-      "asn_name": "CHINANET HUIZHOU AP"
+      "asn_name": "China Telecom"
     },
     {
       "asn_number": 140043,
@@ -20644,7 +20640,7 @@
     },
     {
       "asn_number": 138635,
-      "asn_name": "CHINATELECOM SHAANXI ANKANG 5G NETWORK"
+      "asn_name": "CHINATELECOM Shaanxi province Ankang 5G network"
     },
     {
       "asn_number": 138597,
@@ -20672,7 +20668,7 @@
     },
     {
       "asn_number": 138440,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "CERNET2 regional IX at Hainan Normal University"
     },
     {
       "asn_number": 138438,
@@ -20688,7 +20684,7 @@
     },
     {
       "asn_number": 138393,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "CERNET2 regional IX at Guangxi University"
     },
     {
       "asn_number": 138387,
@@ -20700,7 +20696,7 @@
     },
     {
       "asn_number": 138377,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "CERNET2 regional IX at Qinghai Normal University"
     },
     {
       "asn_number": 138376,
@@ -20756,7 +20752,7 @@
     },
     {
       "asn_number": 137401,
-      "asn_name": "CHINATELECOM HUBEI HUANGSHI 5G NETWORK"
+      "asn_name": "CHINATELECOM Hubei province Huangshi 5G network"
     },
     {
       "asn_number": 137256,
@@ -20773,6 +20769,10 @@
     {
       "asn_number": 136535,
       "asn_name": "Yang Mengqi"
+    },
+    {
+      "asn_number": 136199,
+      "asn_name": "CHINANET Guangdong province Yuedong MAN network"
     },
     {
       "asn_number": 134993,
