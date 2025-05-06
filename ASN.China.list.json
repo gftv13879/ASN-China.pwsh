@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-05 02:39:44",
+    "last_updated_utc": "2025-05-06 02:28:05",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5209
   },
@@ -491,10 +491,6 @@
       "asn_name": "Jiangsu Wuxi International IDC network"
     },
     {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
-    },
-    {
       "asn_number": 136180,
       "asn_name": "Beijing Tiantexin Tech. Co., Ltd."
     },
@@ -705,6 +701,10 @@
     {
       "asn_number": 137801,
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137746,
@@ -1017,6 +1017,10 @@
     {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
+    },
+    {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 18239,
@@ -1797,10 +1801,6 @@
     {
       "asn_number": 199406,
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
-    },
-    {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 18257,
