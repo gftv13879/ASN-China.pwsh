@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-06 02:28:05",
+    "last_updated_utc": "2025-05-07 02:29:10",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5209
   },
@@ -1313,10 +1313,6 @@
     {
       "asn_number": 131285,
       "asn_name": "CHINATELECOM Hubei province Shengji 5G network"
-    },
-    {
-      "asn_number": 131192,
-      "asn_name": "APNIC 32-bit ASN block"
     },
     {
       "asn_number": 10206,
@@ -2713,6 +2709,10 @@
     {
       "asn_number": 214921,
       "asn_name": "Yisong Wang"
+    },
+    {
+      "asn_number": 214911,
+      "asn_name": "Li Hang"
     },
     {
       "asn_number": 214899,
