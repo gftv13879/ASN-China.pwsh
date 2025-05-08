@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-07 02:29:10",
+    "last_updated_utc": "2025-05-08 02:37:38",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5209
   },
@@ -33,6 +33,10 @@
     {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
+    },
+    {
+      "asn_number": 153725,
+      "asn_name": "Tiannuonaite Wangluokeji (Hangzhou) Co Ltd"
     },
     {
       "asn_number": 4809,
@@ -135,10 +139,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
     },
@@ -153,6 +153,10 @@
     {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 9384,
@@ -215,6 +219,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 38365,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
@@ -225,10 +233,6 @@
     {
       "asn_number": 24409,
       "asn_name": "China Internet Network Infomation Center"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 136958,
@@ -1047,10 +1051,6 @@
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
     },
     {
-      "asn_number": 153725,
-      "asn_name": "Tiannuonaite Wangluokeji (Hangzhou) Co Ltd"
-    },
-    {
       "asn_number": 151464,
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
     },
@@ -1375,10 +1375,6 @@
       "asn_name": "Huawei Technologies Co., Ltd"
     },
     {
-      "asn_number": 63654,
-      "asn_name": "BEIJING NETEAST TECHNOLOGIES CORPORATION LTD"
-    },
-    {
       "asn_number": 63647,
       "asn_name": "Beijing WangJu Interworking Information Technology Co. LTD"
     },
@@ -1433,6 +1429,10 @@
     {
       "asn_number": 63538,
       "asn_name": "Shanghai Hengyi Network Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 63531,
+      "asn_name": "Beijing BAIWU Technology Co., Ltd."
     },
     {
       "asn_number": 59223,
@@ -1757,6 +1757,10 @@
     {
       "asn_number": 215786,
       "asn_name": "Peng Wang"
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 213769,
@@ -2757,10 +2761,6 @@
     {
       "asn_number": 214610,
       "asn_name": "YangXu Liao"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 214439,
