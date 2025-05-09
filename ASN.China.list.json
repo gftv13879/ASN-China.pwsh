@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-08 02:37:38",
+    "last_updated_utc": "2025-05-09 02:29:02",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5209
+    "entry_count": 5208
   },
   "asns": [
     {
@@ -83,12 +83,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 56048,
@@ -143,12 +143,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 140633,
@@ -183,12 +183,12 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+    },
+    {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 59045,
@@ -217,10 +217,6 @@
     {
       "asn_number": 24151,
       "asn_name": "China Internet Network Infomation Center"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 38365,
@@ -265,6 +261,10 @@
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 136237,
@@ -443,6 +443,10 @@
       "asn_name": "GSGH security LLC"
     },
     {
+      "asn_number": 38372,
+      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
+    },
+    {
       "asn_number": 38057,
       "asn_name": "Dell (China) Co.,Ltd"
     },
@@ -607,16 +611,16 @@
       "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
     },
     {
-      "asn_number": 38372,
-      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
-    },
-    {
       "asn_number": 38358,
       "asn_name": "3 Fuxing Road, Beijing, China"
     },
     {
       "asn_number": 38340,
       "asn_name": "263 Shanghai Communications Ltd."
+    },
+    {
+      "asn_number": 38019,
+      "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
       "asn_number": 24430,
@@ -741,6 +745,10 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -965,10 +973,6 @@
     {
       "asn_number": 38027,
       "asn_name": "Information Center, Ministry of Sci and Tech"
-    },
-    {
-      "asn_number": 38019,
-      "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
       "asn_number": 37942,
@@ -1293,10 +1297,6 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -1627,10 +1627,6 @@
       "asn_name": "Floor 9,Hua Sheng Building No.1 Lane 519 Ao Men Road,Shanghai"
     },
     {
-      "asn_number": 37968,
-      "asn_name": "ShenZhen QianHai New-Type Internet Exchange Point Co.,Ltd"
-    },
-    {
       "asn_number": 37937,
       "asn_name": "China eGovNet Information Center"
     },
@@ -1757,10 +1753,6 @@
     {
       "asn_number": 215786,
       "asn_name": "Peng Wang"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 213769,
@@ -2761,6 +2753,10 @@
     {
       "asn_number": 214610,
       "asn_name": "YangXu Liao"
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 214439,
