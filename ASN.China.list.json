@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-09 02:29:02",
+    "last_updated_utc": "2025-05-10 02:24:11",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5208
   },
@@ -443,10 +443,6 @@
       "asn_name": "GSGH security LLC"
     },
     {
-      "asn_number": 38372,
-      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
-    },
-    {
       "asn_number": 38057,
       "asn_name": "Dell (China) Co.,Ltd"
     },
@@ -611,6 +607,10 @@
       "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
     },
     {
+      "asn_number": 38372,
+      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
+    },
+    {
       "asn_number": 38358,
       "asn_name": "3 Fuxing Road, Beijing, China"
     },
@@ -745,10 +745,6 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1021,6 +1017,10 @@
     {
       "asn_number": 209218,
       "asn_name": "Yang Qi"
+    },
+    {
+      "asn_number": 199436,
+      "asn_name": "BangLong Yang"
     },
     {
       "asn_number": 199392,
@@ -1297,6 +1297,10 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -1753,6 +1757,10 @@
     {
       "asn_number": 215786,
       "asn_name": "Peng Wang"
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 213769,
@@ -2755,10 +2763,6 @@
       "asn_name": "YangXu Liao"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 214439,
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
@@ -3037,10 +3041,6 @@
     {
       "asn_number": 199832,
       "asn_name": "QUN LIN"
-    },
-    {
-      "asn_number": 199436,
-      "asn_name": "BangLong Yang"
     },
     {
       "asn_number": 198527,
