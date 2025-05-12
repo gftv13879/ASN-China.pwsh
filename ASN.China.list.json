@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-11 02:41:02",
+    "last_updated_utc": "2025-05-12 02:40:38",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5203
   },
@@ -159,16 +159,20 @@
       "asn_name": "BILIBILI HK LIMITED"
     },
     {
-      "asn_number": 9384,
-      "asn_name": "MIKU NETWORK LIMITED"
-    },
-    {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
     },
     {
+      "asn_number": 9384,
+      "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
       "asn_number": 45090,
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 55990,
@@ -177,10 +181,6 @@
     {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
-    },
-    {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 137718,
@@ -193,6 +193,10 @@
     {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
+    },
+    {
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
       "asn_number": 24138,
@@ -209,10 +213,6 @@
     {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
       "asn_number": 24151,
