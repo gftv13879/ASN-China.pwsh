@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-12 02:40:38",
+    "last_updated_utc": "2025-05-13 02:38:36",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5203
+    "entry_count": 5204
   },
   "asns": [
     {
@@ -143,10 +143,6 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 24413,
-      "asn_name": "263 Shanghai Communications Ltd."
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
@@ -161,6 +157,10 @@
     {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
+    },
+    {
+      "asn_number": 24413,
+      "asn_name": "263 Shanghai Communications Ltd."
     },
     {
       "asn_number": 9384,
@@ -195,10 +195,6 @@
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
     },
@@ -213,6 +209,10 @@
     {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
       "asn_number": 24151,
@@ -1789,6 +1789,10 @@
     {
       "asn_number": 211051,
       "asn_name": "Dazhong Technology Network Studio of Tieling County"
+    },
+    {
+      "asn_number": 209574,
+      "asn_name": "Xiao Tan"
     },
     {
       "asn_number": 205610,
