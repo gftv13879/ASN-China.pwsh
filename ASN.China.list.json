@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-14 02:29:21",
+    "last_updated_utc": "2025-05-15 02:28:28",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5202
+    "entry_count": 5204
   },
   "asns": [
     {
@@ -79,6 +79,10 @@
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
+      "asn_number": 4812,
+      "asn_name": "China Telecom (Group)"
+    },
+    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
@@ -87,20 +91,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 4812,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 24400,
@@ -115,10 +111,6 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
-      "asn_number": 137897,
-      "asn_name": "PAN-LIAN TECHNOLOGY CO., LIMITED"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
@@ -127,8 +119,16 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
+      "asn_number": 137897,
+      "asn_name": "PAN-LIAN TECHNOLOGY CO., LIMITED"
+    },
+    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 137753,
@@ -175,12 +175,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 137718,
-      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 137718,
+      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
       "asn_number": 135426,
@@ -263,6 +263,10 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 136237,
       "asn_name": "Shuangyu Communication Technology co.,Ltd."
     },
@@ -317,10 +321,6 @@
     {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139138,
@@ -683,10 +683,6 @@
       "asn_name": "Mintel Holding Limited"
     },
     {
-      "asn_number": 152092,
-      "asn_name": "Henan Angran Cloud Computing Technology Co. Ltd"
-    },
-    {
       "asn_number": 151397,
       "asn_name": "China Telecom"
     },
@@ -701,6 +697,10 @@
     {
       "asn_number": 139743,
       "asn_name": "Shen Zhen Shi Fang Technology Co., Limited"
+    },
+    {
+      "asn_number": 139080,
+      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
     },
     {
       "asn_number": 138545,
@@ -1177,10 +1177,6 @@
     {
       "asn_number": 139099,
       "asn_name": "Zhejiang Geely Holding Group"
-    },
-    {
-      "asn_number": 139080,
-      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
     },
     {
       "asn_number": 139061,
@@ -1859,6 +1855,10 @@
       "asn_name": "China Unicom TianJing GaoCun IDC network"
     },
     {
+      "asn_number": 152092,
+      "asn_name": "Henan Angran Cloud Computing Technology Co. Ltd"
+    },
+    {
       "asn_number": 151823,
       "asn_name": "China Telecom"
     },
@@ -1881,6 +1881,10 @@
     {
       "asn_number": 151284,
       "asn_name": "China Internet Network Information Center"
+    },
+    {
+      "asn_number": 151270,
+      "asn_name": "Sichuan Xiaoteyun Technology Co., Ltd"
     },
     {
       "asn_number": 151185,
@@ -2901,6 +2905,10 @@
     {
       "asn_number": 208872,
       "asn_name": "Jing Mi"
+    },
+    {
+      "asn_number": 208754,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 208679,
