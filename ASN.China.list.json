@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-26 02:42:44",
+    "last_updated_utc": "2025-05-27 02:37:23",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5206
+    "entry_count": 5205
   },
   "asns": [
     {
@@ -19,12 +19,12 @@
       "asn_name": "China Telecom Backbone"
     },
     {
-      "asn_number": 45102,
-      "asn_name": "Alibaba (US) Technology Co., Ltd."
-    },
-    {
       "asn_number": 132203,
       "asn_name": "Tencent Building, Kejizhongyi Avenue"
+    },
+    {
+      "asn_number": 45102,
+      "asn_name": "Alibaba (US) Technology Co., Ltd."
     },
     {
       "asn_number": 55967,
@@ -243,10 +243,6 @@
       "asn_name": "Yifu Yu"
     },
     {
-      "asn_number": 9814,
-      "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
-    },
-    {
       "asn_number": 56041,
       "asn_name": "China Mobile communications corporation"
     },
@@ -277,6 +273,10 @@
     {
       "asn_number": 133219,
       "asn_name": "NewMedia Express Pte Ltd"
+    },
+    {
+      "asn_number": 9814,
+      "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
     {
       "asn_number": 9812,
@@ -413,6 +413,10 @@
     {
       "asn_number": 55960,
       "asn_name": "Beijing Guanghuan Xinwang Digital"
+    },
+    {
+      "asn_number": 50922,
+      "asn_name": "SHI Li Li"
     },
     {
       "asn_number": 45110,
@@ -591,10 +595,6 @@
       "asn_name": "China Radio International"
     },
     {
-      "asn_number": 50922,
-      "asn_name": "SHI Li Li"
-    },
-    {
       "asn_number": 4816,
       "asn_name": "China Telecom (Group)"
     },
@@ -641,6 +641,10 @@
     {
       "asn_number": 23841,
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 209306,
@@ -749,6 +753,10 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1299,10 +1307,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
-    },
-    {
       "asn_number": 131562,
       "asn_name": "HUNAN CATV Network Group CO.,LTD."
     },
@@ -1761,10 +1765,6 @@
     {
       "asn_number": 215786,
       "asn_name": "Peng Wang"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 213769,
@@ -3033,10 +3033,6 @@
     {
       "asn_number": 200021,
       "asn_name": "Tianhong Peng"
-    },
-    {
-      "asn_number": 199932,
-      "asn_name": "Tianle Shi"
     },
     {
       "asn_number": 199832,
