@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-27 02:37:23",
+    "last_updated_utc": "2025-05-28 02:39:29",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5205
+    "entry_count": 5206
   },
   "asns": [
     {
@@ -67,12 +67,12 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 17621,
-      "asn_name": "China Unicom Shanghai network"
-    },
-    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
+    },
+    {
+      "asn_number": 17621,
+      "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 9808,
@@ -91,12 +91,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 56048,
-      "asn_name": "China Mobile Communicaitons Corporation"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 56048,
+      "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
       "asn_number": 24400,
@@ -179,12 +179,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 55996,
@@ -413,10 +413,6 @@
     {
       "asn_number": 55960,
       "asn_name": "Beijing Guanghuan Xinwang Digital"
-    },
-    {
-      "asn_number": 50922,
-      "asn_name": "SHI Li Li"
     },
     {
       "asn_number": 45110,
@@ -755,10 +751,6 @@
       "asn_name": "New York University ASN"
     },
     {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
-    },
-    {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
     },
@@ -915,10 +907,6 @@
       "asn_name": "HERBALIFE(SHANGHAI)MANAGEMENT CO.,LTD."
     },
     {
-      "asn_number": 55994,
-      "asn_name": "Shanghai ruisu Network Technology Co.,Ltd"
-    },
-    {
       "asn_number": 55982,
       "asn_name": "Changhong IT information Products CO.,LTD."
     },
@@ -929,6 +917,10 @@
     {
       "asn_number": 55958,
       "asn_name": "Intel China Ltd"
+    },
+    {
+      "asn_number": 50922,
+      "asn_name": "SHI Li Li"
     },
     {
       "asn_number": 4611,
@@ -1247,6 +1239,10 @@
       "asn_name": "Heilongjiang Province, P.R.China."
     },
     {
+      "asn_number": 136545,
+      "asn_name": "Blue Data Center"
+    },
+    {
       "asn_number": 136189,
       "asn_name": "Opera Software Technology (Beijing) Co., Ltd."
     },
@@ -1307,6 +1303,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
+    },
+    {
       "asn_number": 131562,
       "asn_name": "HUNAN CATV Network Group CO.,LTD."
     },
@@ -1321,6 +1321,10 @@
     {
       "asn_number": 131285,
       "asn_name": "CHINATELECOM Hubei province Shengji 5G network"
+    },
+    {
+      "asn_number": 131192,
+      "asn_name": "APNIC 32-bit ASN block"
     },
     {
       "asn_number": 10206,
@@ -1549,6 +1553,10 @@
     {
       "asn_number": 56003,
       "asn_name": "Beijing Century Union Network Technology Co.,LTD."
+    },
+    {
+      "asn_number": 55994,
+      "asn_name": "Shanghai ruisu Network Technology Co.,Ltd"
     },
     {
       "asn_number": 55991,
@@ -2311,10 +2319,6 @@
       "asn_name": "ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO., LTD"
     },
     {
-      "asn_number": 136545,
-      "asn_name": "Blue Data Center"
-    },
-    {
       "asn_number": 136200,
       "asn_name": "CHINANET Guangdong province Foshan MAN network"
     },
@@ -2911,10 +2915,6 @@
       "asn_name": "RIPE NCC ASN block"
     },
     {
-      "asn_number": 208698,
-      "asn_name": "Huang Zhijie"
-    },
-    {
       "asn_number": 208679,
       "asn_name": "YIKAI-ZHAO"
     },
@@ -3033,6 +3033,10 @@
     {
       "asn_number": 200021,
       "asn_name": "Tianhong Peng"
+    },
+    {
+      "asn_number": 199932,
+      "asn_name": "Tianle Shi"
     },
     {
       "asn_number": 199832,
