@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-28 02:39:29",
+    "last_updated_utc": "2025-05-29 02:39:24",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5206
+    "entry_count": 5208
   },
   "asns": [
     {
@@ -67,24 +67,24 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 4538,
-      "asn_name": "China Education and Research Network Center"
-    },
-    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 4538,
+      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 133865,
@@ -107,24 +107,24 @@
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
-      "asn_number": 137897,
-      "asn_name": "PAN-LIAN TECHNOLOGY CO., LIMITED"
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 137897,
+      "asn_name": "PAN-LIAN TECHNOLOGY CO., LIMITED"
     },
     {
       "asn_number": 9929,
@@ -395,6 +395,10 @@
       "asn_name": "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD."
     },
     {
+      "asn_number": 58850,
+      "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
+    },
+    {
       "asn_number": 58563,
       "asn_name": "CHINANET Hubei province network"
     },
@@ -559,10 +563,6 @@
       "asn_name": "China Financial Certification Authority"
     },
     {
-      "asn_number": 58850,
-      "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
-    },
-    {
       "asn_number": 58811,
       "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
@@ -655,6 +655,10 @@
       "asn_name": "State Power Information Net"
     },
     {
+      "asn_number": 18239,
+      "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
+    },
+    {
       "asn_number": 18118,
       "asn_name": "CITIC Networks Management Co.,Ltd."
     },
@@ -677,6 +681,10 @@
     {
       "asn_number": 152186,
       "asn_name": "Mintel Holding Limited"
+    },
+    {
+      "asn_number": 152092,
+      "asn_name": "Henan Angran Cloud Computing Technology Co. Ltd"
     },
     {
       "asn_number": 151397,
@@ -1027,10 +1035,6 @@
       "asn_name": "XIN BING XIAN"
     },
     {
-      "asn_number": 18239,
-      "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
-    },
-    {
       "asn_number": 17969,
       "asn_name": "ChongQing Broadcast & TV Transfer Network Co. Ltd"
     },
@@ -1133,6 +1137,10 @@
     {
       "asn_number": 140061,
       "asn_name": "Qinghai Telecom"
+    },
+    {
+      "asn_number": 139769,
+      "asn_name": "Guangzhou LinSeek Network Technology Co.Ltd"
     },
     {
       "asn_number": 139203,
@@ -1871,14 +1879,6 @@
       "asn_name": "China Unicom TianJing GaoCun IDC network"
     },
     {
-      "asn_number": 152092,
-      "asn_name": "Henan Angran Cloud Computing Technology Co. Ltd"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
-    },
-    {
       "asn_number": 151823,
       "asn_name": "China Telecom"
     },
@@ -2101,10 +2101,6 @@
     {
       "asn_number": 139887,
       "asn_name": "ChinaNet Shandong Yantai IDC network"
-    },
-    {
-      "asn_number": 139769,
-      "asn_name": "Guangzhou LinSeek Network Technology Co.Ltd"
     },
     {
       "asn_number": 139767,
@@ -2353,6 +2349,10 @@
     {
       "asn_number": 136146,
       "asn_name": "Beijing 3389 Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 135883,
+      "asn_name": "Ba Cai Yun (Beijing) Network Technology Co., Ltd"
     },
     {
       "asn_number": 135671,
@@ -2915,6 +2915,10 @@
       "asn_name": "RIPE NCC ASN block"
     },
     {
+      "asn_number": 208698,
+      "asn_name": "Huang Zhijie"
+    },
+    {
       "asn_number": 208679,
       "asn_name": "YIKAI-ZHAO"
     },
@@ -3173,6 +3177,10 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Mengsi Computer System Co Ltd"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
