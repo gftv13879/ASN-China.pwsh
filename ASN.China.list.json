@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-05-30 02:37:35",
+    "last_updated_utc": "2025-05-31 02:28:09",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5206
+    "entry_count": 5209
   },
   "asns": [
     {
@@ -91,20 +91,20 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 56048,
-      "asn_name": "China Mobile Communicaitons Corporation"
-    },
-    {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
+      "asn_number": 56048,
+      "asn_name": "China Mobile Communicaitons Corporation"
+    },
+    {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 142111,
@@ -135,6 +135,10 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
+    },
+    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
@@ -153,10 +157,6 @@
     {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 45090,
@@ -435,10 +435,6 @@
       "asn_name": "GSGH security LLC"
     },
     {
-      "asn_number": 38372,
-      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
-    },
-    {
       "asn_number": 38345,
       "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
@@ -605,6 +601,10 @@
     {
       "asn_number": 38379,
       "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
+    },
+    {
+      "asn_number": 38372,
+      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
     },
     {
       "asn_number": 38358,
@@ -1811,6 +1811,10 @@
       "asn_name": "Xiao Tan"
     },
     {
+      "asn_number": 207901,
+      "asn_name": "RIPE NCC ASN block"
+    },
+    {
       "asn_number": 205610,
       "asn_name": "Huanjie Zhu"
     },
@@ -1901,6 +1905,14 @@
     {
       "asn_number": 151284,
       "asn_name": "China Internet Network Information Center"
+    },
+    {
+      "asn_number": 151277,
+      "asn_name": "China Broadcast Network International Co.,Ltd"
+    },
+    {
+      "asn_number": 151261,
+      "asn_name": "Sichuan Xiaocong Cloud Supercomputing Technology Co., Ltd"
     },
     {
       "asn_number": 151185,
