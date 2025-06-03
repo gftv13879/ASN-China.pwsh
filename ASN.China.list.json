@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-02 02:45:49",
+    "last_updated_utc": "2025-06-03 02:41:37",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5209
   },
@@ -83,16 +83,16 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 56048,
-      "asn_name": "China Mobile Communicaitons Corporation"
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
+      "asn_number": 56048,
+      "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
       "asn_number": 139799,
@@ -239,6 +239,10 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -253,10 +257,6 @@
     {
       "asn_number": 45079,
       "asn_name": "GDS CHANGAN SERVICES Ltd."
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 24413,
@@ -741,10 +741,6 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1297,6 +1293,10 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
