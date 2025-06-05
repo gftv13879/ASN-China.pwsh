@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-04 02:42:02",
+    "last_updated_utc": "2025-06-05 02:41:19",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5210
   },
@@ -51,12 +51,12 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 10111,
       "asn_name": "Zeofast Network"
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 212793,
@@ -147,12 +147,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 45090,
@@ -2328,7 +2328,7 @@
     },
     {
       "asn_number": 136766,
-      "asn_name": "ROBLOX (SHENZHEN) DIGITAL SCIENCE AND TECHNOLOGY CO., LTD"
+      "asn_name": ""
     },
     {
       "asn_number": 136200,
