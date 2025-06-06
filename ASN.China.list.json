@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-05 02:41:19",
+    "last_updated_utc": "2025-06-06 02:40:48",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5210
   },
@@ -51,12 +51,12 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
-    },
-    {
       "asn_number": 4847,
       "asn_name": "China Networks Inter-Exchange"
+    },
+    {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 212793,
@@ -95,12 +95,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 58879,
@@ -263,6 +263,10 @@
       "asn_name": "263 Shanghai Communications Ltd."
     },
     {
+      "asn_number": 24406,
+      "asn_name": "China Internet Network Infomation Center"
+    },
+    {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
@@ -301,10 +305,6 @@
     {
       "asn_number": 42962,
       "asn_name": "CoreLink Network"
-    },
-    {
-      "asn_number": 24406,
-      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 23911,
@@ -411,10 +411,6 @@
       "asn_name": "China Telecom Yueyang"
     },
     {
-      "asn_number": 56282,
-      "asn_name": "Beijing Internet Harbor Technology Co., Ltd"
-    },
-    {
       "asn_number": 56013,
       "asn_name": "SAMSUNG SDS CHINA"
     },
@@ -519,6 +515,10 @@
       "asn_name": "WeiYi Network Technology Co., Ltd"
     },
     {
+      "asn_number": 63689,
+      "asn_name": "Esun Technology(Shanghai) Co.,Ltd"
+    },
+    {
       "asn_number": 63673,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
@@ -561,6 +561,10 @@
     {
       "asn_number": 58519,
       "asn_name": "Cloud Computing Corporation"
+    },
+    {
+      "asn_number": 56282,
+      "asn_name": "Beijing Internet Harbor Technology Co., Ltd"
     },
     {
       "asn_number": 56047,
@@ -813,10 +817,6 @@
     {
       "asn_number": 63718,
       "asn_name": "Hangzhou YouYun Technology Co., Ltd."
-    },
-    {
-      "asn_number": 63689,
-      "asn_name": "Esun Technology(Shanghai) Co.,Ltd"
     },
     {
       "asn_number": 63634,
@@ -1220,6 +1220,10 @@
     },
     {
       "asn_number": 137785,
+      "asn_name": "CACloud Services (Shanghai) Co., Ltd."
+    },
+    {
+      "asn_number": 137784,
       "asn_name": "CACloud Services (Shanghai) Co., Ltd."
     },
     {
@@ -2239,10 +2243,6 @@
       "asn_name": "Shanxi Beacon Cloudscape"
     },
     {
-      "asn_number": 137784,
-      "asn_name": "CACloud Services (Shanghai) Co., Ltd."
-    },
-    {
       "asn_number": 137782,
       "asn_name": "STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER COMPANY"
     },
@@ -2327,10 +2327,6 @@
       "asn_name": "Guangzhou Fengyun Information Technology Co., Ltd."
     },
     {
-      "asn_number": 136766,
-      "asn_name": ""
-    },
-    {
       "asn_number": 136200,
       "asn_name": "CHINANET Guangdong province Foshan MAN network"
     },
@@ -2381,6 +2377,10 @@
     {
       "asn_number": 135054,
       "asn_name": "China Mobile Group Hainan Co., Ltd."
+    },
+    {
+      "asn_number": 135040,
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 135006,
