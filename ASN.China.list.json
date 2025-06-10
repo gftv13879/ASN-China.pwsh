@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-09 02:47:40",
+    "last_updated_utc": "2025-06-10 02:43:43",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5210
+    "entry_count": 5212
   },
   "asns": [
     {
@@ -687,10 +687,6 @@
       "asn_name": "China Mobile Group AnHui communications corporation"
     },
     {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
-    },
-    {
       "asn_number": 139743,
       "asn_name": "Shen Zhen Shi Fang Technology Co., Limited"
     },
@@ -721,10 +717,6 @@
     {
       "asn_number": 136195,
       "asn_name": "China Telecom Dehong"
-    },
-    {
-      "asn_number": 136160,
-      "asn_name": "Beijing Shijihulian Yuntong Network Technology Co., Ltd."
     },
     {
       "asn_number": 135629,
@@ -1139,6 +1131,10 @@
       "asn_name": "Qinghai Telecom"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 139769,
       "asn_name": "Guangzhou LinSeek Network Technology Co.Ltd"
     },
@@ -1245,6 +1241,10 @@
     {
       "asn_number": 136189,
       "asn_name": "Opera Software Technology (Beijing) Co., Ltd."
+    },
+    {
+      "asn_number": 136160,
+      "asn_name": "Beijing Shijihulian Yuntong Network Technology Co., Ltd."
     },
     {
       "asn_number": 135363,
@@ -1800,7 +1800,7 @@
     },
     {
       "asn_number": 207901,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "ZHOU ZEFENG"
     },
     {
       "asn_number": 205610,
@@ -2879,6 +2879,10 @@
       "asn_name": "RIPE NCC ASN block"
     },
     {
+      "asn_number": 210426,
+      "asn_name": "Liang Zhu"
+    },
+    {
       "asn_number": 210352,
       "asn_name": "RIPE NCC ASN block"
     },
@@ -2928,7 +2932,11 @@
     },
     {
       "asn_number": 208754,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "XingRui Li"
+    },
+    {
+      "asn_number": 208698,
+      "asn_name": "Huang Zhijie"
     },
     {
       "asn_number": 208679,
