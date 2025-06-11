@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-10 02:43:43",
+    "last_updated_utc": "2025-06-11 02:42:46",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5212
+    "entry_count": 5213
   },
   "asns": [
     {
@@ -83,16 +83,16 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+      "asn_number": 56048,
+      "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 56048,
-      "asn_name": "China Mobile Communicaitons Corporation"
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 139799,
@@ -103,16 +103,20 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 146788,
+      "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
       "asn_number": 137897,
@@ -121,10 +125,6 @@
     {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
-      "asn_number": 146788,
-      "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
       "asn_number": 9929,
@@ -167,10 +167,6 @@
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
-      "asn_number": 9384,
-      "asn_name": "MIKU NETWORK LIMITED"
-    },
-    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
     },
@@ -181,6 +177,10 @@
     {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 9384,
+      "asn_name": "MIKU NETWORK LIMITED"
     },
     {
       "asn_number": 135426,
@@ -371,10 +371,6 @@
       "asn_name": "21Vianet.Co.,Ltd"
     },
     {
-      "asn_number": 152711,
-      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
-    },
-    {
       "asn_number": 150173,
       "asn_name": "PoloCloud Computing (Hong Kong) Limited"
     },
@@ -409,10 +405,6 @@
     {
       "asn_number": 56013,
       "asn_name": "SAMSUNG SDS CHINA"
-    },
-    {
-      "asn_number": 55960,
-      "asn_name": "Beijing Guanghuan Xinwang Digital"
     },
     {
       "asn_number": 45110,
@@ -461,6 +453,10 @@
     {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
+    },
+    {
+      "asn_number": 152711,
+      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
       "asn_number": 139721,
@@ -569,6 +565,10 @@
     {
       "asn_number": 56019,
       "asn_name": "Beijing ShuJuJia Technology Co., Ltd."
+    },
+    {
+      "asn_number": 55960,
+      "asn_name": "Beijing Guanghuan Xinwang Digital"
     },
     {
       "asn_number": 55956,
@@ -737,6 +737,10 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1047,6 +1051,10 @@
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
     },
     {
+      "asn_number": 153911,
+      "asn_name": "APNIC ASN block"
+    },
+    {
       "asn_number": 151464,
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
     },
@@ -1301,10 +1309,6 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -1853,10 +1857,6 @@
     {
       "asn_number": 17442,
       "asn_name": "Internet Service Provider in China"
-    },
-    {
-      "asn_number": 153911,
-      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 153633,
@@ -2545,6 +2545,10 @@
     {
       "asn_number": 131497,
       "asn_name": "Volkswagen (China) Investment Co., LTD"
+    },
+    {
+      "asn_number": 131483,
+      "asn_name": "Jiangsu Dongyun Cloud computing co., LTD"
     },
     {
       "asn_number": 131482,
