@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-13 02:42:52",
+    "last_updated_utc": "2025-06-14 02:37:08",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5211
+    "entry_count": 5212
   },
   "asns": [
     {
@@ -67,12 +67,12 @@
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 4812,
@@ -103,16 +103,16 @@
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 146788,
@@ -171,12 +171,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 135426,
@@ -239,6 +239,10 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
+      "asn_number": 24406,
+      "asn_name": "China Internet Network Infomation Center"
+    },
+    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -255,20 +259,12 @@
       "asn_name": "263 Shanghai Communications Ltd."
     },
     {
-      "asn_number": 24406,
-      "asn_name": "China Internet Network Infomation Center"
-    },
-    {
       "asn_number": 136958,
       "asn_name": "China Unicom Guangdong IP network"
     },
     {
       "asn_number": 136237,
       "asn_name": "Shuangyu Communication Technology co.,Ltd."
-    },
-    {
-      "asn_number": 136173,
-      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
     },
     {
       "asn_number": 133219,
@@ -313,6 +309,10 @@
     {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 136173,
+      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
     },
     {
       "asn_number": 134774,
@@ -789,10 +789,6 @@
     {
       "asn_number": 63603,
       "asn_name": "GSS China"
-    },
-    {
-      "asn_number": 63582,
-      "asn_name": "Chinese Academy of Telecommunication Research"
     },
     {
       "asn_number": 63581,
@@ -1391,6 +1387,10 @@
       "asn_name": "Chinese Academy of Telecommunication Research"
     },
     {
+      "asn_number": 63582,
+      "asn_name": "Chinese Academy of Telecommunication Research"
+    },
+    {
       "asn_number": 63571,
       "asn_name": "Shenzhen cyberlink Century Investment Co., Ltd."
     },
@@ -1513,6 +1513,10 @@
     {
       "asn_number": 58517,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 56045,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 56042,
@@ -2079,6 +2083,10 @@
       "asn_name": "CHINATELECOM Fujian province Fuzhou 5G network"
     },
     {
+      "asn_number": 140319,
+      "asn_name": "CHINATELECOM Guangdong province Qingyuan 5G network"
+    },
+    {
       "asn_number": 140293,
       "asn_name": "CHINATELECOM Jiangsu province Changzhou 5G network"
     },
@@ -2587,6 +2595,10 @@
       "asn_name": "Dong Ran Yang"
     },
     {
+      "asn_number": 48301,
+      "asn_name": "YANG FANG"
+    },
+    {
       "asn_number": 45576,
       "asn_name": "Tsinghua University"
     },
@@ -2721,10 +2733,6 @@
     {
       "asn_number": 214921,
       "asn_name": "Yisong Wang"
-    },
-    {
-      "asn_number": 214911,
-      "asn_name": "Li Hang"
     },
     {
       "asn_number": 214899,
@@ -20417,10 +20425,6 @@
     {
       "asn_number": 140320,
       "asn_name": "CHINATELECOM Guangdong province Shanwei 5G network"
-    },
-    {
-      "asn_number": 140319,
-      "asn_name": "CHINATELECOM Guangdong province Qingyuan 5G network"
     },
     {
       "asn_number": 140318,
