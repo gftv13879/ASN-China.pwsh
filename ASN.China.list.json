@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-15 02:50:50",
+    "last_updated_utc": "2025-06-16 02:47:04",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5221
   },
@@ -199,16 +199,16 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38365,
@@ -359,6 +359,10 @@
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
     {
+      "asn_number": 63641,
+      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
+    },
+    {
       "asn_number": 58593,
       "asn_name": "Shanghai Blue Cloud Technology Co.,Ltd"
     },
@@ -409,10 +413,6 @@
     {
       "asn_number": 7721,
       "asn_name": "Qin Cloud Networks"
-    },
-    {
-      "asn_number": 63641,
-      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
     },
     {
       "asn_number": 59009,
@@ -1417,6 +1417,10 @@
     {
       "asn_number": 131536,
       "asn_name": "Shanghai Great Wall Broadband Network Service Co., Ltd."
+    },
+    {
+      "asn_number": 131516,
+      "asn_name": "Jinhua Weian InfoTech Co., Ltd"
     },
     {
       "asn_number": 131506,
@@ -2585,10 +2589,6 @@
     {
       "asn_number": 131519,
       "asn_name": "Hisense"
-    },
-    {
-      "asn_number": 131516,
-      "asn_name": "Jinhua Weian InfoTech Co., Ltd"
     },
     {
       "asn_number": 131497,
