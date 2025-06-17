@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-16 02:47:04",
+    "last_updated_utc": "2025-06-17 02:43:23",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5221
   },
@@ -79,6 +79,10 @@
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
     },
@@ -89,10 +93,6 @@
     {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 56048,
@@ -147,12 +147,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 45090,
@@ -227,6 +227,10 @@
       "asn_name": "China Enterprise ICT Solutions Limited"
     },
     {
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
+    },
+    {
       "asn_number": 24409,
       "asn_name": "China Internet Network Infomation Center"
     },
@@ -241,10 +245,6 @@
     {
       "asn_number": 59019,
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
-    },
-    {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 24406,
@@ -285,6 +285,10 @@
     {
       "asn_number": 136237,
       "asn_name": "Shuangyu Communication Technology co.,Ltd."
+    },
+    {
+      "asn_number": 133219,
+      "asn_name": "NewMedia Express Pte Ltd"
     },
     {
       "asn_number": 9394,
@@ -345,10 +349,6 @@
     {
       "asn_number": 134774,
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
-    },
-    {
-      "asn_number": 133219,
-      "asn_name": "NewMedia Express Pte Ltd"
     },
     {
       "asn_number": 9809,
@@ -729,6 +729,10 @@
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 142611,
+      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 141425,
@@ -2097,10 +2101,6 @@
     {
       "asn_number": 146746,
       "asn_name": "TaiKang Insurance Group CO.,LTD.,Wuhan Operating Center"
-    },
-    {
-      "asn_number": 142611,
-      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 142608,
