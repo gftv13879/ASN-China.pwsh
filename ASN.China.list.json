@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-17 02:43:23",
+    "last_updated_utc": "2025-06-18 02:42:16",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5221
+    "entry_count": 5223
   },
   "asns": [
     {
@@ -67,6 +67,10 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
     },
@@ -75,20 +79,16 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
-    },
-    {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 133865,
@@ -147,12 +147,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 45090,
@@ -247,10 +247,6 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
-      "asn_number": 24406,
-      "asn_name": "China Internet Network Infomation Center"
-    },
-    {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
@@ -273,6 +269,10 @@
     {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
+    },
+    {
+      "asn_number": 24406,
+      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 23650,
@@ -1083,10 +1083,6 @@
       "asn_name": "17/FL, International Bank Center,"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 213404,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
@@ -1137,10 +1133,6 @@
     {
       "asn_number": 151313,
       "asn_name": "Pacific Insurance Technology Co., Ltd"
-    },
-    {
-      "asn_number": 151270,
-      "asn_name": "Sichuan Xiaoteyun Technology Co., Ltd"
     },
     {
       "asn_number": 150166,
@@ -1213,10 +1205,6 @@
     {
       "asn_number": 140317,
       "asn_name": "CHINATELECOM Guangdong province Shaoguan 5G network"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139769,
@@ -1887,6 +1875,10 @@
       "asn_name": "Peng Wang"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 213769,
       "asn_name": "wang guanwei"
     },
@@ -2005,6 +1997,10 @@
     {
       "asn_number": 151277,
       "asn_name": "China Broadcast Network International Co.,Ltd"
+    },
+    {
+      "asn_number": 151270,
+      "asn_name": "Sichuan Xiaoteyun Technology Co., Ltd"
     },
     {
       "asn_number": 151261,
@@ -2209,6 +2205,10 @@
     {
       "asn_number": 140083,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139887,
@@ -2719,6 +2719,10 @@
       "asn_name": "China Next Generation Internet CERNET2"
     },
     {
+      "asn_number": 216412,
+      "asn_name": "YANG FANG"
+    },
+    {
       "asn_number": 216373,
       "asn_name": "Xin Xu"
     },
@@ -2809,10 +2813,6 @@
     {
       "asn_number": 214702,
       "asn_name": "HE qiang"
-    },
-    {
-      "asn_number": 214674,
-      "asn_name": "Lin Xunye"
     },
     {
       "asn_number": 214660,
@@ -2999,8 +2999,16 @@
       "asn_name": "Zhang Zongyu"
     },
     {
+      "asn_number": 207317,
+      "asn_name": "Tiefu Chen"
+    },
+    {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
+    },
+    {
+      "asn_number": 207091,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 206843,
