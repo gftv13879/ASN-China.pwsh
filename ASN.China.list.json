@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-20 02:42:47",
+    "last_updated_utc": "2025-06-21 02:38:02",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5218
+    "entry_count": 5220
   },
   "asns": [
     {
@@ -39,12 +39,12 @@
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 153725,
       "asn_name": "Tiannuonaite Wangluokeji (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 4808,
@@ -79,12 +79,12 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 4812,
@@ -163,16 +163,16 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
+      "asn_number": 137718,
+      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+    },
+    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
     },
     {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
-    },
-    {
-      "asn_number": 137718,
-      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
       "asn_number": 135426,
@@ -279,6 +279,10 @@
       "asn_name": "China Unicom Shenzen network"
     },
     {
+      "asn_number": 139138,
+      "asn_name": "Gopay Information Technology Co.,Ltd"
+    },
+    {
       "asn_number": 136237,
       "asn_name": "Shuangyu Communication Technology co.,Ltd."
     },
@@ -335,16 +339,8 @@
       "asn_name": "Changgong Zhang"
     },
     {
-      "asn_number": 17622,
-      "asn_name": "China Unicom Guangzhou network"
-    },
-    {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
-    },
-    {
-      "asn_number": 139138,
-      "asn_name": "Gopay Information Technology Co.,Ltd"
     },
     {
       "asn_number": 136173,
@@ -391,8 +387,8 @@
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
     {
-      "asn_number": 17816,
-      "asn_name": "China Unicom IP network China169 Guangdong province"
+      "asn_number": 17622,
+      "asn_name": "China Unicom Guangzhou network"
     },
     {
       "asn_number": 17429,
@@ -497,6 +493,14 @@
     {
       "asn_number": 17964,
       "asn_name": "Beijing Dian-Xin-Tong Network Technologies Co., Ltd."
+    },
+    {
+      "asn_number": 17962,
+      "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
+    },
+    {
+      "asn_number": 17816,
+      "asn_name": "China Unicom IP network China169 Guangdong province"
     },
     {
       "asn_number": 17775,
@@ -703,10 +707,6 @@
       "asn_name": "ChongQing Broadcast & TV Transfer Network Co. Ltd"
     },
     {
-      "asn_number": 17962,
-      "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
-    },
-    {
       "asn_number": 17781,
       "asn_name": "XINHUA NEWS AGENCY"
     },
@@ -764,7 +764,7 @@
     },
     {
       "asn_number": 137746,
-      "asn_name": "China Internet Network Information Center"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 137702,
@@ -805,10 +805,6 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1095,6 +1091,10 @@
       "asn_name": "Dazhong Technology Network Studio of Tieling County"
     },
     {
+      "asn_number": 199436,
+      "asn_name": "BangLong Yang"
+    },
+    {
       "asn_number": 199310,
       "asn_name": "XIN BING XIAN"
     },
@@ -1119,16 +1119,16 @@
       "asn_name": "APNIC ASN block"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
     {
       "asn_number": 151464,
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 151331,
+      "asn_name": "Yang Banglong"
     },
     {
       "asn_number": 151313,
@@ -1389,6 +1389,10 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -1911,10 +1915,6 @@
       "asn_name": "Han Dai"
     },
     {
-      "asn_number": 199436,
-      "asn_name": "BangLong Yang"
-    },
-    {
       "asn_number": 199406,
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
     },
@@ -1959,6 +1959,10 @@
       "asn_name": "KVQNET"
     },
     {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
     },
@@ -2000,6 +2004,10 @@
     },
     {
       "asn_number": 151185,
+      "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 151058,
       "asn_name": "China Telecom"
     },
     {
@@ -2177,6 +2185,14 @@
     {
       "asn_number": 140319,
       "asn_name": "CHINATELECOM Guangdong province Qingyuan 5G network"
+    },
+    {
+      "asn_number": 140311,
+      "asn_name": "CHINATELECOM Guangdong province Jiangmen 5G network"
+    },
+    {
+      "asn_number": 140309,
+      "asn_name": "CHINATELECOM Guangdong province Zhongshan 5G network"
     },
     {
       "asn_number": 140293,
@@ -2701,6 +2717,10 @@
     {
       "asn_number": 23910,
       "asn_name": "China Next Generation Internet CERNET2"
+    },
+    {
+      "asn_number": 216412,
+      "asn_name": "YANG FANG"
     },
     {
       "asn_number": 216373,
@@ -3425,10 +3445,6 @@
     {
       "asn_number": 151423,
       "asn_name": "China Education and Research Network (CERNET)"
-    },
-    {
-      "asn_number": 151331,
-      "asn_name": "Yang Banglong"
     },
     {
       "asn_number": 151202,
@@ -20483,16 +20499,8 @@
       "asn_name": "CHINATELECOM Guangdong province Zhanjiang 5G network"
     },
     {
-      "asn_number": 140311,
-      "asn_name": "CHINATELECOM Guangdong province Jiangmen 5G network"
-    },
-    {
       "asn_number": 140310,
       "asn_name": "CHINATELECOM Guangdong province Dongguan 5G network"
-    },
-    {
-      "asn_number": 140309,
-      "asn_name": "CHINATELECOM Guangdong province Zhongshan 5G network"
     },
     {
       "asn_number": 140308,
