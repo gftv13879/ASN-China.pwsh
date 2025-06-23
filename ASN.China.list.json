@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-22 02:51:23",
+    "last_updated_utc": "2025-06-23 02:51:25",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5221
+    "entry_count": 5223
   },
   "asns": [
     {
@@ -75,16 +75,16 @@
       "asn_name": "China Education and Research Network Center"
     },
     {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 4812,
@@ -99,12 +99,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 58879,
@@ -115,12 +115,12 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 137897,
@@ -187,6 +187,14 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
+      "asn_number": 24138,
+      "asn_name": "China TieTong Telecommunications Corporation"
+    },
+    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
@@ -195,16 +203,8 @@
       "asn_name": "CHINANET Guangdong province network"
     },
     {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
-    },
-    {
-      "asn_number": 24138,
-      "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 38365,
@@ -277,6 +277,10 @@
     {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 136237,
@@ -805,6 +809,10 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1389,10 +1397,6 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -2169,6 +2173,10 @@
     {
       "asn_number": 140527,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 140498,
+      "asn_name": "Chengdu Qizhen Lingyi Internet Co Ltd"
     },
     {
       "asn_number": 140486,
