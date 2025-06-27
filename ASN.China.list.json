@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-26 02:43:47",
+    "last_updated_utc": "2025-06-27 02:44:44",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5221
+    "entry_count": 5222
   },
   "asns": [
     {
@@ -27,16 +27,16 @@
       "asn_name": "China Telecom Backbone"
     },
     {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
+    },
+    {
       "asn_number": 55967,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
-    },
-    {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 4809,
@@ -59,20 +59,16 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 212793,
-      "asn_name": "Xiwei Ye"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+      "asn_number": 212793,
+      "asn_name": "Xiwei Ye"
     },
     {
-      "asn_number": 4538,
-      "asn_name": "China Education and Research Network Center"
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 146762,
@@ -81,6 +77,10 @@
     {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 4538,
+      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 17621,
@@ -111,20 +111,16 @@
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 137897,
       "asn_name": "PAN-LIAN TECHNOLOGY CO., LIMITED"
     },
     {
-      "asn_number": 146788,
-      "asn_name": "China Broadcasting Network Co., Ltd"
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+      "asn_number": 146788,
+      "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
       "asn_number": 56040,
@@ -135,16 +131,24 @@
       "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 37963,
@@ -153,10 +157,6 @@
     {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 45090,
@@ -179,12 +179,12 @@
       "asn_name": "ZTE Corporation"
     },
     {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 55996,
@@ -279,6 +279,10 @@
       "asn_name": "China Unicom Shenzen network"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -341,10 +345,6 @@
     {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 136173,
@@ -817,10 +817,6 @@
     {
       "asn_number": 133119,
       "asn_name": "China Unicom IP network"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1393,6 +1389,10 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -2099,10 +2099,6 @@
       "asn_name": "TaiKang Insurance Group CO.,LTD.,Wuhan Operating Center"
     },
     {
-      "asn_number": 146641,
-      "asn_name": "China Education and Research Network (CERNET)"
-    },
-    {
       "asn_number": 142611,
       "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
@@ -2265,6 +2261,10 @@
     {
       "asn_number": 139189,
       "asn_name": "Beijing Yu Jia Heng Tong Communications and Information Co., Ltd."
+    },
+    {
+      "asn_number": 139187,
+      "asn_name": "WUHAN TWOTEN CULTURAL COMMUNICATION COMPANY LIMITED"
     },
     {
       "asn_number": 139183,
@@ -3908,6 +3908,10 @@
     },
     {
       "asn_number": 146642,
+      "asn_name": "China Education and Research Network (CERNET)"
+    },
+    {
+      "asn_number": 146641,
       "asn_name": "China Education and Research Network (CERNET)"
     },
     {
