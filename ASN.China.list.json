@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-27 02:44:44",
+    "last_updated_utc": "2025-06-28 02:39:15",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5222
+    "entry_count": 5223
   },
   "asns": [
     {
@@ -27,16 +27,16 @@
       "asn_name": "China Telecom Backbone"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
-    },
-    {
       "asn_number": 55967,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
+    },
+    {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 4809,
@@ -75,16 +75,16 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 4812,
@@ -135,12 +135,12 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
-      "asn_number": 137753,
-      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 137753,
+      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
       "asn_number": 23724,
@@ -319,10 +319,6 @@
       "asn_name": "China Telecom HangZhou IDC"
     },
     {
-      "asn_number": 56041,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 56006,
       "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
     },
@@ -379,6 +375,10 @@
       "asn_name": "China Telecom Yueyang"
     },
     {
+      "asn_number": 56041,
+      "asn_name": "China Mobile communications corporation"
+    },
+    {
       "asn_number": 56012,
       "asn_name": "LGNET China"
     },
@@ -387,8 +387,8 @@
       "asn_name": "Post Savings Bank of China Tower A, No.3"
     },
     {
-      "asn_number": 24444,
-      "asn_name": "Shandong Mobile Communication Company Limited"
+      "asn_number": 24427,
+      "asn_name": "Freecomm Corporation"
     },
     {
       "asn_number": 17622,
@@ -463,8 +463,8 @@
       "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
     {
-      "asn_number": 24427,
-      "asn_name": "Freecomm Corporation"
+      "asn_number": 24444,
+      "asn_name": "Shandong Mobile Communication Company Limited"
     },
     {
       "asn_number": 23853,
@@ -823,10 +823,6 @@
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
     },
     {
-      "asn_number": 131516,
-      "asn_name": "Jinhua Weian InfoTech Co., Ltd"
-    },
-    {
       "asn_number": 9939,
       "asn_name": "DYXNET of Shenzhen Communication Co., Ltd."
     },
@@ -869,10 +865,6 @@
     {
       "asn_number": 63727,
       "asn_name": "Huawei"
-    },
-    {
-      "asn_number": 63718,
-      "asn_name": "Hangzhou YouYun Technology Co., Ltd."
     },
     {
       "asn_number": 63695,
@@ -1467,6 +1459,10 @@
       "asn_name": "Gansu Province Radio and Television Network Co., Ltd."
     },
     {
+      "asn_number": 63718,
+      "asn_name": "Hangzhou YouYun Technology Co., Ltd."
+    },
+    {
       "asn_number": 63708,
       "asn_name": "Guangdong LITONG Network Technology Limited"
     },
@@ -1747,6 +1743,10 @@
       "asn_name": "Floor 9,Hua Sheng Building No.1 Lane 519 Ao Men Road,Shanghai"
     },
     {
+      "asn_number": 37969,
+      "asn_name": "Hangzhou CloudZone Network Technology Co.,Ltd"
+    },
+    {
       "asn_number": 37937,
       "asn_name": "China eGovNet Information Center"
     },
@@ -1769,10 +1769,6 @@
     {
       "asn_number": 24415,
       "asn_name": "Jiangxi Broadcasting and TV information Network"
-    },
-    {
-      "asn_number": 24404,
-      "asn_name": "CNISP-Union Technology (Beijing) Co., Ltd"
     },
     {
       "asn_number": 24376,
@@ -1991,6 +1987,10 @@
       "asn_name": "Changzhou Jieyun Network Technology Co. Ltd."
     },
     {
+      "asn_number": 151295,
+      "asn_name": "Jiangsu Yinsuyun Network Technology Co. , Ltd."
+    },
+    {
       "asn_number": 151284,
       "asn_name": "China Internet Network Information Center"
     },
@@ -2025,6 +2025,10 @@
     {
       "asn_number": 149837,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 149793,
+      "asn_name": "Xin Yang Bai Xing Network Tecnology Co., Ltd"
     },
     {
       "asn_number": 149475,
@@ -2189,6 +2193,10 @@
     {
       "asn_number": 140319,
       "asn_name": "CHINATELECOM Guangdong province Qingyuan 5G network"
+    },
+    {
+      "asn_number": 140318,
+      "asn_name": "CHINATELECOM Guangdong province Heyuan 5G network"
     },
     {
       "asn_number": 140311,
@@ -2605,6 +2613,10 @@
     {
       "asn_number": 131519,
       "asn_name": "Hisense"
+    },
+    {
+      "asn_number": 131516,
+      "asn_name": "Jinhua Weian InfoTech Co., Ltd"
     },
     {
       "asn_number": 131497,
@@ -3453,10 +3465,6 @@
     {
       "asn_number": 151423,
       "asn_name": "China Education and Research Network (CERNET)"
-    },
-    {
-      "asn_number": 151295,
-      "asn_name": "Jiangsu Yinsuyun Network Technology Co. , Ltd."
     },
     {
       "asn_number": 151202,
@@ -20485,10 +20493,6 @@
     {
       "asn_number": 140320,
       "asn_name": "CHINATELECOM Guangdong province Shanwei 5G network"
-    },
-    {
-      "asn_number": 140318,
-      "asn_name": "CHINATELECOM Guangdong province Heyuan 5G network"
     },
     {
       "asn_number": 140316,
