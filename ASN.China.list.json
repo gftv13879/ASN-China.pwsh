@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-06-29 02:54:11",
+    "last_updated_utc": "2025-06-30 02:50:04",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5224
   },
@@ -59,16 +59,16 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 212793,
-      "asn_name": "Xiwei Ye"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 212793,
+      "asn_name": "Xiwei Ye"
     },
     {
       "asn_number": 146762,
@@ -199,12 +199,12 @@
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
-      "asn_number": 58466,
-      "asn_name": "CHINANET Guangdong province network"
-    },
-    {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
+    },
+    {
+      "asn_number": 58466,
+      "asn_name": "CHINANET Guangdong province network"
     },
     {
       "asn_number": 38365,
@@ -239,16 +239,16 @@
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
     {
-      "asn_number": 59019,
-      "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
-    },
-    {
       "asn_number": 42962,
       "asn_name": "CoreLink Network"
     },
     {
       "asn_number": 24409,
       "asn_name": "China Internet Network Infomation Center"
+    },
+    {
+      "asn_number": 59019,
+      "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
       "asn_number": 55992,
@@ -16848,7 +16848,7 @@
     },
     {
       "asn_number": 143410,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143409,
@@ -17212,7 +17212,7 @@
     },
     {
       "asn_number": 143319,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 143318,
