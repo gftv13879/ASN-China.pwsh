@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-07-04 02:44:14",
+    "last_updated_utc": "2025-07-05 02:39:10",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5223
   },
@@ -59,6 +59,10 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
+      "asn_number": 212793,
+      "asn_name": "Xiwei Ye"
+    },
+    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
@@ -69,10 +73,6 @@
     {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
-      "asn_number": 212793,
-      "asn_name": "Xiwei Ye"
     },
     {
       "asn_number": 4538,
@@ -183,16 +183,16 @@
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 59045,
@@ -215,10 +215,6 @@
       "asn_name": "CHINANET SiChuan Telecom Internet Data Center"
     },
     {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
-    },
-    {
       "asn_number": 24151,
       "asn_name": "China Internet Network Infomation Center"
     },
@@ -233,6 +229,10 @@
     {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 9814,
@@ -385,6 +385,10 @@
     {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
+    },
+    {
+      "asn_number": 151397,
+      "asn_name": "China Telecom"
     },
     {
       "asn_number": 150173,
@@ -739,12 +743,12 @@
       "asn_name": "Mintel Holding Limited"
     },
     {
-      "asn_number": 151397,
+      "asn_number": 148981,
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 148981,
-      "asn_name": "China Telecom"
+      "asn_number": 146782,
+      "asn_name": "University Of Chinese Academy Of Social Sciences"
     },
     {
       "asn_number": 141425,
@@ -1091,6 +1095,10 @@
       "asn_name": "17/FL, International Bank Center,"
     },
     {
+      "asn_number": 213625,
+      "asn_name": "Xuluo Chen"
+    },
+    {
       "asn_number": 213404,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
@@ -1101,6 +1109,10 @@
     {
       "asn_number": 211051,
       "asn_name": "Dazhong Technology Network Studio of Tieling County"
+    },
+    {
+      "asn_number": 209574,
+      "asn_name": "Xiao Tan"
     },
     {
       "asn_number": 17799,
@@ -1157,10 +1169,6 @@
     {
       "asn_number": 146806,
       "asn_name": "Beijing Yunlian Interactive Technology Co., Ltd."
-    },
-    {
-      "asn_number": 146782,
-      "asn_name": "University Of Chinese Academy Of Social Sciences"
     },
     {
       "asn_number": 146758,
@@ -1397,6 +1405,10 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 131577,
+      "asn_name": "Wuhan Unifiber Communication Co., Ltd."
     },
     {
       "asn_number": 131562,
@@ -1891,10 +1903,6 @@
       "asn_name": "wang guanwei"
     },
     {
-      "asn_number": 213625,
-      "asn_name": "Xuluo Chen"
-    },
-    {
       "asn_number": 213519,
       "asn_name": "HANG YANG"
     },
@@ -1909,10 +1917,6 @@
     {
       "asn_number": 211265,
       "asn_name": "GUI JIANG"
-    },
-    {
-      "asn_number": 209574,
-      "asn_name": "Xiao Tan"
     },
     {
       "asn_number": 207901,
@@ -2004,7 +2008,7 @@
     },
     {
       "asn_number": 151284,
-      "asn_name": "China Internet Network Information Center"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151277,
@@ -2351,6 +2355,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 138514,
+      "asn_name": "CHINATELECOM Shaanxi province Xianyang 5G network"
+    },
+    {
       "asn_number": 138457,
       "asn_name": "China Academy of Information and Communications Technology"
     },
@@ -2585,10 +2593,6 @@
     {
       "asn_number": 132019,
       "asn_name": "Earth network technology (Shanghai) Co., Ltd"
-    },
-    {
-      "asn_number": 131577,
-      "asn_name": "Wuhan Unifiber Communication Co., Ltd."
     },
     {
       "asn_number": 131567,
@@ -3312,47 +3316,47 @@
     },
     {
       "asn_number": 151462,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151461,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151460,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151459,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151458,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151457,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151456,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151455,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151454,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151453,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151452,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151451,
@@ -3360,15 +3364,15 @@
     },
     {
       "asn_number": 151450,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151449,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151448,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151447,
@@ -3376,83 +3380,83 @@
     },
     {
       "asn_number": 151446,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151445,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151444,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151443,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151442,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151441,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151440,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151439,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151438,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151437,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151436,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151435,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151434,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151433,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151432,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151431,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151430,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151429,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151428,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151427,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151426,
@@ -3464,11 +3468,11 @@
     },
     {
       "asn_number": 151424,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151423,
-      "asn_name": "China Education and Research Network (CERNET)"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151202,
@@ -20717,10 +20721,6 @@
     {
       "asn_number": 138535,
       "asn_name": "Wu Qi"
-    },
-    {
-      "asn_number": 138514,
-      "asn_name": "CHINATELECOM Shaanxi province Xianyang 5G network"
     },
     {
       "asn_number": 138513,
