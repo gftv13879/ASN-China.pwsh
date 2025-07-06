@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-07-05 02:39:10",
+    "last_updated_utc": "2025-07-06 02:52:43",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5223
   },
@@ -335,6 +335,10 @@
       "asn_name": "21Vianet.Co.,Ltd"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 136173,
       "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
     },
@@ -397,10 +401,6 @@
     {
       "asn_number": 140726,
       "asn_name": "UNICOM AnHui province network"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 138421,
@@ -747,10 +747,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 146782,
-      "asn_name": "University Of Chinese Academy Of Social Sciences"
-    },
-    {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
     },
@@ -1075,10 +1071,6 @@
       "asn_name": "CERNET2 IX at Southeast University"
     },
     {
-      "asn_number": 24349,
-      "asn_name": "CERNET2 IX at Peking University"
-    },
-    {
       "asn_number": 24149,
       "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
@@ -1169,6 +1161,10 @@
     {
       "asn_number": 146806,
       "asn_name": "Beijing Yunlian Interactive Technology Co., Ltd."
+    },
+    {
+      "asn_number": 146782,
+      "asn_name": "University Of Chinese Academy Of Social Sciences"
     },
     {
       "asn_number": 146758,
@@ -1847,6 +1843,10 @@
       "asn_name": "CERNET2 IX at Beijing University of Posts and Telecommunications"
     },
     {
+      "asn_number": 24349,
+      "asn_name": "CERNET2 IX at Peking University"
+    },
+    {
       "asn_number": 24302,
       "asn_name": "CRIS-CERNET"
     },
@@ -2353,10 +2353,6 @@
     {
       "asn_number": 138570,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 138514,
-      "asn_name": "CHINATELECOM Shaanxi province Xianyang 5G network"
     },
     {
       "asn_number": 138457,
@@ -20721,6 +20717,10 @@
     {
       "asn_number": 138535,
       "asn_name": "Wu Qi"
+    },
+    {
+      "asn_number": 138514,
+      "asn_name": "CHINATELECOM Shaanxi province Xianyang 5G network"
     },
     {
       "asn_number": 138513,
