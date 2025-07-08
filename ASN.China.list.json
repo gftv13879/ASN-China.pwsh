@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-07-07 02:50:35",
+    "last_updated_utc": "2025-07-08 02:45:37",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5223
   },
@@ -67,12 +67,12 @@
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
-      "asn_number": 4538,
-      "asn_name": "China Education and Research Network Center"
-    },
-    {
       "asn_number": 212793,
       "asn_name": "Xiwei Ye"
+    },
+    {
+      "asn_number": 4538,
+      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 146762,
@@ -107,20 +107,24 @@
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
-      "asn_number": 137897,
-      "asn_name": "PAN-LIAN TECHNOLOGY CO., LIMITED"
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
+      "asn_number": 146788,
+      "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 146788,
-      "asn_name": "China Broadcasting Network Co., Ltd"
+      "asn_number": 137897,
+      "asn_name": "PAN-LIAN TECHNOLOGY CO., LIMITED"
     },
     {
       "asn_number": 56040,
@@ -139,10 +143,6 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
     },
@@ -157,6 +157,10 @@
     {
       "asn_number": 45090,
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 55990,
@@ -177,10 +181,6 @@
     {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 44421,
@@ -603,10 +603,6 @@
       "asn_name": "TAIKANG INSURANCE GROUP CO.,LTD."
     },
     {
-      "asn_number": 59033,
-      "asn_name": "Esun Technology(Shanghai) Co.,Ltd"
-    },
-    {
       "asn_number": 58866,
       "asn_name": "China Financial Certification Authority"
     },
@@ -833,10 +829,6 @@
     {
       "asn_number": 133119,
       "asn_name": "China Unicom IP network"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1403,6 +1395,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
+    },
+    {
       "asn_number": 131577,
       "asn_name": "Wuhan Unifiber Communication Co., Ltd."
     },
@@ -1597,6 +1593,10 @@
     {
       "asn_number": 59034,
       "asn_name": "BeiJing Wish Network Technology CO.,LTD."
+    },
+    {
+      "asn_number": 59033,
+      "asn_name": "Esun Technology(Shanghai) Co.,Ltd"
     },
     {
       "asn_number": 59025,
@@ -2492,7 +2492,7 @@
     },
     {
       "asn_number": 135040,
-      "asn_name": "APNIC ASN block"
+      "asn_name": "Dongguan Xingxiu Technology Co., Ltd."
     },
     {
       "asn_number": 135006,
@@ -3024,7 +3024,7 @@
     },
     {
       "asn_number": 207091,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "Wang Junhao"
     },
     {
       "asn_number": 206843,
