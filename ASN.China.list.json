@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-07-20 03:01:43",
+    "last_updated_utc": "2025-07-21 03:00:37",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5228
   },
@@ -47,12 +47,12 @@
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
-      "asn_number": 209650,
-      "asn_name": "Wu Zhiyuan"
-    },
-    {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
+    },
+    {
+      "asn_number": 209650,
+      "asn_name": "Wu Zhiyuan"
     },
     {
       "asn_number": 4847,
@@ -83,12 +83,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 56048,
@@ -239,6 +239,10 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
+      "asn_number": 9812,
+      "asn_name": "Oriental Cable Network Co., Ltd."
+    },
+    {
       "asn_number": 59019,
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
@@ -257,6 +261,10 @@
     {
       "asn_number": 24406,
       "asn_name": "China Internet Network Infomation Center"
+    },
+    {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
       "asn_number": 23650,
@@ -281,10 +289,6 @@
     {
       "asn_number": 133219,
       "asn_name": "NewMedia Express Pte Ltd"
-    },
-    {
-      "asn_number": 9812,
-      "asn_name": "Oriental Cable Network Co., Ltd."
     },
     {
       "asn_number": 63646,
@@ -321,10 +325,6 @@
     {
       "asn_number": 37965,
       "asn_name": "Pacnet Business Solutions LTD"
-    },
-    {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
       "asn_number": 17428,
@@ -505,10 +505,6 @@
     {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
-    },
-    {
-      "asn_number": 142611,
-      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 141425,
@@ -729,6 +725,10 @@
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 142611,
+      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 140895,
