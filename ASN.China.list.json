@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-07-24 02:53:43",
+    "last_updated_utc": "2025-07-25 02:53:36",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5227
+    "entry_count": 5226
   },
   "asns": [
     {
@@ -79,16 +79,16 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 17621,
-      "asn_name": "China Unicom Shanghai network"
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+      "asn_number": 17621,
+      "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 56048,
@@ -103,12 +103,12 @@
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 4842,
@@ -223,6 +223,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -259,10 +263,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
@@ -281,10 +281,6 @@
     {
       "asn_number": 133219,
       "asn_name": "NewMedia Express Pte Ltd"
-    },
-    {
-      "asn_number": 63641,
-      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
     },
     {
       "asn_number": 59078,
@@ -341,6 +337,10 @@
     {
       "asn_number": 63646,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
+    },
+    {
+      "asn_number": 63641,
+      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
     },
     {
       "asn_number": 58593,
@@ -791,10 +791,6 @@
       "asn_name": "Zhengzhou longling technology ltd."
     },
     {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
-    },
-    {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
     },
@@ -845,6 +841,10 @@
     {
       "asn_number": 63727,
       "asn_name": "Huawei"
+    },
+    {
+      "asn_number": 63718,
+      "asn_name": "Hangzhou YouYun Technology Co., Ltd."
     },
     {
       "asn_number": 63695,
@@ -1355,6 +1355,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
+    },
+    {
       "asn_number": 131577,
       "asn_name": "Wuhan Unifiber Communication Co., Ltd."
     },
@@ -1429,10 +1433,6 @@
     {
       "asn_number": 63719,
       "asn_name": "Gansu Province Radio and Television Network Co., Ltd."
-    },
-    {
-      "asn_number": 63718,
-      "asn_name": "Hangzhou YouYun Technology Co., Ltd."
     },
     {
       "asn_number": 63708,
@@ -2061,10 +2061,6 @@
     {
       "asn_number": 146838,
       "asn_name": "China Broadcasting TV Net"
-    },
-    {
-      "asn_number": 146835,
-      "asn_name": "Nanchang index technology development Co.,LTD"
     },
     {
       "asn_number": 146817,
