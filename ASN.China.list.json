@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-07-29 03:05:23",
+    "last_updated_utc": "2025-07-30 02:57:58",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5225
   },
@@ -83,12 +83,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 56048,
@@ -127,16 +127,16 @@
       "asn_name": "China Netcom Backbone"
     },
     {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 23724,
@@ -647,10 +647,6 @@
       "asn_name": "Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China"
     },
     {
-      "asn_number": 24424,
-      "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
-    },
-    {
       "asn_number": 24348,
       "asn_name": "CERNET2 IX at Tsinghua University"
     },
@@ -705,6 +701,10 @@
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 142611,
+      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 140895,
@@ -781,6 +781,10 @@
     {
       "asn_number": 133952,
       "asn_name": "Zhengzhou longling technology ltd."
+    },
+    {
+      "asn_number": 133465,
+      "asn_name": "Duke Kunshan University"
     },
     {
       "asn_number": 131574,
@@ -1035,6 +1039,10 @@
       "asn_name": "Hebei Mobile Communication Company Limited"
     },
     {
+      "asn_number": 24424,
+      "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
+    },
+    {
       "asn_number": 24369,
       "asn_name": "CERNET2 IX at Northeast University"
     },
@@ -1103,10 +1111,6 @@
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
     },
     {
-      "asn_number": 151331,
-      "asn_name": "Sora You"
-    },
-    {
       "asn_number": 151270,
       "asn_name": "Sichuan Xiaoteyun Technology Co., Ltd"
     },
@@ -1141,10 +1145,6 @@
     {
       "asn_number": 146758,
       "asn_name": "ShangHai Sensetime Technology Development Co., Ltd."
-    },
-    {
-      "asn_number": 142611,
-      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 142608,
@@ -1341,10 +1341,6 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
-    },
-    {
-      "asn_number": 133465,
-      "asn_name": "Duke Kunshan University"
     },
     {
       "asn_number": 133111,
@@ -3485,6 +3481,10 @@
     {
       "asn_number": 151423,
       "asn_name": "APNIC ASN block"
+    },
+    {
+      "asn_number": 151331,
+      "asn_name": "Sora You"
     },
     {
       "asn_number": 151276,
