@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-07-30 02:57:58",
+    "last_updated_utc": "2025-07-31 02:57:17",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5225
+    "entry_count": 5226
   },
   "asns": [
     {
@@ -71,12 +71,16 @@
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 4812,
@@ -85,10 +89,6 @@
     {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
-    },
-    {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 56048,
@@ -105,6 +105,10 @@
     {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 7497,
@@ -127,10 +131,6 @@
       "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
@@ -147,12 +147,12 @@
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 45090,
-      "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 45090,
+      "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
       "asn_number": 55990,
@@ -191,12 +191,12 @@
       "asn_name": "CHINANET Guangdong province network"
     },
     {
-      "asn_number": 24138,
-      "asn_name": "China TieTong Telecommunications Corporation"
-    },
-    {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
+      "asn_number": 24138,
+      "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 44421,
@@ -375,6 +375,10 @@
       "asn_name": "China Unicom Guangzhou network"
     },
     {
+      "asn_number": 153726,
+      "asn_name": "Shanghai Huiduan Technology Co., LTD."
+    },
+    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -503,10 +507,6 @@
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
-      "asn_number": 153726,
-      "asn_name": "Shanghai Huiduan Technology Co., LTD."
-    },
-    {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
     },
@@ -577,6 +577,10 @@
     {
       "asn_number": 63548,
       "asn_name": "LENOVO (BEIJING) Co.ltd"
+    },
+    {
+      "asn_number": 63531,
+      "asn_name": "Beijing BAIWU Technology Co., Ltd."
     },
     {
       "asn_number": 59083,
@@ -787,6 +791,10 @@
       "asn_name": "Duke Kunshan University"
     },
     {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
+    },
+    {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
     },
@@ -881,10 +889,6 @@
     {
       "asn_number": 63561,
       "asn_name": "China Electronics Technology Cyber Security Co.,LTD"
-    },
-    {
-      "asn_number": 63531,
-      "asn_name": "Beijing BAIWU Technology Co., Ltd."
     },
     {
       "asn_number": 59074,
@@ -1107,8 +1111,16 @@
       "asn_name": "Shanghai Telecom Haplink Network Co., Ltd"
     },
     {
+      "asn_number": 151640,
+      "asn_name": "Bengbu Qingye Technology"
+    },
+    {
       "asn_number": 151464,
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 151277,
+      "asn_name": "China Broadcast Network International Co.,Ltd"
     },
     {
       "asn_number": 151270,
@@ -1295,10 +1307,6 @@
       "asn_name": "Opera Software Technology (Beijing) Co., Ltd."
     },
     {
-      "asn_number": 136160,
-      "asn_name": "Beijing Shijihulian Yuntong Network Technology Co., Ltd."
-    },
-    {
       "asn_number": 135363,
       "asn_name": "Beijing Dunhuang Heguang Information Technology Co.,Lt."
     },
@@ -1357,10 +1365,6 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131577,
@@ -1983,10 +1987,6 @@
       "asn_name": "APNIC ASN block"
     },
     {
-      "asn_number": 151277,
-      "asn_name": "China Broadcast Network International Co.,Ltd"
-    },
-    {
       "asn_number": 151261,
       "asn_name": "Sichuan Xiaocong Cloud Supercomputing Technology Co., Ltd"
     },
@@ -2473,6 +2473,10 @@
     {
       "asn_number": 136188,
       "asn_name": "China Telecom Yunnan Diqing MAN"
+    },
+    {
+      "asn_number": 136160,
+      "asn_name": "Beijing Shijihulian Yuntong Network Technology Co., Ltd."
     },
     {
       "asn_number": 136146,
