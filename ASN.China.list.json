@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-01 03:08:43",
+    "last_updated_utc": "2025-08-02 02:49:30",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5225
   },
@@ -95,12 +95,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 142111,
@@ -111,16 +111,16 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 56040,
@@ -147,12 +147,12 @@
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 45090,
-      "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 45090,
+      "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
       "asn_number": 55990,
@@ -283,6 +283,10 @@
       "asn_name": "NewMedia Express Pte Ltd"
     },
     {
+      "asn_number": 9812,
+      "asn_name": "Oriental Cable Network Co., Ltd."
+    },
+    {
       "asn_number": 63641,
       "asn_name": "Mega Vantage Information Consulting Co., Ltd."
     },
@@ -327,6 +331,10 @@
       "asn_name": "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD."
     },
     {
+      "asn_number": 9308,
+      "asn_name": "Abitcool(China) Inc."
+    },
+    {
       "asn_number": 63648,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
@@ -361,6 +369,10 @@
     {
       "asn_number": 45079,
       "asn_name": "GDS CHANGAN SERVICES Ltd."
+    },
+    {
+      "asn_number": 23853,
+      "asn_name": "Shanghai Data Solution Co., Ltd."
     },
     {
       "asn_number": 212237,
@@ -407,16 +419,8 @@
       "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
     },
     {
-      "asn_number": 9812,
-      "asn_name": "Oriental Cable Network Co., Ltd."
-    },
-    {
       "asn_number": 9394,
       "asn_name": "China TieTong Telecommunications Corporation"
-    },
-    {
-      "asn_number": 9308,
-      "asn_name": "Abitcool(China) Inc."
     },
     {
       "asn_number": 59009,
@@ -501,6 +505,10 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+    },
+    {
+      "asn_number": 142611,
+      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 141425,
@@ -659,10 +667,6 @@
       "asn_name": "Huashu media&Network Limited"
     },
     {
-      "asn_number": 23853,
-      "asn_name": "Shanghai Data Solution Co., Ltd."
-    },
-    {
       "asn_number": 23841,
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
     },
@@ -703,16 +707,8 @@
       "asn_name": "DuoTu Cloud"
     },
     {
-      "asn_number": 152186,
-      "asn_name": "Mintel Holding Limited"
-    },
-    {
       "asn_number": 148981,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 142611,
-      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 140895,
@@ -793,6 +789,10 @@
     {
       "asn_number": 133465,
       "asn_name": "Duke Kunshan University"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1107,6 +1107,10 @@
       "asn_name": "Shanghai Telecom Haplink Network Co., Ltd"
     },
     {
+      "asn_number": 152186,
+      "asn_name": "Mintel Holding Limited"
+    },
+    {
       "asn_number": 151640,
       "asn_name": "Bengbu Qingye Technology"
     },
@@ -1153,6 +1157,10 @@
     {
       "asn_number": 141998,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 141679,
+      "asn_name": "China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch"
     },
     {
       "asn_number": 140979,
@@ -1357,10 +1365,6 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131577,
@@ -1975,6 +1979,10 @@
       "asn_name": "Shenzhen Humeng Technology Co., Ltd"
     },
     {
+      "asn_number": 151302,
+      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
+    },
+    {
       "asn_number": 151296,
       "asn_name": "Changzhou Jieyun Network Technology Co. Ltd."
     },
@@ -2125,10 +2133,6 @@
     {
       "asn_number": 141739,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 141679,
-      "asn_name": "China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch"
     },
     {
       "asn_number": 141025,
@@ -3037,10 +3041,6 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
-    },
-    {
-      "asn_number": 207292,
-      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
