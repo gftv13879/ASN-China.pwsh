@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-03 03:06:02",
+    "last_updated_utc": "2025-08-04 03:08:06",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5226
   },
@@ -363,6 +363,10 @@
       "asn_name": "Post Savings Bank of China Tower A, No.3"
     },
     {
+      "asn_number": 45110,
+      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
+    },
+    {
       "asn_number": 45079,
       "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
@@ -441,10 +445,6 @@
     {
       "asn_number": 55960,
       "asn_name": "Beijing Guanghuan Xinwang Digital"
-    },
-    {
-      "asn_number": 45110,
-      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
     {
       "asn_number": 38381,
@@ -793,10 +793,6 @@
     {
       "asn_number": 133465,
       "asn_name": "Duke Kunshan University"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1367,6 +1363,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
+    },
+    {
       "asn_number": 131577,
       "asn_name": "Wuhan Unifiber Communication Co., Ltd."
     },
@@ -1377,6 +1377,10 @@
     {
       "asn_number": 131558,
       "asn_name": "Wal-mart (China) Investment Co., Ltd."
+    },
+    {
+      "asn_number": 131539,
+      "asn_name": "Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd"
     },
     {
       "asn_number": 131536,
@@ -2617,10 +2621,6 @@
     {
       "asn_number": 131541,
       "asn_name": "APNIC 32-bit ASN block"
-    },
-    {
-      "asn_number": 131539,
-      "asn_name": "Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd"
     },
     {
       "asn_number": 131524,
