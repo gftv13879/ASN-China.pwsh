@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-06 02:59:00",
+    "last_updated_utc": "2025-08-07 02:59:15",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5227
   },
@@ -41,10 +41,6 @@
     {
       "asn_number": 4809,
       "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
-      "asn_number": 153725,
-      "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
       "asn_number": 209650,
@@ -163,16 +159,16 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
-    },
-    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 9384,
@@ -199,10 +195,6 @@
       "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
-      "asn_number": 56046,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
     },
@@ -217,6 +209,10 @@
     {
       "asn_number": 10212,
       "asn_name": "China Enterprise ICT Solutions Limited"
+    },
+    {
+      "asn_number": 56046,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 38365,
@@ -487,6 +483,10 @@
       "asn_name": "State Power Information Net"
     },
     {
+      "asn_number": 18239,
+      "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
+    },
+    {
       "asn_number": 17964,
       "asn_name": "Beijing Dian-Xin-Tong Network Technologies Co., Ltd."
     },
@@ -667,10 +667,6 @@
       "asn_name": "CNNIC"
     },
     {
-      "asn_number": 18239,
-      "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
-    },
-    {
       "asn_number": 18118,
       "asn_name": "CITIC Networks Management Co.,Ltd."
     },
@@ -809,10 +805,6 @@
     {
       "asn_number": 9805,
       "asn_name": "SIEMENS LTD. CHINA"
-    },
-    {
-      "asn_number": 9803,
-      "asn_name": "Beijing Jingxun Public Information Technology Co., Ltd"
     },
     {
       "asn_number": 9405,
@@ -1111,6 +1103,10 @@
       "asn_name": "Shanghai Telecom Haplink Network Co., Ltd"
     },
     {
+      "asn_number": 153725,
+      "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
       "asn_number": 152186,
       "asn_name": "Mintel Holding Limited"
     },
@@ -1141,10 +1137,6 @@
     {
       "asn_number": 146812,
       "asn_name": "Deutsche Bank (China) Co., Ltd. Shanghai Branch"
-    },
-    {
-      "asn_number": 146806,
-      "asn_name": "Beijing Yunlian Interactive Technology Co., Ltd."
     },
     {
       "asn_number": 146758,
@@ -1405,6 +1397,10 @@
     {
       "asn_number": 10206,
       "asn_name": "China Unicom Zhongwei Cloud"
+    },
+    {
+      "asn_number": 9803,
+      "asn_name": "Beijing Jingxun Public Information Technology Co., Ltd"
     },
     {
       "asn_number": 9802,
@@ -2073,6 +2069,10 @@
     {
       "asn_number": 146809,
       "asn_name": "Poly facility (Beijing) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 146806,
+      "asn_name": "Beijing Yunlian Interactive Technology Co., Ltd."
     },
     {
       "asn_number": 146802,
