@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-07 02:59:15",
+    "last_updated_utc": "2025-08-08 02:58:30",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5227
+    "entry_count": 5228
   },
   "asns": [
     {
@@ -95,12 +95,12 @@
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 7497,
@@ -139,12 +139,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 45090,
@@ -191,12 +191,12 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 24138,
-      "asn_name": "China TieTong Telecommunications Corporation"
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
+    },
+    {
+      "asn_number": 24138,
+      "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 38283,
@@ -381,6 +381,10 @@
     {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
+    },
+    {
+      "asn_number": 151640,
+      "asn_name": "Bengbu Qingye Technology"
     },
     {
       "asn_number": 151397,
@@ -607,6 +611,10 @@
       "asn_name": "China Telecom (Group)"
     },
     {
+      "asn_number": 45086,
+      "asn_name": "Shanghai Yovole Networks Inc."
+    },
+    {
       "asn_number": 45075,
       "asn_name": "China Central Television"
     },
@@ -687,8 +695,8 @@
       "asn_name": "DuoTu Cloud"
     },
     {
-      "asn_number": 151640,
-      "asn_name": "Bengbu Qingye Technology"
+      "asn_number": 153725,
+      "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
       "asn_number": 148981,
@@ -987,10 +995,6 @@
       "asn_name": "2-5/F,Tower 2 and 1-12/F,Tower 3,SZITIC Square"
     },
     {
-      "asn_number": 45086,
-      "asn_name": "Shanghai Yovole Networks Inc."
-    },
-    {
       "asn_number": 45083,
       "asn_name": "Beijing haixunda Communication Co., Ltd"
     },
@@ -1101,10 +1105,6 @@
     {
       "asn_number": 17739,
       "asn_name": "Shanghai Telecom Haplink Network Co., Ltd"
-    },
-    {
-      "asn_number": 153725,
-      "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
       "asn_number": 152186,
@@ -2773,6 +2773,10 @@
     {
       "asn_number": 216173,
       "asn_name": "Guozhen Liu"
+    },
+    {
+      "asn_number": 216100,
+      "asn_name": "Rui Li"
     },
     {
       "asn_number": 216056,
