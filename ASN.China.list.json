@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-08 02:58:30",
+    "last_updated_utc": "2025-08-09 02:44:31",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5228
+    "entry_count": 5230
   },
   "asns": [
     {
@@ -51,12 +51,12 @@
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 4847,
       "asn_name": "China Networks Inter-Exchange"
+    },
+    {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 146762,
@@ -139,12 +139,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 45090,
@@ -191,12 +191,12 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38283,
@@ -383,10 +383,6 @@
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
-      "asn_number": 151640,
-      "asn_name": "Bengbu Qingye Technology"
-    },
-    {
       "asn_number": 151397,
       "asn_name": "China Telecom"
     },
@@ -487,10 +483,6 @@
       "asn_name": "State Power Information Net"
     },
     {
-      "asn_number": 18239,
-      "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
-    },
-    {
       "asn_number": 17964,
       "asn_name": "Beijing Dian-Xin-Tong Network Technologies Co., Ltd."
     },
@@ -509,6 +501,10 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+    },
+    {
+      "asn_number": 151640,
+      "asn_name": "Bengbu Qingye Technology"
     },
     {
       "asn_number": 141425,
@@ -627,6 +623,10 @@
       "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
     },
     {
+      "asn_number": 38372,
+      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
+    },
+    {
       "asn_number": 38358,
       "asn_name": "3 Fuxing Road, Beijing, China"
     },
@@ -673,6 +673,10 @@
     {
       "asn_number": 18245,
       "asn_name": "CNNIC"
+    },
+    {
+      "asn_number": 18239,
+      "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
     },
     {
       "asn_number": 18118,
@@ -785,10 +789,6 @@
     {
       "asn_number": 133465,
       "asn_name": "Duke Kunshan University"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1023,10 +1023,6 @@
       "asn_name": "Bosch (China) Investment Ltd."
     },
     {
-      "asn_number": 38372,
-      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
-    },
-    {
       "asn_number": 38027,
       "asn_name": "Information Center, Ministry of Sci and Tech"
     },
@@ -1117,6 +1113,10 @@
     {
       "asn_number": 151270,
       "asn_name": "Sichuan Xiaoteyun Technology Co., Ltd"
+    },
+    {
+      "asn_number": 151058,
+      "asn_name": "China Telecom"
     },
     {
       "asn_number": 150166,
@@ -1353,6 +1353,10 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -1991,10 +1995,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 151058,
-      "asn_name": "China Telecom"
-    },
-    {
       "asn_number": 150374,
       "asn_name": "Jiang Men Shi Tian Da Cloud Co. Ltd"
     },
@@ -2053,6 +2053,10 @@
     {
       "asn_number": 146838,
       "asn_name": "China Broadcasting TV Net"
+    },
+    {
+      "asn_number": 146835,
+      "asn_name": "Nanchang index technology development Co.,LTD"
     },
     {
       "asn_number": 146817,
@@ -3069,6 +3073,10 @@
     {
       "asn_number": 205794,
       "asn_name": "JINZE YANG"
+    },
+    {
+      "asn_number": 205779,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 205618,
