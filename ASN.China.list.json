@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-11 02:58:16",
+    "last_updated_utc": "2025-08-12 02:43:07",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5235
+    "entry_count": 5233
   },
   "asns": [
     {
@@ -39,12 +39,12 @@
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 199310,
       "asn_name": "XIN BING XIAN"
+    },
+    {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 209650,
@@ -71,12 +71,12 @@
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 133865,
@@ -119,12 +119,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 9929,
@@ -351,14 +351,6 @@
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
     },
     {
-      "asn_number": 9812,
-      "asn_name": "Oriental Cable Network Co., Ltd."
-    },
-    {
-      "asn_number": 9394,
-      "asn_name": "China TieTong Telecommunications Corporation"
-    },
-    {
       "asn_number": 9308,
       "asn_name": "Abitcool(China) Inc."
     },
@@ -429,6 +421,14 @@
     {
       "asn_number": 134773,
       "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
+    },
+    {
+      "asn_number": 9812,
+      "asn_name": "Oriental Cable Network Co., Ltd."
+    },
+    {
+      "asn_number": 9394,
+      "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 59009,
@@ -827,6 +827,10 @@
       "asn_name": "Duke Kunshan University"
     },
     {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
+    },
+    {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
     },
@@ -849,6 +853,10 @@
     {
       "asn_number": 9805,
       "asn_name": "SIEMENS LTD. CHINA"
+    },
+    {
+      "asn_number": 9803,
+      "asn_name": "Beijing Jingxun Public Information Technology Co., Ltd"
     },
     {
       "asn_number": 9405,
@@ -1407,10 +1415,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
-    },
-    {
       "asn_number": 131562,
       "asn_name": "HUNAN CATV Network Group CO.,LTD."
     },
@@ -1453,10 +1457,6 @@
     {
       "asn_number": 10206,
       "asn_name": "China Unicom Zhongwei Cloud"
-    },
-    {
-      "asn_number": 9803,
-      "asn_name": "Beijing Jingxun Public Information Technology Co., Ltd"
     },
     {
       "asn_number": 9802,
@@ -1889,10 +1889,6 @@
     {
       "asn_number": 214899,
       "asn_name": "Ye Liliang"
-    },
-    {
-      "asn_number": 213769,
-      "asn_name": "wang guanwei"
     },
     {
       "asn_number": 213519,
@@ -20141,10 +20137,6 @@
     {
       "asn_number": 141429,
       "asn_name": "Agatha Network"
-    },
-    {
-      "asn_number": 140961,
-      "asn_name": "ZX Internet Exchange"
     },
     {
       "asn_number": 140915,
