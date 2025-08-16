@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-15 02:47:31",
+    "last_updated_utc": "2025-08-16 02:39:28",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5233
   },
@@ -143,12 +143,12 @@
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 37963,
@@ -255,6 +255,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
@@ -343,16 +347,16 @@
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
     {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
       "asn_number": 137735,
       "asn_name": "China Construction Bank"
     },
     {
       "asn_number": 134774,
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
+    },
+    {
+      "asn_number": 9394,
+      "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 9308,
@@ -381,6 +385,10 @@
     {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
+    },
+    {
+      "asn_number": 17816,
+      "asn_name": "China Unicom IP network China169 Guangdong province"
     },
     {
       "asn_number": 17622,
@@ -429,10 +437,6 @@
     {
       "asn_number": 9812,
       "asn_name": "Oriental Cable Network Co., Ltd."
-    },
-    {
-      "asn_number": 9394,
-      "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 59009,
@@ -511,10 +515,6 @@
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
     {
-      "asn_number": 17816,
-      "asn_name": "China Unicom IP network China169 Guangdong province"
-    },
-    {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
     },
@@ -561,6 +561,10 @@
     {
       "asn_number": 135432,
       "asn_name": "Visa Information Technology Beijing Co. Ltd."
+    },
+    {
+      "asn_number": 135061,
+      "asn_name": "China Unicom Guangdong IP network"
     },
     {
       "asn_number": 131486,
@@ -703,6 +707,10 @@
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
     },
@@ -713,10 +721,6 @@
     {
       "asn_number": 18245,
       "asn_name": "CNNIC"
-    },
-    {
-      "asn_number": 18239,
-      "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
     },
     {
       "asn_number": 18118,
@@ -803,10 +807,6 @@
       "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
     },
     {
-      "asn_number": 135061,
-      "asn_name": "China Unicom Guangdong IP network"
-    },
-    {
       "asn_number": 134761,
       "asn_name": "CHINANET NINGXIA province ZHONGWEI IDC network"
     },
@@ -827,16 +827,16 @@
       "asn_name": "Zhengzhou longling technology ltd."
     },
     {
+      "asn_number": 133776,
+      "asn_name": "China Telecom Quanzhou"
+    },
+    {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
     },
     {
       "asn_number": 133465,
       "asn_name": "Duke Kunshan University"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1147,6 +1147,10 @@
       "asn_name": "SHIZHENG NIE"
     },
     {
+      "asn_number": 18239,
+      "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
+    },
+    {
       "asn_number": 17799,
       "asn_name": "asn for Liaoning Provincial Net of CT"
     },
@@ -1205,6 +1209,10 @@
     {
       "asn_number": 146758,
       "asn_name": "ShangHai Sensetime Technology Development Co., Ltd."
+    },
+    {
+      "asn_number": 142433,
+      "asn_name": "DATAWAVE GLOBAL LLC"
     },
     {
       "asn_number": 141998,
@@ -1395,10 +1403,6 @@
       "asn_name": "CHINANET Jiangx province IDC network"
     },
     {
-      "asn_number": 133776,
-      "asn_name": "China Telecom Quanzhou"
-    },
-    {
       "asn_number": 133774,
       "asn_name": "China Telecom Fujian Fuzhou IDC"
     },
@@ -1421,6 +1425,10 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -1899,10 +1907,6 @@
       "asn_name": "Ye Liliang"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 212164,
       "asn_name": "Jiaxian He"
     },
@@ -2137,10 +2141,6 @@
     {
       "asn_number": 142608,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 142433,
-      "asn_name": "DATAWAVE GLOBAL LLC"
     },
     {
       "asn_number": 142404,
