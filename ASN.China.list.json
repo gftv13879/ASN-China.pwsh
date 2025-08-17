@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-16 02:39:28",
+    "last_updated_utc": "2025-08-17 02:51:18",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5233
+    "entry_count": 5234
   },
   "asns": [
     {
@@ -119,12 +119,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 146788,
-      "asn_name": "China Broadcasting Network Co., Ltd"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 146788,
+      "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
       "asn_number": 9929,
@@ -711,10 +711,6 @@
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
-      "asn_number": 209306,
-      "asn_name": "Jin Shaohai"
-    },
-    {
       "asn_number": 205651,
       "asn_name": "Hao Qiao"
     },
@@ -753,10 +749,6 @@
     {
       "asn_number": 146782,
       "asn_name": "University Of Chinese Academy Of Social Sciences"
-    },
-    {
-      "asn_number": 142611,
-      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 140895,
@@ -837,6 +829,10 @@
     {
       "asn_number": 133465,
       "asn_name": "Duke Kunshan University"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1123,20 +1119,16 @@
       "asn_name": "Xuluo Chen"
     },
     {
-      "asn_number": 213404,
-      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
     },
     {
-      "asn_number": 210634,
-      "asn_name": "Netium IT Solutions LLC"
-    },
-    {
       "asn_number": 210041,
       "asn_name": "Licheng MAO"
+    },
+    {
+      "asn_number": 209306,
+      "asn_name": "Jin Shaohai"
     },
     {
       "asn_number": 209218,
@@ -1209,6 +1201,10 @@
     {
       "asn_number": 146758,
       "asn_name": "ShangHai Sensetime Technology Development Co., Ltd."
+    },
+    {
+      "asn_number": 142611,
+      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 142433,
@@ -1427,10 +1423,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
-    },
-    {
       "asn_number": 131562,
       "asn_name": "HUNAN CATV Network Group CO.,LTD."
     },
@@ -1549,6 +1541,10 @@
     {
       "asn_number": 63614,
       "asn_name": "A4, 5th Floor, Tower C, Triumph Plaza, Unit A, No 143,"
+    },
+    {
+      "asn_number": 63612,
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 63607,
@@ -1907,6 +1903,10 @@
       "asn_name": "Ye Liliang"
     },
     {
+      "asn_number": 213404,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 212164,
       "asn_name": "Jiaxian He"
     },
@@ -1921,6 +1921,10 @@
     {
       "asn_number": 211051,
       "asn_name": "Dazhong Technology Network Studio of Tieling County"
+    },
+    {
+      "asn_number": 210634,
+      "asn_name": "Netium IT Solutions LLC"
     },
     {
       "asn_number": 209574,
