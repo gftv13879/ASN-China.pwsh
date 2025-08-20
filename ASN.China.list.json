@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-19 02:28:23",
+    "last_updated_utc": "2025-08-20 02:26:48",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5234
+    "entry_count": 5232
   },
   "asns": [
     {
@@ -67,16 +67,16 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 133865,
@@ -99,12 +99,12 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 56040,
@@ -135,10 +135,6 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 45090,
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
@@ -147,12 +143,16 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 23724,
-      "asn_name": "IDC, China Telecommunications Corporation"
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 23724,
+      "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
       "asn_number": 55990,
@@ -387,6 +387,10 @@
       "asn_name": "Changgong Zhang"
     },
     {
+      "asn_number": 17816,
+      "asn_name": "China Unicom IP network China169 Guangdong province"
+    },
+    {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
     },
@@ -479,6 +483,10 @@
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
     },
     {
+      "asn_number": 24348,
+      "asn_name": "CERNET2 IX at Tsinghua University"
+    },
+    {
       "asn_number": 23853,
       "asn_name": "Shanghai Data Solution Co., Ltd."
     },
@@ -507,10 +515,6 @@
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
     {
-      "asn_number": 17816,
-      "asn_name": "China Unicom IP network China169 Guangdong province"
-    },
-    {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
     },
@@ -521,6 +525,10 @@
     {
       "asn_number": 151640,
       "asn_name": "Bengbu Qingye Technology"
+    },
+    {
+      "asn_number": 149304,
+      "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
     },
     {
       "asn_number": 141425,
@@ -561,6 +569,10 @@
     {
       "asn_number": 135432,
       "asn_name": "Visa Information Technology Beijing Co. Ltd."
+    },
+    {
+      "asn_number": 135061,
+      "asn_name": "China Unicom Guangdong IP network"
     },
     {
       "asn_number": 131486,
@@ -687,10 +699,6 @@
       "asn_name": "Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China"
     },
     {
-      "asn_number": 24348,
-      "asn_name": "CERNET2 IX at Tsinghua University"
-    },
-    {
       "asn_number": 24139,
       "asn_name": "Huashu media&Network Limited"
     },
@@ -799,10 +807,6 @@
       "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
     },
     {
-      "asn_number": 135061,
-      "asn_name": "China Unicom Guangdong IP network"
-    },
-    {
       "asn_number": 134761,
       "asn_name": "CHINANET NINGXIA province ZHONGWEI IDC network"
     },
@@ -833,6 +837,10 @@
     {
       "asn_number": 133465,
       "asn_name": "Duke Kunshan University"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1175,10 +1183,6 @@
       "asn_name": "The New Development Bank"
     },
     {
-      "asn_number": 149304,
-      "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
-    },
-    {
       "asn_number": 146842,
       "asn_name": "ChinaDataCom Corporation Limited"
     },
@@ -1421,10 +1425,6 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -2659,6 +2659,10 @@
       "asn_name": "Volkswagen (China) Investment Co., LTD"
     },
     {
+      "asn_number": 131490,
+      "asn_name": "CERNET Corporation"
+    },
+    {
       "asn_number": 131483,
       "asn_name": "Jiangsu Dongyun Cloud computing co., LTD"
     },
@@ -2701,10 +2705,6 @@
     {
       "asn_number": 49575,
       "asn_name": "Dong Ran Yang"
-    },
-    {
-      "asn_number": 48301,
-      "asn_name": "YANG FANG"
     },
     {
       "asn_number": 45576,
@@ -2931,10 +2931,6 @@
       "asn_name": "XI WU"
     },
     {
-      "asn_number": 213581,
-      "asn_name": "yuquan nie"
-    },
-    {
       "asn_number": 213545,
       "asn_name": "Wang Lei"
     },
@@ -3047,10 +3043,6 @@
       "asn_name": "XingRui Li"
     },
     {
-      "asn_number": 208698,
-      "asn_name": "Huang Zhijie"
-    },
-    {
       "asn_number": 208679,
       "asn_name": "YIKAI-ZHAO"
     },
@@ -3109,6 +3101,10 @@
     {
       "asn_number": 205532,
       "asn_name": "Zichao Heng"
+    },
+    {
+      "asn_number": 205369,
+      "asn_name": "LI YIRAN"
     },
     {
       "asn_number": 204185,
@@ -20845,10 +20841,6 @@
     {
       "asn_number": 137835,
       "asn_name": "Nathaniel Chan Jie Le"
-    },
-    {
-      "asn_number": 137799,
-      "asn_name": "China Guangfa Bank"
     },
     {
       "asn_number": 137726,
