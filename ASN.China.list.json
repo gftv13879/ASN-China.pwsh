@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-20 02:26:48",
+    "last_updated_utc": "2025-08-21 02:26:17",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5232
+    "entry_count": 5233
   },
   "asns": [
     {
@@ -67,6 +67,10 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
@@ -75,16 +79,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+      "asn_number": 4538,
+      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
-      "asn_number": 4538,
-      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 24400,
@@ -111,10 +111,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
@@ -125,6 +121,10 @@
     {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 9929,
@@ -139,20 +139,20 @@
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 55990,
@@ -195,10 +195,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 38365,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
@@ -209,6 +205,10 @@
     {
       "asn_number": 59019,
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38283,
@@ -355,10 +355,6 @@
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
     },
     {
-      "asn_number": 134773,
-      "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
-    },
-    {
       "asn_number": 9308,
       "asn_name": "Abitcool(China) Inc."
     },
@@ -387,10 +383,6 @@
       "asn_name": "Changgong Zhang"
     },
     {
-      "asn_number": 17816,
-      "asn_name": "China Unicom IP network China169 Guangdong province"
-    },
-    {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
     },
@@ -411,6 +403,10 @@
       "asn_name": "PoloCloud Computing (Hong Kong) Limited"
     },
     {
+      "asn_number": 149304,
+      "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 140726,
       "asn_name": "UNICOM AnHui province network"
     },
@@ -425,6 +421,10 @@
     {
       "asn_number": 138421,
       "asn_name": "China Unicom"
+    },
+    {
+      "asn_number": 134773,
+      "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
     },
     {
       "asn_number": 9812,
@@ -499,6 +499,10 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 209294,
       "asn_name": "Fan Zhang"
     },
@@ -515,6 +519,10 @@
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
     {
+      "asn_number": 17816,
+      "asn_name": "China Unicom IP network China169 Guangdong province"
+    },
+    {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
     },
@@ -525,10 +533,6 @@
     {
       "asn_number": 151640,
       "asn_name": "Bengbu Qingye Technology"
-    },
-    {
-      "asn_number": 149304,
-      "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
     },
     {
       "asn_number": 141425,
@@ -569,10 +573,6 @@
     {
       "asn_number": 135432,
       "asn_name": "Visa Information Technology Beijing Co. Ltd."
-    },
-    {
-      "asn_number": 135061,
-      "asn_name": "China Unicom Guangdong IP network"
     },
     {
       "asn_number": 131486,
@@ -711,10 +711,6 @@
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 205651,
       "asn_name": "Hao Qiao"
     },
@@ -805,6 +801,10 @@
     {
       "asn_number": 136173,
       "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 135061,
+      "asn_name": "China Unicom Guangdong IP network"
     },
     {
       "asn_number": 134761,
@@ -1943,6 +1943,10 @@
       "asn_name": "Huanjie Zhu"
     },
     {
+      "asn_number": 205418,
+      "asn_name": "RIPE NCC ASN block"
+    },
+    {
       "asn_number": 205152,
       "asn_name": "Han Dai"
     },
@@ -2305,10 +2309,6 @@
     {
       "asn_number": 139189,
       "asn_name": "Beijing Yu Jia Heng Tong Communications and Information Co., Ltd."
-    },
-    {
-      "asn_number": 139187,
-      "asn_name": "WUHAN TWOTEN CULTURAL COMMUNICATION COMPANY LIMITED"
     },
     {
       "asn_number": 139183,
@@ -2701,6 +2701,10 @@
     {
       "asn_number": 55641,
       "asn_name": "Changping District, Beijing"
+    },
+    {
+      "asn_number": 49904,
+      "asn_name": "Xiaodong Qi"
     },
     {
       "asn_number": 49575,
