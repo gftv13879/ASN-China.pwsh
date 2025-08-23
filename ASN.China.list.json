@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-22 02:27:08",
+    "last_updated_utc": "2025-08-23 02:22:13",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5234
   },
@@ -15,12 +15,12 @@
       "asn_name": "Zhejiang Taobao Network Co.,Ltd"
     },
     {
-      "asn_number": 45102,
-      "asn_name": "Alibaba (US) Technology Co., Ltd."
-    },
-    {
       "asn_number": 132203,
       "asn_name": "Tencent Building, Kejizhongyi Avenue"
+    },
+    {
+      "asn_number": 45102,
+      "asn_name": "Alibaba (US) Technology Co., Ltd."
     },
     {
       "asn_number": 4134,
@@ -67,6 +67,10 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
@@ -75,24 +79,20 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
-    },
-    {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 17621,
@@ -343,10 +343,6 @@
       "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
     {
-      "asn_number": 24444,
-      "asn_name": "Shandong Mobile Communication Company Limited"
-    },
-    {
       "asn_number": 137735,
       "asn_name": "China Construction Bank"
     },
@@ -373,6 +369,10 @@
     {
       "asn_number": 38019,
       "asn_name": "tianjin Mobile Communication Company Limited"
+    },
+    {
+      "asn_number": 24444,
+      "asn_name": "Shandong Mobile Communication Company Limited"
     },
     {
       "asn_number": 24427,
@@ -1111,10 +1111,6 @@
       "asn_name": "76 # Oil Street of LiaoHe Oilfield, PanJin, LiaoNing"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
     },
@@ -1441,10 +1437,6 @@
     {
       "asn_number": 131536,
       "asn_name": "Shanghai Great Wall Broadband Network Service Co., Ltd."
-    },
-    {
-      "asn_number": 131519,
-      "asn_name": "Hisense"
     },
     {
       "asn_number": 131506,
@@ -1905,6 +1897,10 @@
     {
       "asn_number": 214899,
       "asn_name": "Ye Liliang"
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 213404,
@@ -2653,6 +2649,10 @@
     {
       "asn_number": 131522,
       "asn_name": "Beijing Yovole Cloud Computing Technology Company Limited"
+    },
+    {
+      "asn_number": 131519,
+      "asn_name": "Hisense"
     },
     {
       "asn_number": 131497,
