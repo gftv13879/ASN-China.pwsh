@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-23 02:22:13",
+    "last_updated_utc": "2025-08-24 02:45:21",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5234
+    "entry_count": 5235
   },
   "asns": [
     {
@@ -111,12 +111,12 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
+    },
+    {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 146788,
@@ -179,6 +179,10 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
+      "asn_number": 56046,
+      "asn_name": "China Mobile communications corporation"
+    },
+    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
@@ -189,10 +193,6 @@
     {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
-    },
-    {
-      "asn_number": 56046,
-      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 44421,
@@ -639,10 +639,6 @@
       "asn_name": "UNICLOUD TECH CO.,LTD."
     },
     {
-      "asn_number": 55958,
-      "asn_name": "Intel China Ltd"
-    },
-    {
       "asn_number": 55956,
       "asn_name": "Magna Automotive Technology and Service(Shanghai)Co.,Ltd"
     },
@@ -1021,6 +1017,10 @@
     {
       "asn_number": 55971,
       "asn_name": "Chinese Academy of Social Sciences"
+    },
+    {
+      "asn_number": 55958,
+      "asn_name": "Intel China Ltd"
     },
     {
       "asn_number": 4859,
@@ -2023,6 +2023,10 @@
       "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
+      "asn_number": 151300,
+      "asn_name": "APNIC ASN block"
+    },
+    {
       "asn_number": 151296,
       "asn_name": "Changzhou Jieyun Network Technology Co. Ltd."
     },
@@ -2217,6 +2221,10 @@
     {
       "asn_number": 140486,
       "asn_name": "CHINATELECOM ZHEJIANG province JINHUA 5GC network"
+    },
+    {
+      "asn_number": 140484,
+      "asn_name": "CHINATELECOM ZHEJIANG province Shengji EPCCE network"
     },
     {
       "asn_number": 140329,
@@ -20389,10 +20397,6 @@
     {
       "asn_number": 140487,
       "asn_name": "CHINATELECOM ZHEJIANG province HANGZHOU 5G network"
-    },
-    {
-      "asn_number": 140484,
-      "asn_name": "CHINATELECOM ZHEJIANG province Shengji EPCCE network"
     },
     {
       "asn_number": 140483,
