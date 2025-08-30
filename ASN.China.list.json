@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-29 02:22:29",
+    "last_updated_utc": "2025-08-30 02:16:36",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5236
   },
@@ -87,12 +87,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 17621,
@@ -151,12 +151,16 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
+      "asn_number": 55990,
+      "asn_name": "Huawei Cloud Service data center"
+    },
+    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 55990,
-      "asn_name": "Huawei Cloud Service data center"
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 135426,
@@ -165,10 +169,6 @@
     {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
-    },
-    {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 24490,
@@ -339,6 +339,10 @@
       "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
     {
+      "asn_number": 58563,
+      "asn_name": "CHINANET Hubei province network"
+    },
+    {
       "asn_number": 58536,
       "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
@@ -355,12 +359,12 @@
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
     {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
-    },
-    {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
+    },
+    {
+      "asn_number": 137801,
+      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
       "asn_number": 134773,
@@ -373,10 +377,6 @@
     {
       "asn_number": 59009,
       "asn_name": "QingDao WangXin Telcom Corp. Limited"
-    },
-    {
-      "asn_number": 58563,
-      "asn_name": "CHINANET Hubei province network"
     },
     {
       "asn_number": 58542,
@@ -447,6 +447,10 @@
       "asn_name": "UNICOM AnHui province network"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 139721,
       "asn_name": "HeFei"
     },
@@ -457,10 +461,6 @@
     {
       "asn_number": 138421,
       "asn_name": "China Unicom"
-    },
-    {
-      "asn_number": 137801,
-      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
       "asn_number": 137746,
@@ -637,6 +637,10 @@
     {
       "asn_number": 133776,
       "asn_name": "China Telecom Quanzhou"
+    },
+    {
+      "asn_number": 133774,
+      "asn_name": "China Telecom Fujian Fuzhou IDC"
     },
     {
       "asn_number": 131486,
@@ -1021,10 +1025,6 @@
     {
       "asn_number": 133952,
       "asn_name": "Zhengzhou longling technology ltd."
-    },
-    {
-      "asn_number": 133774,
-      "asn_name": "China Telecom Fujian Fuzhou IDC"
     },
     {
       "asn_number": 133475,
@@ -2200,7 +2200,7 @@
     },
     {
       "asn_number": 205418,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "Xinghua Zhu"
     },
     {
       "asn_number": 205152,
@@ -2249,10 +2249,6 @@
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151483,
@@ -3349,6 +3345,10 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Mengsi Computer System Co Ltd"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
