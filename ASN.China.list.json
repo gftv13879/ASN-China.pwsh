@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-30 02:16:36",
+    "last_updated_utc": "2025-08-31 02:25:58",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5236
+    "entry_count": 5238
   },
   "asns": [
     {
@@ -55,12 +55,12 @@
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 146762,
@@ -99,12 +99,12 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 56040,
@@ -151,12 +151,12 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 55990,
-      "asn_name": "Huawei Cloud Service data center"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 55990,
+      "asn_name": "Huawei Cloud Service data center"
     },
     {
       "asn_number": 4811,
@@ -199,10 +199,6 @@
       "asn_name": "CHINANET Guangdong province network"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 38365,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
@@ -217,6 +213,10 @@
     {
       "asn_number": 10212,
       "asn_name": "China Enterprise ICT Solutions Limited"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38283,
@@ -339,10 +339,6 @@
       "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
     {
-      "asn_number": 58563,
-      "asn_name": "CHINANET Hubei province network"
-    },
-    {
       "asn_number": 58536,
       "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
@@ -357,6 +353,10 @@
     {
       "asn_number": 45110,
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139148,
@@ -377,6 +377,10 @@
     {
       "asn_number": 59009,
       "asn_name": "QingDao WangXin Telcom Corp. Limited"
+    },
+    {
+      "asn_number": 58563,
+      "asn_name": "CHINANET Hubei province network"
     },
     {
       "asn_number": 58542,
@@ -445,10 +449,6 @@
     {
       "asn_number": 140726,
       "asn_name": "UNICOM AnHui province network"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139721,
@@ -637,10 +637,6 @@
     {
       "asn_number": 133776,
       "asn_name": "China Telecom Quanzhou"
-    },
-    {
-      "asn_number": 133774,
-      "asn_name": "China Telecom Fujian Fuzhou IDC"
     },
     {
       "asn_number": 131486,
@@ -1027,6 +1023,10 @@
       "asn_name": "Zhengzhou longling technology ltd."
     },
     {
+      "asn_number": 133774,
+      "asn_name": "China Telecom Fujian Fuzhou IDC"
+    },
+    {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
     },
@@ -1243,8 +1243,8 @@
       "asn_name": "CERNET2 IX at Northeast University"
     },
     {
-      "asn_number": 24361,
-      "asn_name": "CERNET2 IX at Southeast University"
+      "asn_number": 24364,
+      "asn_name": "CERNET2 IX at Shanghai Jiaotong University"
     },
     {
       "asn_number": 24149,
@@ -2083,16 +2083,16 @@
       "asn_name": "CERNET2 IX at Dalian University of Technology"
     },
     {
-      "asn_number": 24364,
-      "asn_name": "CERNET2 IX at Shanghai Jiaotong University"
-    },
-    {
       "asn_number": 24363,
       "asn_name": "CERNET2 IX at Shandong University"
     },
     {
       "asn_number": 24362,
       "asn_name": "CERNET2 IX at University of Science and Technology of China"
+    },
+    {
+      "asn_number": 24361,
+      "asn_name": "CERNET2 IX at Southeast University"
     },
     {
       "asn_number": 24358,
@@ -2855,6 +2855,10 @@
       "asn_name": "LIZI LUO"
     },
     {
+      "asn_number": 215265,
+      "asn_name": "RIPE NCC ASN block"
+    },
+    {
       "asn_number": 215007,
       "asn_name": "BOZHAN LIANG"
     },
@@ -2993,6 +2997,10 @@
     {
       "asn_number": 211571,
       "asn_name": "Xin Zhao"
+    },
+    {
+      "asn_number": 211158,
+      "asn_name": "Jun CAO"
     },
     {
       "asn_number": 210903,
