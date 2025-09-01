@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-08-31 02:25:58",
+    "last_updated_utc": "2025-09-01 02:48:14",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5238
+    "entry_count": 5240
   },
   "asns": [
     {
@@ -295,6 +295,10 @@
       "asn_name": "21Vianet.Co.,Ltd"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -353,10 +357,6 @@
     {
       "asn_number": 45110,
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139148,
@@ -673,10 +673,6 @@
     {
       "asn_number": 7721,
       "asn_name": "Qin Cloud Networks"
-    },
-    {
-      "asn_number": 7653,
-      "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
     },
     {
       "asn_number": 7641,
@@ -1039,6 +1035,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
+    },
+    {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
     },
@@ -1065,6 +1065,10 @@
     {
       "asn_number": 9405,
       "asn_name": "Test platform Service Center"
+    },
+    {
+      "asn_number": 7653,
+      "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
     },
     {
       "asn_number": 7640,
@@ -1749,10 +1753,6 @@
     {
       "asn_number": 132147,
       "asn_name": "No.3,Shu-Ma Road"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -3131,6 +3131,10 @@
       "asn_name": "LI YIRAN"
     },
     {
+      "asn_number": 205008,
+      "asn_name": "HUANG JUNQI"
+    },
+    {
       "asn_number": 204185,
       "asn_name": "Yuchen Ma"
     },
@@ -3573,6 +3577,10 @@
     {
       "asn_number": 150373,
       "asn_name": "Zhang Bocheng"
+    },
+    {
+      "asn_number": 150370,
+      "asn_name": "Beijing WuYuYunLian Network Technology Co., Ltd."
     },
     {
       "asn_number": 150184,
