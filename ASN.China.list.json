@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-05 02:19:08",
+    "last_updated_utc": "2025-09-06 02:15:09",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5237
   },
@@ -103,6 +103,10 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
@@ -123,10 +127,6 @@
       "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
@@ -143,12 +143,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 55990,
@@ -183,10 +183,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
@@ -197,6 +193,10 @@
     {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38365,
@@ -261,10 +261,6 @@
     {
       "asn_number": 45079,
       "asn_name": "GDS CHANGAN SERVICES Ltd."
-    },
-    {
-      "asn_number": 42962,
-      "asn_name": "CoreLink Network"
     },
     {
       "asn_number": 24413,
@@ -347,6 +343,10 @@
       "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
     },
     {
+      "asn_number": 42962,
+      "asn_name": "CoreLink Network"
+    },
+    {
       "asn_number": 24444,
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
@@ -361,6 +361,10 @@
     {
       "asn_number": 134773,
       "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
+    },
+    {
+      "asn_number": 9394,
+      "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 9308,
@@ -457,10 +461,6 @@
     {
       "asn_number": 9812,
       "asn_name": "Oriental Cable Network Co., Ltd."
-    },
-    {
-      "asn_number": 9394,
-      "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 63561,
@@ -667,6 +667,10 @@
       "asn_name": "Qin Cloud Networks"
     },
     {
+      "asn_number": 7653,
+      "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
+    },
+    {
       "asn_number": 7641,
       "asn_name": "China Broadcasting TV Net"
     },
@@ -825,10 +829,6 @@
     {
       "asn_number": 23841,
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
-    },
-    {
-      "asn_number": 213625,
-      "asn_name": "Xuluo Chen"
     },
     {
       "asn_number": 209306,
@@ -1019,6 +1019,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
+    },
+    {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
     },
@@ -1045,10 +1049,6 @@
     {
       "asn_number": 9405,
       "asn_name": "Test platform Service Center"
-    },
-    {
-      "asn_number": 7653,
-      "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
     },
     {
       "asn_number": 7640,
@@ -1227,8 +1227,8 @@
       "asn_name": "CERNET2 IX at Northeast University"
     },
     {
-      "asn_number": 24364,
-      "asn_name": "CERNET2 IX at Shanghai Jiaotong University"
+      "asn_number": 24361,
+      "asn_name": "CERNET2 IX at Southeast University"
     },
     {
       "asn_number": 24149,
@@ -1249,6 +1249,10 @@
     {
       "asn_number": 23842,
       "asn_name": "Shenzhen Information and Network Center"
+    },
+    {
+      "asn_number": 214439,
+      "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
       "asn_number": 212371,
@@ -1731,10 +1735,6 @@
       "asn_name": "No.3,Shu-Ma Road"
     },
     {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
-    },
-    {
       "asn_number": 131562,
       "asn_name": "HUNAN CATV Network Group CO.,LTD."
     },
@@ -2063,16 +2063,16 @@
       "asn_name": "CERNET2 IX at Dalian University of Technology"
     },
     {
+      "asn_number": 24364,
+      "asn_name": "CERNET2 IX at Shanghai Jiaotong University"
+    },
+    {
       "asn_number": 24363,
       "asn_name": "CERNET2 IX at Shandong University"
     },
     {
       "asn_number": 24362,
       "asn_name": "CERNET2 IX at University of Science and Technology of China"
-    },
-    {
-      "asn_number": 24361,
-      "asn_name": "CERNET2 IX at Southeast University"
     },
     {
       "asn_number": 24358,
@@ -2147,8 +2147,8 @@
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
-      "asn_number": 214439,
-      "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
+      "asn_number": 213625,
+      "asn_name": "Xuluo Chen"
     },
     {
       "asn_number": 213404,
@@ -2839,6 +2839,10 @@
       "asn_name": "Puhe You"
     },
     {
+      "asn_number": 214955,
+      "asn_name": "Weikang Zeng"
+    },
+    {
       "asn_number": 214921,
       "asn_name": "Yisong Wang"
     },
@@ -3049,10 +3053,6 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
-    },
-    {
-      "asn_number": 207292,
-      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
