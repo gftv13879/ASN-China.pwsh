@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-07 02:23:03",
+    "last_updated_utc": "2025-09-08 02:24:51",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5239
+    "entry_count": 5241
   },
   "asns": [
     {
@@ -83,12 +83,12 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 17621,
@@ -183,10 +183,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
@@ -197,6 +193,10 @@
     {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38365,
@@ -347,6 +347,10 @@
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
     {
+      "asn_number": 153726,
+      "asn_name": "Shanghai Huiduan Technology Co., LTD."
+    },
+    {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
     },
@@ -357,10 +361,6 @@
     {
       "asn_number": 134773,
       "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
-    },
-    {
-      "asn_number": 9394,
-      "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 9308,
@@ -431,10 +431,6 @@
       "asn_name": "China Unicom Guangzhou network"
     },
     {
-      "asn_number": 153726,
-      "asn_name": "Shanghai Huiduan Technology Co., LTD."
-    },
-    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -461,6 +457,10 @@
     {
       "asn_number": 9812,
       "asn_name": "Oriental Cable Network Co., Ltd."
+    },
+    {
+      "asn_number": 9394,
+      "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
       "asn_number": 63561,
@@ -879,10 +879,6 @@
       "asn_name": "University Of Chinese Academy Of Social Sciences"
     },
     {
-      "asn_number": 142611,
-      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 141679,
       "asn_name": "China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch"
     },
@@ -1025,10 +1021,6 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1391,6 +1383,10 @@
       "asn_name": "TaiKang Insurance Group CO.,LTD.,Wuhan Operating Center"
     },
     {
+      "asn_number": 142611,
+      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 142608,
       "asn_name": "China Telecom"
     },
@@ -1733,6 +1729,10 @@
     {
       "asn_number": 132147,
       "asn_name": "No.3,Shu-Ma Road"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -2193,6 +2193,14 @@
     {
       "asn_number": 205152,
       "asn_name": "Han Dai"
+    },
+    {
+      "asn_number": 205027,
+      "asn_name": "Fengnayun Data Co., Ltd."
+    },
+    {
+      "asn_number": 203236,
+      "asn_name": "Mingyang Shen"
     },
     {
       "asn_number": 199406,
@@ -2812,7 +2820,7 @@
     },
     {
       "asn_number": 215752,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "Xu Zhi Chang"
     },
     {
       "asn_number": 215750,
@@ -3075,6 +3083,10 @@
       "asn_name": "Vincent Yang"
     },
     {
+      "asn_number": 206315,
+      "asn_name": "Shucheng Li"
+    },
+    {
       "asn_number": 205825,
       "asn_name": "RIPE NCC ASN block"
     },
@@ -3117,10 +3129,6 @@
     {
       "asn_number": 203655,
       "asn_name": "zhiwensun"
-    },
-    {
-      "asn_number": 203236,
-      "asn_name": "Mingyang Shen"
     },
     {
       "asn_number": 202256,
