@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-10 02:16:19",
+    "last_updated_utc": "2025-09-11 02:19:50",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5239
   },
@@ -99,10 +99,6 @@
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 56040,
       "asn_name": "China Mobile communications corporation"
     },
@@ -111,12 +107,12 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
+    },
+    {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 146788,
@@ -125,6 +121,10 @@
     {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 137753,
@@ -171,16 +171,20 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 137718,
@@ -193,10 +197,6 @@
     {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38365,
@@ -291,10 +291,6 @@
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
     {
-      "asn_number": 137801,
-      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
-    },
-    {
       "asn_number": 137735,
       "asn_name": "China Construction Bank"
     },
@@ -347,12 +343,20 @@
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
     {
+      "asn_number": 151397,
+      "asn_name": "China Telecom"
+    },
+    {
       "asn_number": 139888,
       "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
+    },
+    {
+      "asn_number": 137801,
+      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
       "asn_number": 134773,
@@ -433,10 +437,6 @@
     {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
-    },
-    {
-      "asn_number": 151397,
-      "asn_name": "China Telecom"
     },
     {
       "asn_number": 140726,
@@ -863,6 +863,10 @@
       "asn_name": "DuoTu Cloud"
     },
     {
+      "asn_number": 153725,
+      "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
       "asn_number": 151313,
       "asn_name": "Pacific Insurance Technology Co., Ltd"
     },
@@ -1033,6 +1037,10 @@
     {
       "asn_number": 131516,
       "asn_name": "Jinhua Weian InfoTech Co., Ltd"
+    },
+    {
+      "asn_number": 131495,
+      "asn_name": "Beijing nine cloud infinite network technology co., LTD"
     },
     {
       "asn_number": 131285,
@@ -1271,8 +1279,8 @@
       "asn_name": "Yang Qi"
     },
     {
-      "asn_number": 205027,
-      "asn_name": "Fengnayun Data Co., Ltd."
+      "asn_number": 203236,
+      "asn_name": "Mingyang Shen"
     },
     {
       "asn_number": 199392,
@@ -1289,10 +1297,6 @@
     {
       "asn_number": 17633,
       "asn_name": "ASN for Shandong Provincial Net of CT"
-    },
-    {
-      "asn_number": 153725,
-      "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
       "asn_number": 152186,
@@ -1493,10 +1497,6 @@
     {
       "asn_number": 139136,
       "asn_name": "ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.,LTD."
-    },
-    {
-      "asn_number": 139097,
-      "asn_name": "Nanchang Huayi Network Co., Ltd."
     },
     {
       "asn_number": 139061,
@@ -1765,10 +1765,6 @@
     {
       "asn_number": 131497,
       "asn_name": "Volkswagen (China) Investment Co., LTD"
-    },
-    {
-      "asn_number": 131495,
-      "asn_name": "Beijing nine cloud infinite network technology co., LTD"
     },
     {
       "asn_number": 131325,
@@ -2195,8 +2191,8 @@
       "asn_name": "Han Dai"
     },
     {
-      "asn_number": 203236,
-      "asn_name": "Mingyang Shen"
+      "asn_number": 205027,
+      "asn_name": "Fengnayun Data Co., Ltd."
     },
     {
       "asn_number": 199406,
@@ -2241,6 +2237,10 @@
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151311,
@@ -3063,6 +3063,10 @@
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
     },
     {
+      "asn_number": 207292,
+      "asn_name": "YANG HAOJING"
+    },
+    {
       "asn_number": 207091,
       "asn_name": "Wang Junhao"
     },
@@ -3337,10 +3341,6 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Mengsi Computer System Co Ltd"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
