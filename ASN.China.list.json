@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-12 02:15:27",
+    "last_updated_utc": "2025-09-13 02:09:50",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5240
+    "entry_count": 5238
   },
   "asns": [
     {
@@ -27,12 +27,12 @@
       "asn_name": "Zeofast Network"
     },
     {
-      "asn_number": 55967,
-      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
-    },
-    {
       "asn_number": 4809,
       "asn_name": "China Telecom Next Generation Carrier Network"
+    },
+    {
+      "asn_number": 55967,
+      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
       "asn_number": 4837,
@@ -59,12 +59,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 9808,
@@ -97,10 +97,6 @@
     {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 56040,
@@ -183,10 +179,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
@@ -197,6 +189,10 @@
     {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38365,
@@ -599,6 +595,10 @@
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
     },
@@ -823,6 +823,10 @@
       "asn_name": "BEIJING CBD TELECOM CO,.LTD"
     },
     {
+      "asn_number": 24141,
+      "asn_name": "Shanghai DMT Information Network cor.,LTD."
+    },
+    {
       "asn_number": 24139,
       "asn_name": "Huashu media&Network Limited"
     },
@@ -861,10 +865,6 @@
     {
       "asn_number": 153911,
       "asn_name": "DuoTu Cloud"
-    },
-    {
-      "asn_number": 153725,
-      "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
       "asn_number": 151313,
@@ -1115,6 +1115,10 @@
       "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
+      "asn_number": 59048,
+      "asn_name": "Bei Jing Cloud Times Technology Co.,Ltd"
+    },
+    {
       "asn_number": 59043,
       "asn_name": "Guangzhou LanDong Information technology co., LTD"
     },
@@ -1251,10 +1255,6 @@
       "asn_name": "Qingdao Cable TV Network Center"
     },
     {
-      "asn_number": 24141,
-      "asn_name": "Shanghai DMT Information Network cor.,LTD."
-    },
-    {
       "asn_number": 23851,
       "asn_name": "CHONGQING CNC BROADBAND NETWORKS CO.,LTD"
     },
@@ -1301,6 +1301,10 @@
     {
       "asn_number": 17633,
       "asn_name": "ASN for Shandong Provincial Net of CT"
+    },
+    {
+      "asn_number": 153725,
+      "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
       "asn_number": 152186,
@@ -1915,14 +1919,6 @@
       "asn_name": "Jishi Media Co ., Ltd."
     },
     {
-      "asn_number": 59048,
-      "asn_name": "Bei Jing Cloud Times Technology Co.,Ltd"
-    },
-    {
-      "asn_number": 59033,
-      "asn_name": "Esun Technology(Shanghai) Co.,Ltd"
-    },
-    {
       "asn_number": 59025,
       "asn_name": "Beijing Sankuai Technology Co.,Ltd."
     },
@@ -1937,10 +1933,6 @@
     {
       "asn_number": 58851,
       "asn_name": "Priority of Fashion(Beijing)Information Technology Co.,Ltd"
-    },
-    {
-      "asn_number": 58520,
-      "asn_name": "Nanton"
     },
     {
       "asn_number": 58518,
@@ -2237,10 +2229,6 @@
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151311,
@@ -2657,6 +2645,10 @@
     {
       "asn_number": 131483,
       "asn_name": "Jiangsu Dongyun Cloud computing co., LTD"
+    },
+    {
+      "asn_number": 131482,
+      "asn_name": "Hangzhou Aron Teconology Co.,Ltd."
     },
     {
       "asn_number": 9425,
@@ -3345,6 +3337,10 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Mengsi Computer System Co Ltd"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
@@ -20024,10 +20020,6 @@
     },
     {
       "asn_number": 142102,
-      "asn_name": "APNIC ASN block"
-    },
-    {
-      "asn_number": 142101,
       "asn_name": "APNIC ASN block"
     },
     {
