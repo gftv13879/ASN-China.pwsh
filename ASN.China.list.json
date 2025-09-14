@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-13 02:09:50",
+    "last_updated_utc": "2025-09-14 02:22:39",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5238
+    "entry_count": 5239
   },
   "asns": [
     {
@@ -175,6 +175,10 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
+      "asn_number": 58466,
+      "asn_name": "CHINANET Guangdong province network"
+    },
+    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
     },
@@ -185,10 +189,6 @@
     {
       "asn_number": 59019,
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
-    },
-    {
-      "asn_number": 58466,
-      "asn_name": "CHINANET Guangdong province network"
     },
     {
       "asn_number": 44421,
@@ -267,10 +267,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
@@ -335,6 +331,14 @@
       "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
     },
     {
+      "asn_number": 42962,
+      "asn_name": "CoreLink Network"
+    },
+    {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -349,6 +353,10 @@
     {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
+    },
+    {
+      "asn_number": 137801,
+      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
       "asn_number": 134773,
@@ -377,10 +385,6 @@
     {
       "asn_number": 45110,
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
-    },
-    {
-      "asn_number": 42962,
-      "asn_name": "CoreLink Network"
     },
     {
       "asn_number": 38381,
@@ -445,10 +449,6 @@
     {
       "asn_number": 138421,
       "asn_name": "China Unicom"
-    },
-    {
-      "asn_number": 137801,
-      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
       "asn_number": 9812,
@@ -595,16 +595,16 @@
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
     },
     {
       "asn_number": 138538,
       "asn_name": "VPSOR-GLOBAL"
+    },
+    {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137746,
@@ -961,10 +961,6 @@
     {
       "asn_number": 137787,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
-    },
-    {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137715,
@@ -1409,6 +1405,10 @@
     {
       "asn_number": 142433,
       "asn_name": "DATAWAVE GLOBAL LLC"
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 141998,
@@ -2217,6 +2217,10 @@
     {
       "asn_number": 17430,
       "asn_name": "5F Greatwall Bldg., A38 Xueyuan Road Haidian District,Beijing"
+    },
+    {
+      "asn_number": 154010,
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 153633,
