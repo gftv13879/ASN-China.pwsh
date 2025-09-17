@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-16 02:16:49",
+    "last_updated_utc": "2025-09-17 02:16:27",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5239
+    "entry_count": 5238
   },
   "asns": [
     {
@@ -83,12 +83,12 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 17621,
@@ -607,6 +607,10 @@
       "asn_name": "VPSOR-GLOBAL"
     },
     {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
+    },
+    {
       "asn_number": 137746,
       "asn_name": "APNIC ASN block"
     },
@@ -963,10 +967,6 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
-    },
-    {
       "asn_number": 137715,
       "asn_name": "GTJA Securities"
     },
@@ -1293,10 +1293,6 @@
     {
       "asn_number": 17897,
       "asn_name": "asn for Heilongjiang Provincial Net of CT"
-    },
-    {
-      "asn_number": 17776,
-      "asn_name": "China Enterprise ICT Solutions Limited"
     },
     {
       "asn_number": 17633,
@@ -2203,6 +2199,10 @@
       "asn_name": "Daqing zhongji petroleum telecommunication construction limited cpmpany"
     },
     {
+      "asn_number": 17776,
+      "asn_name": "China Enterprise ICT Solutions Limited"
+    },
+    {
       "asn_number": 17490,
       "asn_name": "3/F,Yi Qing Building,Hua Jing Xin Cheng,Guangzhou"
     },
@@ -2216,7 +2216,7 @@
     },
     {
       "asn_number": 154010,
-      "asn_name": "APNIC ASN block"
+      "asn_name": "Xi'an WeiShiJi Network Technology LTD"
     },
     {
       "asn_number": 153633,
@@ -3181,10 +3181,6 @@
     {
       "asn_number": 200103,
       "asn_name": "XUAN ZHU"
-    },
-    {
-      "asn_number": 200078,
-      "asn_name": "Gao Yijia"
     },
     {
       "asn_number": 200021,
