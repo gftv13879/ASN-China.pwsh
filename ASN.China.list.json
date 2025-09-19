@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-18 02:16:59",
+    "last_updated_utc": "2025-09-19 02:20:47",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5238
+    "entry_count": 5237
   },
   "asns": [
     {
@@ -27,12 +27,12 @@
       "asn_name": "Zeofast Network"
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 55967,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 4837,
@@ -171,12 +171,12 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
+    },
+    {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 56046,
@@ -343,6 +343,10 @@
       "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
+      "asn_number": 153726,
+      "asn_name": "Shanghai Huiduan Technology Co., LTD."
+    },
+    {
       "asn_number": 151397,
       "asn_name": "China Telecom"
     },
@@ -395,10 +399,6 @@
       "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
-      "asn_number": 37965,
-      "asn_name": "Pacnet Business Solutions LTD"
-    },
-    {
       "asn_number": 24444,
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
@@ -429,10 +429,6 @@
     {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
-    },
-    {
-      "asn_number": 153726,
-      "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
     {
       "asn_number": 152711,
@@ -549,6 +545,10 @@
     {
       "asn_number": 38057,
       "asn_name": "Dell (China) Co.,Ltd"
+    },
+    {
+      "asn_number": 37965,
+      "asn_name": "Pacnet Business Solutions LTD"
     },
     {
       "asn_number": 24348,
@@ -1029,10 +1029,6 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1745,6 +1741,10 @@
     {
       "asn_number": 132147,
       "asn_name": "No.3,Shu-Ma Road"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -2657,10 +2657,6 @@
     {
       "asn_number": 9425,
       "asn_name": "Future Internet Technology Infrastructure (FITI)"
-    },
-    {
-      "asn_number": 63619,
-      "asn_name": "Beijing Sankuai Cloud Computing Co.,Ltd."
     },
     {
       "asn_number": 60666,
