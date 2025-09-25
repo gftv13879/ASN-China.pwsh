@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-24 02:18:43",
+    "last_updated_utc": "2025-09-25 02:20:32",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5236
+    "entry_count": 5237
   },
   "asns": [
     {
@@ -275,10 +275,6 @@
       "asn_name": "21Vianet.Co.,Ltd"
     },
     {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
-    },
-    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -345,6 +341,10 @@
     {
       "asn_number": 151397,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139148,
@@ -561,6 +561,10 @@
     {
       "asn_number": 214575,
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
+      "asn_number": 213625,
+      "asn_name": "Xuluo Chen"
     },
     {
       "asn_number": 209294,
@@ -837,10 +841,6 @@
     {
       "asn_number": 23841,
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
-    },
-    {
-      "asn_number": 213625,
-      "asn_name": "Xuluo Chen"
     },
     {
       "asn_number": 209306,
@@ -1325,6 +1325,10 @@
     {
       "asn_number": 151464,
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 151302,
+      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
       "asn_number": 151277,
@@ -2219,10 +2223,6 @@
       "asn_name": "Shenzhen Humeng Technology Co., Ltd"
     },
     {
-      "asn_number": 151302,
-      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
-    },
-    {
       "asn_number": 151300,
       "asn_name": "APNIC ASN block"
     },
@@ -3053,6 +3053,10 @@
     {
       "asn_number": 208618,
       "asn_name": "Yangyu Chen"
+    },
+    {
+      "asn_number": 207615,
+      "asn_name": "Shanghai Hengtai Technology Development Co.Ltd."
     },
     {
       "asn_number": 207338,
