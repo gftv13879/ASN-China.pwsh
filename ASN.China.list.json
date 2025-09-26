@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-25 02:20:32",
+    "last_updated_utc": "2025-09-26 02:19:39",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5237
+    "entry_count": 5239
   },
   "asns": [
     {
@@ -179,10 +179,6 @@
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
-      "asn_number": 9384,
-      "asn_name": "MIKU NETWORK LIMITED"
-    },
-    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
@@ -207,6 +203,10 @@
       "asn_name": "China Enterprise ICT Solutions Limited"
     },
     {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 38283,
       "asn_name": "CHINANET SiChuan Telecom Internet Data Center"
     },
@@ -219,8 +219,8 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
+      "asn_number": 9384,
+      "asn_name": "MIKU NETWORK LIMITED"
     },
     {
       "asn_number": 24409,
@@ -273,6 +273,10 @@
     {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139138,
@@ -341,10 +345,6 @@
     {
       "asn_number": 151397,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139148,
@@ -561,10 +561,6 @@
     {
       "asn_number": 214575,
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
-      "asn_number": 213625,
-      "asn_name": "Xuluo Chen"
     },
     {
       "asn_number": 209294,
@@ -795,10 +791,6 @@
       "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
     },
     {
-      "asn_number": 38372,
-      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
-    },
-    {
       "asn_number": 38367,
       "asn_name": "20/F.,Kuntai International Mansion,Buiding1 Yi No.12"
     },
@@ -843,6 +835,10 @@
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
     },
     {
+      "asn_number": 213625,
+      "asn_name": "Xuluo Chen"
+    },
+    {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
     },
@@ -865,10 +861,6 @@
     {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
-    },
-    {
-      "asn_number": 153911,
-      "asn_name": "DuoTu Cloud"
     },
     {
       "asn_number": 151313,
@@ -1025,10 +1017,6 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
-    },
-    {
-      "asn_number": 133465,
-      "asn_name": "Duke Kunshan University"
     },
     {
       "asn_number": 132225,
@@ -1227,6 +1215,10 @@
       "asn_name": "Bosch (China) Investment Ltd."
     },
     {
+      "asn_number": 38372,
+      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
+    },
+    {
       "asn_number": 38027,
       "asn_name": "Information Center, Ministry of Sci and Tech"
     },
@@ -1303,6 +1295,10 @@
       "asn_name": "ASN for Shandong Provincial Net of CT"
     },
     {
+      "asn_number": 153911,
+      "asn_name": "DuoTu Cloud"
+    },
+    {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
@@ -1325,10 +1321,6 @@
     {
       "asn_number": 151464,
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
-    },
-    {
-      "asn_number": 151302,
-      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
       "asn_number": 151277,
@@ -1703,6 +1695,10 @@
       "asn_name": "China Telecom Xiamen"
     },
     {
+      "asn_number": 133465,
+      "asn_name": "Duke Kunshan University"
+    },
+    {
       "asn_number": 133119,
       "asn_name": "China Unicom IP network"
     },
@@ -1745,10 +1741,6 @@
     {
       "asn_number": 131558,
       "asn_name": "Wal-mart (China) Investment Co., Ltd."
-    },
-    {
-      "asn_number": 131539,
-      "asn_name": "Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd"
     },
     {
       "asn_number": 131536,
@@ -2223,6 +2215,10 @@
       "asn_name": "Shenzhen Humeng Technology Co., Ltd"
     },
     {
+      "asn_number": 151302,
+      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
+    },
+    {
       "asn_number": 151300,
       "asn_name": "APNIC ASN block"
     },
@@ -2629,6 +2625,10 @@
     {
       "asn_number": 131541,
       "asn_name": "APNIC 32-bit ASN block"
+    },
+    {
+      "asn_number": 131539,
+      "asn_name": "Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd"
     },
     {
       "asn_number": 131524,
@@ -20023,6 +20023,10 @@
       "asn_name": "APNIC ASN block"
     },
     {
+      "asn_number": 142101,
+      "asn_name": "APNIC ASN block"
+    },
+    {
       "asn_number": 142100,
       "asn_name": "APNIC ASN block"
     },
@@ -20072,6 +20076,10 @@
     },
     {
       "asn_number": 142088,
+      "asn_name": "APNIC ASN block"
+    },
+    {
+      "asn_number": 142087,
       "asn_name": "APNIC ASN block"
     },
     {
