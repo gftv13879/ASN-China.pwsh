@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-26 02:19:39",
+    "last_updated_utc": "2025-09-27 02:14:21",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5239
+    "entry_count": 5240
   },
   "asns": [
     {
@@ -27,12 +27,12 @@
       "asn_name": "Zeofast Network"
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
+    },
+    {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 199310,
@@ -51,20 +51,20 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+      "asn_number": 209650,
+      "asn_name": "Wu Zhiyuan"
     },
     {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
-      "asn_number": 56048,
-      "asn_name": "China Mobile Communicaitons Corporation"
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 209650,
-      "asn_name": "Wu Zhiyuan"
+      "asn_number": 56048,
+      "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
       "asn_number": 139799,
@@ -203,6 +203,10 @@
       "asn_name": "China Enterprise ICT Solutions Limited"
     },
     {
+      "asn_number": 9384,
+      "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
     },
@@ -217,10 +221,6 @@
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
-    },
-    {
-      "asn_number": 9384,
-      "asn_name": "MIKU NETWORK LIMITED"
     },
     {
       "asn_number": 24409,
@@ -359,10 +359,6 @@
       "asn_name": "NewMedia Express Pte Ltd"
     },
     {
-      "asn_number": 9812,
-      "asn_name": "Oriental Cable Network Co., Ltd."
-    },
-    {
       "asn_number": 9308,
       "asn_name": "Abitcool(China) Inc."
     },
@@ -457,6 +453,10 @@
     {
       "asn_number": 137801,
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 9812,
+      "asn_name": "Oriental Cable Network Co., Ltd."
     },
     {
       "asn_number": 9394,
@@ -557,10 +557,6 @@
     {
       "asn_number": 23853,
       "asn_name": "Shanghai Data Solution Co., Ltd."
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 209294,
@@ -835,8 +831,8 @@
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
     },
     {
-      "asn_number": 213625,
-      "asn_name": "Xuluo Chen"
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 209306,
@@ -869,6 +865,10 @@
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 146817,
+      "asn_name": "Hubei Feixun Network Co., Ltd"
     },
     {
       "asn_number": 146814,
@@ -945,6 +945,10 @@
     {
       "asn_number": 138545,
       "asn_name": "Zero Cirrus Cloud Computing (Shanghai) Co., Ltd."
+    },
+    {
+      "asn_number": 138371,
+      "asn_name": "CERNET2 regional IX at Ocean University of China"
     },
     {
       "asn_number": 137806,
@@ -1263,6 +1267,10 @@
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
+      "asn_number": 213625,
+      "asn_name": "Xuluo Chen"
+    },
+    {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
     },
@@ -1377,10 +1385,6 @@
     {
       "asn_number": 146822,
       "asn_name": "Shenzhenshi Zhongyun Shujujishu Youxiangongsi"
-    },
-    {
-      "asn_number": 146817,
-      "asn_name": "Hubei Feixun Network Co., Ltd"
     },
     {
       "asn_number": 146771,
@@ -1517,10 +1521,6 @@
     {
       "asn_number": 138407,
       "asn_name": "The Internet Data Center of Guizhou Mobile Communication Company Limited"
-    },
-    {
-      "asn_number": 138371,
-      "asn_name": "CERNET2 regional IX at Ocean University of China"
     },
     {
       "asn_number": 138169,
@@ -2325,6 +2325,10 @@
     {
       "asn_number": 141006,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 141005,
+      "asn_name": "Shandong Provincial Department of Education,"
     },
     {
       "asn_number": 140886,
