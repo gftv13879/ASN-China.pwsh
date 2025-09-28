@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-09-27 02:14:21",
+    "last_updated_utc": "2025-09-28 02:26:57",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5240
   },
@@ -75,12 +75,12 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 4812,
@@ -179,6 +179,10 @@
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
+      "asn_number": 9384,
+      "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
@@ -201,10 +205,6 @@
     {
       "asn_number": 10212,
       "asn_name": "China Enterprise ICT Solutions Limited"
-    },
-    {
-      "asn_number": 9384,
-      "asn_name": "MIKU NETWORK LIMITED"
     },
     {
       "asn_number": 44421,
@@ -315,6 +315,10 @@
       "asn_name": "Yunify Technologies Inc."
     },
     {
+      "asn_number": 58850,
+      "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
+    },
+    {
       "asn_number": 58536,
       "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
@@ -361,10 +365,6 @@
     {
       "asn_number": 9308,
       "asn_name": "Abitcool(China) Inc."
-    },
-    {
-      "asn_number": 58850,
-      "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
     {
       "asn_number": 58563,
@@ -597,10 +597,6 @@
     {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
-    },
-    {
-      "asn_number": 138538,
-      "asn_name": "VPSOR-GLOBAL"
     },
     {
       "asn_number": 137758,
@@ -947,6 +943,10 @@
       "asn_name": "Zero Cirrus Cloud Computing (Shanghai) Co., Ltd."
     },
     {
+      "asn_number": 138538,
+      "asn_name": "VPSOR-GLOBAL"
+    },
+    {
       "asn_number": 138371,
       "asn_name": "CERNET2 regional IX at Ocean University of China"
     },
@@ -1025,6 +1025,10 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131574,
@@ -1729,10 +1733,6 @@
     {
       "asn_number": 132147,
       "asn_name": "No.3,Shu-Ma Road"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
