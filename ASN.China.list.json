@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-02 02:16:42",
+    "last_updated_utc": "2025-10-03 02:16:15",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5240
   },
@@ -15,12 +15,12 @@
       "asn_name": "China Telecom Backbone"
     },
     {
-      "asn_number": 45102,
-      "asn_name": "Alibaba (US) Technology Co., Ltd."
-    },
-    {
       "asn_number": 132203,
       "asn_name": "Tencent Building, Kejizhongyi Avenue"
+    },
+    {
+      "asn_number": 45102,
+      "asn_name": "Alibaba (US) Technology Co., Ltd."
     },
     {
       "asn_number": 10111,
@@ -51,12 +51,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 209650,
-      "asn_name": "Wu Zhiyuan"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 209650,
+      "asn_name": "Wu Zhiyuan"
     },
     {
       "asn_number": 9808,
@@ -65,6 +65,10 @@
     {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 146762,
@@ -87,20 +91,16 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 56040,
@@ -163,12 +163,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
       "asn_number": 56046,
@@ -583,10 +583,6 @@
       "asn_name": "Beijing Dian-Xin-Tong Network Technologies Co., Ltd."
     },
     {
-      "asn_number": 17816,
-      "asn_name": "China Unicom IP network China169 Guangdong province"
-    },
-    {
       "asn_number": 17781,
       "asn_name": "XINHUA NEWS AGENCY"
     },
@@ -849,6 +845,10 @@
     {
       "asn_number": 17969,
       "asn_name": "ChongQing Broadcast & TV Transfer Network Co. Ltd"
+    },
+    {
+      "asn_number": 17816,
+      "asn_name": "China Unicom IP network China169 Guangdong province"
     },
     {
       "asn_number": 17799,
@@ -1219,10 +1219,6 @@
       "asn_name": "Bosch (China) Investment Ltd."
     },
     {
-      "asn_number": 38372,
-      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
-    },
-    {
       "asn_number": 38027,
       "asn_name": "Information Center, Ministry of Sci and Tech"
     },
@@ -1387,6 +1383,10 @@
       "asn_name": "Shenzhenshi Zhongyun Shujujishu Youxiangongsi"
     },
     {
+      "asn_number": 146806,
+      "asn_name": "Beijing Yunlian Interactive Technology Co., Ltd."
+    },
+    {
       "asn_number": 146771,
       "asn_name": "CCB Fintech Co., Ltd."
     },
@@ -1497,10 +1497,6 @@
     {
       "asn_number": 139136,
       "asn_name": "ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.,LTD."
-    },
-    {
-      "asn_number": 139061,
-      "asn_name": "Societe Generale (China) Limited"
     },
     {
       "asn_number": 139018,
@@ -1967,6 +1963,10 @@
       "asn_name": "CHINA TIETONG SHANGHAI"
     },
     {
+      "asn_number": 38372,
+      "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
+    },
+    {
       "asn_number": 38371,
       "asn_name": "APNIC ASN block"
     },
@@ -2113,6 +2113,10 @@
     {
       "asn_number": 214899,
       "asn_name": "Ye Liliang"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 213404,
@@ -2297,10 +2301,6 @@
     {
       "asn_number": 146809,
       "asn_name": "Poly facility (Beijing) Technology Co., Ltd."
-    },
-    {
-      "asn_number": 146806,
-      "asn_name": "Beijing Yunlian Interactive Technology Co., Ltd."
     },
     {
       "asn_number": 146802,
@@ -2935,10 +2935,6 @@
       "asn_name": "ZEXIN CHEN"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 213582,
       "asn_name": "XI WU"
     },
@@ -3077,6 +3073,10 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
+    },
+    {
+      "asn_number": 207292,
+      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
