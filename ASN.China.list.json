@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-03 02:16:15",
+    "last_updated_utc": "2025-10-04 02:11:49",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5240
   },
@@ -67,12 +67,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 24400,
@@ -355,6 +355,10 @@
       "asn_name": "NewMedia Express Pte Ltd"
     },
     {
+      "asn_number": 9812,
+      "asn_name": "Oriental Cable Network Co., Ltd."
+    },
+    {
       "asn_number": 9308,
       "asn_name": "Abitcool(China) Inc."
     },
@@ -431,10 +435,6 @@
       "asn_name": "China Unicom Guangzhou network"
     },
     {
-      "asn_number": 17429,
-      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
-    },
-    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -457,10 +457,6 @@
     {
       "asn_number": 137801,
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
-    },
-    {
-      "asn_number": 9812,
-      "asn_name": "Oriental Cable Network Co., Ltd."
     },
     {
       "asn_number": 9394,
@@ -589,6 +585,10 @@
     {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
+    },
+    {
+      "asn_number": 17429,
+      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
       "asn_number": 141425,
