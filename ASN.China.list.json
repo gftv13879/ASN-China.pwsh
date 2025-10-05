@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-04 02:11:49",
+    "last_updated_utc": "2025-10-05 02:26:29",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5240
   },
@@ -139,12 +139,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 140633,
@@ -355,10 +355,6 @@
       "asn_name": "NewMedia Express Pte Ltd"
     },
     {
-      "asn_number": 9812,
-      "asn_name": "Oriental Cable Network Co., Ltd."
-    },
-    {
       "asn_number": 9308,
       "asn_name": "Abitcool(China) Inc."
     },
@@ -457,6 +453,10 @@
     {
       "asn_number": 137801,
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 9812,
+      "asn_name": "Oriental Cable Network Co., Ltd."
     },
     {
       "asn_number": 9394,
@@ -829,10 +829,6 @@
     {
       "asn_number": 23841,
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 209306,
@@ -1259,6 +1255,10 @@
       "asn_name": "Shenzhen Information and Network Center"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 214439,
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
@@ -1305,10 +1305,6 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152186,
@@ -3241,6 +3237,10 @@
     {
       "asn_number": 153458,
       "asn_name": "Haruzakura Cloud"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 153333,
