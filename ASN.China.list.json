@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-05 02:26:29",
+    "last_updated_utc": "2025-10-06 02:20:14",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5240
   },
@@ -95,12 +95,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 56040,
@@ -259,10 +259,6 @@
       "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
     {
-      "asn_number": 42962,
-      "asn_name": "CoreLink Network"
-    },
-    {
       "asn_number": 24406,
       "asn_name": "China Internet Network Infomation Center"
     },
@@ -329,6 +325,10 @@
     {
       "asn_number": 55992,
       "asn_name": "Beijing Qihu Technology Company Limited"
+    },
+    {
+      "asn_number": 42962,
+      "asn_name": "CoreLink Network"
     },
     {
       "asn_number": 153726,
@@ -663,10 +663,6 @@
       "asn_name": "RongHua Road No.11, Beijing Economy Technology Development Area, 100176"
     },
     {
-      "asn_number": 7721,
-      "asn_name": "Qin Cloud Networks"
-    },
-    {
       "asn_number": 7653,
       "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
     },
@@ -829,6 +825,10 @@
     {
       "asn_number": 23841,
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 209306,
@@ -1059,6 +1059,10 @@
       "asn_name": "Test platform Service Center"
     },
     {
+      "asn_number": 7721,
+      "asn_name": "Qin Cloud Networks"
+    },
+    {
       "asn_number": 7640,
       "asn_name": "China International Trust & Investment Corporation Management Information Center"
     },
@@ -1255,10 +1259,6 @@
       "asn_name": "Shenzhen Information and Network Center"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 214439,
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
@@ -1269,6 +1269,10 @@
     {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
+    },
+    {
+      "asn_number": 211843,
+      "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
     },
     {
       "asn_number": 210041,
@@ -2121,10 +2125,6 @@
     {
       "asn_number": 212164,
       "asn_name": "Jiaxian He"
-    },
-    {
-      "asn_number": 211843,
-      "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
     },
     {
       "asn_number": 211265,
