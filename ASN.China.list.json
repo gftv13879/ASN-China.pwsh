@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-06 02:20:14",
+    "last_updated_utc": "2025-10-07 02:17:34",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5240
+    "entry_count": 5241
   },
   "asns": [
     {
@@ -235,6 +235,10 @@
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
     {
+      "asn_number": 136173,
+      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 9809,
       "asn_name": "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD."
     },
@@ -355,6 +359,10 @@
       "asn_name": "NewMedia Express Pte Ltd"
     },
     {
+      "asn_number": 9812,
+      "asn_name": "Oriental Cable Network Co., Ltd."
+    },
+    {
       "asn_number": 9308,
       "asn_name": "Abitcool(China) Inc."
     },
@@ -453,10 +461,6 @@
     {
       "asn_number": 137801,
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
-    },
-    {
-      "asn_number": 9812,
-      "asn_name": "Oriental Cable Network Co., Ltd."
     },
     {
       "asn_number": 9394,
@@ -1619,10 +1623,6 @@
       "asn_name": "China Telecom Yunnan Diqing MAN"
     },
     {
-      "asn_number": 136173,
-      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
-    },
-    {
       "asn_number": 135363,
       "asn_name": "Beijing Dunhuang Heguang Information Technology Co.,Lt."
     },
@@ -2177,6 +2177,10 @@
     {
       "asn_number": 17968,
       "asn_name": "Daqing zhongji petroleum telecommunication construction limited cpmpany"
+    },
+    {
+      "asn_number": 17789,
+      "asn_name": "CNCGROUP IP network of ShangHai IDC"
     },
     {
       "asn_number": 17776,
