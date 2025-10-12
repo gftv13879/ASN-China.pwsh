@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-11 02:14:31",
+    "last_updated_utc": "2025-10-12 02:22:01",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5242
+    "entry_count": 5244
   },
   "asns": [
     {
@@ -23,6 +23,10 @@
       "asn_name": "Alibaba (US) Technology Co., Ltd."
     },
     {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
+    },
+    {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
     },
@@ -37,10 +41,6 @@
     {
       "asn_number": 55967,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
-    },
-    {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 4808,
@@ -95,12 +95,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 56040,
@@ -115,16 +115,16 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
-    },
-    {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 137753,
@@ -183,6 +183,10 @@
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
+      "asn_number": 9384,
+      "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
       "asn_number": 59019,
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
@@ -201,10 +205,6 @@
     {
       "asn_number": 10212,
       "asn_name": "China Enterprise ICT Solutions Limited"
-    },
-    {
-      "asn_number": 9384,
-      "asn_name": "MIKU NETWORK LIMITED"
     },
     {
       "asn_number": 59045,
@@ -443,6 +443,10 @@
       "asn_name": "China Unicom Guangzhou network"
     },
     {
+      "asn_number": 17429,
+      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+    },
+    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -593,10 +597,6 @@
     {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
-    },
-    {
-      "asn_number": 17429,
-      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
       "asn_number": 141425,
@@ -1331,6 +1331,10 @@
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
     },
     {
+      "asn_number": 151302,
+      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
+    },
+    {
       "asn_number": 151277,
       "asn_name": "China Broadcast Network International Co.,Ltd"
     },
@@ -1783,6 +1787,10 @@
       "asn_name": "Huawei Technologies Co., Ltd"
     },
     {
+      "asn_number": 63654,
+      "asn_name": "BEIJING NETEAST TECHNOLOGIES CORPORATION LTD"
+    },
+    {
       "asn_number": 63647,
       "asn_name": "Beijing WangJu Interworking Information Technology Co. LTD"
     },
@@ -2207,6 +2215,10 @@
       "asn_name": "KVQNET"
     },
     {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
@@ -2221,10 +2233,6 @@
     {
       "asn_number": 151311,
       "asn_name": "Shenzhen Humeng Technology Co., Ltd"
-    },
-    {
-      "asn_number": 151302,
-      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
       "asn_number": 151300,
@@ -2581,6 +2589,10 @@
     {
       "asn_number": 134543,
       "asn_name": "China Unicom Guangdong IP network"
+    },
+    {
+      "asn_number": 134421,
+      "asn_name": "Yunnan Telecom"
     },
     {
       "asn_number": 134413,
@@ -3245,10 +3257,6 @@
     {
       "asn_number": 153458,
       "asn_name": "Haruzakura Cloud"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 153333,
