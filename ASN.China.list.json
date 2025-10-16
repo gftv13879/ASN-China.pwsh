@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-15 02:22:51",
+    "last_updated_utc": "2025-10-16 02:21:24",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5245
   },
@@ -59,20 +59,20 @@
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
-      "asn_number": 56048,
-      "asn_name": "China Mobile Communicaitons Corporation"
-    },
-    {
       "asn_number": 209650,
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+      "asn_number": 56048,
+      "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 24400,
@@ -147,12 +147,12 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 4811,
@@ -179,10 +179,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
@@ -195,16 +191,16 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 38365,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
-    },
-    {
-      "asn_number": 136173,
-      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
     },
     {
       "asn_number": 10212,
@@ -219,16 +215,16 @@
       "asn_name": "CHINANET SiChuan Telecom Internet Data Center"
     },
     {
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
+    },
+    {
       "asn_number": 24151,
       "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
-    },
-    {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 24409,
@@ -303,6 +299,10 @@
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
     },
     {
+      "asn_number": 133219,
+      "asn_name": "NewMedia Express Pte Ltd"
+    },
+    {
       "asn_number": 63648,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
@@ -357,10 +357,6 @@
     {
       "asn_number": 134773,
       "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
-    },
-    {
-      "asn_number": 133219,
-      "asn_name": "NewMedia Express Pte Ltd"
     },
     {
       "asn_number": 9812,
@@ -977,6 +973,10 @@
     {
       "asn_number": 137691,
       "asn_name": "Heilongjiang Province, P.R.China."
+    },
+    {
+      "asn_number": 136173,
+      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
     },
     {
       "asn_number": 135061,
@@ -2139,6 +2139,10 @@
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
+      "asn_number": 209686,
+      "asn_name": "Xingyu Guo"
+    },
+    {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
     },
@@ -3205,10 +3209,6 @@
     {
       "asn_number": 200268,
       "asn_name": "Haihan Chen"
-    },
-    {
-      "asn_number": 200267,
-      "asn_name": "Yiping Zhao"
     },
     {
       "asn_number": 200256,
