@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-18 02:15:22",
+    "last_updated_utc": "2025-10-19 02:42:32",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5246
+    "entry_count": 5244
   },
   "asns": [
     {
@@ -15,12 +15,12 @@
       "asn_name": "China Telecom Backbone"
     },
     {
-      "asn_number": 132203,
-      "asn_name": "Tencent Building, Kejizhongyi Avenue"
-    },
-    {
       "asn_number": 45102,
       "asn_name": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 132203,
+      "asn_name": "Tencent Building, Kejizhongyi Avenue"
     },
     {
       "asn_number": 10111,
@@ -51,36 +51,36 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 209650,
-      "asn_name": "Wu Zhiyuan"
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 209650,
+      "asn_name": "Wu Zhiyuan"
     },
     {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 4538,
-      "asn_name": "China Education and Research Network Center"
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 4538,
+      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 199310,
@@ -119,12 +119,12 @@
       "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 137753,
@@ -147,12 +147,12 @@
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 4811,
@@ -195,6 +195,10 @@
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
+    },
+    {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
     },
@@ -213,10 +217,6 @@
     {
       "asn_number": 38283,
       "asn_name": "CHINANET SiChuan Telecom Internet Data Center"
-    },
-    {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 24151,
@@ -339,6 +339,10 @@
       "asn_name": "CoreLink Network"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -423,10 +427,6 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
     },
@@ -485,10 +485,6 @@
     {
       "asn_number": 59074,
       "asn_name": "TAIKANG INSURANCE GROUP CO.,LTD."
-    },
-    {
-      "asn_number": 59029,
-      "asn_name": "People.Cn CO.,LTD"
     },
     {
       "asn_number": 59012,
@@ -731,6 +727,10 @@
       "asn_name": "Microsoft Mobile Alliance Internet Services Co., Ltd"
     },
     {
+      "asn_number": 59029,
+      "asn_name": "People.Cn CO.,LTD"
+    },
+    {
       "asn_number": 58866,
       "asn_name": "China Financial Certification Authority"
     },
@@ -869,6 +869,10 @@
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 146842,
+      "asn_name": "ChinaDataCom Corporation Limited"
     },
     {
       "asn_number": 146817,
@@ -1373,10 +1377,6 @@
     {
       "asn_number": 146966,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 146842,
-      "asn_name": "ChinaDataCom Corporation Limited"
     },
     {
       "asn_number": 146841,
@@ -2847,10 +2847,6 @@
       "asn_name": "Jian Xu"
     },
     {
-      "asn_number": 215752,
-      "asn_name": "Xu Zhi Chang"
-    },
-    {
       "asn_number": 215750,
       "asn_name": "DAQIAN HUANG"
     },
@@ -3593,10 +3589,6 @@
     {
       "asn_number": 150373,
       "asn_name": "Zhang Bocheng"
-    },
-    {
-      "asn_number": 150370,
-      "asn_name": "Beijing WuYuYunLian Network Technology Co., Ltd."
     },
     {
       "asn_number": 150173,
