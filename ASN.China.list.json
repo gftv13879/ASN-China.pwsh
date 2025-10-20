@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-19 02:42:32",
+    "last_updated_utc": "2025-10-20 02:41:11",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5244
   },
@@ -63,24 +63,24 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 4812,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
+    },
+    {
+      "asn_number": 4812,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 199310,
@@ -95,12 +95,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 56040,
@@ -191,6 +191,10 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 38365,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
@@ -209,10 +213,6 @@
     {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38283,
@@ -273,6 +273,10 @@
     {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 17623,
@@ -337,10 +341,6 @@
     {
       "asn_number": 42962,
       "asn_name": "CoreLink Network"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 153726,
@@ -871,10 +871,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 146842,
-      "asn_name": "ChinaDataCom Corporation Limited"
-    },
-    {
       "asn_number": 146817,
       "asn_name": "Hubei Feixun Network Co., Ltd"
     },
@@ -981,10 +977,6 @@
     {
       "asn_number": 137691,
       "asn_name": "Heilongjiang Province, P.R.China."
-    },
-    {
-      "asn_number": 136173,
-      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
     },
     {
       "asn_number": 135061,
@@ -1271,10 +1263,6 @@
       "asn_name": "Shenzhen Information and Network Center"
     },
     {
-      "asn_number": 214439,
-      "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
-    },
-    {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
     },
@@ -1377,6 +1365,10 @@
     {
       "asn_number": 146966,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 146842,
+      "asn_name": "ChinaDataCom Corporation Limited"
     },
     {
       "asn_number": 146841,
@@ -1617,6 +1609,10 @@
     {
       "asn_number": 136188,
       "asn_name": "China Telecom Yunnan Diqing MAN"
+    },
+    {
+      "asn_number": 136173,
+      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
     },
     {
       "asn_number": 135363,
@@ -2113,6 +2109,10 @@
     {
       "asn_number": 214899,
       "asn_name": "Ye Liliang"
+    },
+    {
+      "asn_number": 214439,
+      "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
       "asn_number": 213605,
