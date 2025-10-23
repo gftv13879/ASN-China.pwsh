@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-22 02:26:52",
+    "last_updated_utc": "2025-10-23 02:22:32",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5243
+    "entry_count": 5244
   },
   "asns": [
     {
@@ -59,16 +59,16 @@
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 24400,
@@ -95,12 +95,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 56040,
@@ -119,12 +119,12 @@
       "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 137753,
@@ -147,12 +147,12 @@
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 4811,
@@ -199,6 +199,10 @@
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
+    },
+    {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
     },
@@ -213,10 +217,6 @@
     {
       "asn_number": 38283,
       "asn_name": "CHINANET SiChuan Telecom Internet Data Center"
-    },
-    {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 24151,
@@ -2445,6 +2445,10 @@
     {
       "asn_number": 139189,
       "asn_name": "Beijing Yu Jia Heng Tong Communications and Information Co., Ltd."
+    },
+    {
+      "asn_number": 139187,
+      "asn_name": "WUHAN TWOTEN CULTURAL COMMUNICATION COMPANY LIMITED"
     },
     {
       "asn_number": 139180,
