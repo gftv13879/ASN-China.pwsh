@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-24 02:19:19",
+    "last_updated_utc": "2025-10-25 02:20:45",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5244
+    "entry_count": 5246
   },
   "asns": [
     {
@@ -95,12 +95,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 56040,
@@ -139,16 +139,16 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 140633,
@@ -171,10 +171,6 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
@@ -185,6 +181,10 @@
     {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 9384,
@@ -271,20 +271,12 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
     },
     {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139138,
@@ -315,10 +307,6 @@
       "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
     {
-      "asn_number": 58536,
-      "asn_name": "CONAC (China Organizational Name Administration Center)"
-    },
-    {
       "asn_number": 56006,
       "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
     },
@@ -327,12 +315,20 @@
       "asn_name": "Beijing Qihu Technology Company Limited"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
     {
       "asn_number": 151397,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139148,
@@ -373,6 +369,10 @@
     {
       "asn_number": 58542,
       "asn_name": "China Telecom Yueyang"
+    },
+    {
+      "asn_number": 58536,
+      "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
     {
       "asn_number": 56041,
@@ -589,10 +589,6 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
-    },
-    {
-      "asn_number": 141425,
-      "asn_name": "China Mobile Group Guangdong communications corporation"
     },
     {
       "asn_number": 139080,
@@ -885,6 +881,10 @@
     {
       "asn_number": 141679,
       "asn_name": "China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch"
+    },
+    {
+      "asn_number": 141425,
+      "asn_name": "China Mobile Group Guangdong communications corporation"
     },
     {
       "asn_number": 140895,
@@ -1325,10 +1325,6 @@
     {
       "asn_number": 151302,
       "asn_name": "Hebei Sea Whale Technology Co. Ltd."
-    },
-    {
-      "asn_number": 151277,
-      "asn_name": "China Broadcast Network International Co.,Ltd"
     },
     {
       "asn_number": 151058,
@@ -1779,6 +1775,10 @@
       "asn_name": "Beijing WangJu Interworking Information Technology Co. LTD"
     },
     {
+      "asn_number": 63633,
+      "asn_name": "GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.,LTD."
+    },
+    {
       "asn_number": 63621,
       "asn_name": "NINGXIA BROADCAST&TV NETWORK CO.,LTD"
     },
@@ -1976,7 +1976,7 @@
     },
     {
       "asn_number": 38238,
-      "asn_name": "Societe Generale (China) Limited"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 37936,
@@ -2235,6 +2235,10 @@
       "asn_name": "APNIC ASN block"
     },
     {
+      "asn_number": 151277,
+      "asn_name": "China Broadcast Network International Co.,Ltd"
+    },
+    {
       "asn_number": 151270,
       "asn_name": "Sichuan Xiaoteyun Technology Co., Ltd"
     },
@@ -2313,10 +2317,6 @@
     {
       "asn_number": 146792,
       "asn_name": "Shanghai Shenfu Information Technology Co., Ltd"
-    },
-    {
-      "asn_number": 146772,
-      "asn_name": "Shenzhen Pengcheng communication network Co., Ltd"
     },
     {
       "asn_number": 146758,
@@ -2733,6 +2733,10 @@
     {
       "asn_number": 45275,
       "asn_name": "BII Group Holding Ltd."
+    },
+    {
+      "asn_number": 44446,
+      "asn_name": "Yuan Xue"
     },
     {
       "asn_number": 39753,
@@ -3605,6 +3609,10 @@
     {
       "asn_number": 146816,
       "asn_name": "Guizhou Moutai Winery (Group) Co., Ltd."
+    },
+    {
+      "asn_number": 146772,
+      "asn_name": "Shenzhen Pengcheng communication network Co., Ltd"
     },
     {
       "asn_number": 146745,
