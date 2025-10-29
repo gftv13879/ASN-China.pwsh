@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-28 02:24:14",
+    "last_updated_utc": "2025-10-29 02:41:20",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5245
+    "entry_count": 5244
   },
   "asns": [
     {
@@ -75,12 +75,12 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 4538,
-      "asn_name": "China Education and Research Network Center"
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4538,
+      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 199310,
@@ -111,24 +111,24 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 137753,
-      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
-    },
-    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
+    },
+    {
+      "asn_number": 137753,
+      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
       "asn_number": 146834,
@@ -155,6 +155,10 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
     },
@@ -167,28 +171,20 @@
       "asn_name": "ZTE Corporation"
     },
     {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
+    },
+    {
+      "asn_number": 9384,
+      "asn_name": "MIKU NETWORK LIMITED"
     },
     {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
-      "asn_number": 58466,
-      "asn_name": "CHINANET Guangdong province network"
-    },
-    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 9384,
-      "asn_name": "MIKU NETWORK LIMITED"
     },
     {
       "asn_number": 59045,
@@ -197,6 +193,10 @@
     {
       "asn_number": 59019,
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
+    },
+    {
+      "asn_number": 58466,
+      "asn_name": "CHINANET Guangdong province network"
     },
     {
       "asn_number": 38365,
@@ -343,10 +343,6 @@
       "asn_name": "China UnionPay Co., Ltd"
     },
     {
-      "asn_number": 137801,
-      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
-    },
-    {
       "asn_number": 134773,
       "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
     },
@@ -457,6 +453,10 @@
     {
       "asn_number": 138421,
       "asn_name": "China Unicom"
+    },
+    {
+      "asn_number": 137801,
+      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
       "asn_number": 136180,
@@ -783,10 +783,6 @@
       "asn_name": "3 Fuxing Road, Beijing, China"
     },
     {
-      "asn_number": 37942,
-      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
-    },
-    {
       "asn_number": 24547,
       "asn_name": "Hebei Mobile Communication Company Limited"
     },
@@ -849,6 +845,10 @@
     {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 151313,
@@ -1231,6 +1231,10 @@
       "asn_name": "Hangzhou CloudZone Network Technology Co.,Ltd"
     },
     {
+      "asn_number": 37942,
+      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
+    },
+    {
       "asn_number": 37937,
       "asn_name": "China eGovNet Information Center"
     },
@@ -1567,10 +1571,6 @@
       "asn_name": "CHINATELECOM Hubei province Wuhan 5G network"
     },
     {
-      "asn_number": 136545,
-      "asn_name": "Blue Data Center"
-    },
-    {
       "asn_number": 136200,
       "asn_name": "CHINANET Guangdong province Foshan MAN network"
     },
@@ -1729,10 +1729,6 @@
     {
       "asn_number": 131325,
       "asn_name": "China Telecom KunMing"
-    },
-    {
-      "asn_number": 131192,
-      "asn_name": "APNIC 32-bit ASN block"
     },
     {
       "asn_number": 10206,
@@ -2207,20 +2203,12 @@
       "asn_name": "KVQNET"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151311,
@@ -2543,6 +2531,10 @@
       "asn_name": "China Unicom"
     },
     {
+      "asn_number": 137264,
+      "asn_name": "APNIC ASN block"
+    },
+    {
       "asn_number": 136959,
       "asn_name": "China Unicom Guangdong IP network"
     },
@@ -2601,10 +2593,6 @@
     {
       "asn_number": 134169,
       "asn_name": "CERNEWTECH (Beijing) co.,LTD"
-    },
-    {
-      "asn_number": 133846,
-      "asn_name": "IMLONGHAO"
     },
     {
       "asn_number": 133555,
@@ -3365,6 +3353,10 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Mengsi Computer System Co Ltd"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
@@ -20945,6 +20937,10 @@
     {
       "asn_number": 134477,
       "asn_name": "Shaoxing Junruiyunjisuan Co Ltd"
+    },
+    {
+      "asn_number": 133846,
+      "asn_name": "IMLONGHAO"
     },
     {
       "asn_number": 133518,
