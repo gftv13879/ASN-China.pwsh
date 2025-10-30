@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-10-29 02:41:20",
+    "last_updated_utc": "2025-10-30 02:28:15",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5244
   },
@@ -47,12 +47,12 @@
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 146762,
@@ -91,12 +91,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 17621,
-      "asn_name": "China Unicom Shanghai network"
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 17621,
+      "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 142111,
@@ -179,20 +179,16 @@
       "asn_name": "MIKU NETWORK LIMITED"
     },
     {
-      "asn_number": 137718,
-      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
-    },
-    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 59045,
-      "asn_name": "Guangzhou navigation information technology co., LTD"
+      "asn_number": 137718,
+      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
-      "asn_number": 59019,
-      "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
+      "asn_number": 59045,
+      "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 58466,
@@ -209,6 +205,10 @@
     {
       "asn_number": 10212,
       "asn_name": "China Enterprise ICT Solutions Limited"
+    },
+    {
+      "asn_number": 59019,
+      "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
       "asn_number": 38283,
@@ -243,6 +243,10 @@
       "asn_name": "Shanghai Blue Cloud Technology Co.,Ltd"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 9809,
       "asn_name": "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD."
     },
@@ -275,6 +279,10 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
     },
@@ -283,20 +291,12 @@
       "asn_name": "21Vianet.Co.,Ltd"
     },
     {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
-    },
-    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
     {
       "asn_number": 137735,
       "asn_name": "China Construction Bank"
-    },
-    {
-      "asn_number": 136958,
-      "asn_name": "China Unicom Guangdong IP network"
     },
     {
       "asn_number": 136237,
@@ -327,10 +327,6 @@
       "asn_name": "263 Shanghai Communications Ltd."
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -341,6 +337,10 @@
     {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
+    },
+    {
+      "asn_number": 136958,
+      "asn_name": "China Unicom Guangdong IP network"
     },
     {
       "asn_number": 134773,
@@ -469,6 +469,10 @@
     {
       "asn_number": 9394,
       "asn_name": "China TieTong Telecommunications Corporation"
+    },
+    {
+      "asn_number": 63701,
+      "asn_name": "Jishi Media Co ., Ltd."
     },
     {
       "asn_number": 63561,
@@ -665,10 +669,6 @@
     {
       "asn_number": 7609,
       "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
-    },
-    {
-      "asn_number": 63701,
-      "asn_name": "Jishi Media Co ., Ltd."
     },
     {
       "asn_number": 63634,
@@ -1291,10 +1291,6 @@
       "asn_name": "asn for Heilongjiang Provincial Net of CT"
     },
     {
-      "asn_number": 17789,
-      "asn_name": "CNCGROUP IP network of ShangHai IDC"
-    },
-    {
       "asn_number": 17633,
       "asn_name": "ASN for Shandong Provincial Net of CT"
     },
@@ -1673,10 +1669,6 @@
     {
       "asn_number": 133465,
       "asn_name": "Duke Kunshan University"
-    },
-    {
-      "asn_number": 133119,
-      "asn_name": "China Unicom IP network"
     },
     {
       "asn_number": 133111,
@@ -2179,6 +2171,10 @@
       "asn_name": "Daqing zhongji petroleum telecommunication construction limited cpmpany"
     },
     {
+      "asn_number": 17789,
+      "asn_name": "CNCGROUP IP network of ShangHai IDC"
+    },
+    {
       "asn_number": 17776,
       "asn_name": "China Enterprise ICT Solutions Limited"
     },
@@ -2601,6 +2597,10 @@
     {
       "asn_number": 133194,
       "asn_name": "Connections Hub Technology (Shanghai) Ltd. Company"
+    },
+    {
+      "asn_number": 133119,
+      "asn_name": "China Unicom IP network"
     },
     {
       "asn_number": 133118,
