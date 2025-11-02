@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-01 02:28:11",
+    "last_updated_utc": "2025-11-02 02:42:04",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5245
+    "entry_count": 5244
   },
   "asns": [
     {
@@ -37,6 +37,10 @@
     {
       "asn_number": 4809,
       "asn_name": "China Telecom Next Generation Carrier Network"
+    },
+    {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 209650,
@@ -75,16 +79,12 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 4538,
-      "asn_name": "China Education and Research Network Center"
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
+      "asn_number": 4538,
+      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 4812,
@@ -143,12 +143,12 @@
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 55990,
@@ -157,6 +157,10 @@
     {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 24490,
@@ -171,12 +175,12 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
+      "asn_number": 59045,
+      "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 56046,
@@ -185,10 +189,6 @@
     {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
-    },
-    {
-      "asn_number": 59045,
-      "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 58466,
@@ -299,10 +299,6 @@
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
     },
     {
-      "asn_number": 133219,
-      "asn_name": "NewMedia Express Pte Ltd"
-    },
-    {
       "asn_number": 63648,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
@@ -345,6 +341,10 @@
     {
       "asn_number": 134773,
       "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
+    },
+    {
+      "asn_number": 133219,
+      "asn_name": "NewMedia Express Pte Ltd"
     },
     {
       "asn_number": 9308,
@@ -1187,10 +1187,6 @@
       "asn_name": "Chinese Academy of Social Sciences"
     },
     {
-      "asn_number": 55958,
-      "asn_name": "Intel China Ltd"
-    },
-    {
       "asn_number": 4835,
       "asn_name": "China Telecom (Group)"
     },
@@ -1771,10 +1767,6 @@
       "asn_name": "Beijing WangJu Interworking Information Technology Co. LTD"
     },
     {
-      "asn_number": 63633,
-      "asn_name": "GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.,LTD."
-    },
-    {
       "asn_number": 63621,
       "asn_name": "NINGXIA BROADCAST&TV NETWORK CO.,LTD"
     },
@@ -1897,6 +1889,10 @@
     {
       "asn_number": 55962,
       "asn_name": "Beijing Kuaishou Technology Co., Ltd."
+    },
+    {
+      "asn_number": 55958,
+      "asn_name": "Intel China Ltd"
     },
     {
       "asn_number": 55786,
@@ -2589,6 +2585,10 @@
     {
       "asn_number": 134169,
       "asn_name": "CERNEWTECH (Beijing) co.,LTD"
+    },
+    {
+      "asn_number": 133846,
+      "asn_name": "IMLONGHAO"
     },
     {
       "asn_number": 133555,
@@ -20941,10 +20941,6 @@
     {
       "asn_number": 134477,
       "asn_name": "Shaoxing Junruiyunjisuan Co Ltd"
-    },
-    {
-      "asn_number": 133846,
-      "asn_name": "IMLONGHAO"
     },
     {
       "asn_number": 133518,
