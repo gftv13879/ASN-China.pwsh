@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-04 02:26:55",
+    "last_updated_utc": "2025-11-05 02:28:03",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5243
+    "entry_count": 5245
   },
   "asns": [
     {
@@ -51,10 +51,6 @@
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 4847,
       "asn_name": "China Networks Inter-Exchange"
     },
@@ -75,12 +71,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 133865,
@@ -95,12 +91,12 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 56040,
@@ -131,6 +127,10 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
@@ -155,20 +155,20 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 44421,
@@ -179,16 +179,16 @@
       "asn_name": "MIKU NETWORK LIMITED"
     },
     {
+      "asn_number": 59045,
+      "asn_name": "Guangzhou navigation information technology co., LTD"
+    },
+    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
-    },
-    {
-      "asn_number": 59045,
-      "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 58466,
@@ -231,10 +231,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -271,6 +267,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
@@ -281,10 +281,6 @@
     {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139138,
@@ -345,6 +341,10 @@
     {
       "asn_number": 151397,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139148,
@@ -2023,6 +2023,10 @@
       "asn_name": "CERNET2 IX at Dalian University of Technology"
     },
     {
+      "asn_number": 24367,
+      "asn_name": "CERNET2 IX at Zhejiang University"
+    },
+    {
       "asn_number": 24364,
       "asn_name": "CERNET2 IX at Shanghai Jiaotong University"
     },
@@ -2495,6 +2499,10 @@
       "asn_name": "Hangzhou Sulian Information Technology Co.,ltd"
     },
     {
+      "asn_number": 137755,
+      "asn_name": "China Radio and Television Qinghai Network Co. Ltd"
+    },
+    {
       "asn_number": 137719,
       "asn_name": "Qingdao Weidong Big Data Technology Co., Ltd"
     },
@@ -2745,10 +2753,6 @@
     {
       "asn_number": 24368,
       "asn_name": "CERNET2 IX at Xiamen University"
-    },
-    {
-      "asn_number": 24367,
-      "asn_name": "CERNET2 IX at Zhejiang University"
     },
     {
       "asn_number": 24366,
@@ -3145,6 +3149,10 @@
     {
       "asn_number": 204518,
       "asn_name": "Shiyu Zhou"
+    },
+    {
+      "asn_number": 204211,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 204185,
