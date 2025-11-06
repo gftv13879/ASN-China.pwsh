@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-05 02:28:03",
+    "last_updated_utc": "2025-11-06 02:28:59",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5245
   },
@@ -91,12 +91,12 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 56040,
@@ -111,20 +111,24 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+      "asn_number": 137753,
+      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 137753,
-      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 63631,
@@ -135,24 +139,24 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 45090,
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
-    },
-    {
-      "asn_number": 23724,
-      "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
+      "asn_number": 23724,
+      "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 135426,
@@ -163,16 +167,12 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 9384,
@@ -1327,6 +1327,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 150184,
+      "asn_name": "Chen Chi"
+    },
+    {
       "asn_number": 150166,
       "asn_name": "The New Development Bank"
     },
@@ -2135,6 +2139,10 @@
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
     },
@@ -2257,10 +2265,6 @@
     {
       "asn_number": 150374,
       "asn_name": "Jiang Men Shi Tian Da Cloud Co. Ltd"
-    },
-    {
-      "asn_number": 150184,
-      "asn_name": "Chen Chi"
     },
     {
       "asn_number": 149793,
@@ -3013,10 +3017,6 @@
     {
       "asn_number": 210426,
       "asn_name": "Liang Zhu"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 210176,
