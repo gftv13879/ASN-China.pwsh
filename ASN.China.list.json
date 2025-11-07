@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-06 02:28:59",
+    "last_updated_utc": "2025-11-07 02:26:49",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5245
+    "entry_count": 5246
   },
   "asns": [
     {
@@ -71,12 +71,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 4538,
-      "asn_name": "China Education and Research Network Center"
-    },
-    {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 4538,
+      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 133865,
@@ -103,12 +103,12 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 134578,
@@ -127,6 +127,10 @@
       "asn_name": "China Netcom Backbone"
     },
     {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
     },
@@ -135,20 +139,16 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 45090,
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 55990,
@@ -167,12 +167,12 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 9384,
@@ -555,10 +555,6 @@
       "asn_name": "Pacnet Business Solutions LTD"
     },
     {
-      "asn_number": 24348,
-      "asn_name": "CERNET2 IX at Tsinghua University"
-    },
-    {
       "asn_number": 23853,
       "asn_name": "Shanghai Data Solution Co., Ltd."
     },
@@ -805,6 +801,10 @@
     {
       "asn_number": 24430,
       "asn_name": "Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China"
+    },
+    {
+      "asn_number": 24348,
+      "asn_name": "CERNET2 IX at Tsinghua University"
     },
     {
       "asn_number": 24147,
@@ -2027,10 +2027,6 @@
       "asn_name": "CERNET2 IX at Dalian University of Technology"
     },
     {
-      "asn_number": 24367,
-      "asn_name": "CERNET2 IX at Zhejiang University"
-    },
-    {
       "asn_number": 24364,
       "asn_name": "CERNET2 IX at Shanghai Jiaotong University"
     },
@@ -2069,10 +2065,6 @@
     {
       "asn_number": 24349,
       "asn_name": "CERNET2 IX at Peking University"
-    },
-    {
-      "asn_number": 24302,
-      "asn_name": "CRIS-CERNET"
     },
     {
       "asn_number": 24150,
@@ -2759,6 +2751,10 @@
       "asn_name": "CERNET2 IX at Xiamen University"
     },
     {
+      "asn_number": 24367,
+      "asn_name": "CERNET2 IX at Zhejiang University"
+    },
+    {
       "asn_number": 24366,
       "asn_name": "CERNET2 IX at Tongji University"
     },
@@ -2785,6 +2781,10 @@
     {
       "asn_number": 24351,
       "asn_name": "CERNET2 IX at Beijing University of Aeronautics and Astronautics"
+    },
+    {
+      "asn_number": 24302,
+      "asn_name": "CRIS-CERNET"
     },
     {
       "asn_number": 24239,
@@ -2881,6 +2881,10 @@
     {
       "asn_number": 214955,
       "asn_name": "Weikang Zeng"
+    },
+    {
+      "asn_number": 214933,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 214921,
