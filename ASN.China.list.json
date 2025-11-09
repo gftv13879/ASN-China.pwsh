@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-08 02:20:12",
+    "last_updated_utc": "2025-11-09 02:40:19",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5248
+    "entry_count": 5247
   },
   "asns": [
     {
@@ -71,12 +71,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 133865,
@@ -111,12 +111,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 146788,
-      "asn_name": "China Broadcasting Network Co., Ltd"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 146788,
+      "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
       "asn_number": 137753,
@@ -171,12 +171,12 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 59045,
@@ -2267,10 +2267,6 @@
       "asn_name": "Xin Yang Bai Xing Network Tecnology Co., Ltd"
     },
     {
-      "asn_number": 149790,
-      "asn_name": "Octopus Cloud Computing (Shanghai) Co., Ltd"
-    },
-    {
       "asn_number": 149511,
       "asn_name": "Yamu Technologies Co., Ltd."
     },
@@ -3003,6 +2999,10 @@
       "asn_name": "XIAO YANG WEN RUI"
     },
     {
+      "asn_number": 212053,
+      "asn_name": "ShiJI Tong"
+    },
+    {
       "asn_number": 211992,
       "asn_name": "Wei Tang"
     },
@@ -3101,10 +3101,6 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
-    },
-    {
-      "asn_number": 207292,
-      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
