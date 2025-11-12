@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generation_timestamp_utc": "2025-11-11T02:26:15Z",
+    "generation_timestamp_utc": "2025-11-12T02:25:00Z",
     "data_sources": [
       "RIPE RISwhois Dumps",
       "CAIDA RouteViews pfx2as"
