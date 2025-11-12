@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-11 02:29:00",
+    "last_updated_utc": "2025-11-12 02:27:48",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5249
   },
@@ -47,16 +47,16 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
       "asn_number": 4847,
       "asn_name": "China Networks Inter-Exchange"
-    },
-    {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 146762,
@@ -95,12 +95,12 @@
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
-      "asn_number": 56040,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 56040,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 4842,
@@ -155,6 +155,10 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
     },
@@ -165,10 +169,6 @@
     {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
-    },
-    {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 44421,
@@ -251,6 +251,10 @@
       "asn_name": "LGNET China"
     },
     {
+      "asn_number": 56006,
+      "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
+    },
+    {
       "asn_number": 55992,
       "asn_name": "Beijing Qihu Technology Company Limited"
     },
@@ -325,10 +329,6 @@
     {
       "asn_number": 58850,
       "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
-    },
-    {
-      "asn_number": 56006,
-      "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
     },
     {
       "asn_number": 24413,
@@ -2131,10 +2131,6 @@
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
     },
@@ -2213,10 +2209,6 @@
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151311,
@@ -3035,6 +3027,10 @@
       "asn_name": "Liang Zhu"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 210176,
       "asn_name": "Haoyi Xiang"
     },
@@ -3385,6 +3381,10 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Mengsi Computer System Co Ltd"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
