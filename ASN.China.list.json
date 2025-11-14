@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-13 02:41:23",
+    "last_updated_utc": "2025-11-14 02:28:22",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5249
+    "entry_count": 5250
   },
   "asns": [
     {
@@ -55,12 +55,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 9808,
@@ -95,16 +95,16 @@
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
+    },
+    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 56040,
       "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 134578,
@@ -127,12 +127,12 @@
       "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 140633,
@@ -143,16 +143,20 @@
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
-      "asn_number": 23724,
-      "asn_name": "IDC, China Telecommunications Corporation"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
+      "asn_number": 23724,
+      "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 24490,
@@ -165,10 +169,6 @@
     {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 44421,
@@ -279,6 +279,10 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
     },
@@ -333,10 +337,6 @@
     {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 153726,
@@ -1623,6 +1623,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 135040,
+      "asn_name": "Dongguan Xingxiu Technology Co., Ltd."
+    },
+    {
       "asn_number": 134810,
       "asn_name": "China Mobile Group JiLin communications corporation"
     },
@@ -2543,6 +2547,10 @@
       "asn_name": "Xiong'an, Hebei Province, P.R.China."
     },
     {
+      "asn_number": 136160,
+      "asn_name": "Tianjin Shi Shi Ji Hulian Yuntong Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 136146,
       "asn_name": "Beijing 3389 Network Technology Co., Ltd."
     },
@@ -2553,10 +2561,6 @@
     {
       "asn_number": 135054,
       "asn_name": "China Mobile Group Hainan Co., Ltd."
-    },
-    {
-      "asn_number": 135040,
-      "asn_name": "Dongguan Xingxiu Technology Co., Ltd."
     },
     {
       "asn_number": 135006,
