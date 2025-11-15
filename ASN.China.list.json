@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-14 02:28:22",
+    "last_updated_utc": "2025-11-15 02:24:14",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5250
+    "entry_count": 5249
   },
   "asns": [
     {
@@ -55,12 +55,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 9808,
@@ -107,24 +107,24 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
-      "asn_number": 137753,
-      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
-    },
-    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
+    },
+    {
+      "asn_number": 137753,
+      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
       "asn_number": 146834,
@@ -619,6 +619,10 @@
       "asn_name": "Visa Information Technology Beijing Co. Ltd."
     },
     {
+      "asn_number": 131574,
+      "asn_name": "Beijing Haiyu Technology Co. Ltd.."
+    },
+    {
       "asn_number": 131486,
       "asn_name": "Beijing Jingdong 360 Degree E-commerce Co., Ltd."
     },
@@ -733,10 +737,6 @@
     {
       "asn_number": 58448,
       "asn_name": "CONAC (China Organizational Name Administration Center)"
-    },
-    {
-      "asn_number": 56011,
-      "asn_name": "UNICLOUD TECH CO.,LTD."
     },
     {
       "asn_number": 56002,
@@ -1035,10 +1035,6 @@
       "asn_name": "Beijing Foreign Studies University"
     },
     {
-      "asn_number": 131574,
-      "asn_name": "Beijing Haiyu Technology Co. Ltd.."
-    },
-    {
       "asn_number": 131516,
       "asn_name": "Jinhua Weian InfoTech Co., Ltd"
     },
@@ -1243,6 +1239,10 @@
       "asn_name": "CERNET2 IX at Northeast University"
     },
     {
+      "asn_number": 24363,
+      "asn_name": "CERNET2 IX at Shandong University"
+    },
+    {
       "asn_number": 24361,
       "asn_name": "CERNET2 IX at Southeast University"
     },
@@ -1409,6 +1409,10 @@
     {
       "asn_number": 141025,
       "asn_name": "Shenyang MAN, Liaoning, China Telecom"
+    },
+    {
+      "asn_number": 141005,
+      "asn_name": "Shandong Provincial Department of Education,"
     },
     {
       "asn_number": 140979,
@@ -1695,10 +1699,6 @@
       "asn_name": "CERNET New Technology Co., Ltd"
     },
     {
-      "asn_number": 133033,
-      "asn_name": "Dragon Network Int'l Co. Ltd"
-    },
-    {
       "asn_number": 132833,
       "asn_name": "China Telecom"
     },
@@ -1907,6 +1907,10 @@
       "asn_name": "China Sports Lottery Technology Development Co., Ltd"
     },
     {
+      "asn_number": 56011,
+      "asn_name": "UNICLOUD TECH CO.,LTD."
+    },
+    {
       "asn_number": 55962,
       "asn_name": "Beijing Kuaishou Technology Co., Ltd."
     },
@@ -2035,10 +2039,6 @@
       "asn_name": "CERNET2 IX at Shanghai Jiaotong University"
     },
     {
-      "asn_number": 24363,
-      "asn_name": "CERNET2 IX at Shandong University"
-    },
-    {
       "asn_number": 24362,
       "asn_name": "CERNET2 IX at University of Science and Technology of China"
     },
@@ -2133,6 +2133,10 @@
     {
       "asn_number": 210634,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 209574,
@@ -2329,10 +2333,6 @@
     {
       "asn_number": 141006,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 141005,
-      "asn_name": "Shandong Provincial Department of Education,"
     },
     {
       "asn_number": 140886,
@@ -3029,10 +3029,6 @@
     {
       "asn_number": 210426,
       "asn_name": "Liang Zhu"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 210176,
