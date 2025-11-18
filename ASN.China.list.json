@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-17 02:29:26",
+    "last_updated_utc": "2025-11-18 02:27:58",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5249
+    "entry_count": 5248
   },
   "asns": [
     {
@@ -155,10 +155,6 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
@@ -169,6 +165,10 @@
     {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 44421,
@@ -251,10 +251,6 @@
       "asn_name": "LGNET China"
     },
     {
-      "asn_number": 56006,
-      "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
-    },
-    {
       "asn_number": 55992,
       "asn_name": "Beijing Qihu Technology Company Limited"
     },
@@ -311,10 +307,6 @@
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
     },
     {
-      "asn_number": 133219,
-      "asn_name": "NewMedia Express Pte Ltd"
-    },
-    {
       "asn_number": 63648,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
@@ -335,6 +327,10 @@
       "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
     {
+      "asn_number": 56006,
+      "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
+    },
+    {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
     },
@@ -347,12 +343,20 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
     },
     {
       "asn_number": 134773,
       "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
+    },
+    {
+      "asn_number": 133219,
+      "asn_name": "NewMedia Express Pte Ltd"
     },
     {
       "asn_number": 9308,
@@ -419,10 +423,6 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
-      "asn_number": 213625,
-      "asn_name": "Xuluo Chen"
-    },
-    {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
     },
@@ -437,10 +437,6 @@
     {
       "asn_number": 140726,
       "asn_name": "UNICOM AnHui province network"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139721,
@@ -553,6 +549,10 @@
     {
       "asn_number": 23853,
       "asn_name": "Shanghai Data Solution Co., Ltd."
+    },
+    {
+      "asn_number": 213625,
+      "asn_name": "Xuluo Chen"
     },
     {
       "asn_number": 209294,
@@ -749,10 +749,6 @@
     {
       "asn_number": 55982,
       "asn_name": "Changhong IT information Products CO.,LTD."
-    },
-    {
-      "asn_number": 55971,
-      "asn_name": "Chinese Academy of Social Sciences"
     },
     {
       "asn_number": 55956,
@@ -1185,6 +1181,10 @@
     {
       "asn_number": 55973,
       "asn_name": "Universal Cinema Services Co., Ltd"
+    },
+    {
+      "asn_number": 55971,
+      "asn_name": "Chinese Academy of Social Sciences"
     },
     {
       "asn_number": 4835,
@@ -2141,10 +2141,6 @@
     {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
-    },
-    {
-      "asn_number": 207901,
-      "asn_name": "ZHOU ZEFENG"
     },
     {
       "asn_number": 205610,
