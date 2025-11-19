@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-18 02:27:58",
+    "last_updated_utc": "2025-11-19 02:27:36",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5248
   },
@@ -55,12 +55,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 9808,
@@ -99,12 +99,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 56040,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 146788,
@@ -115,16 +115,16 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 146834,
@@ -275,10 +275,6 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
     },
@@ -341,10 +337,6 @@
     {
       "asn_number": 151397,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139148,
@@ -437,6 +429,10 @@
     {
       "asn_number": 140726,
       "asn_name": "UNICOM AnHui province network"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139721,
@@ -585,6 +581,10 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 139080,
@@ -823,6 +823,10 @@
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
     },
@@ -849,10 +853,6 @@
     {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152711,
@@ -1005,10 +1005,6 @@
     {
       "asn_number": 134417,
       "asn_name": "Nanjing"
-    },
-    {
-      "asn_number": 133952,
-      "asn_name": "Zhengzhou longling technology ltd."
     },
     {
       "asn_number": 133776,
@@ -1615,10 +1611,6 @@
       "asn_name": "China Telecom Yunnan Diqing MAN"
     },
     {
-      "asn_number": 136173,
-      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
-    },
-    {
       "asn_number": 135363,
       "asn_name": "Beijing Dunhuang Heguang Information Technology Co.,Lt."
     },
@@ -1685,6 +1677,10 @@
     {
       "asn_number": 134238,
       "asn_name": "CHINANET Jiangx province IDC network"
+    },
+    {
+      "asn_number": 133952,
+      "asn_name": "Zhengzhou longling technology ltd."
     },
     {
       "asn_number": 133775,
@@ -1929,10 +1925,6 @@
     {
       "asn_number": 51928,
       "asn_name": "SHIZHE XU"
-    },
-    {
-      "asn_number": 50922,
-      "asn_name": "SHI Li Li"
     },
     {
       "asn_number": 4813,
@@ -2543,6 +2535,10 @@
       "asn_name": "Xiong'an, Hebei Province, P.R.China."
     },
     {
+      "asn_number": 136173,
+      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 136160,
       "asn_name": "Tianjin Shi Shi Ji Hulian Yuntong Network Technology Co., Ltd."
     },
@@ -2697,6 +2693,10 @@
     {
       "asn_number": 55641,
       "asn_name": "Changping District, Beijing"
+    },
+    {
+      "asn_number": 50922,
+      "asn_name": "SHI Li Li"
     },
     {
       "asn_number": 49904,
