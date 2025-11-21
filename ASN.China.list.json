@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-20 02:26:15",
+    "last_updated_utc": "2025-11-21 02:26:32",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5248
   },
@@ -55,12 +55,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 9808,
@@ -99,12 +99,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 56040,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 56040,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 134578,
@@ -155,20 +155,20 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
     },
     {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
+    },
+    {
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
       "asn_number": 44421,
@@ -179,6 +179,10 @@
       "asn_name": "MIKU NETWORK LIMITED"
     },
     {
+      "asn_number": 59045,
+      "asn_name": "Guangzhou navigation information technology co., LTD"
+    },
+    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
     },
@@ -187,16 +191,16 @@
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
-      "asn_number": 59045,
-      "asn_name": "Guangzhou navigation information technology co., LTD"
-    },
-    {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
     },
     {
       "asn_number": 38365,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
+    },
+    {
+      "asn_number": 24151,
+      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 24138,
@@ -217,10 +221,6 @@
     {
       "asn_number": 24489,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
-    },
-    {
-      "asn_number": 24151,
-      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 23848,
@@ -343,6 +343,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
     },
@@ -429,10 +433,6 @@
     {
       "asn_number": 140726,
       "asn_name": "UNICOM AnHui province network"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139721,
@@ -581,10 +581,6 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 139080,
@@ -1297,6 +1293,10 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152186,
