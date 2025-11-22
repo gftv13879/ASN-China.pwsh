@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-21 02:26:32",
+    "last_updated_utc": "2025-11-22 02:22:01",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5248
+    "entry_count": 5249
   },
   "asns": [
     {
@@ -55,12 +55,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 9808,
@@ -155,8 +155,8 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 24490,
@@ -171,8 +171,8 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 9384,
@@ -227,16 +227,16 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
-      "asn_number": 24409,
-      "asn_name": "China Internet Network Infomation Center"
-    },
-    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
     {
       "asn_number": 58593,
       "asn_name": "Shanghai Blue Cloud Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 24409,
+      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 9809,
@@ -269,10 +269,6 @@
     {
       "asn_number": 23911,
       "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
-      "asn_number": 23650,
-      "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
       "asn_number": 17623,
@@ -335,16 +331,16 @@
       "asn_name": "263 Shanghai Communications Ltd."
     },
     {
+      "asn_number": 23650,
+      "asn_name": "AS Number for CHINANET jiangsu province backbone"
+    },
+    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
     {
       "asn_number": 151397,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139148,
@@ -433,6 +429,10 @@
     {
       "asn_number": 140726,
       "asn_name": "UNICOM AnHui province network"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139721,
@@ -1027,10 +1027,6 @@
       "asn_name": "Jinhua Weian InfoTech Co., Ltd"
     },
     {
-      "asn_number": 131495,
-      "asn_name": "Beijing nine cloud infinite network technology co., LTD"
-    },
-    {
       "asn_number": 131285,
       "asn_name": "CHINATELECOM Hubei province Shengji 5G network"
     },
@@ -1263,6 +1259,10 @@
       "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 210041,
       "asn_name": "Licheng MAO"
     },
@@ -1305,6 +1305,10 @@
     {
       "asn_number": 151823,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 151673,
+      "asn_name": "Chen Xinyu"
     },
     {
       "asn_number": 151640,
@@ -1735,6 +1739,10 @@
       "asn_name": "Volkswagen (China) Investment Co., LTD"
     },
     {
+      "asn_number": 131495,
+      "asn_name": "Beijing nine cloud infinite network technology co., LTD"
+    },
+    {
       "asn_number": 131325,
       "asn_name": "China Telecom KunMing"
     },
@@ -2129,10 +2137,6 @@
     {
       "asn_number": 210634,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 209574,
@@ -3175,6 +3179,10 @@
       "asn_name": "zhiwensun"
     },
     {
+      "asn_number": 203643,
+      "asn_name": "RIPE NCC ASN block"
+    },
+    {
       "asn_number": 202256,
       "asn_name": "Dongyu Zhang"
     },
@@ -3393,10 +3401,6 @@
     {
       "asn_number": 151674,
       "asn_name": "Cheng Yijia"
-    },
-    {
-      "asn_number": 151673,
-      "asn_name": "Chen Xinyu"
     },
     {
       "asn_number": 151494,
