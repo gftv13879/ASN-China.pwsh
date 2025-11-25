@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-24 02:48:54",
+    "last_updated_utc": "2025-11-25 02:40:52",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5249
+    "entry_count": 5248
   },
   "asns": [
     {
@@ -59,10 +59,6 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
@@ -87,6 +83,10 @@
       "asn_name": "China Telecom (Group)"
     },
     {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
     },
@@ -107,12 +107,12 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 146788,
-      "asn_name": "China Broadcasting Network Co., Ltd"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 146788,
+      "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
       "asn_number": 9929,
@@ -127,12 +127,12 @@
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 140633,
@@ -155,10 +155,6 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
     },
@@ -173,6 +169,10 @@
     {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 9384,
@@ -2545,10 +2545,6 @@
     {
       "asn_number": 136173,
       "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
-    },
-    {
-      "asn_number": 136160,
-      "asn_name": "Tianjin Shi Shi Ji Hulian Yuntong Network Technology Co., Ltd."
     },
     {
       "asn_number": 136146,
