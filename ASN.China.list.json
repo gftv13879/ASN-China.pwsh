@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-25 02:40:52",
+    "last_updated_utc": "2025-11-26 02:41:41",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5248
+    "entry_count": 5249
   },
   "asns": [
     {
@@ -63,6 +63,10 @@
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
     },
@@ -83,10 +87,6 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
     },
@@ -99,12 +99,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 56040,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 134578,
@@ -115,32 +115,32 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 9929,
-      "asn_name": "China Netcom Backbone"
-    },
-    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
+    },
+    {
+      "asn_number": 9929,
+      "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 45090,
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 37963,
@@ -395,6 +395,10 @@
       "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
+      "asn_number": 37965,
+      "asn_name": "Pacnet Business Solutions LTD"
+    },
+    {
       "asn_number": 24444,
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
@@ -533,10 +537,6 @@
     {
       "asn_number": 38057,
       "asn_name": "Dell (China) Co.,Ltd"
-    },
-    {
-      "asn_number": 37965,
-      "asn_name": "Pacnet Business Solutions LTD"
     },
     {
       "asn_number": 23853,
@@ -721,6 +721,10 @@
     {
       "asn_number": 58854,
       "asn_name": "Kaopu Cloud"
+    },
+    {
+      "asn_number": 58777,
+      "asn_name": "ChinaTelecom Cybersecurity Tech"
     },
     {
       "asn_number": 58541,
@@ -1117,10 +1121,6 @@
     {
       "asn_number": 58852,
       "asn_name": "Guizhou provincial radio and television information Network Inc"
-    },
-    {
-      "asn_number": 58777,
-      "asn_name": "ChinaTelecom Cybersecurity Tech"
     },
     {
       "asn_number": 58772,
@@ -2545,6 +2545,10 @@
     {
       "asn_number": 136173,
       "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 136160,
+      "asn_name": "Tianjin Shi Shi Ji Hulian Yuntong Network Technology Co., Ltd."
     },
     {
       "asn_number": 136146,
