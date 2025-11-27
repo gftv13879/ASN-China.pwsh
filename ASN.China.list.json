@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-26 02:41:41",
+    "last_updated_utc": "2025-11-27 02:27:12",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5249
+    "entry_count": 5246
   },
   "asns": [
     {
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 56048,
@@ -99,12 +99,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 56040,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 56040,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 134578,
@@ -135,12 +135,12 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 45090,
-      "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 45090,
+      "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
       "asn_number": 37963,
@@ -155,6 +155,10 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
     },
@@ -165,10 +169,6 @@
     {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
-    },
-    {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
       "asn_number": 4811,
@@ -311,16 +311,16 @@
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
     {
-      "asn_number": 63641,
-      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
-    },
-    {
       "asn_number": 59078,
       "asn_name": "Yunify Technologies Inc."
     },
     {
       "asn_number": 58850,
       "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
+    },
+    {
+      "asn_number": 58536,
+      "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
     {
       "asn_number": 56006,
@@ -355,16 +355,16 @@
       "asn_name": "Abitcool(China) Inc."
     },
     {
+      "asn_number": 63641,
+      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
+    },
+    {
       "asn_number": 58563,
       "asn_name": "CHINANET Hubei province network"
     },
     {
       "asn_number": 58542,
       "asn_name": "China Telecom Yueyang"
-    },
-    {
-      "asn_number": 58536,
-      "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
     {
       "asn_number": 56041,
@@ -437,6 +437,10 @@
     {
       "asn_number": 139721,
       "asn_name": "HeFei"
+    },
+    {
+      "asn_number": 139080,
+      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
     },
     {
       "asn_number": 138950,
@@ -579,12 +583,12 @@
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
+      "asn_number": 141425,
+      "asn_name": "China Mobile Group Guangdong communications corporation"
     },
     {
-      "asn_number": 139080,
-      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 138538,
@@ -881,10 +885,6 @@
     {
       "asn_number": 141679,
       "asn_name": "China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch"
-    },
-    {
-      "asn_number": 141425,
-      "asn_name": "China Mobile Group Guangdong communications corporation"
     },
     {
       "asn_number": 140895,
@@ -2015,6 +2015,10 @@
       "asn_name": "Huizhan street, Renqiu city, Hebei, P. R. CHINA"
     },
     {
+      "asn_number": 24416,
+      "asn_name": "Beijing Primezone Technologies Inc."
+    },
+    {
       "asn_number": 24415,
       "asn_name": "Jiangxi Broadcasting and TV information Network"
     },
@@ -2249,6 +2253,10 @@
     {
       "asn_number": 151261,
       "asn_name": "Sichuan Xiaocong Cloud Supercomputing Technology Co., Ltd"
+    },
+    {
+      "asn_number": 151232,
+      "asn_name": "Sichuan Ruisu Technology Co., LTD"
     },
     {
       "asn_number": 151185,
@@ -2683,10 +2691,6 @@
       "asn_name": "China telecom â China Next Generation Internet"
     },
     {
-      "asn_number": 59022,
-      "asn_name": "Kunming Broadcast&TV Network CO.,LTD"
-    },
-    {
       "asn_number": 58828,
       "asn_name": "GUANGDONG RURAL CREDIT UNION"
     },
@@ -2935,10 +2939,6 @@
       "asn_name": "RUNNAN WEN"
     },
     {
-      "asn_number": 214001,
-      "asn_name": "Shibo Cui"
-    },
-    {
       "asn_number": 213903,
       "asn_name": "Liuyang Zhang"
     },
@@ -2981,10 +2981,6 @@
     {
       "asn_number": 212982,
       "asn_name": "Lu Wang"
-    },
-    {
-      "asn_number": 212831,
-      "asn_name": "Liang Zhan Ming"
     },
     {
       "asn_number": 212793,
@@ -3065,14 +3061,6 @@
     {
       "asn_number": 209261,
       "asn_name": "Qiao Jiang"
-    },
-    {
-      "asn_number": 208993,
-      "asn_name": "Wei Xiaofan"
-    },
-    {
-      "asn_number": 208872,
-      "asn_name": "Jing Mi"
     },
     {
       "asn_number": 208754,
