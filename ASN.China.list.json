@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-27 02:27:12",
+    "last_updated_utc": "2025-11-28 02:26:42",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5246
   },
@@ -155,8 +155,8 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 44421,
@@ -171,8 +171,8 @@
       "asn_name": "ZTE Corporation"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
       "asn_number": 9384,
@@ -239,6 +239,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 24406,
+      "asn_name": "China Internet Network Infomation Center"
+    },
+    {
       "asn_number": 9809,
       "asn_name": "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD."
     },
@@ -251,6 +255,10 @@
       "asn_name": "LGNET China"
     },
     {
+      "asn_number": 56006,
+      "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
+    },
+    {
       "asn_number": 55992,
       "asn_name": "Beijing Qihu Technology Company Limited"
     },
@@ -261,10 +269,6 @@
     {
       "asn_number": 45079,
       "asn_name": "GDS CHANGAN SERVICES Ltd."
-    },
-    {
-      "asn_number": 24406,
-      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 23911,
@@ -321,10 +325,6 @@
     {
       "asn_number": 58536,
       "asn_name": "CONAC (China Organizational Name Administration Center)"
-    },
-    {
-      "asn_number": 56006,
-      "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
     },
     {
       "asn_number": 24413,
@@ -599,6 +599,10 @@
       "asn_name": "APNIC ASN block"
     },
     {
+      "asn_number": 137702,
+      "asn_name": "Nanjing, Jiangsu Province, P.R.China."
+    },
+    {
       "asn_number": 136198,
       "asn_name": "CHINANET Guangdong province Yuexi MAN network"
     },
@@ -749,6 +753,10 @@
     {
       "asn_number": 55982,
       "asn_name": "Changhong IT information Products CO.,LTD."
+    },
+    {
+      "asn_number": 55971,
+      "asn_name": "Chinese Academy of Social Sciences"
     },
     {
       "asn_number": 55956,
@@ -967,10 +975,6 @@
       "asn_name": "GTJA Securities"
     },
     {
-      "asn_number": 137702,
-      "asn_name": "Nanjing, Jiangsu Province, P.R.China."
-    },
-    {
       "asn_number": 137697,
       "asn_name": "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.R.China."
     },
@@ -1169,10 +1173,6 @@
     {
       "asn_number": 55973,
       "asn_name": "Universal Cinema Services Co., Ltd"
-    },
-    {
-      "asn_number": 55971,
-      "asn_name": "Chinese Academy of Social Sciences"
     },
     {
       "asn_number": 4835,
