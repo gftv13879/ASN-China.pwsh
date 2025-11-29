@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-28 02:26:42",
+    "last_updated_utc": "2025-11-29 02:26:34",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5246
   },
@@ -115,12 +115,12 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 137753,
-      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
-    },
-    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
+    },
+    {
+      "asn_number": 137753,
+      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
       "asn_number": 58879,
@@ -155,10 +155,6 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
     },
@@ -173,6 +169,10 @@
     {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 9384,
@@ -455,6 +455,10 @@
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
+      "asn_number": 137746,
+      "asn_name": "APNIC ASN block"
+    },
+    {
       "asn_number": 136180,
       "asn_name": "Beijing Tiantexin Tech. Co., Ltd."
     },
@@ -481,10 +485,6 @@
     {
       "asn_number": 59012,
       "asn_name": "China Grain Reserves Group LTD.Company"
-    },
-    {
-      "asn_number": 59009,
-      "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
       "asn_number": 58834,
@@ -551,6 +551,10 @@
       "asn_name": "Xuluo Chen"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 209294,
       "asn_name": "Fan Zhang"
     },
@@ -593,10 +597,6 @@
     {
       "asn_number": 138538,
       "asn_name": "VPSOR-GLOBAL"
-    },
-    {
-      "asn_number": 137746,
-      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 137702,
@@ -719,6 +719,10 @@
       "asn_name": "People.Cn CO.,LTD"
     },
     {
+      "asn_number": 59009,
+      "asn_name": "QingDao WangXin Telcom Corp. Limited"
+    },
+    {
       "asn_number": 58866,
       "asn_name": "China Financial Certification Authority"
     },
@@ -733,10 +737,6 @@
     {
       "asn_number": 58777,
       "asn_name": "ChinaTelecom Cybersecurity Tech"
-    },
-    {
-      "asn_number": 58541,
-      "asn_name": "China Telecom Xiangtan"
     },
     {
       "asn_number": 58448,
@@ -1139,6 +1139,10 @@
       "asn_name": "China Telecom Guangdong IDC"
     },
     {
+      "asn_number": 58541,
+      "asn_name": "China Telecom Xiangtan"
+    },
+    {
       "asn_number": 58539,
       "asn_name": "China Telecom Changsha"
     },
@@ -1257,10 +1261,6 @@
     {
       "asn_number": 211843,
       "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 210041,
