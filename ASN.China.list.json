@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-29 02:26:34",
+    "last_updated_utc": "2025-11-30 02:52:07",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5246
   },
@@ -115,12 +115,12 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 9929,
-      "asn_name": "China Netcom Backbone"
-    },
-    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
+    },
+    {
+      "asn_number": 9929,
+      "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 58879,
@@ -315,6 +315,10 @@
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
     {
+      "asn_number": 63641,
+      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
+    },
+    {
       "asn_number": 59078,
       "asn_name": "Yunify Technologies Inc."
     },
@@ -355,10 +359,6 @@
       "asn_name": "Abitcool(China) Inc."
     },
     {
-      "asn_number": 63641,
-      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
-    },
-    {
       "asn_number": 58563,
       "asn_name": "CHINANET Hubei province network"
     },
@@ -393,10 +393,6 @@
     {
       "asn_number": 38019,
       "asn_name": "tianjin Mobile Communication Company Limited"
-    },
-    {
-      "asn_number": 37965,
-      "asn_name": "Pacnet Business Solutions LTD"
     },
     {
       "asn_number": 24444,
@@ -541,6 +537,10 @@
     {
       "asn_number": 38057,
       "asn_name": "Dell (China) Co.,Ltd"
+    },
+    {
+      "asn_number": 37965,
+      "asn_name": "Pacnet Business Solutions LTD"
     },
     {
       "asn_number": 23853,
