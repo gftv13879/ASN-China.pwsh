@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-11-30 02:52:07",
+    "last_updated_utc": "2025-12-01 03:03:27",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5246
   },
@@ -863,6 +863,10 @@
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
     },
     {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -1033,6 +1037,10 @@
     {
       "asn_number": 131516,
       "asn_name": "Jinhua Weian InfoTech Co., Ltd"
+    },
+    {
+      "asn_number": 131495,
+      "asn_name": "Beijing nine cloud infinite network technology co., LTD"
     },
     {
       "asn_number": 131285,
@@ -1293,10 +1301,6 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152186,
@@ -1737,10 +1741,6 @@
     {
       "asn_number": 131497,
       "asn_name": "Volkswagen (China) Investment Co., LTD"
-    },
-    {
-      "asn_number": 131495,
-      "asn_name": "Beijing nine cloud infinite network technology co., LTD"
     },
     {
       "asn_number": 131325,
