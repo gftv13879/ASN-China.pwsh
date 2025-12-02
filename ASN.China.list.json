@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-01 03:03:27",
+    "last_updated_utc": "2025-12-02 02:43:26",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5246
   },
@@ -103,6 +103,10 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
       "asn_number": 56040,
       "asn_name": "China Mobile communications corporation"
     },
@@ -121,10 +125,6 @@
     {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 146834,
@@ -419,6 +419,10 @@
       "asn_name": "Changgong Zhang"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
@@ -555,10 +559,6 @@
       "asn_name": "Yijia Xu"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 18241,
       "asn_name": "State Power Information Net"
     },
@@ -589,10 +589,6 @@
     {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 138538,
@@ -863,10 +859,6 @@
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -925,6 +917,10 @@
     {
       "asn_number": 140061,
       "asn_name": "Qinghai Telecom"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139743,
@@ -1301,6 +1297,10 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152186,
