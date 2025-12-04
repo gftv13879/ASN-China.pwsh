@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-03 02:43:08",
+    "last_updated_utc": "2025-12-04 02:44:17",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5246
   },
@@ -55,12 +55,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 9808,
@@ -103,12 +103,12 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
-      "asn_number": 56040,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 56040,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 134578,
@@ -239,10 +239,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 24406,
-      "asn_name": "China Internet Network Infomation Center"
-    },
-    {
       "asn_number": 9809,
       "asn_name": "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD."
     },
@@ -269,6 +265,10 @@
     {
       "asn_number": 45079,
       "asn_name": "GDS CHANGAN SERVICES Ltd."
+    },
+    {
+      "asn_number": 24406,
+      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 23911,
@@ -331,6 +331,10 @@
       "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
     {
+      "asn_number": 45110,
+      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
+    },
+    {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
     },
@@ -373,10 +377,6 @@
     {
       "asn_number": 56013,
       "asn_name": "SAMSUNG SDS CHINA"
-    },
-    {
-      "asn_number": 45110,
-      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
     {
       "asn_number": 42962,
@@ -585,10 +585,6 @@
     {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 138538,
@@ -1299,10 +1295,6 @@
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 152186,
       "asn_name": "Mintel Holding Limited"
     },
@@ -1379,10 +1371,6 @@
       "asn_name": "Shenzhenshi Zhongyun Shujujishu Youxiangongsi"
     },
     {
-      "asn_number": 146806,
-      "asn_name": "Beijing Yunlian Interactive Technology Co., Ltd."
-    },
-    {
       "asn_number": 146771,
       "asn_name": "CCB Fintech Co., Ltd."
     },
@@ -1445,6 +1433,10 @@
     {
       "asn_number": 140317,
       "asn_name": "CHINATELECOM Guangdong province Shaoguan 5G network"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139887,
@@ -1789,10 +1781,6 @@
     {
       "asn_number": 63647,
       "asn_name": "Beijing WangJu Interworking Information Technology Co. LTD"
-    },
-    {
-      "asn_number": 63633,
-      "asn_name": "GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.,LTD."
     },
     {
       "asn_number": 63621,
@@ -2211,6 +2199,10 @@
       "asn_name": "KVQNET"
     },
     {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
@@ -2309,6 +2301,10 @@
     {
       "asn_number": 146809,
       "asn_name": "Jiangsu Anfutong Information Technology Co., Ltd"
+    },
+    {
+      "asn_number": 146806,
+      "asn_name": "Beijing Yunlian Interactive Technology Co., Ltd."
     },
     {
       "asn_number": 146802,
@@ -20956,6 +20952,10 @@
     },
     {
       "asn_number": 133518,
+      "asn_name": "CERNET New Technology Co., Ltd"
+    },
+    {
+      "asn_number": 133517,
       "asn_name": "CERNET New Technology Co., Ltd"
     },
     {
