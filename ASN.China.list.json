@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-04 02:44:17",
+    "last_updated_utc": "2025-12-05 02:44:32",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5246
   },
@@ -1295,6 +1295,10 @@
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
       "asn_number": 152186,
       "asn_name": "Mintel Holding Limited"
     },
@@ -1433,10 +1437,6 @@
     {
       "asn_number": 140317,
       "asn_name": "CHINATELECOM Guangdong province Shaoguan 5G network"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139887,
@@ -2199,10 +2199,6 @@
       "asn_name": "KVQNET"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
@@ -2409,6 +2405,10 @@
     {
       "asn_number": 140083,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139726,
