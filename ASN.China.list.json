@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-07 02:52:40",
+    "last_updated_utc": "2025-12-08 02:45:57",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5246
+    "entry_count": 5245
   },
   "asns": [
     {
@@ -111,12 +111,12 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 9929,
@@ -225,6 +225,10 @@
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 9814,
@@ -341,6 +345,10 @@
     {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 153726,
@@ -549,10 +557,6 @@
     {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 18241,
@@ -2111,10 +2115,6 @@
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 213404,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
@@ -2691,6 +2691,10 @@
       "asn_name": "GUANGDONG RURAL CREDIT UNION"
     },
     {
+      "asn_number": 58336,
+      "asn_name": "Chengde TsingYao Network Technology Service Co., Ltd."
+    },
+    {
       "asn_number": 56004,
       "asn_name": "Information Center of Shanghai Municipal Education Commission"
     },
@@ -3087,10 +3091,6 @@
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
     },
     {
-      "asn_number": 207292,
-      "asn_name": "YANG HAOJING"
-    },
-    {
       "asn_number": 207091,
       "asn_name": "Wang Junhao"
     },
@@ -3161,10 +3161,6 @@
     {
       "asn_number": 203655,
       "asn_name": "zhiwensun"
-    },
-    {
-      "asn_number": 203643,
-      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 203309,
