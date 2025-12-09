@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-08 02:45:57",
+    "last_updated_utc": "2025-12-09 02:43:52",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5245
   },
@@ -79,12 +79,12 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 17621,
@@ -179,16 +179,16 @@
       "asn_name": "MIKU NETWORK LIMITED"
     },
     {
+      "asn_number": 137718,
+      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+    },
+    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 137718,
-      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
       "asn_number": 58466,
@@ -205,6 +205,10 @@
     {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 10212,
@@ -225,10 +229,6 @@
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
-    },
-    {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 9814,
@@ -345,10 +345,6 @@
     {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 153726,
@@ -557,6 +553,10 @@
     {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 18241,
@@ -1031,10 +1031,6 @@
       "asn_name": "Jinhua Weian InfoTech Co., Ltd"
     },
     {
-      "asn_number": 131495,
-      "asn_name": "Beijing nine cloud infinite network technology co., LTD"
-    },
-    {
       "asn_number": 131285,
       "asn_name": "CHINATELECOM Hubei province Shengji 5G network"
     },
@@ -1427,6 +1423,10 @@
       "asn_name": "CHINA TELECOM"
     },
     {
+      "asn_number": 140716,
+      "asn_name": "UNICOM JiangSu WuXi IDC network"
+    },
+    {
       "asn_number": 140638,
       "asn_name": "China Telecom"
     },
@@ -1741,6 +1741,10 @@
     {
       "asn_number": 131497,
       "asn_name": "Volkswagen (China) Investment Co., LTD"
+    },
+    {
+      "asn_number": 131495,
+      "asn_name": "Beijing nine cloud infinite network technology co., LTD"
     },
     {
       "asn_number": 131325,
@@ -2339,10 +2343,6 @@
       "asn_name": "UNICOM JiangSu Suzhou IDC network"
     },
     {
-      "asn_number": 140716,
-      "asn_name": "UNICOM JiangSu WuXi IDC network"
-    },
-    {
       "asn_number": 140707,
       "asn_name": "UNICOM Ningxia province network"
     },
@@ -2689,10 +2689,6 @@
     {
       "asn_number": 58828,
       "asn_name": "GUANGDONG RURAL CREDIT UNION"
-    },
-    {
-      "asn_number": 58336,
-      "asn_name": "Chengde TsingYao Network Technology Service Co., Ltd."
     },
     {
       "asn_number": 56004,
@@ -3089,6 +3085,10 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
+    },
+    {
+      "asn_number": 207292,
+      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
