@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-09 02:43:52",
+    "last_updated_utc": "2025-12-10 02:47:32",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5245
+    "entry_count": 5247
   },
   "asns": [
     {
@@ -115,12 +115,12 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 137753,
@@ -191,6 +191,10 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
+    },
+    {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
     },
@@ -205,10 +209,6 @@
     {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
-    },
-    {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 10212,
@@ -595,6 +595,10 @@
       "asn_name": "VPSOR-GLOBAL"
     },
     {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
+    },
+    {
       "asn_number": 137702,
       "asn_name": "Nanjing, Jiangsu Province, P.R.China."
     },
@@ -961,10 +965,6 @@
     {
       "asn_number": 137787,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
-    },
-    {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137715,
@@ -2195,6 +2195,10 @@
       "asn_name": "5F Greatwall Bldg., A38 Xueyuan Road Haidian District,Beijing"
     },
     {
+      "asn_number": 154315,
+      "asn_name": "Guangzhou Leidianyun Technology Co Ltd"
+    },
+    {
       "asn_number": 154010,
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
     },
@@ -2893,6 +2897,10 @@
     {
       "asn_number": 214871,
       "asn_name": "Jiping Yu"
+    },
+    {
+      "asn_number": 214848,
+      "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
     },
     {
       "asn_number": 214843,
