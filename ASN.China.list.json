@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-10 02:47:32",
+    "last_updated_utc": "2025-12-11 02:49:07",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5247
+    "entry_count": 5248
   },
   "asns": [
     {
@@ -55,12 +55,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 9808,
@@ -147,12 +147,12 @@
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 23724,
-      "asn_name": "IDC, China Telecommunications Corporation"
-    },
-    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 23724,
+      "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
       "asn_number": 44421,
@@ -335,6 +335,10 @@
       "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
     {
+      "asn_number": 56041,
+      "asn_name": "China Mobile communications corporation"
+    },
+    {
       "asn_number": 45110,
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
@@ -373,10 +377,6 @@
     {
       "asn_number": 58542,
       "asn_name": "China Telecom Yueyang"
-    },
-    {
-      "asn_number": 56041,
-      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 56013,
@@ -593,10 +593,6 @@
     {
       "asn_number": 138538,
       "asn_name": "VPSOR-GLOBAL"
-    },
-    {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137702,
@@ -839,6 +835,10 @@
       "asn_name": "Jin Shaohai"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 205651,
       "asn_name": "Hao Qiao"
     },
@@ -861,6 +861,10 @@
     {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
+    },
+    {
+      "asn_number": 153725,
+      "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
       "asn_number": 152711,
@@ -965,6 +969,10 @@
     {
       "asn_number": 137787,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
+    },
+    {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137715,
@@ -1263,10 +1271,6 @@
       "asn_name": "Licheng MAO"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 209218,
       "asn_name": "Yang Qi"
     },
@@ -1293,10 +1297,6 @@
     {
       "asn_number": 153911,
       "asn_name": "DuoTu Cloud"
-    },
-    {
-      "asn_number": 153725,
-      "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
       "asn_number": 153376,
@@ -2641,6 +2641,10 @@
     {
       "asn_number": 131565,
       "asn_name": "INNER MONGOLIA BROADCAST&TV NETWORK GROUP CORPORATION"
+    },
+    {
+      "asn_number": 131542,
+      "asn_name": "APNIC 32-bit ASN block"
     },
     {
       "asn_number": 131541,
