@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-11 02:49:07",
+    "last_updated_utc": "2025-12-12 02:48:30",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5248
+    "entry_count": 5247
   },
   "asns": [
     {
@@ -55,12 +55,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 9808,
@@ -75,12 +75,12 @@
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 133865,
@@ -147,16 +147,16 @@
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 55990,
-      "asn_name": "Huawei Cloud Service data center"
-    },
-    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
+      "asn_number": 55990,
+      "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 135426,
@@ -167,10 +167,6 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
@@ -179,8 +175,8 @@
       "asn_name": "MIKU NETWORK LIMITED"
     },
     {
-      "asn_number": 137718,
-      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 59045,
@@ -193,6 +189,10 @@
     {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 137718,
+      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
       "asn_number": 58466,
@@ -411,10 +411,6 @@
       "asn_name": "Freecomm Corporation"
     },
     {
-      "asn_number": 24424,
-      "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
-    },
-    {
       "asn_number": 23844,
       "asn_name": "Beijing Guanghuan Xinwang Digital"
     },
@@ -547,12 +543,12 @@
       "asn_name": "Dell (China) Co.,Ltd"
     },
     {
-      "asn_number": 23853,
-      "asn_name": "Shanghai Data Solution Co., Ltd."
+      "asn_number": 24424,
+      "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
     },
     {
-      "asn_number": 213625,
-      "asn_name": "Xuluo Chen"
+      "asn_number": 23853,
+      "asn_name": "Shanghai Data Solution Co., Ltd."
     },
     {
       "asn_number": 210352,
@@ -831,12 +827,12 @@
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
-      "asn_number": 209306,
-      "asn_name": "Jin Shaohai"
+      "asn_number": 213625,
+      "asn_name": "Xuluo Chen"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
+      "asn_number": 209306,
+      "asn_name": "Jin Shaohai"
     },
     {
       "asn_number": 205651,
@@ -1271,6 +1267,10 @@
       "asn_name": "Licheng MAO"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 209218,
       "asn_name": "Yang Qi"
     },
@@ -1421,10 +1421,6 @@
     {
       "asn_number": 140903,
       "asn_name": "CHINA TELECOM"
-    },
-    {
-      "asn_number": 140716,
-      "asn_name": "UNICOM JiangSu WuXi IDC network"
     },
     {
       "asn_number": 140638,
@@ -2119,10 +2115,6 @@
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
-      "asn_number": 213404,
-      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 212164,
       "asn_name": "Jiaxian He"
     },
@@ -2133,10 +2125,6 @@
     {
       "asn_number": 211051,
       "asn_name": "Dazhong Technology Network Studio of Tieling County"
-    },
-    {
-      "asn_number": 210634,
-      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
       "asn_number": 209574,
@@ -2345,6 +2333,10 @@
     {
       "asn_number": 140717,
       "asn_name": "UNICOM JiangSu Suzhou IDC network"
+    },
+    {
+      "asn_number": 140716,
+      "asn_name": "UNICOM JiangSu WuXi IDC network"
     },
     {
       "asn_number": 140707,
@@ -2973,6 +2965,10 @@
     {
       "asn_number": 213545,
       "asn_name": "Wang Lei"
+    },
+    {
+      "asn_number": 213404,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
       "asn_number": 213116,
