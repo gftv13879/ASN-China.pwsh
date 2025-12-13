@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-12 02:48:30",
+    "last_updated_utc": "2025-12-13 02:29:12",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5247
+    "entry_count": 5246
   },
   "asns": [
     {
@@ -71,16 +71,16 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
-    },
-    {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 133865,
@@ -115,12 +115,12 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 9929,
-      "asn_name": "China Netcom Backbone"
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 9929,
+      "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 137753,
@@ -155,10 +155,6 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
     },
@@ -167,16 +163,20 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 59045,
@@ -279,10 +279,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
     },
@@ -345,6 +341,10 @@
     {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
+    },
+    {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
       "asn_number": 23650,
@@ -859,10 +859,6 @@
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
     },
     {
-      "asn_number": 153725,
-      "asn_name": "Tenonet (Hangzhou) Co Ltd"
-    },
-    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -885,10 +881,6 @@
     {
       "asn_number": 146812,
       "asn_name": "Deutsche Bank (China) Co., Ltd. Shanghai Branch"
-    },
-    {
-      "asn_number": 146782,
-      "asn_name": "University Of Chinese Academy Of Social Sciences"
     },
     {
       "asn_number": 141679,
@@ -1025,10 +1017,6 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131516,
@@ -1299,6 +1287,10 @@
       "asn_name": "DuoTu Cloud"
     },
     {
+      "asn_number": 153725,
+      "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
       "asn_number": 153376,
       "asn_name": "Jilin Province Brick Business Service Limited"
     },
@@ -1377,6 +1369,10 @@
     {
       "asn_number": 146822,
       "asn_name": "Shenzhenshi Zhongyun Shujujishu Youxiangongsi"
+    },
+    {
+      "asn_number": 146782,
+      "asn_name": "University Of Chinese Academy Of Social Sciences"
     },
     {
       "asn_number": 146771,
@@ -1717,6 +1713,10 @@
     {
       "asn_number": 132147,
       "asn_name": "No.3,Shu-Ma Road"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -3093,10 +3093,6 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
-    },
-    {
-      "asn_number": 207292,
-      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
