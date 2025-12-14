@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-13 02:29:12",
+    "last_updated_utc": "2025-12-14 02:54:21",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5246
   },
@@ -71,12 +71,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 4812,
@@ -155,6 +155,10 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
     },
@@ -165,10 +169,6 @@
     {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 24490,
@@ -185,10 +185,6 @@
     {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 137718,
@@ -209,6 +205,10 @@
     {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 10212,
@@ -279,6 +279,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
     },
@@ -331,20 +335,12 @@
       "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
     {
-      "asn_number": 56041,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 45110,
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
     {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
-    },
-    {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
       "asn_number": 23650,
@@ -377,6 +373,10 @@
     {
       "asn_number": 58542,
       "asn_name": "China Telecom Yueyang"
+    },
+    {
+      "asn_number": 56041,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 56013,
@@ -883,6 +883,10 @@
       "asn_name": "Deutsche Bank (China) Co., Ltd. Shanghai Branch"
     },
     {
+      "asn_number": 146782,
+      "asn_name": "University Of Chinese Academy Of Social Sciences"
+    },
+    {
       "asn_number": 141679,
       "asn_name": "China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch"
     },
@@ -1017,6 +1021,10 @@
     {
       "asn_number": 132225,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131516,
@@ -1371,10 +1379,6 @@
       "asn_name": "Shenzhenshi Zhongyun Shujujishu Youxiangongsi"
     },
     {
-      "asn_number": 146782,
-      "asn_name": "University Of Chinese Academy Of Social Sciences"
-    },
-    {
       "asn_number": 146771,
       "asn_name": "CCB Fintech Co., Ltd."
     },
@@ -1713,10 +1717,6 @@
     {
       "asn_number": 132147,
       "asn_name": "No.3,Shu-Ma Road"
-    },
-    {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131562,
@@ -2635,10 +2635,6 @@
       "asn_name": "INNER MONGOLIA BROADCAST&TV NETWORK GROUP CORPORATION"
     },
     {
-      "asn_number": 131542,
-      "asn_name": "APNIC 32-bit ASN block"
-    },
-    {
       "asn_number": 131541,
       "asn_name": "APNIC 32-bit ASN block"
     },
@@ -3093,6 +3089,10 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
+    },
+    {
+      "asn_number": 207292,
+      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
