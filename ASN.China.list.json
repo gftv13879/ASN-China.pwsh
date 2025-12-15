@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-14 02:54:21",
+    "last_updated_utc": "2025-12-15 02:54:14",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5246
+    "entry_count": 5250
   },
   "asns": [
     {
@@ -75,12 +75,12 @@
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 133865,
@@ -113,10 +113,6 @@
     {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 9929,
@@ -155,6 +151,10 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
+    },
+    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
     },
@@ -167,10 +167,6 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
@@ -179,12 +175,12 @@
       "asn_name": "MIKU NETWORK LIMITED"
     },
     {
-      "asn_number": 59045,
-      "asn_name": "Guangzhou navigation information technology co., LTD"
-    },
-    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 59045,
+      "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 137718,
@@ -207,10 +203,6 @@
       "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 10212,
       "asn_name": "China Enterprise ICT Solutions Limited"
     },
@@ -229,6 +221,10 @@
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 9814,
@@ -463,6 +459,10 @@
       "asn_name": "Beijing Tiantexin Tech. Co., Ltd."
     },
     {
+      "asn_number": 131486,
+      "asn_name": "Beijing Jingdong 360 Degree E-commerce Co., Ltd."
+    },
+    {
       "asn_number": 9812,
       "asn_name": "Oriental Cable Network Co., Ltd."
     },
@@ -485,6 +485,10 @@
     {
       "asn_number": 59012,
       "asn_name": "China Grain Reserves Group LTD.Company"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 58834,
@@ -613,10 +617,6 @@
     {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
-    },
-    {
-      "asn_number": 131486,
-      "asn_name": "Beijing Jingdong 360 Degree E-commerce Co., Ltd."
     },
     {
       "asn_number": 9818,
@@ -1467,6 +1467,10 @@
       "asn_name": "Jiangxi Jiujiang IDC"
     },
     {
+      "asn_number": 139189,
+      "asn_name": "Beijing Yu Jia Heng Tong Communications and Information Co., Ltd."
+    },
+    {
       "asn_number": 139183,
       "asn_name": "Thomson Reuters (Beijing) Technology Development Co. Ltd"
     },
@@ -2267,6 +2271,10 @@
       "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
     },
     {
+      "asn_number": 148982,
+      "asn_name": "Bijie Qiulin Information Technology"
+    },
+    {
       "asn_number": 147008,
       "asn_name": "Shenzhen Dianjiang Technology Co Ltd"
     },
@@ -2417,10 +2425,6 @@
     {
       "asn_number": 139266,
       "asn_name": "Guangzhou Tiansui Information Technology Co., Ltd."
-    },
-    {
-      "asn_number": 139189,
-      "asn_name": "Beijing Yu Jia Heng Tong Communications and Information Co., Ltd."
     },
     {
       "asn_number": 139180,
@@ -2657,6 +2661,10 @@
     {
       "asn_number": 131490,
       "asn_name": "CERNET Corporation"
+    },
+    {
+      "asn_number": 131484,
+      "asn_name": "Ubisoft Shanghai"
     },
     {
       "asn_number": 131483,
@@ -3165,6 +3173,10 @@
     {
       "asn_number": 203655,
       "asn_name": "zhiwensun"
+    },
+    {
+      "asn_number": 203643,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 203309,
@@ -20937,6 +20949,10 @@
     {
       "asn_number": 136535,
       "asn_name": "Yang Mengqi"
+    },
+    {
+      "asn_number": 135646,
+      "asn_name": "Luginbash AS"
     },
     {
       "asn_number": 134775,
