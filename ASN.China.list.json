@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-15 02:54:14",
+    "last_updated_utc": "2025-12-16 02:48:52",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5250
+    "entry_count": 5249
   },
   "asns": [
     {
@@ -75,12 +75,12 @@
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 4812,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 4812,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 133865,
@@ -99,20 +99,20 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 56040,
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 9929,
@@ -131,28 +131,24 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 45090,
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 23724,
-      "asn_name": "IDC, China Telecommunications Corporation"
-    },
-    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
+      "asn_number": 23724,
+      "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
       "asn_number": 44421,
@@ -167,6 +163,10 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
+    },
+    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
@@ -175,12 +175,12 @@
       "asn_name": "MIKU NETWORK LIMITED"
     },
     {
-      "asn_number": 56046,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
+    },
+    {
+      "asn_number": 56046,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 137718,
@@ -279,6 +279,10 @@
       "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
     },
@@ -313,14 +317,6 @@
     {
       "asn_number": 63646,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
-    },
-    {
-      "asn_number": 63641,
-      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
-    },
-    {
-      "asn_number": 59078,
-      "asn_name": "Yunify Technologies Inc."
     },
     {
       "asn_number": 58850,
@@ -361,6 +357,18 @@
     {
       "asn_number": 9308,
       "asn_name": "Abitcool(China) Inc."
+    },
+    {
+      "asn_number": 63641,
+      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
+    },
+    {
+      "asn_number": 59078,
+      "asn_name": "Yunify Technologies Inc."
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 58563,
@@ -415,10 +423,6 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
-      "asn_number": 212237,
-      "asn_name": "Changgong Zhang"
-    },
-    {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
@@ -455,14 +459,6 @@
       "asn_name": "APNIC ASN block"
     },
     {
-      "asn_number": 136180,
-      "asn_name": "Beijing Tiantexin Tech. Co., Ltd."
-    },
-    {
-      "asn_number": 131486,
-      "asn_name": "Beijing Jingdong 360 Degree E-commerce Co., Ltd."
-    },
-    {
       "asn_number": 9812,
       "asn_name": "Oriental Cable Network Co., Ltd."
     },
@@ -485,10 +481,6 @@
     {
       "asn_number": 59012,
       "asn_name": "China Grain Reserves Group LTD.Company"
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 58834,
@@ -535,10 +527,6 @@
       "asn_name": "No.8 Xing Guang 5th Street, Opto-Mechatronics Industrial Park"
     },
     {
-      "asn_number": 45061,
-      "asn_name": "Shanghai Information Network Co.,Ltd."
-    },
-    {
       "asn_number": 38345,
       "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
@@ -555,8 +543,8 @@
       "asn_name": "Shanghai Data Solution Co., Ltd."
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
+      "asn_number": 212237,
+      "asn_name": "Changgong Zhang"
     },
     {
       "asn_number": 18241,
@@ -607,6 +595,10 @@
       "asn_name": "China Telecom Dehong"
     },
     {
+      "asn_number": 136180,
+      "asn_name": "Beijing Tiantexin Tech. Co., Ltd."
+    },
+    {
       "asn_number": 135629,
       "asn_name": "Ningxia West Cloud Data Technology Co.Ltd."
     },
@@ -617,6 +609,10 @@
     {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
+    },
+    {
+      "asn_number": 131486,
+      "asn_name": "Beijing Jingdong 360 Degree E-commerce Co., Ltd."
     },
     {
       "asn_number": 9818,
@@ -685,10 +681,6 @@
     {
       "asn_number": 63570,
       "asn_name": "APNIC ASN block"
-    },
-    {
-      "asn_number": 63548,
-      "asn_name": "LENOVO (BEIJING) Co.ltd"
     },
     {
       "asn_number": 63531,
@@ -769,6 +761,10 @@
     {
       "asn_number": 45062,
       "asn_name": "NetEase Building No.16 Ke Yun Road,"
+    },
+    {
+      "asn_number": 45061,
+      "asn_name": "Shanghai Information Network Co.,Ltd."
     },
     {
       "asn_number": 38380,
@@ -1067,10 +1063,6 @@
       "asn_name": "China Telecom HuNan Changsha IDC"
     },
     {
-      "asn_number": 63727,
-      "asn_name": "Huawei"
-    },
-    {
       "asn_number": 63722,
       "asn_name": "Hodo Telecom Co,Ltd."
     },
@@ -1097,6 +1089,10 @@
     {
       "asn_number": 63580,
       "asn_name": "China Novartis Institutes for Bio-Medical Research Co., Ltd."
+    },
+    {
+      "asn_number": 63548,
+      "asn_name": "LENOVO (BEIJING) Co.ltd"
     },
     {
       "asn_number": 59049,
@@ -1383,10 +1379,6 @@
       "asn_name": "CCB Fintech Co., Ltd."
     },
     {
-      "asn_number": 146758,
-      "asn_name": "ShangHai Sensetime Technology Development Co., Ltd."
-    },
-    {
       "asn_number": 146746,
       "asn_name": "TaiKang Insurance Group CO.,LTD.,Wuhan Operating Center"
     },
@@ -1467,16 +1459,8 @@
       "asn_name": "Jiangxi Jiujiang IDC"
     },
     {
-      "asn_number": 139189,
-      "asn_name": "Beijing Yu Jia Heng Tong Communications and Information Co., Ltd."
-    },
-    {
       "asn_number": 139183,
       "asn_name": "Thomson Reuters (Beijing) Technology Development Co. Ltd"
-    },
-    {
-      "asn_number": 139182,
-      "asn_name": "ABC Life Insurance Co., Ltd"
     },
     {
       "asn_number": 139178,
@@ -1485,10 +1469,6 @@
     {
       "asn_number": 139154,
       "asn_name": "Big Data Center Of Shandong Province"
-    },
-    {
-      "asn_number": 139141,
-      "asn_name": "Yusys Financial Cloud"
     },
     {
       "asn_number": 139139,
@@ -1761,6 +1741,10 @@
     {
       "asn_number": 9392,
       "asn_name": "APT MOBILE SATCOM LIMITED"
+    },
+    {
+      "asn_number": 63727,
+      "asn_name": "Huawei"
     },
     {
       "asn_number": 63719,
@@ -2131,6 +2115,10 @@
       "asn_name": "Dazhong Technology Network Studio of Tieling County"
     },
     {
+      "asn_number": 210634,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
     },
@@ -2315,6 +2303,10 @@
       "asn_name": "Shanghai Shenfu Information Technology Co., Ltd"
     },
     {
+      "asn_number": 146758,
+      "asn_name": "ShangHai Sensetime Technology Development Co., Ltd."
+    },
+    {
       "asn_number": 142611,
       "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
@@ -2427,12 +2419,24 @@
       "asn_name": "Guangzhou Tiansui Information Technology Co., Ltd."
     },
     {
+      "asn_number": 139189,
+      "asn_name": "Beijing Yu Jia Heng Tong Communications and Information Co., Ltd."
+    },
+    {
+      "asn_number": 139182,
+      "asn_name": "ABC Life Insurance Co., Ltd"
+    },
+    {
       "asn_number": 139180,
       "asn_name": "Shandong eshinton Network Technology Co., Ltd."
     },
     {
       "asn_number": 139172,
       "asn_name": "Hangzhou Woodnn Technology Co., Ltd."
+    },
+    {
+      "asn_number": 139141,
+      "asn_name": "Yusys Financial Cloud"
     },
     {
       "asn_number": 139137,
@@ -2661,10 +2665,6 @@
     {
       "asn_number": 131490,
       "asn_name": "CERNET Corporation"
-    },
-    {
-      "asn_number": 131484,
-      "asn_name": "Ubisoft Shanghai"
     },
     {
       "asn_number": 131483,
@@ -3097,10 +3097,6 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
-    },
-    {
-      "asn_number": 207292,
-      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
