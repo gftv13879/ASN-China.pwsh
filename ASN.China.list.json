@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-16 02:48:52",
+    "last_updated_utc": "2025-12-17 02:45:09",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5249
+    "entry_count": 5227
   },
   "asns": [
     {
@@ -63,6 +63,10 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
+    },
+    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
@@ -93,10 +97,6 @@
     {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 56040,
@@ -151,10 +151,6 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
     },
@@ -169,6 +165,10 @@
     {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 9384,
@@ -195,12 +195,20 @@
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
+      "asn_number": 38283,
+      "asn_name": "CHINANET SiChuan Telecom Internet Data Center"
+    },
+    {
       "asn_number": 24151,
       "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 10212,
@@ -211,20 +219,12 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
-      "asn_number": 38283,
-      "asn_name": "CHINANET SiChuan Telecom Internet Data Center"
-    },
-    {
       "asn_number": 24489,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
-    },
-    {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 9814,
@@ -236,6 +236,10 @@
     },
     {
       "asn_number": 24409,
+      "asn_name": "China Internet Network Infomation Center"
+    },
+    {
+      "asn_number": 24406,
       "asn_name": "China Internet Network Infomation Center"
     },
     {
@@ -269,10 +273,6 @@
     {
       "asn_number": 45079,
       "asn_name": "GDS CHANGAN SERVICES Ltd."
-    },
-    {
-      "asn_number": 24406,
-      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 23911,
@@ -819,10 +819,6 @@
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
     },
@@ -1247,6 +1243,10 @@
       "asn_name": "Shenzhen Information and Network Center"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
     },
@@ -1257,10 +1257,6 @@
     {
       "asn_number": 210041,
       "asn_name": "Licheng MAO"
-    },
-    {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 209218,
@@ -1911,10 +1907,6 @@
       "asn_name": "1065-A Zhaojiabang Road"
     },
     {
-      "asn_number": 55461,
-      "asn_name": "Beijing Sun Rise Technology CO.,LTD"
-    },
-    {
       "asn_number": 51928,
       "asn_name": "SHIZHE XU"
     },
@@ -2121,6 +2113,10 @@
     {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 205610,
@@ -2403,10 +2399,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
-    },
-    {
       "asn_number": 139726,
       "asn_name": "Guangdong Yunjie Communication Co., Ltd."
     },
@@ -2421,10 +2413,6 @@
     {
       "asn_number": 139189,
       "asn_name": "Beijing Yu Jia Heng Tong Communications and Information Co., Ltd."
-    },
-    {
-      "asn_number": 139182,
-      "asn_name": "ABC Life Insurance Co., Ltd"
     },
     {
       "asn_number": 139180,
@@ -2571,10 +2559,6 @@
       "asn_name": "China Mobile Group Hainan Co., Ltd."
     },
     {
-      "asn_number": 135006,
-      "asn_name": "VERI2"
-    },
-    {
       "asn_number": 134767,
       "asn_name": "CHINANET Sichuan province Chengdu MAN network"
     },
@@ -2707,14 +2691,6 @@
       "asn_name": "Xiaodong Qi"
     },
     {
-      "asn_number": 49575,
-      "asn_name": "Dong Ran Yang"
-    },
-    {
-      "asn_number": 48301,
-      "asn_name": "YANG FANG"
-    },
-    {
       "asn_number": 45576,
       "asn_name": "Tsinghua University"
     },
@@ -2807,14 +2783,6 @@
       "asn_name": "Xin Xu"
     },
     {
-      "asn_number": 216342,
-      "asn_name": "JIANYU SHAO"
-    },
-    {
-      "asn_number": 216305,
-      "asn_name": "Cong Zhang"
-    },
-    {
       "asn_number": 216299,
       "asn_name": "Yang Liuchang"
     },
@@ -2853,10 +2821,6 @@
     {
       "asn_number": 215750,
       "asn_name": "DAQIAN HUANG"
-    },
-    {
-      "asn_number": 215526,
-      "asn_name": "Zhongdi Luo"
     },
     {
       "asn_number": 215507,
@@ -3035,10 +2999,6 @@
       "asn_name": "Haoyi Xiang"
     },
     {
-      "asn_number": 209661,
-      "asn_name": "SIQI WANG"
-    },
-    {
       "asn_number": 209645,
       "asn_name": "Jixian Zeng"
     },
@@ -3097,6 +3057,10 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
+    },
+    {
+      "asn_number": 207292,
+      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
@@ -3237,10 +3201,6 @@
     {
       "asn_number": 199932,
       "asn_name": "Tianle Shi"
-    },
-    {
-      "asn_number": 199832,
-      "asn_name": "QUN LIN"
     },
     {
       "asn_number": 198527,
@@ -20031,10 +19991,6 @@
       "asn_name": "APNIC ASN block"
     },
     {
-      "asn_number": 142280,
-      "asn_name": "APNIC ASN block"
-    },
-    {
       "asn_number": 142164,
       "asn_name": "GoldDoge Computer Technologies & Networks Information Center"
     },
@@ -20415,52 +20371,8 @@
       "asn_name": "Chengdu Qizhen Lingyi Internet Co Ltd"
     },
     {
-      "asn_number": 140497,
-      "asn_name": "CHINATELECOM ZHEJIANG province ZHOUSHAN 5G network"
-    },
-    {
-      "asn_number": 140496,
-      "asn_name": "CHINATELECOM ZHEJIANG province LISHUI 5G network"
-    },
-    {
-      "asn_number": 140495,
-      "asn_name": "CHINATELECOM ZHEJIANG province QUZHOU 5G network"
-    },
-    {
       "asn_number": 140494,
       "asn_name": "CHINATELECOM ZHEJIANG province HUZHOU 5G network"
-    },
-    {
-      "asn_number": 140493,
-      "asn_name": "CHINATELECOM ZHEJIANG province JIAXING 5G network"
-    },
-    {
-      "asn_number": 140492,
-      "asn_name": "CHINATELECOM ZHEJIANG province SHAOXING 5G network"
-    },
-    {
-      "asn_number": 140491,
-      "asn_name": "CHINATELECOM ZHEJIANG province TAIZHOU 5G network"
-    },
-    {
-      "asn_number": 140490,
-      "asn_name": "CHINATELECOM ZHEJIANG province JINHUA 5G network"
-    },
-    {
-      "asn_number": 140489,
-      "asn_name": "CHINATELECOM ZHEJIANG province WENZHOU 5G network"
-    },
-    {
-      "asn_number": 140488,
-      "asn_name": "CHINATELECOM ZHEJIANG province NINGBO 5G network"
-    },
-    {
-      "asn_number": 140487,
-      "asn_name": "CHINATELECOM ZHEJIANG province HANGZHOU 5G network"
-    },
-    {
-      "asn_number": 140483,
-      "asn_name": "CHINATELECOM ZHEJIANG province Shengji 5G network"
     },
     {
       "asn_number": 140378,
@@ -20775,6 +20687,10 @@
       "asn_name": "Guangzhou Jinggong Information Technology Co., Ltd."
     },
     {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
+    },
+    {
       "asn_number": 139859,
       "asn_name": "TemasekTech.com"
     },
@@ -20805,10 +20721,6 @@
     {
       "asn_number": 139100,
       "asn_name": "BMW Brilliance Automotive Ltd."
-    },
-    {
-      "asn_number": 138979,
-      "asn_name": "Guangzhou Shujie Suyuan Culture Communication Co., Ltd."
     },
     {
       "asn_number": 138679,
