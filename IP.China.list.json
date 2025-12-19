@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generation_timestamp_utc": "2025-12-18T02:42:49Z",
+    "generation_timestamp_utc": "2025-12-19T02:45:51Z",
     "data_sources": [
       "RIPE RISwhois Dumps",
       "CAIDA RouteViews pfx2as"
     ],
     "filter_file": "/workspace/ASN.China.list.json",
-    "filtered_asn_count_in_file": 5227,
+    "filtered_asn_count_in_file": 5228,
     "filtered_asn_count_found_in_data": 0,
     "total_prefix_mappings_output": 0
   },
