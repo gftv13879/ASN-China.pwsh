@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-19 02:48:34",
+    "last_updated_utc": "2025-12-20 02:28:59",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5228
+    "entry_count": 5224
   },
   "asns": [
     {
@@ -111,6 +111,10 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
+    },
+    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
@@ -151,10 +155,6 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
-    },
-    {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
@@ -163,16 +163,20 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
+    },
+    {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 59045,
@@ -205,10 +209,6 @@
     {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
-    },
-    {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 10212,
@@ -343,10 +343,6 @@
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
     {
-      "asn_number": 151397,
-      "asn_name": "China Telecom"
-    },
-    {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
     },
@@ -425,6 +421,10 @@
     {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
+    },
+    {
+      "asn_number": 151397,
+      "asn_name": "China Telecom"
     },
     {
       "asn_number": 140726,
@@ -577,6 +577,10 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+    },
+    {
+      "asn_number": 152711,
+      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
       "asn_number": 141425,
@@ -853,14 +857,6 @@
     {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
-      "asn_number": 152711,
-      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
       "asn_number": 151313,
@@ -2179,6 +2175,10 @@
       "asn_name": "KVQNET"
     },
     {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
@@ -2931,10 +2931,6 @@
       "asn_name": "XI WU"
     },
     {
-      "asn_number": 213581,
-      "asn_name": "yuquan nie"
-    },
-    {
       "asn_number": 213545,
       "asn_name": "Wang Lei"
     },
@@ -3061,10 +3057,6 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
-    },
-    {
-      "asn_number": 207292,
-      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
@@ -20877,14 +20869,6 @@
     {
       "asn_number": 134477,
       "asn_name": "Shaoxing Junruiyunjisuan Co Ltd"
-    },
-    {
-      "asn_number": 133518,
-      "asn_name": "CERNET New Technology Co., Ltd"
-    },
-    {
-      "asn_number": 133517,
-      "asn_name": "CERNET New Technology Co., Ltd"
     },
     {
       "asn_number": 133513,
