@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-21 02:54:34",
+    "last_updated_utc": "2025-12-22 02:56:14",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5227
+    "entry_count": 5229
   },
   "asns": [
     {
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 9808,
@@ -83,16 +83,16 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
+    },
+    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 17621,
@@ -155,20 +155,20 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
+    },
+    {
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 9384,
@@ -359,6 +359,10 @@
       "asn_name": "Yunify Technologies Inc."
     },
     {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
       "asn_number": 58563,
       "asn_name": "CHINANET Hubei province network"
     },
@@ -477,10 +481,6 @@
     {
       "asn_number": 59012,
       "asn_name": "China Grain Reserves Group LTD.Company"
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 58834,
@@ -649,10 +649,6 @@
     {
       "asn_number": 9306,
       "asn_name": "RongHua Road No.11, Beijing Economy Technology Development Area, 100176"
-    },
-    {
-      "asn_number": 7721,
-      "asn_name": "Qin Cloud Networks"
     },
     {
       "asn_number": 7653,
@@ -857,6 +853,10 @@
     {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
+    },
+    {
+      "asn_number": 153911,
+      "asn_name": "DuoTu Cloud"
     },
     {
       "asn_number": 151313,
@@ -1275,8 +1275,8 @@
       "asn_name": "ASN for Shandong Provincial Net of CT"
     },
     {
-      "asn_number": 153911,
-      "asn_name": "DuoTu Cloud"
+      "asn_number": 154402,
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 153725,
@@ -1725,6 +1725,10 @@
     {
       "asn_number": 9392,
       "asn_name": "APT MOBILE SATCOM LIMITED"
+    },
+    {
+      "asn_number": 7721,
+      "asn_name": "Qin Cloud Networks"
     },
     {
       "asn_number": 63727,
@@ -3144,6 +3148,10 @@
     },
     {
       "asn_number": 203309,
+      "asn_name": "RIPE NCC ASN block"
+    },
+    {
+      "asn_number": 202734,
       "asn_name": "RIPE NCC ASN block"
     },
     {
