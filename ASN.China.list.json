@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-22 02:56:14",
+    "last_updated_utc": "2025-12-23 02:50:45",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5229
+    "entry_count": 5228
   },
   "asns": [
     {
@@ -119,12 +119,12 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 9929,
-      "asn_name": "China Netcom Backbone"
-    },
-    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
+    },
+    {
+      "asn_number": 9929,
+      "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 146834,
@@ -155,10 +155,6 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
     },
@@ -167,16 +163,20 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 59045,
@@ -415,6 +415,10 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
+      "asn_number": 212237,
+      "asn_name": "Changgong Zhang"
+    },
+    {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
@@ -541,10 +545,6 @@
     {
       "asn_number": 23853,
       "asn_name": "Shanghai Data Solution Co., Ltd."
-    },
-    {
-      "asn_number": 212237,
-      "asn_name": "Changgong Zhang"
     },
     {
       "asn_number": 210352,
@@ -823,6 +823,10 @@
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
     },
@@ -1039,6 +1043,10 @@
       "asn_name": "Test platform Service Center"
     },
     {
+      "asn_number": 7721,
+      "asn_name": "Qin Cloud Networks"
+    },
+    {
       "asn_number": 7640,
       "asn_name": "China International Trust & Investment Corporation Management Information Center"
     },
@@ -1233,10 +1241,6 @@
     {
       "asn_number": 23842,
       "asn_name": "Shenzhen Information and Network Center"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 212371,
@@ -1725,10 +1729,6 @@
     {
       "asn_number": 9392,
       "asn_name": "APT MOBILE SATCOM LIMITED"
-    },
-    {
-      "asn_number": 7721,
-      "asn_name": "Qin Cloud Networks"
     },
     {
       "asn_number": 63727,
@@ -2929,10 +2929,6 @@
     {
       "asn_number": 213582,
       "asn_name": "XI WU"
-    },
-    {
-      "asn_number": 213581,
-      "asn_name": "yuquan nie"
     },
     {
       "asn_number": 213545,
