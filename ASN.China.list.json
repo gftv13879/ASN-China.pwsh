@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-25 02:51:02",
+    "last_updated_utc": "2025-12-26 02:49:13",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5227
+    "entry_count": 5226
   },
   "asns": [
     {
@@ -95,12 +95,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 17621,
-      "asn_name": "China Unicom Shanghai network"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 17621,
+      "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 7497,
@@ -135,12 +135,12 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 45090,
@@ -159,6 +159,10 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
+    },
+    {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
@@ -173,10 +177,6 @@
     {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 9384,
@@ -439,6 +439,10 @@
       "asn_name": "China Unicom Guangzhou network"
     },
     {
+      "asn_number": 17429,
+      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+    },
+    {
       "asn_number": 151397,
       "asn_name": "China Telecom"
     },
@@ -489,6 +493,10 @@
     {
       "asn_number": 59012,
       "asn_name": "China Grain Reserves Group LTD.Company"
+    },
+    {
+      "asn_number": 59009,
+      "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
       "asn_number": 58834,
@@ -583,8 +591,8 @@
       "asn_name": "shanghai science and technology network communication limited company"
     },
     {
-      "asn_number": 17429,
-      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+      "asn_number": 152711,
+      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
       "asn_number": 141425,
@@ -713,10 +721,6 @@
     {
       "asn_number": 59029,
       "asn_name": "People.Cn CO.,LTD"
-    },
-    {
-      "asn_number": 59009,
-      "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
       "asn_number": 58866,
@@ -863,12 +867,12 @@
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
     },
     {
-      "asn_number": 153911,
-      "asn_name": "DuoTu Cloud"
+      "asn_number": 154402,
+      "asn_name": "APNIC ASN block"
     },
     {
-      "asn_number": 152711,
-      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
+      "asn_number": 153911,
+      "asn_name": "DuoTu Cloud"
     },
     {
       "asn_number": 151313,
@@ -1293,10 +1297,6 @@
     {
       "asn_number": 17633,
       "asn_name": "ASN for Shandong Provincial Net of CT"
-    },
-    {
-      "asn_number": 154402,
-      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 153725,
@@ -2161,10 +2161,6 @@
     {
       "asn_number": 154315,
       "asn_name": "Guangzhou Leidianyun Technology Co Ltd"
-    },
-    {
-      "asn_number": 154010,
-      "asn_name": "Xi'an WeiShiJi Network Technology LTD"
     },
     {
       "asn_number": 153633,
@@ -3061,6 +3057,10 @@
     {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
+    },
+    {
+      "asn_number": 207292,
+      "asn_name": "YANG HAOJING"
     },
     {
       "asn_number": 207091,
@@ -20373,10 +20373,6 @@
     {
       "asn_number": 140508,
       "asn_name": "CHINATELECOM GUANGXI province Shengji 5G network"
-    },
-    {
-      "asn_number": 140498,
-      "asn_name": "Chengdu Qizhen Lingyi Internet Co Ltd"
     },
     {
       "asn_number": 140494,
