@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-26 02:49:13",
+    "last_updated_utc": "2025-12-27 02:46:25",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5226
   },
@@ -71,6 +71,10 @@
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
+    },
+    {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
     },
@@ -83,10 +87,6 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
@@ -95,12 +95,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 7497,
@@ -111,12 +111,12 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 137753,
@@ -137,10 +137,6 @@
     {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 45090,
@@ -499,6 +495,10 @@
       "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
       "asn_number": 58834,
       "asn_name": "Guangdong Cable Corporation Limited"
     },
@@ -589,10 +589,6 @@
     {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
-    },
-    {
-      "asn_number": 152711,
-      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
       "asn_number": 141425,
@@ -875,6 +871,10 @@
       "asn_name": "DuoTu Cloud"
     },
     {
+      "asn_number": 152711,
+      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
+    },
+    {
       "asn_number": 151313,
       "asn_name": "Pacific Insurance Technology Co., Ltd"
     },
@@ -1017,10 +1017,6 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
-    },
-    {
-      "asn_number": 133465,
-      "asn_name": "Duke Kunshan University"
     },
     {
       "asn_number": 132225,
@@ -1227,10 +1223,6 @@
       "asn_name": "CERNET2 IX at Northeast University"
     },
     {
-      "asn_number": 24364,
-      "asn_name": "CERNET2 IX at Shanghai Jiaotong University"
-    },
-    {
       "asn_number": 24363,
       "asn_name": "CERNET2 IX at Shandong University"
     },
@@ -1429,6 +1421,10 @@
     {
       "asn_number": 140527,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 140486,
+      "asn_name": "CHINATELECOM ZHEJIANG province JINHUA 5GC network"
     },
     {
       "asn_number": 140317,
@@ -1677,6 +1673,10 @@
     {
       "asn_number": 133775,
       "asn_name": "China Telecom Xiamen"
+    },
+    {
+      "asn_number": 133465,
+      "asn_name": "Duke Kunshan University"
     },
     {
       "asn_number": 133111,
@@ -2027,6 +2027,10 @@
       "asn_name": "CERNET2 IX at Dalian University of Technology"
     },
     {
+      "asn_number": 24364,
+      "asn_name": "CERNET2 IX at Shanghai Jiaotong University"
+    },
+    {
       "asn_number": 24362,
       "asn_name": "CERNET2 IX at University of Science and Technology of China"
     },
@@ -2331,10 +2335,6 @@
       "asn_name": "UNICOM Ningxia province network"
     },
     {
-      "asn_number": 140486,
-      "asn_name": "CHINATELECOM ZHEJIANG province JINHUA 5GC network"
-    },
-    {
       "asn_number": 140484,
       "asn_name": "CHINATELECOM ZHEJIANG province Shengji EPCCE network"
     },
@@ -2389,6 +2389,10 @@
     {
       "asn_number": 140083,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139726,
@@ -20689,10 +20693,6 @@
     {
       "asn_number": 140043,
       "asn_name": "Guangzhou Jinggong Information Technology Co., Ltd."
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139859,
