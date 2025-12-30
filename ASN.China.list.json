@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2025-12-29 03:01:59",
+    "last_updated_utc": "2025-12-30 02:51:30",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5227
+    "entry_count": 5228
   },
   "asns": [
     {
@@ -23,12 +23,12 @@
       "asn_name": "China Telecom Backbone"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
-    },
-    {
       "asn_number": 4809,
       "asn_name": "China Telecom Next Generation Carrier Network"
+    },
+    {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 55967,
@@ -111,12 +111,12 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 137753,
@@ -175,12 +175,12 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
-      "asn_number": 9384,
-      "asn_name": "MIKU NETWORK LIMITED"
-    },
-    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 9384,
+      "asn_name": "MIKU NETWORK LIMITED"
     },
     {
       "asn_number": 59045,
@@ -383,6 +383,10 @@
       "asn_name": "Yunify Technologies Inc."
     },
     {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
       "asn_number": 58563,
       "asn_name": "CHINANET Hubei province network"
     },
@@ -433,6 +437,10 @@
     {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
+    },
+    {
+      "asn_number": 17429,
+      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
       "asn_number": 151397,
@@ -489,10 +497,6 @@
     {
       "asn_number": 59009,
       "asn_name": "QingDao WangXin Telcom Corp. Limited"
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 58834,
@@ -585,10 +589,6 @@
     {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
-    },
-    {
-      "asn_number": 17429,
-      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
       "asn_number": 141425,
@@ -2167,6 +2167,10 @@
       "asn_name": "Guangzhou Leidianyun Technology Co Ltd"
     },
     {
+      "asn_number": 154010,
+      "asn_name": "Xi'an WeiShiJi Network Technology LTD"
+    },
+    {
       "asn_number": 153633,
       "asn_name": "KVQNET"
     },
@@ -2489,6 +2493,10 @@
     {
       "asn_number": 137755,
       "asn_name": "China Radio and Television Qinghai Network Co. Ltd"
+    },
+    {
+      "asn_number": 137731,
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 137719,
@@ -20825,10 +20833,6 @@
     {
       "asn_number": 137835,
       "asn_name": "Nathaniel Chan Jie Le"
-    },
-    {
-      "asn_number": 137731,
-      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 137726,
