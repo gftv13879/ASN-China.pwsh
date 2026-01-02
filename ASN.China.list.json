@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-01 03:03:30",
+    "last_updated_utc": "2026-01-02 02:54:22",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5230
+    "entry_count": 5229
   },
   "asns": [
     {
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 9808,
@@ -131,12 +131,12 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 45090,
@@ -155,6 +155,10 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
+    },
+    {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
@@ -169,10 +173,6 @@
     {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 9384,
@@ -235,10 +235,6 @@
       "asn_name": "Shanghai Blue Cloud Technology Co.,Ltd"
     },
     {
-      "asn_number": 24444,
-      "asn_name": "Shandong Mobile Communication Company Limited"
-    },
-    {
       "asn_number": 24409,
       "asn_name": "China Internet Network Infomation Center"
     },
@@ -273,6 +269,10 @@
     {
       "asn_number": 55966,
       "asn_name": "Post Savings Bank of China Tower A, No.3"
+    },
+    {
+      "asn_number": 24444,
+      "asn_name": "Shandong Mobile Communication Company Limited"
     },
     {
       "asn_number": 23911,
@@ -363,10 +363,6 @@
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
-      "asn_number": 134773,
-      "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
-    },
-    {
       "asn_number": 131486,
       "asn_name": "Beijing Jingdong 360 Degree E-commerce Co., Ltd."
     },
@@ -383,8 +379,8 @@
       "asn_name": "Yunify Technologies Inc."
     },
     {
-      "asn_number": 59009,
-      "asn_name": "QingDao WangXin Telcom Corp. Limited"
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 58563,
@@ -411,14 +407,6 @@
       "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
-      "asn_number": 37965,
-      "asn_name": "Pacnet Business Solutions LTD"
-    },
-    {
-      "asn_number": 24427,
-      "asn_name": "Freecomm Corporation"
-    },
-    {
       "asn_number": 23844,
       "asn_name": "Beijing Guanghuan Xinwang Digital"
     },
@@ -437,10 +425,6 @@
     {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
-    },
-    {
-      "asn_number": 17429,
-      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
       "asn_number": 151397,
@@ -471,6 +455,10 @@
       "asn_name": "APNIC ASN block"
     },
     {
+      "asn_number": 134773,
+      "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
+    },
+    {
       "asn_number": 9812,
       "asn_name": "Oriental Cable Network Co., Ltd."
     },
@@ -493,10 +481,6 @@
     {
       "asn_number": 59012,
       "asn_name": "China Grain Reserves Group LTD.Company"
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 58834,
@@ -555,6 +539,14 @@
       "asn_name": "Dell (China) Co.,Ltd"
     },
     {
+      "asn_number": 37965,
+      "asn_name": "Pacnet Business Solutions LTD"
+    },
+    {
+      "asn_number": 24427,
+      "asn_name": "Freecomm Corporation"
+    },
+    {
       "asn_number": 24424,
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
     },
@@ -589,6 +581,10 @@
     {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
+    },
+    {
+      "asn_number": 17429,
+      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
       "asn_number": 141425,
@@ -717,6 +713,10 @@
     {
       "asn_number": 59029,
       "asn_name": "People.Cn CO.,LTD"
+    },
+    {
+      "asn_number": 59009,
+      "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
       "asn_number": 58866,
@@ -1033,6 +1033,10 @@
     {
       "asn_number": 131516,
       "asn_name": "Jinhua Weian InfoTech Co., Ltd"
+    },
+    {
+      "asn_number": 131495,
+      "asn_name": "Beijing nine cloud infinite network technology co., LTD"
     },
     {
       "asn_number": 131285,
@@ -1727,10 +1731,6 @@
       "asn_name": "Volkswagen (China) Investment Co., LTD"
     },
     {
-      "asn_number": 131495,
-      "asn_name": "Beijing nine cloud infinite network technology co., LTD"
-    },
-    {
       "asn_number": 131325,
       "asn_name": "China Telecom KunMing"
     },
@@ -2111,10 +2111,6 @@
       "asn_name": "Jiaxian He"
     },
     {
-      "asn_number": 212053,
-      "asn_name": "ShiJI Tong"
-    },
-    {
       "asn_number": 211265,
       "asn_name": "GUI JIANG"
     },
@@ -2269,10 +2265,6 @@
     {
       "asn_number": 149304,
       "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
-    },
-    {
-      "asn_number": 148982,
-      "asn_name": "Bijie Qiulin Information Technology"
     },
     {
       "asn_number": 147008,
@@ -2985,6 +2977,10 @@
     {
       "asn_number": 212532,
       "asn_name": "XIAO YANG WEN RUI"
+    },
+    {
+      "asn_number": 212053,
+      "asn_name": "ShiJI Tong"
     },
     {
       "asn_number": 211992,
