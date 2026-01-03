@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-02 02:54:22",
+    "last_updated_utc": "2026-01-03 02:45:57",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5229
   },
@@ -153,10 +153,6 @@
     {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
-    },
-    {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 55996,
@@ -1601,6 +1597,10 @@
     {
       "asn_number": 136188,
       "asn_name": "China Telecom Yunnan Diqing MAN"
+    },
+    {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 135363,
