@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-03 02:45:57",
+    "last_updated_utc": "2026-01-04 03:04:36",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5229
+    "entry_count": 5230
   },
   "asns": [
     {
@@ -67,12 +67,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 56048,
@@ -239,6 +239,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 139138,
+      "asn_name": "Gopay Information Technology Co.,Ltd"
+    },
+    {
       "asn_number": 134774,
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
     },
@@ -281,10 +285,6 @@
     {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
-    },
-    {
-      "asn_number": 139138,
-      "asn_name": "Gopay Information Technology Co.,Ltd"
     },
     {
       "asn_number": 137735,
@@ -423,6 +423,10 @@
       "asn_name": "China Unicom Guangzhou network"
     },
     {
+      "asn_number": 17429,
+      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+    },
+    {
       "asn_number": 151397,
       "asn_name": "China Telecom"
     },
@@ -447,12 +451,20 @@
       "asn_name": "China Unicom"
     },
     {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
+    },
+    {
       "asn_number": 137746,
       "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 134773,
       "asn_name": "CHINANET Guangdong province Guangzhou MAN network"
+    },
+    {
+      "asn_number": 9818,
+      "asn_name": "Internet Finance Laboratory"
     },
     {
       "asn_number": 9812,
@@ -475,8 +487,16 @@
       "asn_name": "TAIKANG INSURANCE GROUP CO.,LTD."
     },
     {
+      "asn_number": 59029,
+      "asn_name": "People.Cn CO.,LTD"
+    },
+    {
       "asn_number": 59012,
       "asn_name": "China Grain Reserves Group LTD.Company"
+    },
+    {
+      "asn_number": 58866,
+      "asn_name": "China Financial Certification Authority"
     },
     {
       "asn_number": 58834,
@@ -527,6 +547,10 @@
       "asn_name": "NetEase Building No.16 Ke Yun Road,"
     },
     {
+      "asn_number": 38358,
+      "asn_name": "3 Fuxing Road, Beijing, China"
+    },
+    {
       "asn_number": 38345,
       "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
@@ -537,6 +561,10 @@
     {
       "asn_number": 37965,
       "asn_name": "Pacnet Business Solutions LTD"
+    },
+    {
+      "asn_number": 24430,
+      "asn_name": "Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China"
     },
     {
       "asn_number": 24427,
@@ -579,16 +607,8 @@
       "asn_name": "shanghai science and technology network communication limited company"
     },
     {
-      "asn_number": 17429,
-      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
-    },
-    {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
-    },
-    {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137702,
@@ -619,12 +639,12 @@
       "asn_name": "CHINANET Nanjing Jishan IDC network"
     },
     {
-      "asn_number": 131574,
-      "asn_name": "Beijing Haiyu Technology Co. Ltd.."
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
-      "asn_number": 9818,
-      "asn_name": "Internet Finance Laboratory"
+      "asn_number": 131574,
+      "asn_name": "Beijing Haiyu Technology Co. Ltd.."
     },
     {
       "asn_number": 9811,
@@ -691,6 +711,10 @@
       "asn_name": "APNIC ASN block"
     },
     {
+      "asn_number": 63548,
+      "asn_name": "LENOVO (BEIJING) Co.ltd"
+    },
+    {
       "asn_number": 63531,
       "asn_name": "Beijing BAIWU Technology Co., Ltd."
     },
@@ -707,16 +731,12 @@
       "asn_name": "Microsoft Mobile Alliance Internet Services Co., Ltd"
     },
     {
-      "asn_number": 59029,
-      "asn_name": "People.Cn CO.,LTD"
+      "asn_number": 59049,
+      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 59009,
       "asn_name": "QingDao WangXin Telcom Corp. Limited"
-    },
-    {
-      "asn_number": 58866,
-      "asn_name": "China Financial Certification Authority"
     },
     {
       "asn_number": 58862,
@@ -745,10 +765,6 @@
     {
       "asn_number": 55982,
       "asn_name": "Changhong IT information Products CO.,LTD."
-    },
-    {
-      "asn_number": 55971,
-      "asn_name": "Chinese Academy of Social Sciences"
     },
     {
       "asn_number": 55956,
@@ -783,8 +799,8 @@
       "asn_name": "20/F.,Kuntai International Mansion,Buiding1 Yi No.12"
     },
     {
-      "asn_number": 38358,
-      "asn_name": "3 Fuxing Road, Beijing, China"
+      "asn_number": 38027,
+      "asn_name": "Information Center, Ministry of Sci and Tech"
     },
     {
       "asn_number": 37942,
@@ -793,10 +809,6 @@
     {
       "asn_number": 24547,
       "asn_name": "Hebei Mobile Communication Company Limited"
-    },
-    {
-      "asn_number": 24430,
-      "asn_name": "Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China"
     },
     {
       "asn_number": 24348,
@@ -939,6 +951,10 @@
       "asn_name": "China Pacific Insurance (Group) Co.,Ltd."
     },
     {
+      "asn_number": 139178,
+      "asn_name": "Rural Credit Banks Funds Clearing Center"
+    },
+    {
       "asn_number": 139177,
       "asn_name": "New Oriental Education & Technology Group Ltd."
     },
@@ -953,6 +969,10 @@
     {
       "asn_number": 139099,
       "asn_name": "Zhejiang Geely Holding Group"
+    },
+    {
+      "asn_number": 138545,
+      "asn_name": "Zero Cirrus Cloud Computing (Shanghai) Co., Ltd."
     },
     {
       "asn_number": 138371,
@@ -1023,8 +1043,8 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
+      "asn_number": 131558,
+      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 131516,
@@ -1095,14 +1115,6 @@
       "asn_name": "China Novartis Institutes for Bio-Medical Research Co., Ltd."
     },
     {
-      "asn_number": 63548,
-      "asn_name": "LENOVO (BEIJING) Co.ltd"
-    },
-    {
-      "asn_number": 59049,
-      "asn_name": "Wal-mart (China) Investment Co., Ltd."
-    },
-    {
       "asn_number": 59048,
       "asn_name": "Bei Jing Cloud Times Technology Co.,Ltd"
     },
@@ -1171,6 +1183,10 @@
       "asn_name": "APNIC ASN block"
     },
     {
+      "asn_number": 55971,
+      "asn_name": "Chinese Academy of Social Sciences"
+    },
+    {
       "asn_number": 4835,
       "asn_name": "China Telecom (Group)"
     },
@@ -1201,10 +1217,6 @@
     {
       "asn_number": 38378,
       "asn_name": "Bosch (China) Investment Ltd."
-    },
-    {
-      "asn_number": 38027,
-      "asn_name": "Information Center, Ministry of Sci and Tech"
     },
     {
       "asn_number": 37970,
@@ -1297,6 +1309,10 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152186,
@@ -1463,10 +1479,6 @@
       "asn_name": "Thomson Reuters (Beijing) Technology Development Co. Ltd"
     },
     {
-      "asn_number": 139178,
-      "asn_name": "Rural Credit Banks Funds Clearing Center"
-    },
-    {
       "asn_number": 139139,
       "asn_name": "Shenyang Agricultural University"
     },
@@ -1489,10 +1501,6 @@
     {
       "asn_number": 138570,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 138545,
-      "asn_name": "Zero Cirrus Cloud Computing (Shanghai) Co., Ltd."
     },
     {
       "asn_number": 138407,
@@ -1709,10 +1717,6 @@
     {
       "asn_number": 131562,
       "asn_name": "HUNAN CATV Network Group CO.,LTD."
-    },
-    {
-      "asn_number": 131558,
-      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 131536,
@@ -2181,10 +2185,6 @@
     {
       "asn_number": 153633,
       "asn_name": "KVQNET"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152920,
@@ -3160,6 +3160,10 @@
     },
     {
       "asn_number": 203309,
+      "asn_name": "RIPE NCC ASN block"
+    },
+    {
+      "asn_number": 202782,
       "asn_name": "RIPE NCC ASN block"
     },
     {
