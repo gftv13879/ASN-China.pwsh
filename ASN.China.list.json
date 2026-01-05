@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-04 03:04:36",
+    "last_updated_utc": "2026-01-05 03:06:36",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5230
+    "entry_count": 5229
   },
   "asns": [
     {
@@ -67,10 +67,6 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
@@ -89,6 +85,10 @@
     {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 4812,
@@ -155,6 +155,10 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
@@ -165,10 +169,6 @@
     {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
-    },
-    {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 9384,
@@ -239,10 +239,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 139138,
-      "asn_name": "Gopay Information Technology Co.,Ltd"
-    },
-    {
       "asn_number": 134774,
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
     },
@@ -271,6 +267,10 @@
       "asn_name": "Post Savings Bank of China Tower A, No.3"
     },
     {
+      "asn_number": 45079,
+      "asn_name": "GDS CHANGAN SERVICES Ltd."
+    },
+    {
       "asn_number": 24444,
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
@@ -285,6 +285,10 @@
     {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
+    },
+    {
+      "asn_number": 139138,
+      "asn_name": "Gopay Information Technology Co.,Ltd"
     },
     {
       "asn_number": 137735,
@@ -325,10 +329,6 @@
     {
       "asn_number": 45110,
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
-    },
-    {
-      "asn_number": 45079,
-      "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
     {
       "asn_number": 42962,
@@ -449,10 +449,6 @@
     {
       "asn_number": 138421,
       "asn_name": "China Unicom"
-    },
-    {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137746,
@@ -609,6 +605,10 @@
     {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
+    },
+    {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137702,
@@ -2183,10 +2183,6 @@
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
     },
     {
-      "asn_number": 153633,
-      "asn_name": "KVQNET"
-    },
-    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
@@ -3261,6 +3257,10 @@
     {
       "asn_number": 154155,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd"
+    },
+    {
+      "asn_number": 153633,
+      "asn_name": "KVQNET"
     },
     {
       "asn_number": 153458,
@@ -20877,10 +20877,6 @@
     {
       "asn_number": 136535,
       "asn_name": "Yang Mengqi"
-    },
-    {
-      "asn_number": 135646,
-      "asn_name": "Luginbash AS"
     },
     {
       "asn_number": 134775,
