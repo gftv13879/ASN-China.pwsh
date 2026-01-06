@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-05 03:06:36",
+    "last_updated_utc": "2026-01-06 02:53:25",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5229
+    "entry_count": 5231
   },
   "asns": [
     {
@@ -75,12 +75,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 4538,
-      "asn_name": "China Education and Research Network Center"
-    },
-    {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 4538,
+      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 133865,
@@ -415,6 +415,10 @@
       "asn_name": "Changgong Zhang"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
@@ -573,10 +577,6 @@
     {
       "asn_number": 23853,
       "asn_name": "Shanghai Data Solution Co., Ltd."
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 18241,
@@ -1323,6 +1323,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 151673,
+      "asn_name": "Chen Xinyu"
+    },
+    {
       "asn_number": 151640,
       "asn_name": "Bengbu Qingye Technology"
     },
@@ -1897,6 +1901,10 @@
     {
       "asn_number": 58517,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 58026,
+      "asn_name": "Xiamen Jiufu Network Co., Ltd."
     },
     {
       "asn_number": 56045,
@@ -3385,10 +3393,6 @@
     {
       "asn_number": 151674,
       "asn_name": "Cheng Yijia"
-    },
-    {
-      "asn_number": 151673,
-      "asn_name": "Chen Xinyu"
     },
     {
       "asn_number": 151494,
@@ -20793,6 +20797,10 @@
     {
       "asn_number": 138409,
       "asn_name": "CHINATELECOM Shaanxi province Tongchuan 5G network"
+    },
+    {
+      "asn_number": 138401,
+      "asn_name": "TupleTech Corporation"
     },
     {
       "asn_number": 138393,
