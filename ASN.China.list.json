@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-06 02:53:25",
+    "last_updated_utc": "2026-01-07 02:53:39",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5231
   },
@@ -23,16 +23,16 @@
       "asn_name": "China Telecom Backbone"
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 10111,
       "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 55967,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 4837,
@@ -67,6 +67,10 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
+    },
+    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
     },
@@ -75,20 +79,16 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 4538,
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 4812,
@@ -111,12 +111,12 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 137753,
@@ -415,10 +415,6 @@
       "asn_name": "Changgong Zhang"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
@@ -567,16 +563,16 @@
       "asn_name": "Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China"
     },
     {
-      "asn_number": 24427,
-      "asn_name": "Freecomm Corporation"
-    },
-    {
       "asn_number": 24424,
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
     },
     {
       "asn_number": 23853,
       "asn_name": "Shanghai Data Solution Co., Ltd."
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 18241,
@@ -707,6 +703,10 @@
       "asn_name": "GUANGXI RADIO & TELEVISION INFORMATION NETWORK CO.,LTD."
     },
     {
+      "asn_number": 63580,
+      "asn_name": "China Novartis Institutes for Bio-Medical Research Co., Ltd."
+    },
+    {
       "asn_number": 63570,
       "asn_name": "APNIC ASN block"
     },
@@ -811,6 +811,10 @@
       "asn_name": "Hebei Mobile Communication Company Limited"
     },
     {
+      "asn_number": 24427,
+      "asn_name": "Freecomm Corporation"
+    },
+    {
       "asn_number": 24348,
       "asn_name": "CERNET2 IX at Tsinghua University"
     },
@@ -833,6 +837,10 @@
     {
       "asn_number": 23841,
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
+    },
+    {
+      "asn_number": 214899,
+      "asn_name": "Ye Liliang"
     },
     {
       "asn_number": 214575,
@@ -1111,10 +1119,6 @@
       "asn_name": "HeyTap PTE.LTD."
     },
     {
-      "asn_number": 63580,
-      "asn_name": "China Novartis Institutes for Bio-Medical Research Co., Ltd."
-    },
-    {
       "asn_number": 59048,
       "asn_name": "Bei Jing Cloud Times Technology Co.,Ltd"
     },
@@ -1153,6 +1157,10 @@
     {
       "asn_number": 58539,
       "asn_name": "China Telecom Changsha"
+    },
+    {
+      "asn_number": 58026,
+      "asn_name": "Xiamen Jiufu Network Co., Ltd."
     },
     {
       "asn_number": 56047,
@@ -1259,10 +1267,6 @@
       "asn_name": "Shenzhen Information and Network Center"
     },
     {
-      "asn_number": 214899,
-      "asn_name": "Ye Liliang"
-    },
-    {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
     },
@@ -1273,10 +1277,6 @@
     {
       "asn_number": 210041,
       "asn_name": "Licheng MAO"
-    },
-    {
-      "asn_number": 209218,
-      "asn_name": "Yang Qi"
     },
     {
       "asn_number": 205418,
@@ -1321,10 +1321,6 @@
     {
       "asn_number": 151823,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 151673,
-      "asn_name": "Chen Xinyu"
     },
     {
       "asn_number": 151640,
@@ -1903,10 +1899,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 58026,
-      "asn_name": "Xiamen Jiufu Network Co., Ltd."
-    },
-    {
       "asn_number": 56045,
       "asn_name": "China Mobile communications corporation"
     },
@@ -2133,6 +2125,10 @@
     {
       "asn_number": 209294,
       "asn_name": "Fan Zhang"
+    },
+    {
+      "asn_number": 209218,
+      "asn_name": "Yang Qi"
     },
     {
       "asn_number": 207901,
@@ -2561,10 +2557,6 @@
     {
       "asn_number": 136197,
       "asn_name": "Xiong'an, Hebei Province, P.R.China."
-    },
-    {
-      "asn_number": 136173,
-      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
     },
     {
       "asn_number": 136160,
@@ -2999,6 +2991,10 @@
       "asn_name": "Yiming Zhang"
     },
     {
+      "asn_number": 211721,
+      "asn_name": "RIPE NCC ASN block"
+    },
+    {
       "asn_number": 211575,
       "asn_name": "Rui Feng"
     },
@@ -3393,6 +3389,10 @@
     {
       "asn_number": 151674,
       "asn_name": "Cheng Yijia"
+    },
+    {
+      "asn_number": 151673,
+      "asn_name": "Chen Xinyu"
     },
     {
       "asn_number": 151494,
