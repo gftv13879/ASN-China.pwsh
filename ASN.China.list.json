@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-07 02:53:39",
+    "last_updated_utc": "2026-01-08 02:53:15",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5231
   },
@@ -47,6 +47,10 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
+    },
+    {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
     },
@@ -59,16 +63,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 9808,
@@ -135,6 +135,10 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
+      "asn_number": 58026,
+      "asn_name": "Xiamen Jiufu Network Co., Ltd."
+    },
+    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
     },
@@ -157,6 +161,10 @@
     {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 55996,
@@ -883,10 +891,6 @@
       "asn_name": "APNIC ASN block"
     },
     {
-      "asn_number": 153911,
-      "asn_name": "DuoTu Cloud"
-    },
-    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -1159,10 +1163,6 @@
       "asn_name": "China Telecom Changsha"
     },
     {
-      "asn_number": 58026,
-      "asn_name": "Xiamen Jiufu Network Co., Ltd."
-    },
-    {
       "asn_number": 56047,
       "asn_name": "China Mobile communications corporation"
     },
@@ -1305,6 +1305,10 @@
     {
       "asn_number": 17633,
       "asn_name": "ASN for Shandong Provincial Net of CT"
+    },
+    {
+      "asn_number": 153911,
+      "asn_name": "DuoTu Cloud"
     },
     {
       "asn_number": 153725,
@@ -1605,10 +1609,6 @@
     {
       "asn_number": 136188,
       "asn_name": "China Telecom Yunnan Diqing MAN"
-    },
-    {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 135363,
