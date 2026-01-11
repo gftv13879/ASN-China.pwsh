@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-10 02:47:56",
+    "last_updated_utc": "2026-01-11 03:04:14",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5232
   },
@@ -63,12 +63,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 9808,
@@ -135,12 +135,12 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 45090,
-      "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 45090,
+      "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
       "asn_number": 55990,
@@ -251,10 +251,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 139138,
-      "asn_name": "Gopay Information Technology Co.,Ltd"
-    },
-    {
       "asn_number": 134774,
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
     },
@@ -305,6 +301,10 @@
     {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
+    },
+    {
+      "asn_number": 139138,
+      "asn_name": "Gopay Information Technology Co.,Ltd"
     },
     {
       "asn_number": 137735,
@@ -2524,7 +2524,7 @@
     },
     {
       "asn_number": 137731,
-      "asn_name": "APNIC ASN block"
+      "asn_name": "Guangdong Huayun Century Technology Co., Ltd."
     },
     {
       "asn_number": 137719,
