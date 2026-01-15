@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-14 03:00:04",
+    "last_updated_utc": "2026-01-15 02:54:04",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5234
   },
@@ -111,6 +111,10 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
+      "asn_number": 202782,
+      "asn_name": "RIPE NCC ASN block"
+    },
+    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
@@ -139,12 +143,12 @@
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
-      "asn_number": 55990,
-      "asn_name": "Huawei Cloud Service data center"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 55990,
+      "asn_name": "Huawei Cloud Service data center"
     },
     {
       "asn_number": 24490,
@@ -175,16 +179,16 @@
       "asn_name": "MIKU NETWORK LIMITED"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38365,
@@ -439,6 +443,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 141425,
+      "asn_name": "China Mobile Group Guangdong communications corporation"
+    },
+    {
       "asn_number": 140726,
       "asn_name": "UNICOM AnHui province network"
     },
@@ -611,8 +619,8 @@
       "asn_name": "shanghai science and technology network communication limited company"
     },
     {
-      "asn_number": 141425,
-      "asn_name": "China Mobile Group Guangdong communications corporation"
+      "asn_number": 152711,
+      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
       "asn_number": 138421,
@@ -887,10 +895,6 @@
       "asn_name": "APNIC ASN block"
     },
     {
-      "asn_number": 152711,
-      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
-    },
-    {
       "asn_number": 151313,
       "asn_name": "Pacific Insurance Technology Co., Ltd"
     },
@@ -965,10 +969,6 @@
     {
       "asn_number": 139177,
       "asn_name": "New Oriental Education & Technology Group Ltd."
-    },
-    {
-      "asn_number": 139154,
-      "asn_name": "Big Data Center Of Shandong Province"
     },
     {
       "asn_number": 139110,
@@ -1283,6 +1283,10 @@
       "asn_name": "Xinghua Zhu"
     },
     {
+      "asn_number": 205027,
+      "asn_name": "Fengnayun Data Co., Ltd."
+    },
+    {
       "asn_number": 203236,
       "asn_name": "Mingyang Shen"
     },
@@ -1313,6 +1317,10 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152186,
@@ -1485,6 +1493,10 @@
     {
       "asn_number": 139183,
       "asn_name": "Thomson Reuters (Beijing) Technology Development Co. Ltd"
+    },
+    {
+      "asn_number": 139154,
+      "asn_name": "Big Data Center Of Shandong Province"
     },
     {
       "asn_number": 139139,
@@ -1725,10 +1737,6 @@
     {
       "asn_number": 131536,
       "asn_name": "Shanghai Great Wall Broadband Network Service Co., Ltd."
-    },
-    {
-      "asn_number": 131519,
-      "asn_name": "Hisense"
     },
     {
       "asn_number": 131506,
@@ -2151,10 +2159,6 @@
       "asn_name": "Han Dai"
     },
     {
-      "asn_number": 205027,
-      "asn_name": "Fengnayun Data Co., Ltd."
-    },
-    {
       "asn_number": 199406,
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
     },
@@ -2193,10 +2197,6 @@
     {
       "asn_number": 154010,
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152920,
@@ -2665,6 +2665,10 @@
     {
       "asn_number": 131522,
       "asn_name": "Beijing Yovole Cloud Computing Technology Company Limited"
+    },
+    {
+      "asn_number": 131519,
+      "asn_name": "Hisense"
     },
     {
       "asn_number": 131490,
@@ -3172,10 +3176,6 @@
     },
     {
       "asn_number": 203309,
-      "asn_name": "RIPE NCC ASN block"
-    },
-    {
-      "asn_number": 202782,
       "asn_name": "RIPE NCC ASN block"
     },
     {
