@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-15 02:54:04",
+    "last_updated_utc": "2026-01-16 02:55:20",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5234
   },
@@ -79,12 +79,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 4538,
-      "asn_name": "China Education and Research Network Center"
-    },
-    {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 4538,
+      "asn_name": "China Education and Research Network Center"
     },
     {
       "asn_number": 4812,
@@ -93,6 +93,10 @@
     {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 17621,
@@ -111,16 +115,12 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
-      "asn_number": 202782,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
-    },
-    {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 9929,
@@ -179,16 +179,16 @@
       "asn_name": "MIKU NETWORK LIMITED"
     },
     {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 38365,
@@ -275,10 +275,6 @@
       "asn_name": "Post Savings Bank of China Tower A, No.3"
     },
     {
-      "asn_number": 45079,
-      "asn_name": "GDS CHANGAN SERVICES Ltd."
-    },
-    {
       "asn_number": 24444,
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
@@ -339,6 +335,10 @@
       "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
     {
+      "asn_number": 58026,
+      "asn_name": "Xiamen Jiufu Network Co., Ltd."
+    },
+    {
       "asn_number": 56041,
       "asn_name": "China Mobile communications corporation"
     },
@@ -347,12 +347,20 @@
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
     {
+      "asn_number": 45079,
+      "asn_name": "GDS CHANGAN SERVICES Ltd."
+    },
+    {
       "asn_number": 42962,
       "asn_name": "CoreLink Network"
     },
     {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
+    },
+    {
+      "asn_number": 24133,
+      "asn_name": "21vianet(China) Inc."
     },
     {
       "asn_number": 23650,
@@ -385,10 +393,6 @@
     {
       "asn_number": 9308,
       "asn_name": "Abitcool(China) Inc."
-    },
-    {
-      "asn_number": 63641,
-      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
     },
     {
       "asn_number": 59078,
@@ -459,10 +463,6 @@
       "asn_name": "Jiangsu Wuxi International IDC network"
     },
     {
-      "asn_number": 138538,
-      "asn_name": "VPSOR-GLOBAL"
-    },
-    {
       "asn_number": 137746,
       "asn_name": "APNIC ASN block"
     },
@@ -487,8 +487,8 @@
       "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
-      "asn_number": 7641,
-      "asn_name": "China Broadcasting TV Net"
+      "asn_number": 63641,
+      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
     },
     {
       "asn_number": 63561,
@@ -529,10 +529,6 @@
     {
       "asn_number": 58519,
       "asn_name": "Cloud Computing Corporation"
-    },
-    {
-      "asn_number": 58026,
-      "asn_name": "Xiamen Jiufu Network Co., Ltd."
     },
     {
       "asn_number": 56282,
@@ -623,6 +619,10 @@
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
+      "asn_number": 138538,
+      "asn_name": "VPSOR-GLOBAL"
+    },
+    {
       "asn_number": 138421,
       "asn_name": "China Unicom"
     },
@@ -693,6 +693,10 @@
     {
       "asn_number": 7653,
       "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
+    },
+    {
+      "asn_number": 7641,
+      "asn_name": "China Broadcasting TV Net"
     },
     {
       "asn_number": 7609,
@@ -1269,6 +1273,10 @@
     {
       "asn_number": 211843,
       "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
+    },
+    {
+      "asn_number": 211265,
+      "asn_name": "GUI JIANG"
     },
     {
       "asn_number": 210041,
@@ -2135,10 +2143,6 @@
       "asn_name": "ShiJI Tong"
     },
     {
-      "asn_number": 211265,
-      "asn_name": "GUI JIANG"
-    },
-    {
       "asn_number": 210634,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
@@ -2165,6 +2169,10 @@
     {
       "asn_number": 18257,
       "asn_name": "ChangZhou Bitcomm Software Technology Co., Limited"
+    },
+    {
+      "asn_number": 18244,
+      "asn_name": "Stateline Internet Data Center Co., Ltd. Shanghai"
     },
     {
       "asn_number": 18242,
@@ -2197,6 +2205,10 @@
     {
       "asn_number": 154010,
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
+    },
+    {
+      "asn_number": 153633,
+      "asn_name": "KVQNET"
     },
     {
       "asn_number": 152920,
@@ -2995,10 +3007,6 @@
       "asn_name": "Chenran MU"
     },
     {
-      "asn_number": 211729,
-      "asn_name": "Yiming Zhang"
-    },
-    {
       "asn_number": 211721,
       "asn_name": "RIPE NCC ASN block"
     },
@@ -3179,10 +3187,6 @@
       "asn_name": "RIPE NCC ASN block"
     },
     {
-      "asn_number": 202734,
-      "asn_name": "RIPE NCC ASN block"
-    },
-    {
       "asn_number": 202256,
       "asn_name": "Dongyu Zhang"
     },
@@ -3273,10 +3277,6 @@
     {
       "asn_number": 154155,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd"
-    },
-    {
-      "asn_number": 153633,
-      "asn_name": "KVQNET"
     },
     {
       "asn_number": 153458,
