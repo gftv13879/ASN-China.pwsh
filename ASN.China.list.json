@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-16 02:55:20",
+    "last_updated_utc": "2026-01-17 02:46:19",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5234
   },
@@ -115,28 +115,24 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 9929,
-      "asn_name": "China Netcom Backbone"
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+      "asn_number": 9929,
+      "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 45090,
@@ -147,12 +143,12 @@
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 55990,
-      "asn_name": "Huawei Cloud Service data center"
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+      "asn_number": 55990,
+      "asn_name": "Huawei Cloud Service data center"
     },
     {
       "asn_number": 23724,
@@ -163,16 +159,20 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
-    },
-    {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 9384,
@@ -231,6 +231,10 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
+      "asn_number": 58026,
+      "asn_name": "Xiamen Jiufu Network Co., Ltd."
+    },
+    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -245,6 +249,10 @@
     {
       "asn_number": 24406,
       "asn_name": "China Internet Network Infomation Center"
+    },
+    {
+      "asn_number": 139138,
+      "asn_name": "Gopay Information Technology Co.,Ltd"
     },
     {
       "asn_number": 134774,
@@ -295,10 +303,6 @@
       "asn_name": "21Vianet.Co.,Ltd"
     },
     {
-      "asn_number": 139138,
-      "asn_name": "Gopay Information Technology Co.,Ltd"
-    },
-    {
       "asn_number": 137735,
       "asn_name": "China Construction Bank"
     },
@@ -323,20 +327,12 @@
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 58850,
       "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
     {
       "asn_number": 58536,
       "asn_name": "CONAC (China Organizational Name Administration Center)"
-    },
-    {
-      "asn_number": 58026,
-      "asn_name": "Xiamen Jiufu Network Co., Ltd."
     },
     {
       "asn_number": 56041,
@@ -399,6 +395,10 @@
       "asn_name": "Yunify Technologies Inc."
     },
     {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
       "asn_number": 58563,
       "asn_name": "CHINANET Hubei province network"
     },
@@ -423,10 +423,6 @@
       "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
-      "asn_number": 37965,
-      "asn_name": "Pacnet Business Solutions LTD"
-    },
-    {
       "asn_number": 23844,
       "asn_name": "Beijing Guanghuan Xinwang Digital"
     },
@@ -437,10 +433,6 @@
     {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
-    },
-    {
-      "asn_number": 17429,
-      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
       "asn_number": 151397,
@@ -575,6 +567,10 @@
       "asn_name": "Dell (China) Co.,Ltd"
     },
     {
+      "asn_number": 37965,
+      "asn_name": "Pacnet Business Solutions LTD"
+    },
+    {
       "asn_number": 24430,
       "asn_name": "Jia No.8, North Lishi Road, Xicheng Dist.Beijing, China"
     },
@@ -613,6 +609,10 @@
     {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
+    },
+    {
+      "asn_number": 17429,
+      "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
       "asn_number": 152711,
@@ -1959,6 +1959,10 @@
       "asn_name": "China Telecom(Group)"
     },
     {
+      "asn_number": 45097,
+      "asn_name": "Poly facility (Beijing) Technology Co., Ltd."
+    },
+    {
       "asn_number": 45084,
       "asn_name": "No.98 JianGuo Road,Chaoyang District,Beijing,China"
     },
@@ -2131,6 +2135,10 @@
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
+      "asn_number": 213404,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
     },
@@ -2169,10 +2177,6 @@
     {
       "asn_number": 18257,
       "asn_name": "ChangZhou Bitcomm Software Technology Co., Limited"
-    },
-    {
-      "asn_number": 18244,
-      "asn_name": "Stateline Internet Data Center Co., Ltd. Shanghai"
     },
     {
       "asn_number": 18242,
@@ -2965,10 +2969,6 @@
     {
       "asn_number": 213545,
       "asn_name": "Wang Lei"
-    },
-    {
-      "asn_number": 213404,
-      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
       "asn_number": 213116,
