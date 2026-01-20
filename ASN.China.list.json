@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-19 03:02:13",
+    "last_updated_utc": "2026-01-20 02:56:54",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5236
+    "entry_count": 5237
   },
   "asns": [
     {
@@ -127,12 +127,12 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 37963,
@@ -171,16 +171,16 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 56046,
@@ -423,6 +423,10 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
@@ -565,10 +569,6 @@
     {
       "asn_number": 23853,
       "asn_name": "Shanghai Data Solution Co., Ltd."
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 18241,
@@ -1245,6 +1245,10 @@
     {
       "asn_number": 211843,
       "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
+    },
+    {
+      "asn_number": 211265,
+      "asn_name": "GUI JIANG"
     },
     {
       "asn_number": 210041,
@@ -2139,10 +2143,6 @@
       "asn_name": "ShiJI Tong"
     },
     {
-      "asn_number": 211265,
-      "asn_name": "GUI JIANG"
-    },
-    {
       "asn_number": 210634,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
@@ -3027,6 +3027,10 @@
       "asn_name": "Liang Zhu"
     },
     {
+      "asn_number": 210176,
+      "asn_name": "Haoyi Xiang"
+    },
+    {
       "asn_number": 209645,
       "asn_name": "Jixian Zeng"
     },
@@ -3180,7 +3184,7 @@
     },
     {
       "asn_number": 202396,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "Zeng Yukai"
     },
     {
       "asn_number": 202335,
