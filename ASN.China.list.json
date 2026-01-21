@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-20 02:56:54",
+    "last_updated_utc": "2026-01-21 02:55:52",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5237
+    "entry_count": 5234
   },
   "asns": [
     {
@@ -33,10 +33,6 @@
     {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
-    },
-    {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 10111,
@@ -187,16 +183,16 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 137718,
+      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+    },
+    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 38365,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
-    },
-    {
-      "asn_number": 137718,
-      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
       "asn_number": 58466,
@@ -303,6 +299,10 @@
       "asn_name": "Shuangyu Communication Technology co.,Ltd."
     },
     {
+      "asn_number": 136173,
+      "asn_name": "Quanzhou Yuntun Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 133219,
       "asn_name": "NewMedia Express Pte Ltd"
     },
@@ -371,6 +371,10 @@
       "asn_name": "Changgong Zhang"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -421,10 +425,6 @@
     {
       "asn_number": 23771,
       "asn_name": "SXBCTV ,Internet Service Provider,"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 17962,
@@ -569,6 +569,10 @@
     {
       "asn_number": 23853,
       "asn_name": "Shanghai Data Solution Co., Ltd."
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 18241,
@@ -833,10 +837,6 @@
     {
       "asn_number": 23841,
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 213625,
@@ -2167,6 +2167,10 @@
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
     },
     {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
+    },
+    {
       "asn_number": 18257,
       "asn_name": "ChangZhou Bitcomm Software Technology Co., Limited"
     },
@@ -2248,11 +2252,11 @@
     },
     {
       "asn_number": 151253,
-      "asn_name": "APNIC ASN block"
+      "asn_name": "Beijing Sanwang Fusion Technology Co., Ltd"
     },
     {
       "asn_number": 151251,
-      "asn_name": "Silk Road Technologies co., ltd"
+      "asn_name": "Chengdu Qianzhiyunfu Technology Co., Ltd."
     },
     {
       "asn_number": 151232,
@@ -2333,10 +2337,6 @@
     {
       "asn_number": 146758,
       "asn_name": "ShangHai Sensetime Technology Development Co., Ltd."
-    },
-    {
-      "asn_number": 142611,
-      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 142433,
@@ -3019,16 +3019,16 @@
       "asn_name": "Chengde TsingYao Network Technology Service Co., Ltd."
     },
     {
+      "asn_number": 210773,
+      "asn_name": "MAGICEDGE GLOBAL LTD"
+    },
+    {
       "asn_number": 210738,
       "asn_name": "Peng Chen"
     },
     {
       "asn_number": 210426,
       "asn_name": "Liang Zhu"
-    },
-    {
-      "asn_number": 210176,
-      "asn_name": "Haoyi Xiang"
     },
     {
       "asn_number": 209645,
@@ -3117,10 +3117,6 @@
     {
       "asn_number": 206315,
       "asn_name": "Shucheng Li"
-    },
-    {
-      "asn_number": 205825,
-      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 205794,
@@ -3217,10 +3213,6 @@
     {
       "asn_number": 200789,
       "asn_name": "Wei Teng LIn"
-    },
-    {
-      "asn_number": 200592,
-      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 200545,
@@ -20921,10 +20913,6 @@
     {
       "asn_number": 134477,
       "asn_name": "Shaoxing Junruiyunjisuan Co Ltd"
-    },
-    {
-      "asn_number": 133513,
-      "asn_name": "CERNET New Technology Co., Ltd"
     },
     {
       "asn_number": 133512,
