@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-24 02:50:39",
+    "last_updated_utc": "2026-01-25 03:07:38",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5230
+    "entry_count": 5226
   },
   "asns": [
     {
@@ -59,12 +59,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 9808,
@@ -83,16 +83,16 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 202782,
-      "asn_name": "RIPE NCC ASN block"
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 17621,
@@ -103,12 +103,12 @@
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 56040,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 146788,
@@ -123,12 +123,12 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 146834,
@@ -219,12 +219,12 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
-    },
-    {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 9814,
@@ -1159,6 +1159,10 @@
       "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
+      "asn_number": 151277,
+      "asn_name": "China Broadcast Network International Co.,Ltd"
+    },
+    {
       "asn_number": 151058,
       "asn_name": "China Telecom"
     },
@@ -1915,10 +1919,6 @@
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
     },
     {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
-    },
-    {
       "asn_number": 18257,
       "asn_name": "ChangZhou Bitcomm Software Technology Co., Limited"
     },
@@ -2009,10 +2009,6 @@
     {
       "asn_number": 151284,
       "asn_name": "APNIC ASN block"
-    },
-    {
-      "asn_number": 151277,
-      "asn_name": "China Broadcast Network International Co.,Ltd"
     },
     {
       "asn_number": 151270,
@@ -2879,10 +2875,6 @@
       "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
     },
     {
-      "asn_number": 214843,
-      "asn_name": "Haoyu Yang"
-    },
-    {
       "asn_number": 214759,
       "asn_name": "LEKAI ZHAO"
     },
@@ -2937,10 +2929,6 @@
     {
       "asn_number": 213700,
       "asn_name": "Yuhan Wang"
-    },
-    {
-      "asn_number": 213629,
-      "asn_name": "ZEXIN CHEN"
     },
     {
       "asn_number": 213545,
@@ -3231,16 +3219,16 @@
       "asn_name": "Tianle Shi"
     },
     {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
+    },
+    {
       "asn_number": 198527,
       "asn_name": "Haolin Li"
     },
     {
       "asn_number": 198516,
       "asn_name": "Yi Huang"
-    },
-    {
-      "asn_number": 198266,
-      "asn_name": "Yunrui Gu"
     },
     {
       "asn_number": 198025,
@@ -3393,10 +3381,6 @@
     {
       "asn_number": 151490,
       "asn_name": "GaonIT"
-    },
-    {
-      "asn_number": 151483,
-      "asn_name": "Beijing Chuangzhijie Tech. Co. Ltd."
     },
     {
       "asn_number": 151462,
