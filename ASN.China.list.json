@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-26 03:08:51",
+    "last_updated_utc": "2026-01-27 03:01:34",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5226
   },
@@ -96,7 +96,7 @@
     },
     {
       "asn_number": 202782,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 17621,
@@ -151,12 +151,12 @@
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
-      "asn_number": 23724,
-      "asn_name": "IDC, China Telecommunications Corporation"
-    },
-    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 23724,
+      "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
       "asn_number": 24490,
@@ -223,12 +223,12 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
-      "asn_number": 23848,
-      "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
-    },
-    {
       "asn_number": 24489,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
+    },
+    {
+      "asn_number": 23848,
+      "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
       "asn_number": 9814,
@@ -351,10 +351,6 @@
       "asn_name": "Changgong Zhang"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -401,6 +397,10 @@
     {
       "asn_number": 38019,
       "asn_name": "tianjin Mobile Communication Company Limited"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 151397,
@@ -1556,7 +1556,7 @@
     },
     {
       "asn_number": 63538,
-      "asn_name": "Shanghai Hengyi Network Technology Co.,Ltd"
+      "asn_name": "Accenture (China) Co.,Ltd"
     },
     {
       "asn_number": 59223,
