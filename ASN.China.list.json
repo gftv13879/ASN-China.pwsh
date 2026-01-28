@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-27 03:01:34",
+    "last_updated_utc": "2026-01-28 02:58:42",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5226
+    "entry_count": 5225
   },
   "asns": [
     {
@@ -43,24 +43,24 @@
       "asn_name": "Zeofast Network"
     },
     {
-      "asn_number": 209650,
-      "asn_name": "Wu Zhiyuan"
-    },
-    {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 209650,
+      "asn_name": "Wu Zhiyuan"
     },
     {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 4847,
       "asn_name": "China Networks Inter-Exchange"
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 146762,
@@ -83,16 +83,16 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
-    },
-    {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 202782,
@@ -183,12 +183,12 @@
       "asn_name": "MIKU NETWORK LIMITED"
     },
     {
-      "asn_number": 56046,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
+    },
+    {
+      "asn_number": 56046,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 38365,
@@ -351,6 +351,10 @@
       "asn_name": "Changgong Zhang"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -399,8 +403,8 @@
       "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 151397,
@@ -445,6 +449,10 @@
     {
       "asn_number": 9394,
       "asn_name": "China TieTong Telecommunications Corporation"
+    },
+    {
+      "asn_number": 63641,
+      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
     },
     {
       "asn_number": 59029,
@@ -529,10 +537,6 @@
     {
       "asn_number": 23771,
       "asn_name": "SXBCTV ,Internet Service Provider,"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 18241,
@@ -629,10 +633,6 @@
     {
       "asn_number": 63701,
       "asn_name": "Jishi Media Co ., Ltd."
-    },
-    {
-      "asn_number": 63641,
-      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
     },
     {
       "asn_number": 63580,
@@ -768,7 +768,7 @@
     },
     {
       "asn_number": 154402,
-      "asn_name": "APNIC ASN block"
+      "asn_name": "Shenzhen FredCloud Computing Technology Co., Ltd."
     },
     {
       "asn_number": 148981,
@@ -1145,6 +1145,10 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152186,
@@ -1915,10 +1919,6 @@
       "asn_name": "Han Dai"
     },
     {
-      "asn_number": 203236,
-      "asn_name": "Mingyang Shen"
-    },
-    {
       "asn_number": 199406,
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
     },
@@ -1973,10 +1973,6 @@
     {
       "asn_number": 153633,
       "asn_name": "KVQNET"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152920,
@@ -2231,6 +2227,14 @@
       "asn_name": "CHINATELECOM Guangdong province Heyuan 5G network"
     },
     {
+      "asn_number": 140315,
+      "asn_name": "CHINATELECOM Guangdong province Jieyang 5G network"
+    },
+    {
+      "asn_number": 140312,
+      "asn_name": "CHINATELECOM Guangdong province Zhanjiang 5G network"
+    },
+    {
       "asn_number": 140311,
       "asn_name": "CHINATELECOM Guangdong province Jiangmen 5G network"
     },
@@ -2472,7 +2476,7 @@
     },
     {
       "asn_number": 137264,
-      "asn_name": "APNIC ASN block"
+      "asn_name": "Wingmark Matrix (Wuhan) Computer Systems Co Ltd"
     },
     {
       "asn_number": 136959,
@@ -2521,6 +2525,10 @@
     {
       "asn_number": 135054,
       "asn_name": "China Mobile Group Hainan Co., Ltd."
+    },
+    {
+      "asn_number": 134775,
+      "asn_name": "CHINANET Guangdong province Zhusanjiao MAN network"
     },
     {
       "asn_number": 134772,
@@ -3352,7 +3360,7 @@
     },
     {
       "asn_number": 152118,
-      "asn_name": "Shenzhen Mengsi Computer System Co Ltd"
+      "asn_name": "Shenzhen Moesys Computer System Co Ltd"
     },
     {
       "asn_number": 151951,
@@ -20539,20 +20547,12 @@
       "asn_name": "CHINATELECOM Guangdong province Chaozhou 5G network"
     },
     {
-      "asn_number": 140315,
-      "asn_name": "CHINATELECOM Guangdong province Jieyang 5G network"
-    },
-    {
       "asn_number": 140314,
       "asn_name": "CHINATELECOM Guangdong province Shantou 5G network"
     },
     {
       "asn_number": 140313,
       "asn_name": "CHINATELECOM Guangdong province Zhaoqing 5G network"
-    },
-    {
-      "asn_number": 140312,
-      "asn_name": "CHINATELECOM Guangdong province Zhanjiang 5G network"
     },
     {
       "asn_number": 140310,
@@ -20869,10 +20869,6 @@
     {
       "asn_number": 135646,
       "asn_name": "Luginbash AS"
-    },
-    {
-      "asn_number": 134775,
-      "asn_name": "CHINANET Guangdong province Zhusanjiao MAN network"
     },
     {
       "asn_number": 134488,
