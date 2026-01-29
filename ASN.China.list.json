@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-28 02:58:42",
+    "last_updated_utc": "2026-01-29 03:22:35",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5225
+    "entry_count": 5226
   },
   "asns": [
     {
@@ -59,10 +59,6 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
@@ -87,16 +83,20 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
     },
     {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
       "asn_number": 202782,
       "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 17621,
@@ -127,12 +127,12 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 146834,
@@ -479,6 +479,10 @@
       "asn_name": "Cloud Computing Corporation"
     },
     {
+      "asn_number": 58026,
+      "asn_name": "Xiamen Jiufu Network Co., Ltd."
+    },
+    {
       "asn_number": 56282,
       "asn_name": "Beijing Internet Harbor Technology Co., Ltd"
     },
@@ -673,10 +677,6 @@
     {
       "asn_number": 58448,
       "asn_name": "CONAC (China Organizational Name Administration Center)"
-    },
-    {
-      "asn_number": 58026,
-      "asn_name": "Xiamen Jiufu Network Co., Ltd."
     },
     {
       "asn_number": 56019,
@@ -1107,10 +1107,6 @@
       "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
     },
     {
-      "asn_number": 211265,
-      "asn_name": "GUI JIANG"
-    },
-    {
       "asn_number": 210041,
       "asn_name": "Licheng MAO"
     },
@@ -1305,10 +1301,6 @@
     {
       "asn_number": 137745,
       "asn_name": "APNIC ASN block"
-    },
-    {
-      "asn_number": 137715,
-      "asn_name": "GTJA Securities"
     },
     {
       "asn_number": 137692,
@@ -1899,6 +1891,10 @@
       "asn_name": "Jiaxian He"
     },
     {
+      "asn_number": 211265,
+      "asn_name": "GUI JIANG"
+    },
+    {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
     },
@@ -1981,6 +1977,10 @@
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151823,
@@ -2425,6 +2425,10 @@
     {
       "asn_number": 137719,
       "asn_name": "Qingdao Weidong Big Data Technology Co., Ltd"
+    },
+    {
+      "asn_number": 137715,
+      "asn_name": "GTJA Securities"
     },
     {
       "asn_number": 137710,
@@ -2872,7 +2876,7 @@
     },
     {
       "asn_number": 214933,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "Bingxin Liu"
     },
     {
       "asn_number": 214921,
@@ -2912,7 +2916,7 @@
     },
     {
       "asn_number": 214207,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "Xiao Wang"
     },
     {
       "asn_number": 214203,
@@ -2992,7 +2996,7 @@
     },
     {
       "asn_number": 211721,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "HUANG YUCHAO"
     },
     {
       "asn_number": 211575,
@@ -3144,7 +3148,7 @@
     },
     {
       "asn_number": 204211,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
       "asn_number": 204185,
@@ -3160,11 +3164,11 @@
     },
     {
       "asn_number": 203643,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "lai gao"
     },
     {
       "asn_number": 203309,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "Liangyi Ma"
     },
     {
       "asn_number": 202396,
@@ -3177,6 +3181,10 @@
     {
       "asn_number": 202256,
       "asn_name": "Dongyu Zhang"
+    },
+    {
+      "asn_number": 201944,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 200959,
@@ -3225,10 +3233,6 @@
     {
       "asn_number": 200021,
       "asn_name": "Tianhong Peng"
-    },
-    {
-      "asn_number": 199932,
-      "asn_name": "Tianle Shi"
     },
     {
       "asn_number": 198527,
@@ -3361,10 +3365,6 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Moesys Computer System Co Ltd"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
@@ -20817,6 +20817,10 @@
     {
       "asn_number": 138370,
       "asn_name": "CERNET2 regional IX at Nanchang University"
+    },
+    {
+      "asn_number": 138211,
+      "asn_name": "TupleTech Corporation"
     },
     {
       "asn_number": 138182,
