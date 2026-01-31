@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-30 03:23:07",
+    "last_updated_utc": "2026-01-31 03:14:34",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5228
   },
@@ -43,12 +43,12 @@
       "asn_name": "Zeofast Network"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 209650,
       "asn_name": "Wu Zhiyuan"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 4808,
@@ -83,24 +83,24 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+      "asn_number": 17621,
+      "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 202782,
       "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
-      "asn_number": 17621,
-      "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 142111,
@@ -151,12 +151,12 @@
       "asn_name": "BILIBILI HK LIMITED"
     },
     {
-      "asn_number": 45090,
-      "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
-    },
-    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 45090,
+      "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
       "asn_number": 23724,
@@ -235,8 +235,16 @@
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
     {
+      "asn_number": 24444,
+      "asn_name": "Shandong Mobile Communication Company Limited"
+    },
+    {
       "asn_number": 24406,
       "asn_name": "China Internet Network Infomation Center"
+    },
+    {
+      "asn_number": 17623,
+      "asn_name": "China Unicom Shenzen network"
     },
     {
       "asn_number": 139138,
@@ -263,20 +271,12 @@
       "asn_name": "Post Savings Bank of China Tower A, No.3"
     },
     {
-      "asn_number": 24444,
-      "asn_name": "Shandong Mobile Communication Company Limited"
-    },
-    {
       "asn_number": 24409,
       "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 23911,
       "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
-      "asn_number": 17623,
-      "asn_name": "China Unicom Shenzen network"
     },
     {
       "asn_number": 17622,
@@ -327,10 +327,6 @@
       "asn_name": "China Telecom HangZhou IDC"
     },
     {
-      "asn_number": 45110,
-      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
-    },
-    {
       "asn_number": 42962,
       "asn_name": "CoreLink Network"
     },
@@ -349,10 +345,6 @@
     {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 153726,
@@ -395,6 +387,10 @@
       "asn_name": "LGNET China"
     },
     {
+      "asn_number": 45110,
+      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
+    },
+    {
       "asn_number": 45079,
       "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
@@ -405,6 +401,10 @@
     {
       "asn_number": 214575,
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 151397,
@@ -675,10 +675,6 @@
       "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
     {
-      "asn_number": 58026,
-      "asn_name": "Xiamen Jiufu Network Co., Ltd."
-    },
-    {
       "asn_number": 56019,
       "asn_name": "Beijing ShuJuJia Technology Co., Ltd."
     },
@@ -695,16 +691,16 @@
       "asn_name": "No.8 Xing Guang 5th Street, Opto-Mechatronics Industrial Park"
     },
     {
+      "asn_number": 38379,
+      "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
+    },
+    {
       "asn_number": 38057,
       "asn_name": "Dell (China) Co.,Ltd"
     },
     {
       "asn_number": 38027,
       "asn_name": "Information Center, Ministry of Sci and Tech"
-    },
-    {
-      "asn_number": 37942,
-      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
     },
     {
       "asn_number": 24547,
@@ -745,10 +741,6 @@
     {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
-    },
-    {
-      "asn_number": 205651,
-      "asn_name": "Hao Qiao"
     },
     {
       "asn_number": 17969,
@@ -987,6 +979,10 @@
       "asn_name": "ChinaTelecom Cybersecurity Tech"
     },
     {
+      "asn_number": 58026,
+      "asn_name": "Xiamen Jiufu Network Co., Ltd."
+    },
+    {
       "asn_number": 56047,
       "asn_name": "China Mobile communications corporation"
     },
@@ -1059,16 +1055,16 @@
       "asn_name": "China South Locomotive And Rolling Stock Industry Company"
     },
     {
-      "asn_number": 38379,
-      "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
-    },
-    {
       "asn_number": 38378,
       "asn_name": "Bosch (China) Investment Ltd."
     },
     {
       "asn_number": 37969,
       "asn_name": "Zhejiang WuLian Network Technology Co.,Ltd."
+    },
+    {
+      "asn_number": 37942,
+      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
     },
     {
       "asn_number": 24369,
@@ -1109,6 +1105,10 @@
     {
       "asn_number": 210041,
       "asn_name": "Licheng MAO"
+    },
+    {
+      "asn_number": 205651,
+      "asn_name": "Hao Qiao"
     },
     {
       "asn_number": 205418,
@@ -1209,6 +1209,10 @@
     {
       "asn_number": 140979,
       "asn_name": "China Unicom Shanghai FuTe IDC network"
+    },
+    {
+      "asn_number": 140716,
+      "asn_name": "UNICOM JiangSu WuXi IDC network"
     },
     {
       "asn_number": 140647,
@@ -1967,10 +1971,6 @@
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
     },
     {
-      "asn_number": 153633,
-      "asn_name": "KVQNET"
-    },
-    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
@@ -2061,10 +2061,6 @@
     {
       "asn_number": 149837,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 149793,
-      "asn_name": "Xin Yang Bai Xing Network Tecnology Co., Ltd"
     },
     {
       "asn_number": 149511,
@@ -2185,10 +2181,6 @@
     {
       "asn_number": 140717,
       "asn_name": "UNICOM JiangSu Suzhou IDC network"
-    },
-    {
-      "asn_number": 140716,
-      "asn_name": "UNICOM JiangSu WuXi IDC network"
     },
     {
       "asn_number": 140707,
@@ -3243,6 +3235,10 @@
       "asn_name": "Tianhong Peng"
     },
     {
+      "asn_number": 199932,
+      "asn_name": "Tianle Shi"
+    },
+    {
       "asn_number": 198527,
       "asn_name": "Haolin Li"
     },
@@ -3265,6 +3261,10 @@
     {
       "asn_number": 154185,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 153633,
+      "asn_name": "KVQNET"
     },
     {
       "asn_number": 153458,
