@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-01-31 03:14:34",
+    "last_updated_utc": "2026-02-01 03:44:31",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5228
+    "entry_count": 5227
   },
   "asns": [
     {
@@ -91,6 +91,10 @@
       "asn_name": "China Telecom (Group)"
     },
     {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
+    },
+    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
     },
@@ -99,20 +103,16 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
-      "asn_number": 56040,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 56040,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 146788,
@@ -131,12 +131,12 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
+    },
+    {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 146834,
@@ -243,10 +243,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 17623,
-      "asn_name": "China Unicom Shenzen network"
-    },
-    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -277,6 +273,10 @@
     {
       "asn_number": 23911,
       "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
+      "asn_number": 17623,
+      "asn_name": "China Unicom Shenzen network"
     },
     {
       "asn_number": 17622,
@@ -859,10 +859,6 @@
       "asn_name": "Jinhua Weian InfoTech Co., Ltd"
     },
     {
-      "asn_number": 131506,
-      "asn_name": "HEILONGJIANG RADIO & TV NETWORK CO.,LTD"
-    },
-    {
       "asn_number": 131495,
       "asn_name": "Beijing nine cloud infinite network technology co., LTD"
     },
@@ -1143,10 +1139,6 @@
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 152186,
       "asn_name": "Mintel Holding Limited"
     },
@@ -1209,10 +1201,6 @@
     {
       "asn_number": 140979,
       "asn_name": "China Unicom Shanghai FuTe IDC network"
-    },
-    {
-      "asn_number": 140716,
-      "asn_name": "UNICOM JiangSu WuXi IDC network"
     },
     {
       "asn_number": 140647,
@@ -1415,6 +1403,10 @@
       "asn_name": "Hisense"
     },
     {
+      "asn_number": 131506,
+      "asn_name": "HEILONGJIANG RADIO & TV NETWORK CO.,LTD"
+    },
+    {
       "asn_number": 131325,
       "asn_name": "China Telecom KunMing"
     },
@@ -1485,10 +1477,6 @@
     {
       "asn_number": 63655,
       "asn_name": "Huawei Technologies Co., Ltd"
-    },
-    {
-      "asn_number": 63654,
-      "asn_name": "BEIJING NETEAST TECHNOLOGIES CORPORATION LTD"
     },
     {
       "asn_number": 63647,
@@ -1971,6 +1959,10 @@
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
     },
     {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
@@ -2181,6 +2173,10 @@
     {
       "asn_number": 140717,
       "asn_name": "UNICOM JiangSu Suzhou IDC network"
+    },
+    {
+      "asn_number": 140716,
+      "asn_name": "UNICOM JiangSu WuXi IDC network"
     },
     {
       "asn_number": 140707,
