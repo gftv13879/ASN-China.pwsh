@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-01 03:44:31",
+    "last_updated_utc": "2026-02-02 03:36:07",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5227
+    "entry_count": 5228
   },
   "asns": [
     {
@@ -33,10 +33,6 @@
     {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
-    },
-    {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 10111,
@@ -99,24 +95,24 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 56040,
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 9929,
@@ -131,12 +127,12 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 146834,
@@ -175,12 +171,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
       "asn_number": 9384,
       "asn_name": "MIKU NETWORK LIMITED"
+    },
+    {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 59045,
@@ -403,10 +399,6 @@
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 151397,
       "asn_name": "China Telecom"
     },
@@ -421,10 +413,6 @@
     {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
-    },
-    {
-      "asn_number": 138538,
-      "asn_name": "VPSOR-GLOBAL"
     },
     {
       "asn_number": 137758,
@@ -539,10 +527,6 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
-      "asn_number": 18241,
-      "asn_name": "State Power Information Net"
-    },
-    {
       "asn_number": 18239,
       "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
     },
@@ -577,6 +561,10 @@
     {
       "asn_number": 138950,
       "asn_name": "Jiangsu Wuxi International IDC network"
+    },
+    {
+      "asn_number": 138538,
+      "asn_name": "VPSOR-GLOBAL"
     },
     {
       "asn_number": 138421,
@@ -739,8 +727,16 @@
       "asn_name": "Xuluo Chen"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
+    },
+    {
+      "asn_number": 18241,
+      "asn_name": "State Power Information Net"
     },
     {
       "asn_number": 17969,
@@ -1479,6 +1475,10 @@
       "asn_name": "Huawei Technologies Co., Ltd"
     },
     {
+      "asn_number": 63654,
+      "asn_name": "BEIJING NETEAST TECHNOLOGIES CORPORATION LTD"
+    },
+    {
       "asn_number": 63647,
       "asn_name": "Beijing WangJu Interworking Information Technology Co. LTD"
     },
@@ -1909,6 +1909,10 @@
     {
       "asn_number": 199406,
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
+    },
+    {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 18257,
