@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-02 03:36:07",
+    "last_updated_utc": "2026-02-03 03:29:39",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5228
   },
@@ -11,12 +11,12 @@
       "asn_name": "Zhejiang Taobao Network Co.,Ltd"
     },
     {
-      "asn_number": 45102,
-      "asn_name": "Alibaba (US) Technology Co., Ltd."
-    },
-    {
       "asn_number": 132203,
       "asn_name": "Tencent Building, Kejizhongyi Avenue"
+    },
+    {
+      "asn_number": 45102,
+      "asn_name": "Alibaba (US) Technology Co., Ltd."
     },
     {
       "asn_number": 4134,
@@ -35,16 +35,16 @@
       "asn_name": "China Unicom Backbone"
     },
     {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
+    },
+    {
       "asn_number": 10111,
       "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 209650,
       "asn_name": "Wu Zhiyuan"
-    },
-    {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 4808,
@@ -87,12 +87,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 142111,
@@ -127,12 +127,12 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
+    },
+    {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 146834,
@@ -415,6 +415,10 @@
       "asn_name": "China UnionPay Co., Ltd"
     },
     {
+      "asn_number": 138538,
+      "asn_name": "VPSOR-GLOBAL"
+    },
+    {
       "asn_number": 137758,
       "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
@@ -561,10 +565,6 @@
     {
       "asn_number": 138950,
       "asn_name": "Jiangsu Wuxi International IDC network"
-    },
-    {
-      "asn_number": 138538,
-      "asn_name": "VPSOR-GLOBAL"
     },
     {
       "asn_number": 138421,
@@ -853,6 +853,10 @@
     {
       "asn_number": 131516,
       "asn_name": "Jinhua Weian InfoTech Co., Ltd"
+    },
+    {
+      "asn_number": 131506,
+      "asn_name": "HEILONGJIANG RADIO & TV NETWORK CO.,LTD"
     },
     {
       "asn_number": 131495,
@@ -1399,10 +1403,6 @@
       "asn_name": "Hisense"
     },
     {
-      "asn_number": 131506,
-      "asn_name": "HEILONGJIANG RADIO & TV NETWORK CO.,LTD"
-    },
-    {
       "asn_number": 131325,
       "asn_name": "China Telecom KunMing"
     },
@@ -1481,10 +1481,6 @@
     {
       "asn_number": 63647,
       "asn_name": "Beijing WangJu Interworking Information Technology Co. LTD"
-    },
-    {
-      "asn_number": 63633,
-      "asn_name": "GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.,LTD."
     },
     {
       "asn_number": 63621,
@@ -3169,6 +3165,10 @@
     {
       "asn_number": 203309,
       "asn_name": "Liangyi Ma"
+    },
+    {
+      "asn_number": 203236,
+      "asn_name": "Mingyang Shen"
     },
     {
       "asn_number": 202396,
