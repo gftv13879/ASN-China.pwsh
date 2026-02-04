@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-03 03:29:39",
+    "last_updated_utc": "2026-02-04 03:27:18",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5228
+    "entry_count": 5227
   },
   "asns": [
     {
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -75,16 +75,16 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 17621,
@@ -131,12 +131,12 @@
       "asn_name": "Yifu Yu"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 37963,
@@ -159,16 +159,16 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
-    },
-    {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 9384,
@@ -399,8 +399,8 @@
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
-      "asn_number": 151397,
-      "asn_name": "China Telecom"
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 141425,
@@ -557,6 +557,10 @@
     {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
+    },
+    {
+      "asn_number": 151397,
+      "asn_name": "China Telecom"
     },
     {
       "asn_number": 139721,
@@ -727,10 +731,6 @@
       "asn_name": "Xuluo Chen"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
     },
@@ -753,10 +753,6 @@
     {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
-    },
-    {
-      "asn_number": 154402,
-      "asn_name": "Shenzhen FredCloud Computing Technology Co., Ltd."
     },
     {
       "asn_number": 148981,
@@ -1129,6 +1125,10 @@
     {
       "asn_number": 17739,
       "asn_name": "Shanghai Telecom Haplink Network Co., Ltd"
+    },
+    {
+      "asn_number": 154402,
+      "asn_name": "Shenzhen FredCloud Computing Technology Co., Ltd."
     },
     {
       "asn_number": 153911,
@@ -2143,6 +2143,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 142207,
+      "asn_name": "WJY (Shanghai) Technology Co., Ltd."
+    },
+    {
       "asn_number": 141776,
       "asn_name": "Baoshuo Network"
     },
@@ -2855,10 +2859,6 @@
       "asn_name": "LIZI LUO"
     },
     {
-      "asn_number": 215265,
-      "asn_name": "Lie Hu"
-    },
-    {
       "asn_number": 215007,
       "asn_name": "BOZHAN LIANG"
     },
@@ -3165,10 +3165,6 @@
     {
       "asn_number": 203309,
       "asn_name": "Liangyi Ma"
-    },
-    {
-      "asn_number": 203236,
-      "asn_name": "Mingyang Shen"
     },
     {
       "asn_number": 202396,
