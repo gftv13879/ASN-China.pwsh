@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-06 03:26:56",
+    "last_updated_utc": "2026-02-07 03:20:27",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5234
+    "entry_count": 5239
   },
   "asns": [
     {
@@ -75,10 +75,6 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
     },
@@ -87,12 +83,16 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 142111,
@@ -183,6 +183,10 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 137718,
+      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+    },
+    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
@@ -193,10 +197,6 @@
     {
       "asn_number": 38365,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
-    },
-    {
-      "asn_number": 137718,
-      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
       "asn_number": 38283,
@@ -227,8 +227,16 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
+      "asn_number": 136958,
+      "asn_name": "China Unicom Guangdong IP network"
+    },
+    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
+    },
+    {
+      "asn_number": 56041,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 24444,
@@ -245,10 +253,6 @@
     {
       "asn_number": 9809,
       "asn_name": "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD."
-    },
-    {
-      "asn_number": 56041,
-      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 56006,
@@ -283,10 +287,6 @@
       "asn_name": "21Vianet.Co.,Ltd"
     },
     {
-      "asn_number": 136958,
-      "asn_name": "China Unicom Guangdong IP network"
-    },
-    {
       "asn_number": 136237,
       "asn_name": "Shuangyu Communication Technology co.,Ltd."
     },
@@ -317,6 +317,10 @@
     {
       "asn_number": 58461,
       "asn_name": "China Telecom HangZhou IDC"
+    },
+    {
+      "asn_number": 45110,
+      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
     {
       "asn_number": 42962,
@@ -377,10 +381,6 @@
     {
       "asn_number": 56012,
       "asn_name": "LGNET China"
-    },
-    {
-      "asn_number": 45110,
-      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
     {
       "asn_number": 45079,
@@ -689,6 +689,14 @@
     {
       "asn_number": 38027,
       "asn_name": "Information Center, Ministry of Sci and Tech"
+    },
+    {
+      "asn_number": 37969,
+      "asn_name": "Zhejiang WuLian Network Technology Co.,Ltd."
+    },
+    {
+      "asn_number": 37942,
+      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
     },
     {
       "asn_number": 24547,
@@ -1043,14 +1051,6 @@
       "asn_name": "Bosch (China) Investment Ltd."
     },
     {
-      "asn_number": 37969,
-      "asn_name": "Zhejiang WuLian Network Technology Co.,Ltd."
-    },
-    {
-      "asn_number": 37942,
-      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
-    },
-    {
       "asn_number": 24369,
       "asn_name": "CERNET2 IX at Northeast University"
     },
@@ -1268,6 +1268,10 @@
     },
     {
       "asn_number": 137785,
+      "asn_name": "CACloud Services (Shanghai) Co., Ltd."
+    },
+    {
+      "asn_number": 137784,
       "asn_name": "CACloud Services (Shanghai) Co., Ltd."
     },
     {
@@ -1871,6 +1875,10 @@
       "asn_name": "Xuluo Chen"
     },
     {
+      "asn_number": 213404,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
     },
@@ -1881,6 +1889,10 @@
     {
       "asn_number": 211265,
       "asn_name": "GUI JIANG"
+    },
+    {
+      "asn_number": 210634,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
       "asn_number": 209574,
@@ -1895,12 +1907,20 @@
       "asn_name": "ZHOU ZEFENG"
     },
     {
+      "asn_number": 207091,
+      "asn_name": "Wang Junhao"
+    },
+    {
       "asn_number": 205610,
       "asn_name": "Huanjie Zhu"
     },
     {
       "asn_number": 205152,
       "asn_name": "Han Dai"
+    },
+    {
+      "asn_number": 201765,
+      "asn_name": "JunYi Li"
     },
     {
       "asn_number": 199406,
@@ -2367,6 +2387,10 @@
       "asn_name": "Hubei Jiangxia IDC"
     },
     {
+      "asn_number": 138979,
+      "asn_name": "Guangzhou Shujie Suyuan Culture Communication Co., Ltd."
+    },
+    {
       "asn_number": 138949,
       "asn_name": "Jiangsu Kunshan IDC"
     },
@@ -2401,10 +2425,6 @@
     {
       "asn_number": 137788,
       "asn_name": "Shanxi Beacon Cloudscape"
-    },
-    {
-      "asn_number": 137784,
-      "asn_name": "CACloud Services (Shanghai) Co., Ltd."
     },
     {
       "asn_number": 137759,
@@ -2959,10 +2979,6 @@
       "asn_name": "Wang Lei"
     },
     {
-      "asn_number": 213404,
-      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 213116,
       "asn_name": "Guangzhou Bigao Network Technology Co., Ltd."
     },
@@ -3103,10 +3119,6 @@
       "asn_name": "YANG HAOJING"
     },
     {
-      "asn_number": 207091,
-      "asn_name": "Wang Junhao"
-    },
-    {
       "asn_number": 206843,
       "asn_name": "Jikai Ren"
     },
@@ -3179,6 +3191,10 @@
       "asn_name": "Liangyi Ma"
     },
     {
+      "asn_number": 203236,
+      "asn_name": "Mingyang Shen"
+    },
+    {
       "asn_number": 202396,
       "asn_name": "Zeng Yukai"
     },
@@ -3197,6 +3213,10 @@
     {
       "asn_number": 201705,
       "asn_name": "Xinrun Li"
+    },
+    {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 200959,
