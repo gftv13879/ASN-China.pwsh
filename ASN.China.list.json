@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-07 03:20:27",
+    "last_updated_utc": "2026-02-08 03:49:48",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5239
+    "entry_count": 5238
   },
   "asns": [
     {
@@ -35,16 +35,16 @@
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
-    },
-    {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 209650,
       "asn_name": "Wu Zhiyuan"
+    },
+    {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 4808,
@@ -79,12 +79,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 17621,
@@ -319,10 +319,6 @@
       "asn_name": "China Telecom HangZhou IDC"
     },
     {
-      "asn_number": 45110,
-      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
-    },
-    {
       "asn_number": 42962,
       "asn_name": "CoreLink Network"
     },
@@ -381,6 +377,10 @@
     {
       "asn_number": 56012,
       "asn_name": "LGNET China"
+    },
+    {
+      "asn_number": 45110,
+      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
     {
       "asn_number": 45079,
@@ -983,6 +983,10 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 56003,
+      "asn_name": "Beijing Century Union Network Technology Co.,LTD."
+    },
+    {
       "asn_number": 56002,
       "asn_name": "BEIJING MARINE COMMUNICATION AND NAVIGATION CO."
     },
@@ -1285,6 +1289,10 @@
     {
       "asn_number": 137745,
       "asn_name": "APNIC ASN block"
+    },
+    {
+      "asn_number": 137715,
+      "asn_name": "GTJA Securities"
     },
     {
       "asn_number": 137692,
@@ -1639,10 +1647,6 @@
       "asn_name": "Zhengzhou Fastidc Technology Co.,Ltd."
     },
     {
-      "asn_number": 56003,
-      "asn_name": "Beijing Century Union Network Technology Co.,LTD."
-    },
-    {
       "asn_number": 55973,
       "asn_name": "Universal Cinema Services Co., Ltd"
     },
@@ -1875,10 +1879,6 @@
       "asn_name": "Xuluo Chen"
     },
     {
-      "asn_number": 213404,
-      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
     },
@@ -1889,10 +1889,6 @@
     {
       "asn_number": 211265,
       "asn_name": "GUI JIANG"
-    },
-    {
-      "asn_number": 210634,
-      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
       "asn_number": 209574,
@@ -2443,10 +2439,6 @@
       "asn_name": "Qingdao Weidong Big Data Technology Co., Ltd"
     },
     {
-      "asn_number": 137715,
-      "asn_name": "GTJA Securities"
-    },
-    {
       "asn_number": 137710,
       "asn_name": "Net God Information Technology (Beijing) Co., Ltd."
     },
@@ -2977,6 +2969,10 @@
     {
       "asn_number": 213545,
       "asn_name": "Wang Lei"
+    },
+    {
+      "asn_number": 213404,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
       "asn_number": 213116,
