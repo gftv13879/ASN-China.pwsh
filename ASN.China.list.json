@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-08 03:49:48",
+    "last_updated_utc": "2026-02-09 03:38:08",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5238
   },
@@ -35,6 +35,10 @@
       "asn_name": "China Unicom Backbone"
     },
     {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
+    },
+    {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
     },
@@ -43,16 +47,16 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
-    },
-    {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
       "asn_number": 4847,
       "asn_name": "China Networks Inter-Exchange"
+    },
+    {
+      "asn_number": 211575,
+      "asn_name": "Rui Feng"
     },
     {
       "asn_number": 146762,
@@ -247,6 +251,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 17623,
+      "asn_name": "China Unicom Shenzen network"
+    },
+    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -273,10 +281,6 @@
     {
       "asn_number": 23911,
       "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
-      "asn_number": 17623,
-      "asn_name": "China Unicom Shenzen network"
     },
     {
       "asn_number": 17622,
@@ -339,6 +343,10 @@
       "asn_name": "Changgong Zhang"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -393,10 +401,6 @@
     {
       "asn_number": 214575,
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 141425,
@@ -649,10 +653,6 @@
     {
       "asn_number": 59049,
       "asn_name": "Wal-mart (China) Investment Co., Ltd."
-    },
-    {
-      "asn_number": 59009,
-      "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
       "asn_number": 58834,
@@ -955,6 +955,10 @@
       "asn_name": "Zhejiang Ruili Information Technology Co., Ltd"
     },
     {
+      "asn_number": 59009,
+      "asn_name": "QingDao WangXin Telcom Corp. Limited"
+    },
+    {
       "asn_number": 58862,
       "asn_name": "Microsoft (China) Co., Ltd."
     },
@@ -981,10 +985,6 @@
     {
       "asn_number": 56042,
       "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 56003,
-      "asn_name": "Beijing Century Union Network Technology Co.,LTD."
     },
     {
       "asn_number": 56002,
@@ -1645,6 +1645,10 @@
     {
       "asn_number": 56005,
       "asn_name": "Zhengzhou Fastidc Technology Co.,Ltd."
+    },
+    {
+      "asn_number": 56003,
+      "asn_name": "Beijing Century Union Network Technology Co.,LTD."
     },
     {
       "asn_number": 55973,
@@ -3017,10 +3021,6 @@
     {
       "asn_number": 211721,
       "asn_name": "HUANG YUCHAO"
-    },
-    {
-      "asn_number": 211575,
-      "asn_name": "Rui Feng"
     },
     {
       "asn_number": 211158,
