@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-09 03:38:08",
+    "last_updated_utc": "2026-02-10 03:46:18",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5238
+    "entry_count": 5239
   },
   "asns": [
     {
@@ -27,20 +27,24 @@
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
+    },
+    {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 209650,
@@ -171,12 +175,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 9384,
-      "asn_name": "MIKU NETWORK LIMITED"
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
+    },
+    {
+      "asn_number": 9384,
+      "asn_name": "MIKU NETWORK LIMITED"
     },
     {
       "asn_number": 24490,
@@ -299,6 +303,10 @@
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
     },
     {
+      "asn_number": 133219,
+      "asn_name": "NewMedia Express Pte Ltd"
+    },
+    {
       "asn_number": 63648,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
@@ -343,10 +351,6 @@
       "asn_name": "Changgong Zhang"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -357,10 +361,6 @@
     {
       "asn_number": 137735,
       "asn_name": "China Construction Bank"
-    },
-    {
-      "asn_number": 133219,
-      "asn_name": "NewMedia Express Pte Ltd"
     },
     {
       "asn_number": 131486,
@@ -535,6 +535,10 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 18239,
       "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
     },
@@ -693,10 +697,6 @@
     {
       "asn_number": 37969,
       "asn_name": "Zhejiang WuLian Network Technology Co.,Ltd."
-    },
-    {
-      "asn_number": 37942,
-      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
     },
     {
       "asn_number": 24547,
@@ -1055,6 +1055,10 @@
       "asn_name": "Bosch (China) Investment Ltd."
     },
     {
+      "asn_number": 37942,
+      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
+    },
+    {
       "asn_number": 24369,
       "asn_name": "CERNET2 IX at Northeast University"
     },
@@ -1093,6 +1097,10 @@
     {
       "asn_number": 210041,
       "asn_name": "Licheng MAO"
+    },
+    {
+      "asn_number": 207091,
+      "asn_name": "Wang Junhao"
     },
     {
       "asn_number": 205651,
@@ -1907,10 +1915,6 @@
       "asn_name": "ZHOU ZEFENG"
     },
     {
-      "asn_number": 207091,
-      "asn_name": "Wang Junhao"
-    },
-    {
       "asn_number": 205610,
       "asn_name": "Huanjie Zhu"
     },
@@ -1925,10 +1929,6 @@
     {
       "asn_number": 199406,
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
-    },
-    {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 18257,
@@ -2145,6 +2145,10 @@
     {
       "asn_number": 146746,
       "asn_name": "TaiKang Insurance Group CO.,LTD.,Wuhan Operating Center"
+    },
+    {
+      "asn_number": 142611,
+      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 142608,
@@ -3204,7 +3208,7 @@
     },
     {
       "asn_number": 201944,
-      "asn_name": "RIPE NCC ASN block"
+      "asn_name": "HaoRan Liu"
     },
     {
       "asn_number": 201705,
