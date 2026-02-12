@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-11 03:43:48",
+    "last_updated_utc": "2026-02-12 03:38:09",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5239
+    "entry_count": 5240
   },
   "asns": [
     {
@@ -27,24 +27,20 @@
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
-    },
-    {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 10111,
       "asn_name": "Zeofast Network"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 209650,
@@ -87,20 +83,16 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 17621,
-      "asn_name": "China Unicom Shanghai network"
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
+      "asn_number": 17621,
+      "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 142111,
@@ -137,6 +129,10 @@
     {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 146834,
@@ -191,10 +187,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 137718,
-      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
-    },
-    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
@@ -205,6 +197,10 @@
     {
       "asn_number": 38365,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
+    },
+    {
+      "asn_number": 137718,
+      "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
       "asn_number": 38283,
@@ -235,10 +231,6 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
-      "asn_number": 136958,
-      "asn_name": "China Unicom Guangdong IP network"
-    },
-    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -261,6 +253,10 @@
     {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 136958,
+      "asn_name": "China Unicom Guangdong IP network"
     },
     {
       "asn_number": 9809,
@@ -427,10 +423,6 @@
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
-    },
-    {
       "asn_number": 137746,
       "asn_name": "APNIC ASN block"
     },
@@ -581,6 +573,10 @@
     {
       "asn_number": 138421,
       "asn_name": "China Unicom"
+    },
+    {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137702,
@@ -1117,6 +1113,10 @@
     {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
+    },
+    {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 18245,
@@ -1987,10 +1987,6 @@
       "asn_name": "China Unicom TianJing GaoCun IDC network"
     },
     {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
-    },
-    {
       "asn_number": 151823,
       "asn_name": "China Telecom"
     },
@@ -2657,6 +2653,10 @@
     {
       "asn_number": 131577,
       "asn_name": "Wuhan Unifiber Communication Co., Ltd."
+    },
+    {
+      "asn_number": 131568,
+      "asn_name": "Xiamen Kuaikuai Network Technology Co.,Ltd"
     },
     {
       "asn_number": 131567,
@@ -3413,6 +3413,10 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Moesys Computer System Co Ltd"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
