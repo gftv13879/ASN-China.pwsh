@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-12 03:38:09",
+    "last_updated_utc": "2026-02-13 03:36:22",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5240
+    "entry_count": 5239
   },
   "asns": [
     {
@@ -35,12 +35,16 @@
       "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 209650,
@@ -63,12 +67,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -95,6 +99,10 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
+    },
+    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
@@ -115,28 +123,24 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 9929,
-      "asn_name": "China Netcom Backbone"
-    },
-    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
+    },
+    {
+      "asn_number": 9929,
+      "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 37963,
@@ -195,12 +199,12 @@
       "asn_name": "CHINANET Guangdong province network"
     },
     {
-      "asn_number": 38365,
-      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+    },
+    {
+      "asn_number": 38365,
+      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
       "asn_number": 38283,
@@ -263,10 +267,6 @@
       "asn_name": "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD."
     },
     {
-      "asn_number": 63648,
-      "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
-    },
-    {
       "asn_number": 56006,
       "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
     },
@@ -305,6 +305,10 @@
     {
       "asn_number": 133219,
       "asn_name": "NewMedia Express Pte Ltd"
+    },
+    {
+      "asn_number": 63648,
+      "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
     {
       "asn_number": 63646,
@@ -513,6 +517,10 @@
     {
       "asn_number": 37965,
       "asn_name": "Pacnet Business Solutions LTD"
+    },
+    {
+      "asn_number": 37942,
+      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
     },
     {
       "asn_number": 24430,
@@ -1051,10 +1059,6 @@
       "asn_name": "Bosch (China) Investment Ltd."
     },
     {
-      "asn_number": 37942,
-      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
-    },
-    {
       "asn_number": 24369,
       "asn_name": "CERNET2 IX at Northeast University"
     },
@@ -1113,10 +1117,6 @@
     {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
-    },
-    {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 18245,
@@ -1293,10 +1293,6 @@
     {
       "asn_number": 137745,
       "asn_name": "APNIC ASN block"
-    },
-    {
-      "asn_number": 137715,
-      "asn_name": "GTJA Securities"
     },
     {
       "asn_number": 137692,
@@ -2443,6 +2439,10 @@
       "asn_name": "Qingdao Weidong Big Data Technology Co., Ltd"
     },
     {
+      "asn_number": 137715,
+      "asn_name": "GTJA Securities"
+    },
+    {
       "asn_number": 137710,
       "asn_name": "Net God Information Technology (Beijing) Co., Ltd."
     },
@@ -2653,10 +2653,6 @@
     {
       "asn_number": 131577,
       "asn_name": "Wuhan Unifiber Communication Co., Ltd."
-    },
-    {
-      "asn_number": 131568,
-      "asn_name": "Xiamen Kuaikuai Network Technology Co.,Ltd"
     },
     {
       "asn_number": 131567,
