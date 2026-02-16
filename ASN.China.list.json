@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-15 03:37:20",
+    "last_updated_utc": "2026-02-16 03:36:45",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5240
   },
@@ -63,12 +63,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -283,10 +283,6 @@
       "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
     },
@@ -409,6 +405,10 @@
     {
       "asn_number": 140726,
       "asn_name": "UNICOM AnHui province network"
+    },
+    {
+      "asn_number": 139148,
+      "asn_name": "China UnionPay Co., Ltd"
     },
     {
       "asn_number": 138538,
@@ -561,10 +561,6 @@
     {
       "asn_number": 139721,
       "asn_name": "HeFei"
-    },
-    {
-      "asn_number": 139148,
-      "asn_name": "China UnionPay Co., Ltd"
     },
     {
       "asn_number": 138950,
@@ -725,6 +721,10 @@
     {
       "asn_number": 23841,
       "asn_name": "6/F, No.3 Huatian Road, New Technology Industry Area"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 209306,
@@ -1981,10 +1981,6 @@
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151823,
@@ -3417,6 +3413,10 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Moesys Computer System Co Ltd"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
