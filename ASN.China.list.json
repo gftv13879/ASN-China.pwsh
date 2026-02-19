@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-18 03:33:32",
+    "last_updated_utc": "2026-02-19 03:32:41",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5240
   },
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -227,6 +227,10 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -241,14 +245,6 @@
     {
       "asn_number": 24406,
       "asn_name": "China Internet Network Infomation Center"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
-      "asn_number": 17623,
-      "asn_name": "China Unicom Shenzen network"
     },
     {
       "asn_number": 139138,
@@ -281,6 +277,10 @@
     {
       "asn_number": 23911,
       "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
+      "asn_number": 17623,
+      "asn_name": "China Unicom Shenzen network"
     },
     {
       "asn_number": 17622,
@@ -1099,10 +1099,6 @@
       "asn_name": "Fengnayun Data Co., Ltd."
     },
     {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
-    },
-    {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
     },
@@ -1913,6 +1909,10 @@
     {
       "asn_number": 201765,
       "asn_name": "JunYi Li"
+    },
+    {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 199406,
