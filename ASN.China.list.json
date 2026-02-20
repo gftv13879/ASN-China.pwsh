@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-19 03:32:41",
+    "last_updated_utc": "2026-02-20 03:28:40",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5240
   },
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -87,16 +87,16 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 56040,
@@ -187,12 +187,12 @@
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
-      "asn_number": 58466,
-      "asn_name": "CHINANET Guangdong province network"
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+    },
+    {
+      "asn_number": 58466,
+      "asn_name": "CHINANET Guangdong province network"
     },
     {
       "asn_number": 38365,
@@ -415,10 +415,6 @@
       "asn_name": "VPSOR-GLOBAL"
     },
     {
-      "asn_number": 137801,
-      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
-    },
-    {
       "asn_number": 137758,
       "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
@@ -571,8 +567,16 @@
       "asn_name": "China Unicom"
     },
     {
+      "asn_number": 137801,
+      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
+    },
+    {
       "asn_number": 137702,
       "asn_name": "Nanjing, Jiangsu Province, P.R.China."
+    },
+    {
+      "asn_number": 136198,
+      "asn_name": "CHINANET Guangdong province Yuexi MAN network"
     },
     {
       "asn_number": 136195,
@@ -641,6 +645,10 @@
     {
       "asn_number": 59074,
       "asn_name": "TAIKANG INSURANCE GROUP CO.,LTD."
+    },
+    {
+      "asn_number": 59049,
+      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 58834,
@@ -747,6 +755,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 146812,
+      "asn_name": "Deutsche Bank (China) Co., Ltd. Shanghai Branch"
+    },
+    {
       "asn_number": 146782,
       "asn_name": "University Of Chinese Academy Of Social Sciences"
     },
@@ -795,10 +807,6 @@
       "asn_name": "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.R.China."
     },
     {
-      "asn_number": 136198,
-      "asn_name": "CHINANET Guangdong province Yuexi MAN network"
-    },
-    {
       "asn_number": 135061,
       "asn_name": "China Unicom Guangdong IP network"
     },
@@ -825,6 +833,10 @@
     {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
+    },
+    {
+      "asn_number": 131558,
+      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 131516,
@@ -921,10 +933,6 @@
     {
       "asn_number": 59067,
       "asn_name": "Microsoft Mobile Alliance Internet Services Co., Ltd"
-    },
-    {
-      "asn_number": 59049,
-      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 59048,
@@ -1175,10 +1183,6 @@
       "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
-      "asn_number": 146812,
-      "asn_name": "Deutsche Bank (China) Co., Ltd. Shanghai Branch"
-    },
-    {
       "asn_number": 141998,
       "asn_name": "China Telecom"
     },
@@ -1381,10 +1385,6 @@
     {
       "asn_number": 131562,
       "asn_name": "HUNAN CATV Network Group CO.,LTD."
-    },
-    {
-      "asn_number": 131558,
-      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 131536,
