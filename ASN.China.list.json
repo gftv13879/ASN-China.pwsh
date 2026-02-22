@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-21 03:17:09",
+    "last_updated_utc": "2026-02-22 03:31:44",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5233
   },
@@ -71,16 +71,16 @@
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 4812,
-      "asn_name": "China Telecom (Group)"
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+      "asn_number": 4812,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 24400,
@@ -259,6 +259,10 @@
       "asn_name": "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD."
     },
     {
+      "asn_number": 63648,
+      "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
+    },
+    {
       "asn_number": 56006,
       "asn_name": "Shanghai Pudong Development Bank Co.,Ltd."
     },
@@ -307,10 +311,6 @@
       "asn_name": "NewMedia Express Pte Ltd"
     },
     {
-      "asn_number": 63648,
-      "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
-    },
-    {
       "asn_number": 63646,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
@@ -353,6 +353,10 @@
     {
       "asn_number": 139080,
       "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
+    },
+    {
+      "asn_number": 138538,
+      "asn_name": "VPSOR-GLOBAL"
     },
     {
       "asn_number": 137735,
@@ -409,10 +413,6 @@
     {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
-    },
-    {
-      "asn_number": 138538,
-      "asn_name": "VPSOR-GLOBAL"
     },
     {
       "asn_number": 137758,
@@ -501,6 +501,10 @@
     {
       "asn_number": 38358,
       "asn_name": "3 Fuxing Road, Beijing, China"
+    },
+    {
+      "asn_number": 38345,
+      "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
     {
       "asn_number": 37965,
@@ -679,10 +683,6 @@
       "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
     },
     {
-      "asn_number": 38345,
-      "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
-    },
-    {
       "asn_number": 38057,
       "asn_name": "Dell (China) Co.,Ltd"
     },
@@ -711,6 +711,10 @@
       "asn_name": "CERNET2 IX at Tsinghua University"
     },
     {
+      "asn_number": 24149,
+      "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
+    },
+    {
       "asn_number": 24147,
       "asn_name": "BEIJING CBD TELECOM CO,.LTD"
     },
@@ -729,6 +733,10 @@
     {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
+    },
+    {
+      "asn_number": 207091,
+      "asn_name": "Wang Junhao"
     },
     {
       "asn_number": 18241,
@@ -1061,10 +1069,6 @@
     {
       "asn_number": 24361,
       "asn_name": "CERNET2 IX at Southeast University"
-    },
-    {
-      "asn_number": 24149,
-      "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
     {
       "asn_number": 24143,
@@ -1895,10 +1899,6 @@
       "asn_name": "ZHOU ZEFENG"
     },
     {
-      "asn_number": 207091,
-      "asn_name": "Wang Junhao"
-    },
-    {
       "asn_number": 205610,
       "asn_name": "Huanjie Zhu"
     },
@@ -1913,6 +1913,10 @@
     {
       "asn_number": 201765,
       "asn_name": "JunYi Li"
+    },
+    {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 199406,
@@ -3193,10 +3197,6 @@
     {
       "asn_number": 201705,
       "asn_name": "Xinrun Li"
-    },
-    {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 201235,
