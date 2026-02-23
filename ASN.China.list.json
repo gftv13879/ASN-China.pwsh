@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-22 03:31:44",
+    "last_updated_utc": "2026-02-23 03:36:08",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5233
+    "entry_count": 5235
   },
   "asns": [
     {
@@ -27,12 +27,12 @@
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
+    },
+    {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 213605,
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -87,12 +87,12 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 17621,
@@ -1107,6 +1107,10 @@
       "asn_name": "Fengnayun Data Co., Ltd."
     },
     {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
+    },
+    {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
     },
@@ -1915,10 +1919,6 @@
       "asn_name": "JunYi Li"
     },
     {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
-    },
-    {
       "asn_number": 199406,
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
     },
@@ -2281,10 +2281,6 @@
     {
       "asn_number": 140083,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 139888,
-      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139887,
@@ -3227,6 +3223,10 @@
       "asn_name": "Wei Teng LIn"
     },
     {
+      "asn_number": 200720,
+      "asn_name": "Yichen Shi"
+    },
+    {
       "asn_number": 200545,
       "asn_name": "Liu Quanhao"
     },
@@ -3249,6 +3249,10 @@
     {
       "asn_number": 200021,
       "asn_name": "Tianhong Peng"
+    },
+    {
+      "asn_number": 199932,
+      "asn_name": "Tianle Shi"
     },
     {
       "asn_number": 198527,
@@ -20717,6 +20721,10 @@
     {
       "asn_number": 140043,
       "asn_name": "Guangzhou Jinggong Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 139888,
+      "asn_name": "Tang Zhuo"
     },
     {
       "asn_number": 139859,
