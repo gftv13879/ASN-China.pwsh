@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-23 03:36:08",
+    "last_updated_utc": "2026-02-24 03:31:01",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5235
   },
@@ -39,6 +39,10 @@
       "asn_name": "Liu HaoRan"
     },
     {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
+    },
+    {
       "asn_number": 10111,
       "asn_name": "Zeofast Network"
     },
@@ -59,12 +63,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -87,12 +91,12 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 202782,
       "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 17621,
@@ -115,10 +119,6 @@
       "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
@@ -133,6 +133,10 @@
     {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 37963,
@@ -171,12 +175,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
+    },
+    {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 56046,
@@ -347,6 +351,10 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
     },
@@ -397,10 +405,6 @@
     {
       "asn_number": 38019,
       "asn_name": "tianjin Mobile Communication Company Limited"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 141425,
@@ -737,6 +741,10 @@
     {
       "asn_number": 207091,
       "asn_name": "Wang Junhao"
+    },
+    {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 18241,
@@ -1107,10 +1115,6 @@
       "asn_name": "Fengnayun Data Co., Ltd."
     },
     {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
-    },
-    {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
     },
@@ -1137,6 +1141,10 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152186,
@@ -1923,10 +1931,6 @@
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
     },
     {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
-    },
-    {
       "asn_number": 18257,
       "asn_name": "ChangZhou Bitcomm Software Technology Co., Limited"
     },
@@ -1973,10 +1977,6 @@
     {
       "asn_number": 154010,
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152920,
