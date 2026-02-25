@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-24 03:31:01",
+    "last_updated_utc": "2026-02-25 03:32:16",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5235
   },
@@ -115,6 +115,10 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
+    },
+    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
     },
@@ -133,10 +137,6 @@
     {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 37963,
@@ -229,10 +229,6 @@
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 9814,
@@ -403,8 +399,16 @@
       "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
     {
+      "asn_number": 38345,
+      "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
+    },
+    {
       "asn_number": 38019,
       "asn_name": "tianjin Mobile Communication Company Limited"
+    },
+    {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 141425,
@@ -507,10 +511,6 @@
       "asn_name": "3 Fuxing Road, Beijing, China"
     },
     {
-      "asn_number": 38345,
-      "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
-    },
-    {
       "asn_number": 37965,
       "asn_name": "Pacnet Business Solutions LTD"
     },
@@ -529,6 +529,10 @@
     {
       "asn_number": 23771,
       "asn_name": "SXBCTV ,Internet Service Provider,"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 18239,
@@ -619,6 +623,10 @@
       "asn_name": "Development & Research Center of State Council Net."
     },
     {
+      "asn_number": 9805,
+      "asn_name": "SIEMENS LTD. CHINA"
+    },
+    {
       "asn_number": 7721,
       "asn_name": "Qin Cloud Networks"
     },
@@ -657,6 +665,10 @@
     {
       "asn_number": 59049,
       "asn_name": "Wal-mart (China) Investment Co., Ltd."
+    },
+    {
+      "asn_number": 59009,
+      "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
       "asn_number": 58834,
@@ -741,10 +753,6 @@
     {
       "asn_number": 207091,
       "asn_name": "Wang Junhao"
-    },
-    {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 18241,
@@ -871,10 +879,6 @@
       "asn_name": "Beijing Times Netstar Technology Co.,Ltd"
     },
     {
-      "asn_number": 9805,
-      "asn_name": "SIEMENS LTD. CHINA"
-    },
-    {
       "asn_number": 9803,
       "asn_name": "Beijing Jingxun Public Information Technology Co., Ltd"
     },
@@ -961,10 +965,6 @@
     {
       "asn_number": 59037,
       "asn_name": "Zhejiang Ruili Information Technology Co., Ltd"
-    },
-    {
-      "asn_number": 59009,
-      "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
       "asn_number": 58862,
