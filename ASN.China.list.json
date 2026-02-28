@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-27 03:25:26",
+    "last_updated_utc": "2026-02-28 03:05:53",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5233
+    "entry_count": 5234
   },
   "asns": [
     {
@@ -63,12 +63,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -135,16 +135,16 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 55990,
-      "asn_name": "Huawei Cloud Service data center"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 55990,
+      "asn_name": "Huawei Cloud Service data center"
     },
     {
       "asn_number": 45090,
@@ -223,6 +223,10 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
+      "asn_number": 56041,
+      "asn_name": "China Mobile communications corporation"
+    },
+    {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
@@ -231,16 +235,16 @@
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
     {
-      "asn_number": 56041,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 24444,
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
     {
       "asn_number": 24406,
       "asn_name": "China Internet Network Infomation Center"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 139138,
@@ -271,12 +275,12 @@
       "asn_name": "Post Savings Bank of China Tower A, No.3"
     },
     {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
+      "asn_number": 24409,
+      "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
       "asn_number": 17623,
@@ -329,10 +333,6 @@
     {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
-    },
-    {
-      "asn_number": 24409,
-      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 24133,
@@ -2421,6 +2421,10 @@
     {
       "asn_number": 137784,
       "asn_name": "CACloud Services (Shanghai) Co., Ltd."
+    },
+    {
+      "asn_number": 137771,
+      "asn_name": "Zhejiang Liangliang Cloud Network Technology Co., Ltd"
     },
     {
       "asn_number": 137759,
