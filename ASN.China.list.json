@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-02-28 03:05:53",
+    "last_updated_utc": "2026-03-01 03:36:54",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5234
+    "entry_count": 5231
   },
   "asns": [
     {
@@ -63,12 +63,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -93,6 +93,10 @@
     {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 17621,
@@ -155,10 +159,6 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
     },
@@ -173,6 +173,10 @@
     {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 24490,
@@ -327,6 +331,10 @@
       "asn_name": "China Telecom HangZhou IDC"
     },
     {
+      "asn_number": 56012,
+      "asn_name": "LGNET China"
+    },
+    {
       "asn_number": 42962,
       "asn_name": "CoreLink Network"
     },
@@ -385,10 +393,6 @@
     {
       "asn_number": 58542,
       "asn_name": "China Telecom Yueyang"
-    },
-    {
-      "asn_number": 56012,
-      "asn_name": "LGNET China"
     },
     {
       "asn_number": 45110,
@@ -539,10 +543,6 @@
       "asn_name": "CITIC Networks Management Co.,Ltd."
     },
     {
-      "asn_number": 17964,
-      "asn_name": "Beijing Dian-Xin-Tong Network Technologies Co., Ltd."
-    },
-    {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
@@ -691,10 +691,6 @@
       "asn_name": "No.8 Xing Guang 5th Street, Opto-Mechatronics Industrial Park"
     },
     {
-      "asn_number": 38379,
-      "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
-    },
-    {
       "asn_number": 38057,
       "asn_name": "Dell (China) Co.,Ltd"
     },
@@ -757,6 +753,10 @@
     {
       "asn_number": 17969,
       "asn_name": "ChongQing Broadcast & TV Transfer Network Co. Ltd"
+    },
+    {
+      "asn_number": 17964,
+      "asn_name": "Beijing Dian-Xin-Tong Network Technologies Co., Ltd."
     },
     {
       "asn_number": 17816,
@@ -1055,6 +1055,10 @@
       "asn_name": "China South Locomotive And Rolling Stock Industry Company"
     },
     {
+      "asn_number": 38379,
+      "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
+    },
+    {
       "asn_number": 38378,
       "asn_name": "Bosch (China) Investment Ltd."
     },
@@ -1111,10 +1115,6 @@
       "asn_name": "Fengnayun Data Co., Ltd."
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
     },
@@ -1131,16 +1131,16 @@
       "asn_name": "Shanghai Telecom Haplink Network Co., Ltd"
     },
     {
+      "asn_number": 154402,
+      "asn_name": "Shenzhen FredCloud Computing Technology Co., Ltd."
+    },
+    {
       "asn_number": 153911,
       "asn_name": "DuoTu Cloud"
     },
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152186,
@@ -1431,10 +1431,6 @@
       "asn_name": "National Library of China"
     },
     {
-      "asn_number": 9392,
-      "asn_name": "APT MOBILE SATCOM LIMITED"
-    },
-    {
       "asn_number": 7640,
       "asn_name": "China International Trust & Investment Corporation Management Information Center"
     },
@@ -1521,10 +1517,6 @@
     {
       "asn_number": 63590,
       "asn_name": "Hebei Broadcasting&TV Network"
-    },
-    {
-      "asn_number": 63583,
-      "asn_name": "Chinese Academy of Telecommunication Research"
     },
     {
       "asn_number": 63571,
@@ -1879,6 +1871,10 @@
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
+      "asn_number": 213876,
+      "asn_name": "RIPE NCC ASN block"
+    },
+    {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
     },
@@ -1901,10 +1897,6 @@
     {
       "asn_number": 209294,
       "asn_name": "Fan Zhang"
-    },
-    {
-      "asn_number": 207901,
-      "asn_name": "ZHOU ZEFENG"
     },
     {
       "asn_number": 205610,
@@ -1967,16 +1959,16 @@
       "asn_name": "5F Greatwall Bldg., A38 Xueyuan Road Haidian District,Beijing"
     },
     {
-      "asn_number": 154402,
-      "asn_name": "Shenzhen FredCloud Computing Technology Co., Ltd."
-    },
-    {
       "asn_number": 154315,
       "asn_name": "Guangzhou Leidianyun Technology Co Ltd"
     },
     {
       "asn_number": 154010,
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152920,
@@ -2705,10 +2697,6 @@
     {
       "asn_number": 131482,
       "asn_name": "Hangzhou Aron Teconology Co.,Ltd."
-    },
-    {
-      "asn_number": 10981,
-      "asn_name": "Educational Solutions LLC"
     },
     {
       "asn_number": 9425,
