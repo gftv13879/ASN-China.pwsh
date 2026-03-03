@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-02 03:26:31",
+    "last_updated_utc": "2026-03-03 03:29:03",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5231
+    "entry_count": 5232
   },
   "asns": [
     {
@@ -71,12 +71,12 @@
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 4812,
@@ -339,16 +339,12 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
     },
     {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 153726,
@@ -407,8 +403,12 @@
       "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 141425,
@@ -461,6 +461,10 @@
     {
       "asn_number": 59012,
       "asn_name": "China Grain Reserves Group LTD.Company"
+    },
+    {
+      "asn_number": 59009,
+      "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
       "asn_number": 58866,
@@ -657,10 +661,6 @@
     {
       "asn_number": 59049,
       "asn_name": "Wal-mart (China) Investment Co., Ltd."
-    },
-    {
-      "asn_number": 59009,
-      "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
       "asn_number": 58834,
@@ -1133,6 +1133,10 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152186,
@@ -1967,10 +1971,6 @@
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
@@ -2649,6 +2649,10 @@
     {
       "asn_number": 131577,
       "asn_name": "Wuhan Unifiber Communication Co., Ltd."
+    },
+    {
+      "asn_number": 131568,
+      "asn_name": "Xiamen Kuaikuai Network Technology Co.,Ltd"
     },
     {
       "asn_number": 131567,
