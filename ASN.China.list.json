@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-08 03:26:51",
+    "last_updated_utc": "2026-03-10 03:22:43",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5229
   },
@@ -35,12 +35,12 @@
       "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 10111,
       "asn_name": "Zeofast Network"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 209650,
@@ -243,6 +243,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -277,10 +281,6 @@
     {
       "asn_number": 23911,
       "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 17623,
@@ -1187,6 +1187,10 @@
       "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
+      "asn_number": 146813,
+      "asn_name": "Shanghai Suiji Networks Tech. Co. Ltd."
+    },
+    {
       "asn_number": 141998,
       "asn_name": "China Telecom"
     },
@@ -2069,10 +2073,6 @@
     {
       "asn_number": 146835,
       "asn_name": "Nanchang index technology development Co.,LTD"
-    },
-    {
-      "asn_number": 146813,
-      "asn_name": "Shanghai Suiji Networks Tech. Co. Ltd."
     },
     {
       "asn_number": 146810,
