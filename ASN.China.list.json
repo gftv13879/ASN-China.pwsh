@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-11 03:22:32",
+    "last_updated_utc": "2026-03-12 03:28:27",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5230
+    "entry_count": 5231
   },
   "asns": [
     {
@@ -135,12 +135,12 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 55990,
@@ -229,6 +229,10 @@
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 9814,
@@ -343,10 +347,6 @@
       "asn_name": "Changgong Zhang"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -405,6 +405,10 @@
     {
       "asn_number": 38019,
       "asn_name": "tianjin Mobile Communication Company Limited"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 141425,
@@ -643,10 +647,6 @@
       "asn_name": "China Electronics Technology Cyber Security Co.,LTD"
     },
     {
-      "asn_number": 63548,
-      "asn_name": "LENOVO (BEIJING) Co.ltd"
-    },
-    {
       "asn_number": 63531,
       "asn_name": "Beijing BAIWU Technology Co., Ltd."
     },
@@ -657,10 +657,6 @@
     {
       "asn_number": 59074,
       "asn_name": "TAIKANG INSURANCE GROUP CO.,LTD."
-    },
-    {
-      "asn_number": 59049,
-      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 59009,
@@ -747,10 +743,6 @@
       "asn_name": "Jin Shaohai"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 207091,
       "asn_name": "Wang Junhao"
     },
@@ -783,10 +775,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 146812,
-      "asn_name": "Deutsche Bank (China) Co., Ltd. Shanghai Branch"
-    },
-    {
       "asn_number": 146782,
       "asn_name": "University Of Chinese Academy Of Social Sciences"
     },
@@ -809,10 +797,6 @@
     {
       "asn_number": 139178,
       "asn_name": "Rural Credit Banks Funds Clearing Center"
-    },
-    {
-      "asn_number": 139110,
-      "asn_name": "Lenovo Mobile Communication Technology (Beijing) Ltd"
     },
     {
       "asn_number": 138545,
@@ -857,10 +841,6 @@
     {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
-    },
-    {
-      "asn_number": 131558,
-      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 131516,
@@ -943,6 +923,10 @@
       "asn_name": "APNIC ASN block"
     },
     {
+      "asn_number": 63548,
+      "asn_name": "LENOVO (BEIJING) Co.ltd"
+    },
+    {
       "asn_number": 59073,
       "asn_name": "Bank of China Limited"
     },
@@ -953,6 +937,10 @@
     {
       "asn_number": 59067,
       "asn_name": "Microsoft Mobile Alliance Internet Services Co., Ltd"
+    },
+    {
+      "asn_number": 59049,
+      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 59048,
@@ -1199,6 +1187,10 @@
       "asn_name": "Shanghai Suiji Networks Tech. Co. Ltd."
     },
     {
+      "asn_number": 146812,
+      "asn_name": "Deutsche Bank (China) Co., Ltd. Shanghai Branch"
+    },
+    {
       "asn_number": 141998,
       "asn_name": "China Telecom"
     },
@@ -1261,6 +1253,10 @@
     {
       "asn_number": 139136,
       "asn_name": "ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.,LTD."
+    },
+    {
+      "asn_number": 139110,
+      "asn_name": "Lenovo Mobile Communication Technology (Beijing) Ltd"
     },
     {
       "asn_number": 139099,
@@ -1405,6 +1401,10 @@
     {
       "asn_number": 131562,
       "asn_name": "HUNAN CATV Network Group CO.,LTD."
+    },
+    {
+      "asn_number": 131558,
+      "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
       "asn_number": 131536,
@@ -1879,6 +1879,10 @@
       "asn_name": "Xuluo Chen"
     },
     {
+      "asn_number": 213404,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
     },
@@ -1893,6 +1897,10 @@
     {
       "asn_number": 211265,
       "asn_name": "GUI JIANG"
+    },
+    {
+      "asn_number": 210634,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
       "asn_number": 209574,
@@ -2929,10 +2937,6 @@
     {
       "asn_number": 213545,
       "asn_name": "Wang Lei"
-    },
-    {
-      "asn_number": 213404,
-      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
       "asn_number": 213116,
