@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-13 03:24:42",
+    "last_updated_utc": "2026-03-14 03:22:33",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5231
   },
@@ -87,12 +87,12 @@
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 56040,
@@ -119,10 +119,6 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
@@ -131,16 +127,20 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 55990,
@@ -173,10 +173,6 @@
     {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
-      "asn_number": 9384,
-      "asn_name": "MIKU NETWORK LIMITED"
     },
     {
       "asn_number": 56046,
@@ -815,6 +811,10 @@
       "asn_name": "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.R.China."
     },
     {
+      "asn_number": 137691,
+      "asn_name": "Heilongjiang Province, P.R.China."
+    },
+    {
       "asn_number": 135061,
       "asn_name": "China Unicom Guangdong IP network"
     },
@@ -1143,10 +1143,6 @@
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
     },
     {
-      "asn_number": 151331,
-      "asn_name": "Sora You"
-    },
-    {
       "asn_number": 151302,
       "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
@@ -1305,10 +1301,6 @@
     {
       "asn_number": 137692,
       "asn_name": "IOT Guangdong network, Chinatelecom, P.R.China."
-    },
-    {
-      "asn_number": 137691,
-      "asn_name": "Heilongjiang Province, P.R.China."
     },
     {
       "asn_number": 137689,
@@ -1789,6 +1781,10 @@
     {
       "asn_number": 24404,
       "asn_name": "CNISP-Union Technology (Beijing) Co., Ltd"
+    },
+    {
+      "asn_number": 24376,
+      "asn_name": "Yahoo China Datacenter"
     },
     {
       "asn_number": 24372,
@@ -3569,6 +3565,10 @@
     {
       "asn_number": 151418,
       "asn_name": "Zhang Junkai"
+    },
+    {
+      "asn_number": 151331,
+      "asn_name": "Sora You"
     },
     {
       "asn_number": 151276,
