@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-16 03:50:43",
+    "last_updated_utc": "2026-03-17 03:28:49",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5230
+    "entry_count": 5229
   },
   "asns": [
     {
@@ -35,12 +35,12 @@
       "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
-    },
-    {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 209650,
@@ -119,12 +119,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 137753,
@@ -311,8 +311,8 @@
       "asn_name": "China Telecom HangZhou IDC"
     },
     {
-      "asn_number": 56012,
-      "asn_name": "LGNET China"
+      "asn_number": 45079,
+      "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
     {
       "asn_number": 24413,
@@ -379,12 +379,12 @@
       "asn_name": "China Telecom Yueyang"
     },
     {
-      "asn_number": 45110,
-      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
+      "asn_number": 56012,
+      "asn_name": "LGNET China"
     },
     {
-      "asn_number": 45079,
-      "asn_name": "GDS CHANGAN SERVICES Ltd."
+      "asn_number": 45110,
+      "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
     {
       "asn_number": 42962,
@@ -1979,6 +1979,10 @@
       "asn_name": "China Unicom TianJing GaoCun IDC network"
     },
     {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
+    },
+    {
       "asn_number": 151823,
       "asn_name": "China Telecom"
     },
@@ -3247,10 +3251,6 @@
       "asn_name": "XU ZIYAO"
     },
     {
-      "asn_number": 197433,
-      "asn_name": "XuanMing Liu"
-    },
-    {
       "asn_number": 154185,
       "asn_name": "Liu HaoRan"
     },
@@ -3369,10 +3369,6 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Moesys Computer System Co Ltd"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
