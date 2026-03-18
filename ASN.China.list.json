@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-17 03:28:49",
+    "last_updated_utc": "2026-03-18 03:35:36",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5229
+    "entry_count": 5232
   },
   "asns": [
     {
@@ -35,12 +35,12 @@
       "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 10111,
       "asn_name": "Zeofast Network"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 209650,
@@ -103,12 +103,12 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 9929,
@@ -119,16 +119,16 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 63631,
@@ -699,6 +699,10 @@
       "asn_name": "Zhejiang WuLian Network Technology Co.,Ltd."
     },
     {
+      "asn_number": 24547,
+      "asn_name": "Hebei Mobile Communication Company Limited"
+    },
+    {
       "asn_number": 24427,
       "asn_name": "Freecomm Corporation"
     },
@@ -1043,10 +1047,6 @@
       "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
     },
     {
-      "asn_number": 24547,
-      "asn_name": "Hebei Mobile Communication Company Limited"
-    },
-    {
       "asn_number": 24369,
       "asn_name": "CERNET2 IX at Northeast University"
     },
@@ -1089,10 +1089,6 @@
     {
       "asn_number": 205651,
       "asn_name": "Hao Qiao"
-    },
-    {
-      "asn_number": 205027,
-      "asn_name": "Fengnayun Data Co., Ltd."
     },
     {
       "asn_number": 199392,
@@ -1767,6 +1763,10 @@
       "asn_name": "No. 207 Hualin Road, Fuzhou, Fujian, China"
     },
     {
+      "asn_number": 24422,
+      "asn_name": "Huizhan street, Renqiu city, Hebei, P. R. CHINA"
+    },
+    {
       "asn_number": 24416,
       "asn_name": "Beijing Primezone Technologies Inc."
     },
@@ -1863,6 +1863,10 @@
       "asn_name": "CHINANET Gansu province network"
     },
     {
+      "asn_number": 216224,
+      "asn_name": "Tianjin Tianzhan Technology Co., Ltd."
+    },
+    {
       "asn_number": 215786,
       "asn_name": "Peng Wang"
     },
@@ -1909,6 +1913,10 @@
     {
       "asn_number": 205152,
       "asn_name": "Han Dai"
+    },
+    {
+      "asn_number": 205027,
+      "asn_name": "Fengnayun Data Co., Ltd."
     },
     {
       "asn_number": 203236,
@@ -3249,6 +3257,10 @@
     {
       "asn_number": 197626,
       "asn_name": "XU ZIYAO"
+    },
+    {
+      "asn_number": 197433,
+      "asn_name": "XuanMing Liu"
     },
     {
       "asn_number": 154185,
