@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-18 03:35:36",
+    "last_updated_utc": "2026-03-19 03:35:43",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5232
   },
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -79,12 +79,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 17621,
@@ -183,12 +183,12 @@
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
-      "asn_number": 58466,
-      "asn_name": "CHINANET Guangdong province network"
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+    },
+    {
+      "asn_number": 58466,
+      "asn_name": "CHINANET Guangdong province network"
     },
     {
       "asn_number": 38365,
@@ -219,12 +219,12 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
-      "asn_number": 56041,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 56041,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 9814,
@@ -335,6 +335,10 @@
       "asn_name": "Changgong Zhang"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -399,16 +403,8 @@
       "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 209294,
       "asn_name": "Fan Zhang"
-    },
-    {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 141425,
@@ -421,10 +417,6 @@
     {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
-    },
-    {
-      "asn_number": 137801,
-      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
       "asn_number": 137758,
@@ -539,6 +531,10 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
+    },
+    {
       "asn_number": 18239,
       "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
     },
@@ -581,6 +577,10 @@
     {
       "asn_number": 138421,
       "asn_name": "China Unicom"
+    },
+    {
+      "asn_number": 137801,
+      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
       "asn_number": 137702,
@@ -681,10 +681,6 @@
     {
       "asn_number": 45071,
       "asn_name": "No.8 Xing Guang 5th Street, Opto-Mechatronics Industrial Park"
-    },
-    {
-      "asn_number": 38378,
-      "asn_name": "Bosch (China) Investment Ltd."
     },
     {
       "asn_number": 38057,
@@ -1039,8 +1035,8 @@
       "asn_name": "China South Locomotive And Rolling Stock Industry Company"
     },
     {
-      "asn_number": 38379,
-      "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
+      "asn_number": 38378,
+      "asn_name": "Bosch (China) Investment Ltd."
     },
     {
       "asn_number": 37942,
@@ -1085,10 +1081,6 @@
     {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
-    },
-    {
-      "asn_number": 205651,
-      "asn_name": "Hao Qiao"
     },
     {
       "asn_number": 199392,
@@ -1707,6 +1699,10 @@
       "asn_name": "CHINA TIETONG SHANGHAI"
     },
     {
+      "asn_number": 38379,
+      "asn_name": "No.9 Building, No.619 Longchang Road,Shanghai,China"
+    },
+    {
       "asn_number": 38372,
       "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
     },
@@ -1907,6 +1903,10 @@
       "asn_name": "Wende Tan"
     },
     {
+      "asn_number": 205651,
+      "asn_name": "Hao Qiao"
+    },
+    {
       "asn_number": 205610,
       "asn_name": "Huanjie Zhu"
     },
@@ -1985,10 +1985,6 @@
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151823,
@@ -3381,6 +3377,10 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Moesys Computer System Co Ltd"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
