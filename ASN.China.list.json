@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-19 03:35:43",
+    "last_updated_utc": "2026-03-20 03:25:56",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5232
+    "entry_count": 5233
   },
   "asns": [
     {
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -87,12 +87,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 17621,
-      "asn_name": "China Unicom Shanghai network"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 17621,
+      "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 56040,
@@ -227,6 +227,10 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -333,10 +337,6 @@
     {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 153726,
@@ -681,6 +681,10 @@
     {
       "asn_number": 45071,
       "asn_name": "No.8 Xing Guang 5th Street, Opto-Mechatronics Industrial Park"
+    },
+    {
+      "asn_number": 38378,
+      "asn_name": "Bosch (China) Investment Ltd."
     },
     {
       "asn_number": 38057,
@@ -1035,10 +1039,6 @@
       "asn_name": "China South Locomotive And Rolling Stock Industry Company"
     },
     {
-      "asn_number": 38378,
-      "asn_name": "Bosch (China) Investment Ltd."
-    },
-    {
       "asn_number": 37942,
       "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
     },
@@ -1077,10 +1077,6 @@
     {
       "asn_number": 210041,
       "asn_name": "Licheng MAO"
-    },
-    {
-      "asn_number": 209574,
-      "asn_name": "Xiao Tan"
     },
     {
       "asn_number": 199392,
@@ -1899,6 +1895,10 @@
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
+      "asn_number": 209574,
+      "asn_name": "Xiao Tan"
+    },
+    {
       "asn_number": 209300,
       "asn_name": "Wende Tan"
     },
@@ -1921,10 +1921,6 @@
     {
       "asn_number": 203236,
       "asn_name": "Mingyang Shen"
-    },
-    {
-      "asn_number": 201765,
-      "asn_name": "JunYi Li"
     },
     {
       "asn_number": 199406,
@@ -2815,6 +2811,10 @@
       "asn_name": "YANG FANG"
     },
     {
+      "asn_number": 216373,
+      "asn_name": "Xin Xu"
+    },
+    {
       "asn_number": 216299,
       "asn_name": "Yang Liuchang"
     },
@@ -3129,6 +3129,10 @@
     {
       "asn_number": 204518,
       "asn_name": "Shiyu Zhou"
+    },
+    {
+      "asn_number": 204244,
+      "asn_name": "Xuanchen Xiang"
     },
     {
       "asn_number": 204211,
