@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-20 03:25:56",
+    "last_updated_utc": "2026-03-21 03:15:26",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5233
+    "entry_count": 5234
   },
   "asns": [
     {
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -115,20 +115,20 @@
       "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
+      "asn_number": 137753,
+      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 137753,
-      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 63631,
@@ -159,14 +159,6 @@
       "asn_name": "Yifu Yu"
     },
     {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
-    },
-    {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
     },
@@ -175,16 +167,24 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
+    },
+    {
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 59045,
-      "asn_name": "Guangzhou navigation information technology co., LTD"
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+    },
+    {
+      "asn_number": 59045,
+      "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 58466,
@@ -323,10 +323,6 @@
       "asn_name": "263 Shanghai Communications Ltd."
     },
     {
-      "asn_number": 24133,
-      "asn_name": "21vianet(China) Inc."
-    },
-    {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
@@ -401,6 +397,10 @@
     {
       "asn_number": 38019,
       "asn_name": "tianjin Mobile Communication Company Limited"
+    },
+    {
+      "asn_number": 24133,
+      "asn_name": "21vianet(China) Inc."
     },
     {
       "asn_number": 209294,
@@ -1113,10 +1113,6 @@
     {
       "asn_number": 152186,
       "asn_name": "Mintel Holding Limited"
-    },
-    {
-      "asn_number": 151464,
-      "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
     },
     {
       "asn_number": 151302,
@@ -1987,6 +1983,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 151464,
+      "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 151313,
       "asn_name": "Pacific Insurance Technology Co., Ltd"
     },
@@ -2029,6 +2029,10 @@
     {
       "asn_number": 151251,
       "asn_name": "Chengdu Qianzhiyunfu Technology Co., Ltd."
+    },
+    {
+      "asn_number": 151247,
+      "asn_name": "HSBC Software Development (Guangdong) Limited Shanghai Branch"
     },
     {
       "asn_number": 151232,
