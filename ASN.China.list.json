@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-21 03:15:26",
+    "last_updated_utc": "2026-03-22 03:35:00",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5234
+    "entry_count": 5231
   },
   "asns": [
     {
@@ -87,12 +87,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 56040,
@@ -227,10 +227,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -247,8 +243,8 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 17623,
-      "asn_name": "China Unicom Shenzen network"
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 139138,
@@ -277,6 +273,10 @@
     {
       "asn_number": 23911,
       "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
+      "asn_number": 17623,
+      "asn_name": "China Unicom Shenzen network"
     },
     {
       "asn_number": 17622,
@@ -325,10 +325,6 @@
     {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 212237,
@@ -401,6 +397,10 @@
     {
       "asn_number": 24133,
       "asn_name": "21vianet(China) Inc."
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 209294,
@@ -553,10 +553,6 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152711,
@@ -765,6 +761,10 @@
     {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 148981,
@@ -2011,10 +2011,6 @@
       "asn_name": "APNIC ASN block"
     },
     {
-      "asn_number": 151277,
-      "asn_name": "China Broadcast Network International Co.,Ltd"
-    },
-    {
       "asn_number": 151263,
       "asn_name": "Juzhi technology co., ltd"
     },
@@ -2069,10 +2065,6 @@
     {
       "asn_number": 149178,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 148982,
-      "asn_name": "Bijie Qiulin Information Technology"
     },
     {
       "asn_number": 148969,
@@ -3261,10 +3253,6 @@
     {
       "asn_number": 197626,
       "asn_name": "XU ZIYAO"
-    },
-    {
-      "asn_number": 197433,
-      "asn_name": "XuanMing Liu"
     },
     {
       "asn_number": 154185,
