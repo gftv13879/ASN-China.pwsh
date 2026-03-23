@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-22 03:35:00",
+    "last_updated_utc": "2026-03-23 03:39:25",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5231
+    "entry_count": 5232
   },
   "asns": [
     {
@@ -1115,6 +1115,10 @@
       "asn_name": "Mintel Holding Limited"
     },
     {
+      "asn_number": 151313,
+      "asn_name": "Pacific Insurance Technology Co., Ltd"
+    },
+    {
       "asn_number": 151302,
       "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
@@ -1987,10 +1991,6 @@
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
     },
     {
-      "asn_number": 151313,
-      "asn_name": "Pacific Insurance Technology Co., Ltd"
-    },
-    {
       "asn_number": 151311,
       "asn_name": "Shenzhen Humeng Technology Co., Ltd"
     },
@@ -2061,6 +2061,10 @@
     {
       "asn_number": 149511,
       "asn_name": "Yamu Technologies Co., Ltd."
+    },
+    {
+      "asn_number": 149475,
+      "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
     },
     {
       "asn_number": 149178,
