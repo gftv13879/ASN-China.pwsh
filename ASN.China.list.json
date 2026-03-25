@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-24 03:30:29",
+    "last_updated_utc": "2026-03-25 03:33:35",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5232
+    "entry_count": 5233
   },
   "asns": [
     {
@@ -43,10 +43,6 @@
       "asn_name": "Liu HaoRan"
     },
     {
-      "asn_number": 209650,
-      "asn_name": "Wu Zhiyuan"
-    },
-    {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
     },
@@ -81,6 +77,10 @@
     {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 209650,
+      "asn_name": "Wu Zhiyuan"
     },
     {
       "asn_number": 133865,
@@ -225,6 +225,10 @@
     {
       "asn_number": 56041,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 9814,
@@ -525,10 +529,6 @@
     {
       "asn_number": 23771,
       "asn_name": "SXBCTV ,Internet Service Provider,"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 201674,
@@ -2011,6 +2011,10 @@
       "asn_name": "APNIC ASN block"
     },
     {
+      "asn_number": 151277,
+      "asn_name": "China Broadcast Network International Co.,Ltd"
+    },
+    {
       "asn_number": 151263,
       "asn_name": "Juzhi technology co., ltd"
     },
@@ -2071,6 +2075,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 148982,
+      "asn_name": "Bijie Qiulin Information Technology"
+    },
+    {
       "asn_number": 148969,
       "asn_name": "China Telecom"
     },
@@ -2125,10 +2133,6 @@
     {
       "asn_number": 146746,
       "asn_name": "TaiKang Insurance Group CO.,LTD.,Wuhan Operating Center"
-    },
-    {
-      "asn_number": 142611,
-      "asn_name": "Shanghai Tujuan Information Technology Co., Ltd."
     },
     {
       "asn_number": 142608,
