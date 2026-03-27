@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-26 03:43:28",
+    "last_updated_utc": "2026-03-27 03:45:45",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5233
+    "entry_count": 5234
   },
   "asns": [
     {
@@ -75,24 +75,24 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 209650,
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 17621,
-      "asn_name": "China Unicom Shanghai network"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
+    },
+    {
+      "asn_number": 17621,
+      "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 56040,
@@ -219,12 +219,12 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
-      "asn_number": 23848,
-      "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
-    },
-    {
       "asn_number": 56041,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 23848,
+      "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
       "asn_number": 210352,
@@ -915,6 +915,10 @@
       "asn_name": "APNIC ASN block"
     },
     {
+      "asn_number": 63567,
+      "asn_name": "Suqian Pugongying Network Service Co.,Ltd"
+    },
+    {
       "asn_number": 63548,
       "asn_name": "LENOVO (BEIJING) Co.ltd"
     },
@@ -1511,10 +1515,6 @@
       "asn_name": "Shenzhen cyberlink Century Investment Co., Ltd."
     },
     {
-      "asn_number": 63567,
-      "asn_name": "Suqian Pugongying Network Service Co.,Ltd"
-    },
-    {
       "asn_number": 63555,
       "asn_name": "Beijing Beilong Yunhai Network Data Technology Corporation"
     },
@@ -1865,10 +1865,6 @@
     {
       "asn_number": 214439,
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
-    },
-    {
-      "asn_number": 213625,
-      "asn_name": "Xuluo Chen"
     },
     {
       "asn_number": 213404,
@@ -2945,6 +2941,10 @@
     {
       "asn_number": 213700,
       "asn_name": "Yuhan Wang"
+    },
+    {
+      "asn_number": 213625,
+      "asn_name": "Xuluo Chen"
     },
     {
       "asn_number": 213545,
@@ -20897,6 +20897,10 @@
     {
       "asn_number": 136535,
       "asn_name": "Yang Mengqi"
+    },
+    {
+      "asn_number": 135674,
+      "asn_name": "Kano Network"
     },
     {
       "asn_number": 135646,
