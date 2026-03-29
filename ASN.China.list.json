@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-03-28 03:31:27",
+    "last_updated_utc": "2026-03-29 03:51:15",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5234
   },
@@ -59,12 +59,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -223,10 +223,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -245,6 +241,10 @@
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 139138,
@@ -315,12 +315,12 @@
       "asn_name": "China Telecom HangZhou IDC"
     },
     {
-      "asn_number": 56012,
-      "asn_name": "LGNET China"
-    },
-    {
       "asn_number": 45079,
       "asn_name": "GDS CHANGAN SERVICES Ltd."
+    },
+    {
+      "asn_number": 38345,
+      "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
     {
       "asn_number": 24413,
@@ -337,6 +337,10 @@
     {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 153726,
@@ -383,6 +387,10 @@
       "asn_name": "China Telecom Yueyang"
     },
     {
+      "asn_number": 56012,
+      "asn_name": "LGNET China"
+    },
+    {
       "asn_number": 45110,
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
@@ -391,20 +399,8 @@
       "asn_name": "CoreLink Network"
     },
     {
-      "asn_number": 38345,
-      "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
-    },
-    {
       "asn_number": 38019,
       "asn_name": "tianjin Mobile Communication Company Limited"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 141425,
@@ -535,6 +531,10 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 201674,
       "asn_name": "Wen ZhangYu"
     },
@@ -557,6 +557,10 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152711,
@@ -761,10 +765,6 @@
     {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 148981,
@@ -1859,6 +1859,10 @@
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
+      "asn_number": 213625,
+      "asn_name": "Xuluo Chen"
+    },
+    {
       "asn_number": 213404,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
@@ -2941,10 +2945,6 @@
     {
       "asn_number": 213700,
       "asn_name": "Yuhan Wang"
-    },
-    {
-      "asn_number": 213625,
-      "asn_name": "Xuluo Chen"
     },
     {
       "asn_number": 213545,
