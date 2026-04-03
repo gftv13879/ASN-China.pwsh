@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-02 03:39:33",
+    "last_updated_utc": "2026-04-03 03:41:01",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5234
+    "entry_count": 5235
   },
   "asns": [
     {
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -87,12 +87,12 @@
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 142111,
-      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 142111,
+      "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
       "asn_number": 56040,
@@ -103,12 +103,12 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 9929,
@@ -119,12 +119,12 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 4842,
@@ -779,10 +779,6 @@
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
-      "asn_number": 152186,
-      "asn_name": "Mintel Holding Limited"
-    },
-    {
       "asn_number": 148981,
       "asn_name": "China Telecom"
     },
@@ -1119,10 +1115,6 @@
       "asn_name": "asn for Liaoning Provincial Net of CT"
     },
     {
-      "asn_number": 17789,
-      "asn_name": "CNCGROUP IP network of ShangHai IDC"
-    },
-    {
       "asn_number": 17739,
       "asn_name": "Shanghai Telecom Haplink Network Co., Ltd"
     },
@@ -1137,6 +1129,10 @@
     {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
+    },
+    {
+      "asn_number": 152186,
+      "asn_name": "Mintel Holding Limited"
     },
     {
       "asn_number": 151313,
@@ -1967,6 +1963,10 @@
       "asn_name": "asn for Heilongjiang Provincial Net of CT"
     },
     {
+      "asn_number": 17789,
+      "asn_name": "CNCGROUP IP network of ShangHai IDC"
+    },
+    {
       "asn_number": 17776,
       "asn_name": "China Enterprise ICT Solutions Limited"
     },
@@ -2189,6 +2189,10 @@
     {
       "asn_number": 140886,
       "asn_name": "UNICOM Guangxi province network"
+    },
+    {
+      "asn_number": 140873,
+      "asn_name": "CANSHU XINXI JISHU(FS)CO., LTD"
     },
     {
       "asn_number": 140717,
