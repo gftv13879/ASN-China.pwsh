@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-03 03:41:01",
+    "last_updated_utc": "2026-04-04 03:28:36",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5235
+    "entry_count": 5234
   },
   "asns": [
     {
@@ -35,12 +35,12 @@
       "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
-    },
-    {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 209650,
@@ -59,12 +59,12 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 9808,
-      "asn_name": "China Mobile Communications Group Co., Ltd."
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 9808,
+      "asn_name": "China Mobile Communications Group Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -79,32 +79,32 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
-      "asn_number": 17621,
-      "asn_name": "China Unicom Shanghai network"
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
+      "asn_number": 17621,
+      "asn_name": "China Unicom Shanghai network"
+    },
+    {
       "asn_number": 56040,
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 202782,
@@ -119,12 +119,12 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 4842,
@@ -215,16 +215,16 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
-    },
-    {
       "asn_number": 56041,
       "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
+    },
+    {
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 24406,
@@ -279,10 +279,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
     },
@@ -335,6 +331,10 @@
       "asn_name": "263 Shanghai Communications Ltd."
     },
     {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
@@ -353,10 +353,6 @@
     {
       "asn_number": 138538,
       "asn_name": "VPSOR-GLOBAL"
-    },
-    {
-      "asn_number": 137801,
-      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
       "asn_number": 137735,
@@ -411,10 +407,6 @@
       "asn_name": "21vianet(China) Inc."
     },
     {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
-    },
-    {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
     },
@@ -425,6 +417,10 @@
     {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
+    },
+    {
+      "asn_number": 137801,
+      "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
       "asn_number": 137758,
@@ -539,6 +535,10 @@
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
+    },
+    {
       "asn_number": 18239,
       "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
     },
@@ -549,10 +549,6 @@
     {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
-    },
-    {
-      "asn_number": 17781,
-      "asn_name": "XINHUA NEWS AGENCY"
     },
     {
       "asn_number": 17775,
@@ -687,10 +683,6 @@
       "asn_name": "No.8 Xing Guang 5th Street, Opto-Mechatronics Industrial Park"
     },
     {
-      "asn_number": 38378,
-      "asn_name": "Bosch (China) Investment Ltd."
-    },
-    {
       "asn_number": 38057,
       "asn_name": "Dell (China) Co.,Ltd"
     },
@@ -771,6 +763,10 @@
       "asn_name": "China Unicom IP network China169 Guangdong province"
     },
     {
+      "asn_number": 17781,
+      "asn_name": "XINHUA NEWS AGENCY"
+    },
+    {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
     },
@@ -781,6 +777,10 @@
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 146842,
+      "asn_name": "ChinaDataCom Corporation Limited"
     },
     {
       "asn_number": 146782,
@@ -1059,6 +1059,10 @@
       "asn_name": "China South Locomotive And Rolling Stock Industry Company"
     },
     {
+      "asn_number": 38378,
+      "asn_name": "Bosch (China) Investment Ltd."
+    },
+    {
       "asn_number": 37942,
       "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
     },
@@ -1165,10 +1169,6 @@
     {
       "asn_number": 149304,
       "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
-    },
-    {
-      "asn_number": 146842,
-      "asn_name": "ChinaDataCom Corporation Limited"
     },
     {
       "asn_number": 146841,
@@ -1769,10 +1769,6 @@
     {
       "asn_number": 37936,
       "asn_name": "15F,Ideal Plaza No.58 Bei Si Huan Xi Road"
-    },
-    {
-      "asn_number": 3460,
-      "asn_name": "Institute of High Energy Physics"
     },
     {
       "asn_number": 24445,
