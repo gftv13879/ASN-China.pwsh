@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-06 03:54:06",
+    "last_updated_utc": "2026-04-07 03:44:58",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5233
   },
@@ -51,12 +51,12 @@
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 139799,
@@ -71,12 +71,12 @@
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 4812,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
+    },
+    {
+      "asn_number": 4812,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 24400,
@@ -119,12 +119,12 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 4842,
@@ -135,12 +135,12 @@
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 55990,
@@ -883,10 +883,6 @@
       "asn_name": "RongHua Road No.11, Beijing Economy Technology Development Area, 100176"
     },
     {
-      "asn_number": 7653,
-      "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
-    },
-    {
       "asn_number": 7609,
       "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
     },
@@ -1453,6 +1449,10 @@
     {
       "asn_number": 9401,
       "asn_name": "National Library of China"
+    },
+    {
+      "asn_number": 7653,
+      "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
     },
     {
       "asn_number": 7640,
