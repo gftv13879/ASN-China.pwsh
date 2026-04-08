@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-07 03:44:58",
+    "last_updated_utc": "2026-04-08 03:47:14",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5233
   },
@@ -79,12 +79,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 142111,
@@ -131,12 +131,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 37963,
@@ -745,10 +745,6 @@
     {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
-    },
-    {
-      "asn_number": 207091,
-      "asn_name": "Wang Junhao"
     },
     {
       "asn_number": 18241,
@@ -1917,6 +1913,10 @@
     {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
+    },
+    {
+      "asn_number": 207091,
+      "asn_name": "Wang Junhao"
     },
     {
       "asn_number": 205651,
