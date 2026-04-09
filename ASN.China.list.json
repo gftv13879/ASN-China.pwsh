@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-08 03:47:14",
+    "last_updated_utc": "2026-04-09 03:43:09",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5233
+    "entry_count": 5232
   },
   "asns": [
     {
@@ -35,12 +35,12 @@
       "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
-    },
-    {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 209650,
@@ -111,12 +111,12 @@
       "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
-      "asn_number": 9929,
-      "asn_name": "China Netcom Backbone"
-    },
-    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
+    },
+    {
+      "asn_number": 9929,
+      "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 134578,
@@ -155,12 +155,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 24490,
@@ -303,10 +303,6 @@
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
     },
     {
-      "asn_number": 133219,
-      "asn_name": "NewMedia Express Pte Ltd"
-    },
-    {
       "asn_number": 58850,
       "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
@@ -321,10 +317,6 @@
     {
       "asn_number": 58461,
       "asn_name": "China Telecom HangZhou IDC"
-    },
-    {
-      "asn_number": 45079,
-      "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
     {
       "asn_number": 42962,
@@ -363,6 +355,10 @@
       "asn_name": "Shuangyu Communication Technology co.,Ltd."
     },
     {
+      "asn_number": 133219,
+      "asn_name": "NewMedia Express Pte Ltd"
+    },
+    {
       "asn_number": 131486,
       "asn_name": "Beijing Jingdong 360 Degree E-commerce Co., Ltd."
     },
@@ -399,16 +395,16 @@
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
     },
     {
+      "asn_number": 45079,
+      "asn_name": "GDS CHANGAN SERVICES Ltd."
+    },
+    {
       "asn_number": 38019,
       "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
       "asn_number": 24133,
       "asn_name": "21vianet(China) Inc."
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 153376,
@@ -537,6 +533,10 @@
     {
       "asn_number": 23771,
       "asn_name": "SXBCTV ,Internet Service Provider,"
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 201674,
@@ -987,10 +987,6 @@
       "asn_name": "BEIJING MARINE COMMUNICATION AND NAVIGATION CO."
     },
     {
-      "asn_number": 56000,
-      "asn_name": "HERBALIFE(SHANGHAI)MANAGEMENT CO.,LTD."
-    },
-    {
       "asn_number": 55994,
       "asn_name": "Shanghai ruisu Network Technology Co.,Ltd"
     },
@@ -1335,10 +1331,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 135040,
-      "asn_name": "Dongguan Xingxiu Technology Co., Ltd."
-    },
-    {
       "asn_number": 134810,
       "asn_name": "China Mobile Group JiLin communications corporation"
     },
@@ -1657,6 +1649,10 @@
     {
       "asn_number": 56003,
       "asn_name": "Beijing Century Union Network Technology Co.,LTD."
+    },
+    {
+      "asn_number": 56000,
+      "asn_name": "HERBALIFE(SHANGHAI)MANAGEMENT CO.,LTD."
     },
     {
       "asn_number": 55973,
@@ -2389,6 +2385,10 @@
     {
       "asn_number": 138378,
       "asn_name": "CERNET2 regional IX at Yunnan University"
+    },
+    {
+      "asn_number": 138374,
+      "asn_name": "CERNET2 regional IX at Taiyuan University"
     },
     {
       "asn_number": 138369,
@@ -20829,10 +20829,6 @@
     {
       "asn_number": 138375,
       "asn_name": "CERNET2 regional IX at Inner Mongolia University"
-    },
-    {
-      "asn_number": 138374,
-      "asn_name": "CERNET2 regional IX at Taiyuan University"
     },
     {
       "asn_number": 138373,
