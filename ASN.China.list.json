@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-11 03:32:25",
+    "last_updated_utc": "2026-04-12 03:58:33",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5266
+    "entry_count": 5265
   },
   "asns": [
     {
@@ -31,6 +31,10 @@
       "asn_name": "China Unicom Backbone"
     },
     {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
       "asn_number": 4809,
       "asn_name": "China Telecom Next Generation Carrier Network"
     },
@@ -45,10 +49,6 @@
     {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
-    },
-    {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 4847,
@@ -219,10 +219,6 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 9814,
       "asn_name": "Beijing FibrLINK Networks Co.,Ltd."
     },
@@ -237,6 +233,10 @@
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 139138,
@@ -643,10 +643,6 @@
       "asn_name": "Jishi Media Co ., Ltd."
     },
     {
-      "asn_number": 63581,
-      "asn_name": "GUANGXI RADIO & TELEVISION INFORMATION NETWORK CO.,LTD."
-    },
-    {
       "asn_number": 63580,
       "asn_name": "China Novartis Institutes for Bio-Medical Research Co., Ltd."
     },
@@ -883,6 +879,10 @@
       "asn_name": "RongHua Road No.11, Beijing Economy Technology Development Area, 100176"
     },
     {
+      "asn_number": 7653,
+      "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
+    },
+    {
       "asn_number": 7609,
       "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
     },
@@ -917,6 +917,10 @@
     {
       "asn_number": 63593,
       "asn_name": "HeyTap PTE.LTD."
+    },
+    {
+      "asn_number": 63581,
+      "asn_name": "GUANGXI RADIO & TELEVISION INFORMATION NETWORK CO.,LTD."
     },
     {
       "asn_number": 63570,
@@ -1441,10 +1445,6 @@
     {
       "asn_number": 9401,
       "asn_name": "National Library of China"
-    },
-    {
-      "asn_number": 7653,
-      "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
     },
     {
       "asn_number": 7640,
@@ -2121,10 +2121,6 @@
     {
       "asn_number": 146802,
       "asn_name": "China Broadcasting Network Yunnan Co.,Ltd"
-    },
-    {
-      "asn_number": 146792,
-      "asn_name": "Shanghai Shenfu Information Technology Co., Ltd"
     },
     {
       "asn_number": 146772,
@@ -2896,7 +2892,7 @@
     },
     {
       "asn_number": 214911,
-      "asn_name": "Li Hang"
+      "asn_name": ""
     },
     {
       "asn_number": 214871,
