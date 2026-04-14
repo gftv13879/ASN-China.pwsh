@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-13 04:15:51",
+    "last_updated_utc": "2026-04-14 03:57:18",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5265
   },
@@ -127,12 +127,12 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 213605,
@@ -611,10 +611,6 @@
       "asn_name": "CHINANET Nanjing Jishan IDC network"
     },
     {
-      "asn_number": 131578,
-      "asn_name": "Beijing Foreign Studies University"
-    },
-    {
       "asn_number": 131574,
       "asn_name": "Beijing Haiyu Technology Co. Ltd.."
     },
@@ -845,6 +841,10 @@
     {
       "asn_number": 133475,
       "asn_name": "New York University ASN"
+    },
+    {
+      "asn_number": 131578,
+      "asn_name": "Beijing Foreign Studies University"
     },
     {
       "asn_number": 131516,
@@ -1293,6 +1293,10 @@
     {
       "asn_number": 137764,
       "asn_name": "Beijing Youkai Technology Co.Ltd"
+    },
+    {
+      "asn_number": 137759,
+      "asn_name": "MTS SYSTEM (China) Co.,Ltd"
     },
     {
       "asn_number": 137745,
@@ -1809,6 +1813,10 @@
     {
       "asn_number": 24370,
       "asn_name": "CERNET2 IX at Dalian University of Technology"
+    },
+    {
+      "asn_number": 24367,
+      "asn_name": "CERNET2 IX at Zhejiang University"
     },
     {
       "asn_number": 24364,
@@ -2407,10 +2415,6 @@
       "asn_name": "CACloud Services (Shanghai) Co., Ltd."
     },
     {
-      "asn_number": 137759,
-      "asn_name": "MTS SYSTEM (China) Co.,Ltd"
-    },
-    {
       "asn_number": 137755,
       "asn_name": "China Radio and Television Qinghai Network Co. Ltd"
     },
@@ -2761,10 +2765,6 @@
     {
       "asn_number": 24368,
       "asn_name": "CERNET2 IX at Xiamen University"
-    },
-    {
-      "asn_number": 24367,
-      "asn_name": "CERNET2 IX at Zhejiang University"
     },
     {
       "asn_number": 24366,
@@ -3160,7 +3160,7 @@
     },
     {
       "asn_number": 205008,
-      "asn_name": "HUANG JUNQI"
+      "asn_name": "Junqi Huang"
     },
     {
       "asn_number": 204856,
