@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-14 03:57:18",
+    "last_updated_utc": "2026-04-15 03:56:20",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5265
   },
@@ -127,12 +127,12 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 213605,
@@ -163,16 +163,16 @@
       "asn_name": "China Telecom (Group)"
     },
     {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 56046,
@@ -239,6 +239,10 @@
       "asn_name": "Yijia Xu"
     },
     {
+      "asn_number": 153726,
+      "asn_name": "Shanghai Huiduan Technology Co., LTD."
+    },
+    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -281,10 +285,6 @@
     {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
-    },
-    {
-      "asn_number": 153726,
-      "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
     {
       "asn_number": 136958,
@@ -551,10 +551,6 @@
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
     {
-      "asn_number": 17781,
-      "asn_name": "XINHUA NEWS AGENCY"
-    },
-    {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
     },
@@ -765,6 +761,10 @@
     {
       "asn_number": 17816,
       "asn_name": "China Unicom IP network China169 Guangdong province"
+    },
+    {
+      "asn_number": 17781,
+      "asn_name": "XINHUA NEWS AGENCY"
     },
     {
       "asn_number": 17638,
@@ -1293,10 +1293,6 @@
     {
       "asn_number": 137764,
       "asn_name": "Beijing Youkai Technology Co.Ltd"
-    },
-    {
-      "asn_number": 137759,
-      "asn_name": "MTS SYSTEM (China) Co.,Ltd"
     },
     {
       "asn_number": 137745,
@@ -2413,6 +2409,10 @@
     {
       "asn_number": 137784,
       "asn_name": "CACloud Services (Shanghai) Co., Ltd."
+    },
+    {
+      "asn_number": 137759,
+      "asn_name": "MTS SYSTEM (China) Co.,Ltd"
     },
     {
       "asn_number": 137755,
