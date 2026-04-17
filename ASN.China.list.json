@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-16 04:10:55",
+    "last_updated_utc": "2026-04-17 03:59:24",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5265
+    "entry_count": 5264
   },
   "asns": [
     {
@@ -15,24 +15,24 @@
       "asn_name": "Tencent Building, Kejizhongyi Avenue"
     },
     {
-      "asn_number": 45102,
-      "asn_name": "Alibaba (US) Technology Co., Ltd."
-    },
-    {
       "asn_number": 4134,
       "asn_name": "China Telecom Backbone"
+    },
+    {
+      "asn_number": 45102,
+      "asn_name": "Alibaba (US) Technology Co., Ltd."
     },
     {
       "asn_number": 55967,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
-      "asn_number": 4837,
-      "asn_name": "China Unicom Backbone"
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 4837,
+      "asn_name": "China Unicom Backbone"
     },
     {
       "asn_number": 4809,
@@ -67,16 +67,16 @@
       "asn_name": "China Education and Research Network Center"
     },
     {
+      "asn_number": 4812,
+      "asn_name": "China Telecom (Group)"
+    },
+    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 56048,
       "asn_name": "China Mobile Communicaitons Corporation"
-    },
-    {
-      "asn_number": 4812,
-      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 24400,
@@ -451,10 +451,6 @@
       "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
-      "asn_number": 59029,
-      "asn_name": "People.Cn CO.,LTD"
-    },
-    {
       "asn_number": 59012,
       "asn_name": "China Grain Reserves Group LTD.Company"
     },
@@ -641,6 +637,10 @@
     {
       "asn_number": 59074,
       "asn_name": "TAIKANG INSURANCE GROUP CO.,LTD."
+    },
+    {
+      "asn_number": 59029,
+      "asn_name": "People.Cn CO.,LTD"
     },
     {
       "asn_number": 59009,
@@ -1133,10 +1133,6 @@
     {
       "asn_number": 152186,
       "asn_name": "Mintel Holding Limited"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151313,
@@ -2001,6 +1997,10 @@
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151823,
@@ -3011,10 +3011,6 @@
       "asn_name": "Chenran MU"
     },
     {
-      "asn_number": 211721,
-      "asn_name": "HUANG YUCHAO"
-    },
-    {
       "asn_number": 211575,
       "asn_name": "Rui Feng"
     },
@@ -3129,6 +3125,10 @@
     {
       "asn_number": 206729,
       "asn_name": "Vincent Yang"
+    },
+    {
+      "asn_number": 206574,
+      "asn_name": "RIPE NCC ASN block"
     },
     {
       "asn_number": 206315,
@@ -3635,10 +3635,6 @@
       "asn_name": "XI'AN UOTOCOM NETWORK TECHNOLOGY CO.,LTD"
     },
     {
-      "asn_number": 151270,
-      "asn_name": "Sichuan Xiaoteyun Technology Co., Ltd"
-    },
-    {
       "asn_number": 151230,
       "asn_name": "Guangdong Tongri Network Technology Co., Ltd."
     },
@@ -3680,7 +3676,7 @@
     },
     {
       "asn_number": 149163,
-      "asn_name": "APNIC ASN block"
+      "asn_name": "SKILLMASTERS AND INNOVATIONS PRIVATE LIMITED"
     },
     {
       "asn_number": 146816,
