@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-18 03:44:08",
+    "last_updated_utc": "2026-04-19 04:10:46",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5228
   },
@@ -15,12 +15,12 @@
       "asn_name": "Tencent Building, Kejizhongyi Avenue"
     },
     {
-      "asn_number": 4134,
-      "asn_name": "China Telecom Backbone"
-    },
-    {
       "asn_number": 45102,
       "asn_name": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4134,
+      "asn_name": "China Telecom Backbone"
     },
     {
       "asn_number": 55967,
@@ -45,6 +45,10 @@
     {
       "asn_number": 209650,
       "asn_name": "Wu Zhiyuan"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 4808,
@@ -91,12 +95,12 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
-      "asn_number": 56040,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 56040,
+      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 146788,
@@ -131,16 +135,12 @@
       "asn_name": "BILIBILI HK LIMITED"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 55990,
@@ -235,8 +235,8 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 23848,
-      "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 153726,
@@ -269,6 +269,10 @@
     {
       "asn_number": 23911,
       "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
+      "asn_number": 23848,
+      "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
       "asn_number": 212237,
@@ -329,10 +333,6 @@
     {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 17622,
@@ -523,6 +523,10 @@
       "asn_name": "Beijing Guanghuan Xinwang Digital"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 18239,
       "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
     },
@@ -541,6 +545,10 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152711,
@@ -725,10 +733,6 @@
     {
       "asn_number": 214899,
       "asn_name": "Ye Liliang"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 211843,
@@ -1127,20 +1131,12 @@
       "asn_name": "DuoTu Cloud"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 152920,
       "asn_name": "Zhao Chenglin"
     },
     {
       "asn_number": 152186,
       "asn_name": "Mintel Holding Limited"
-    },
-    {
-      "asn_number": 151313,
-      "asn_name": "Pacific Insurance Technology Co., Ltd"
     },
     {
       "asn_number": 151261,
@@ -2009,6 +2005,10 @@
     {
       "asn_number": 151464,
       "asn_name": "Shanghai Luogu Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 151313,
+      "asn_name": "Pacific Insurance Technology Co., Ltd"
     },
     {
       "asn_number": 151311,
