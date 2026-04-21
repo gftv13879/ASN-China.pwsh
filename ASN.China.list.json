@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-20 04:15:46",
+    "last_updated_utc": "2026-04-21 04:08:14",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5228
   },
@@ -15,12 +15,12 @@
       "asn_name": "Tencent Building, Kejizhongyi Avenue"
     },
     {
-      "asn_number": 45102,
-      "asn_name": "Alibaba (US) Technology Co., Ltd."
-    },
-    {
       "asn_number": 4134,
       "asn_name": "China Telecom Backbone"
+    },
+    {
+      "asn_number": 45102,
+      "asn_name": "Alibaba (US) Technology Co., Ltd."
     },
     {
       "asn_number": 55967,
@@ -43,12 +43,12 @@
       "asn_name": "Zeofast Network"
     },
     {
-      "asn_number": 209650,
-      "asn_name": "Wu Zhiyuan"
-    },
-    {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 209650,
+      "asn_name": "Wu Zhiyuan"
     },
     {
       "asn_number": 4808,
@@ -135,12 +135,12 @@
       "asn_name": "BILIBILI HK LIMITED"
     },
     {
-      "asn_number": 63631,
-      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 63631,
+      "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
     },
     {
       "asn_number": 55990,
@@ -155,12 +155,12 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
+    },
+    {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 24490,
@@ -335,6 +335,10 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
     },
@@ -401,10 +405,6 @@
     {
       "asn_number": 24133,
       "asn_name": "21vianet(China) Inc."
-    },
-    {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 141425,
@@ -527,6 +527,10 @@
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
+    },
+    {
       "asn_number": 18239,
       "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
     },
@@ -553,6 +557,10 @@
     {
       "asn_number": 151397,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 151302,
+      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
       "asn_number": 139721,
@@ -739,10 +747,6 @@
       "asn_name": "Jin Shaohai"
     },
     {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
-    },
-    {
       "asn_number": 18241,
       "asn_name": "State Power Information Net"
     },
@@ -773,10 +777,6 @@
     {
       "asn_number": 153376,
       "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
-      "asn_number": 151302,
-      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
       "asn_number": 148981,
@@ -1391,6 +1391,10 @@
       "asn_name": "DOORPOST Limited"
     },
     {
+      "asn_number": 133478,
+      "asn_name": "Tencent Cloud Computing (Beijing) Co., Ltd"
+    },
+    {
       "asn_number": 133465,
       "asn_name": "Duke Kunshan University"
     },
@@ -1425,6 +1429,10 @@
     {
       "asn_number": 131506,
       "asn_name": "HEILONGJIANG RADIO & TV NETWORK CO.,LTD"
+    },
+    {
+      "asn_number": 131483,
+      "asn_name": "Jiangsu Dongyun Cloud computing co., LTD"
     },
     {
       "asn_number": 131325,
@@ -2579,10 +2587,6 @@
       "asn_name": "China Telecom Xiamen"
     },
     {
-      "asn_number": 133478,
-      "asn_name": "Tencent Cloud Computing (Beijing) Co., Ltd"
-    },
-    {
       "asn_number": 133194,
       "asn_name": "Connections Hub Technology (Shanghai) Ltd. Company"
     },
@@ -2673,10 +2677,6 @@
     {
       "asn_number": 131490,
       "asn_name": "CERNET Corporation"
-    },
-    {
-      "asn_number": 131483,
-      "asn_name": "Jiangsu Dongyun Cloud computing co., LTD"
     },
     {
       "asn_number": 131482,
