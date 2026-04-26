@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-25 03:48:21",
+    "last_updated_utc": "2026-04-26 04:19:18",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5229
   },
@@ -31,12 +31,12 @@
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 4809,
       "asn_name": "China Telecom Next Generation Carrier Network"
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 10111,
@@ -139,16 +139,16 @@
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
+      "asn_number": 23724,
+      "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
     },
     {
       "asn_number": 45090,
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
-    },
-    {
-      "asn_number": 23724,
-      "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
       "asn_number": 4811,
@@ -303,10 +303,6 @@
       "asn_name": "Yunify Technologies Inc."
     },
     {
-      "asn_number": 58850,
-      "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
-    },
-    {
       "asn_number": 58593,
       "asn_name": "Shanghai Blue Cloud Technology Co.,Ltd"
     },
@@ -377,6 +373,10 @@
     {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 58850,
+      "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
     {
       "asn_number": 58563,
