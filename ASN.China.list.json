@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-29 04:25:13",
+    "last_updated_utc": "2026-04-30 04:28:02",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5230
+    "entry_count": 5233
   },
   "asns": [
     {
@@ -31,12 +31,12 @@
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 10111,
@@ -155,12 +155,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 137718,
@@ -231,6 +231,10 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
+      "asn_number": 23848,
+      "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -269,10 +273,6 @@
     {
       "asn_number": 24444,
       "asn_name": "Shandong Mobile Communication Company Limited"
-    },
-    {
-      "asn_number": 23848,
-      "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
       "asn_number": 212237,
@@ -355,6 +355,10 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
+    },
+    {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
     },
@@ -409,10 +413,6 @@
     {
       "asn_number": 24133,
       "asn_name": "21vianet(China) Inc."
-    },
-    {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 141425,
@@ -763,6 +763,10 @@
       "asn_name": "Jin Shaohai"
     },
     {
+      "asn_number": 204211,
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 17969,
       "asn_name": "ChongQing Broadcast & TV Transfer Network Co. Ltd"
     },
@@ -1111,6 +1115,10 @@
       "asn_name": "Shenzhen Information and Network Center"
     },
     {
+      "asn_number": 213876,
+      "asn_name": "Qiyuan Chen"
+    },
+    {
       "asn_number": 212053,
       "asn_name": "ShiJI Tong"
     },
@@ -1121,10 +1129,6 @@
     {
       "asn_number": 209300,
       "asn_name": "Wende Tan"
-    },
-    {
-      "asn_number": 204211,
-      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
       "asn_number": 199406,
@@ -1152,7 +1156,7 @@
     },
     {
       "asn_number": 154402,
-      "asn_name": "Shenzhen FredCloud Computing Technology Co., Ltd."
+      "asn_name": "Fredyun Network"
     },
     {
       "asn_number": 153911,
@@ -1169,6 +1173,10 @@
     {
       "asn_number": 151313,
       "asn_name": "Pacific Insurance Technology Co., Ltd"
+    },
+    {
+      "asn_number": 151270,
+      "asn_name": "Sichuan Xiaoteyun Technology Co., Ltd"
     },
     {
       "asn_number": 151261,
@@ -1365,6 +1373,10 @@
     {
       "asn_number": 137689,
       "asn_name": "IOT Jiangsu network, Chinatelecom, P.R.China."
+    },
+    {
+      "asn_number": 137539,
+      "asn_name": "China Unicom"
     },
     {
       "asn_number": 136200,
@@ -1943,10 +1955,6 @@
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
-      "asn_number": 213876,
-      "asn_name": "Qiyuan Chen"
-    },
-    {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
     },
@@ -2499,10 +2507,6 @@
       "asn_name": "arebz.com"
     },
     {
-      "asn_number": 137539,
-      "asn_name": "China Unicom"
-    },
-    {
       "asn_number": 137266,
       "asn_name": "CHINATELECOM Hubei province Wuhan 5G network"
     },
@@ -2619,6 +2623,10 @@
       "asn_name": "China Unicom IP network"
     },
     {
+      "asn_number": 133033,
+      "asn_name": "Dragon Network Int'l Co. Ltd"
+    },
+    {
       "asn_number": 132833,
       "asn_name": "China Telecom"
     },
@@ -2725,6 +2733,10 @@
     {
       "asn_number": 55641,
       "asn_name": "Changping District, Beijing"
+    },
+    {
+      "asn_number": 49904,
+      "asn_name": "Xiaodong Qi"
     },
     {
       "asn_number": 49575,
