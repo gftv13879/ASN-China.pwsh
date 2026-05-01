@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-04-30 04:28:02",
+    "last_updated_utc": "2026-05-01 04:43:42",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5233
   },
@@ -31,12 +31,12 @@
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 4809,
       "asn_name": "China Telecom Next Generation Carrier Network"
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 10111,
@@ -147,6 +147,10 @@
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
+    },
+    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
     },
@@ -157,10 +161,6 @@
     {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 137718,
@@ -271,6 +271,10 @@
       "asn_name": "Post Savings Bank of China Tower A, No.3"
     },
     {
+      "asn_number": 42962,
+      "asn_name": "CoreLink Network"
+    },
+    {
       "asn_number": 24444,
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
@@ -331,10 +335,6 @@
       "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
     {
-      "asn_number": 42962,
-      "asn_name": "CoreLink Network"
-    },
-    {
       "asn_number": 38345,
       "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
@@ -365,10 +365,6 @@
     {
       "asn_number": 138538,
       "asn_name": "VPSOR-GLOBAL"
-    },
-    {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137735,
@@ -439,6 +435,10 @@
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
+    },
+    {
       "asn_number": 137746,
       "asn_name": "APNIC ASN block"
     },
@@ -461,10 +461,6 @@
     {
       "asn_number": 9394,
       "asn_name": "China TieTong Telecommunications Corporation"
-    },
-    {
-      "asn_number": 59012,
-      "asn_name": "China Grain Reserves Group LTD.Company"
     },
     {
       "asn_number": 58866,
@@ -533,6 +529,10 @@
     {
       "asn_number": 23844,
       "asn_name": "Beijing Guanghuan Xinwang Digital"
+    },
+    {
+      "asn_number": 214848,
+      "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
     },
     {
       "asn_number": 18241,
@@ -671,6 +671,10 @@
       "asn_name": "People.Cn CO.,LTD"
     },
     {
+      "asn_number": 59012,
+      "asn_name": "China Grain Reserves Group LTD.Company"
+    },
+    {
       "asn_number": 59009,
       "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
@@ -689,6 +693,10 @@
     {
       "asn_number": 55956,
       "asn_name": "Magna Automotive Technology and Service(Shanghai)Co.,Ltd"
+    },
+    {
+      "asn_number": 51928,
+      "asn_name": "SHIZHE XU"
     },
     {
       "asn_number": 4816,
@@ -751,10 +759,6 @@
       "asn_name": "Ye Liliang"
     },
     {
-      "asn_number": 214848,
-      "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
-    },
-    {
       "asn_number": 211843,
       "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
     },
@@ -765,6 +769,10 @@
     {
       "asn_number": 204211,
       "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 199406,
+      "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
     },
     {
       "asn_number": 17969,
@@ -795,6 +803,10 @@
       "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
+      "asn_number": 149511,
+      "asn_name": "Yamu Technologies Co., Ltd."
+    },
+    {
       "asn_number": 148981,
       "asn_name": "China Telecom"
     },
@@ -821,10 +833,6 @@
     {
       "asn_number": 139178,
       "asn_name": "Rural Credit Banks Funds Clearing Center"
-    },
-    {
-      "asn_number": 139141,
-      "asn_name": "Yusys Financial Cloud"
     },
     {
       "asn_number": 138545,
@@ -1031,10 +1039,6 @@
       "asn_name": "Chinese Academy of Social Sciences"
     },
     {
-      "asn_number": 51928,
-      "asn_name": "SHIZHE XU"
-    },
-    {
       "asn_number": 4859,
       "asn_name": "The State Information Center of P.R.China"
     },
@@ -1087,10 +1091,6 @@
       "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
     },
     {
-      "asn_number": 37937,
-      "asn_name": "China eGovNet Information Center"
-    },
-    {
       "asn_number": 24369,
       "asn_name": "CERNET2 IX at Northeast University"
     },
@@ -1115,6 +1115,10 @@
       "asn_name": "Shenzhen Information and Network Center"
     },
     {
+      "asn_number": 216224,
+      "asn_name": "Tianjin Tianzhan Technology Co., Ltd."
+    },
+    {
       "asn_number": 213876,
       "asn_name": "Qiyuan Chen"
     },
@@ -1129,10 +1133,6 @@
     {
       "asn_number": 209300,
       "asn_name": "Wende Tan"
-    },
-    {
-      "asn_number": 199406,
-      "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
     },
     {
       "asn_number": 199392,
@@ -1199,10 +1199,6 @@
       "asn_name": "The New Development Bank"
     },
     {
-      "asn_number": 149511,
-      "asn_name": "Yamu Technologies Co., Ltd."
-    },
-    {
       "asn_number": 149304,
       "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
     },
@@ -1233,6 +1229,10 @@
     {
       "asn_number": 146782,
       "asn_name": "University Of Chinese Academy Of Social Sciences"
+    },
+    {
+      "asn_number": 146771,
+      "asn_name": "CCB Fintech Co., Ltd."
     },
     {
       "asn_number": 146758,
@@ -1301,6 +1301,10 @@
     {
       "asn_number": 139154,
       "asn_name": "Big Data Center Of Shandong Province"
+    },
+    {
+      "asn_number": 139141,
+      "asn_name": "Yusys Financial Cloud"
     },
     {
       "asn_number": 139139,
@@ -1823,6 +1827,10 @@
       "asn_name": "Floor 9,Hua Sheng Building No.1 Lane 519 Ao Men Road,Shanghai"
     },
     {
+      "asn_number": 37937,
+      "asn_name": "China eGovNet Information Center"
+    },
+    {
       "asn_number": 37936,
       "asn_name": "15F,Ideal Plaza No.58 Bei Si Huan Xi Road"
     },
@@ -1939,10 +1947,6 @@
       "asn_name": "CHINANET Gansu province network"
     },
     {
-      "asn_number": 216224,
-      "asn_name": "Tianjin Tianzhan Technology Co., Ltd."
-    },
-    {
       "asn_number": 215786,
       "asn_name": "Peng Wang"
     },
@@ -1957,10 +1961,6 @@
     {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
-    },
-    {
-      "asn_number": 213404,
-      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
       "asn_number": 212371,
@@ -2005,6 +2005,10 @@
     {
       "asn_number": 199310,
       "asn_name": "XIN BING XIAN"
+    },
+    {
+      "asn_number": 198588,
+      "asn_name": "Hangzhou Tungsten Cloud Technology Co., Ltd."
     },
     {
       "asn_number": 18257,
@@ -2185,10 +2189,6 @@
     {
       "asn_number": 146772,
       "asn_name": "Shenzhen Pengcheng communication network Co., Ltd"
-    },
-    {
-      "asn_number": 146771,
-      "asn_name": "CCB Fintech Co., Ltd."
     },
     {
       "asn_number": 146746,
@@ -2847,10 +2847,6 @@
       "asn_name": "Litao Luo"
     },
     {
-      "asn_number": 215832,
-      "asn_name": "Jian Xu"
-    },
-    {
       "asn_number": 215750,
       "asn_name": "DAQIAN HUANG"
     },
@@ -2949,6 +2945,10 @@
     {
       "asn_number": 213545,
       "asn_name": "Wang Lei"
+    },
+    {
+      "asn_number": 213404,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
       "asn_number": 213116,
