@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-01 04:43:42",
+    "last_updated_utc": "2026-05-02 04:14:38",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5233
   },
@@ -31,12 +31,12 @@
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 10111,
@@ -283,10 +283,6 @@
       "asn_name": "Changgong Zhang"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
     },
@@ -353,6 +349,10 @@
     {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 201674,
@@ -1279,6 +1279,10 @@
       "asn_name": "CHINATELECOM Guangdong province Shaoguan 5G network"
     },
     {
+      "asn_number": 139887,
+      "asn_name": "ChinaNet Shandong Yantai IDC network"
+    },
+    {
       "asn_number": 139769,
       "asn_name": "Guangzhou LinSeek Network Technology Co.Ltd"
     },
@@ -1979,6 +1983,10 @@
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
+      "asn_number": 210176,
+      "asn_name": "Haoyi Xiang"
+    },
+    {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
     },
@@ -2061,6 +2069,10 @@
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
+    },
+    {
+      "asn_number": 152092,
+      "asn_name": "Henan Angran Cloud Computing Technology Co. Ltd"
     },
     {
       "asn_number": 151951,
@@ -2325,10 +2337,6 @@
     {
       "asn_number": 140083,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 139887,
-      "asn_name": "ChinaNet Shandong Yantai IDC network"
     },
     {
       "asn_number": 139767,
@@ -2895,10 +2903,6 @@
       "asn_name": "WENTAO FEI"
     },
     {
-      "asn_number": 214704,
-      "asn_name": "Xin Zhao"
-    },
-    {
       "asn_number": 214660,
       "asn_name": "junlin chen"
     },
@@ -3009,10 +3013,6 @@
     {
       "asn_number": 210426,
       "asn_name": "Liang Zhu"
-    },
-    {
-      "asn_number": 210176,
-      "asn_name": "Haoyi Xiang"
     },
     {
       "asn_number": 209645,
@@ -3180,7 +3180,7 @@
     },
     {
       "asn_number": 201235,
-      "asn_name": ""
+      "asn_name": "Chen Xi"
     },
     {
       "asn_number": 200959,
@@ -3216,7 +3216,7 @@
     },
     {
       "asn_number": 200472,
-      "asn_name": ""
+      "asn_name": "xiao yuqing"
     },
     {
       "asn_number": 200268,
@@ -3276,7 +3276,7 @@
     },
     {
       "asn_number": 153633,
-      "asn_name": "KVQNET"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 153458,
@@ -3404,7 +3404,7 @@
     },
     {
       "asn_number": 151494,
-      "asn_name": "Lin Kangyi"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151490,
@@ -3596,7 +3596,7 @@
     },
     {
       "asn_number": 151193,
-      "asn_name": "Shandong Deju Information Technology Co Ltd"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 151187,
