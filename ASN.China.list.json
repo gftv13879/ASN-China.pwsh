@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-02 04:14:38",
+    "last_updated_utc": "2026-05-03 04:36:07",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5233
+    "entry_count": 5234
   },
   "asns": [
     {
@@ -55,12 +55,12 @@
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 9808,
@@ -147,12 +147,12 @@
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 4811,
@@ -175,16 +175,16 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 58466,
-      "asn_name": "CHINANET Guangdong province network"
-    },
-    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 38365,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
+    },
+    {
+      "asn_number": 58466,
+      "asn_name": "CHINANET Guangdong province network"
     },
     {
       "asn_number": 59045,
@@ -327,10 +327,6 @@
       "asn_name": "Beijing Qihu Technology Company Limited"
     },
     {
-      "asn_number": 45079,
-      "asn_name": "GDS CHANGAN SERVICES Ltd."
-    },
-    {
       "asn_number": 38345,
       "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
@@ -401,6 +397,10 @@
     {
       "asn_number": 45110,
       "asn_name": "Beijing Tian Wei Xin Tong technology corp. limited."
+    },
+    {
+      "asn_number": 45079,
+      "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
     {
       "asn_number": 38019,
@@ -557,6 +557,10 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152711,
@@ -799,10 +803,6 @@
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 149511,
       "asn_name": "Yamu Technologies Co., Ltd."
     },
@@ -933,10 +933,6 @@
     {
       "asn_number": 63718,
       "asn_name": "Hangzhou YouYun Technology Co., Ltd."
-    },
-    {
-      "asn_number": 63696,
-      "asn_name": "China Securities Co., Ltd"
     },
     {
       "asn_number": 63695,
@@ -1555,6 +1551,10 @@
       "asn_name": "China Securities Co., Ltd"
     },
     {
+      "asn_number": 63696,
+      "asn_name": "China Securities Co., Ltd"
+    },
+    {
       "asn_number": 63689,
       "asn_name": "Esun Technology(Shanghai) Co.,Ltd"
     },
@@ -1753,10 +1753,6 @@
     {
       "asn_number": 4813,
       "asn_name": "China Telecom(Group)"
-    },
-    {
-      "asn_number": 45576,
-      "asn_name": "Tsinghua University"
     },
     {
       "asn_number": 45113,
@@ -2751,6 +2747,10 @@
       "asn_name": "Dong Ran Yang"
     },
     {
+      "asn_number": 45576,
+      "asn_name": "Tsinghua University"
+    },
+    {
       "asn_number": 45275,
       "asn_name": "BII Group Holding Ltd."
     },
@@ -3257,6 +3257,10 @@
     {
       "asn_number": 198266,
       "asn_name": "Yunrui Gu"
+    },
+    {
+      "asn_number": 198184,
+      "asn_name": "YIKE WANG"
     },
     {
       "asn_number": 198025,
