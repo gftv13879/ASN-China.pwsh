@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-05 04:12:41",
+    "last_updated_utc": "2026-05-06 04:29:53",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5235
+    "entry_count": 5237
   },
   "asns": [
     {
@@ -23,6 +23,10 @@
       "asn_name": "Alibaba (US) Technology Co., Ltd."
     },
     {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
+    },
+    {
       "asn_number": 55967,
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
@@ -33,10 +37,6 @@
     {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 10111,
@@ -55,12 +55,12 @@
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 4847,
       "asn_name": "China Networks Inter-Exchange"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 9808,
@@ -99,10 +99,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
@@ -133,6 +129,10 @@
     {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 37963,
@@ -227,10 +227,6 @@
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
     {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
-    },
-    {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
@@ -269,6 +265,10 @@
     {
       "asn_number": 42962,
       "asn_name": "CoreLink Network"
+    },
+    {
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 24444,
@@ -349,6 +349,10 @@
     {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 201674,
@@ -461,10 +465,6 @@
     {
       "asn_number": 9394,
       "asn_name": "China TieTong Telecommunications Corporation"
-    },
-    {
-      "asn_number": 7641,
-      "asn_name": "China Broadcasting TV Net"
     },
     {
       "asn_number": 58866,
@@ -625,6 +625,10 @@
     {
       "asn_number": 7721,
       "asn_name": "Qin Cloud Networks"
+    },
+    {
+      "asn_number": 7641,
+      "asn_name": "China Broadcasting TV Net"
     },
     {
       "asn_number": 63701,
@@ -961,10 +965,6 @@
     {
       "asn_number": 63570,
       "asn_name": "APNIC ASN block"
-    },
-    {
-      "asn_number": 63538,
-      "asn_name": "Accenture (China) Co.,Ltd"
     },
     {
       "asn_number": 59073,
@@ -1387,10 +1387,6 @@
       "asn_name": "IOT Jiangsu network, Chinatelecom, P.R.China."
     },
     {
-      "asn_number": 137539,
-      "asn_name": "China Unicom"
-    },
-    {
       "asn_number": 136200,
       "asn_name": "CHINANET Guangdong province Foshan MAN network"
     },
@@ -1633,6 +1629,10 @@
     {
       "asn_number": 63539,
       "asn_name": "Cloud Union (HuBei) Network Technology Co., Ltd"
+    },
+    {
+      "asn_number": 63538,
+      "asn_name": "Accenture (China) Co.,Ltd"
     },
     {
       "asn_number": 59223,
@@ -2515,6 +2515,10 @@
       "asn_name": "arebz.com"
     },
     {
+      "asn_number": 137539,
+      "asn_name": "China Unicom"
+    },
+    {
       "asn_number": 137266,
       "asn_name": "CHINATELECOM Hubei province Wuhan 5G network"
     },
@@ -3265,6 +3269,10 @@
     {
       "asn_number": 198184,
       "asn_name": "YIKE WANG"
+    },
+    {
+      "asn_number": 198135,
+      "asn_name": "YONG LI"
     },
     {
       "asn_number": 198025,
