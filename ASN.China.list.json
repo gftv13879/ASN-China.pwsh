@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-09 04:18:59",
+    "last_updated_utc": "2026-05-10 04:39:37",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5236
   },
@@ -75,12 +75,12 @@
       "asn_name": "China Mobile Communicaitons Corporation"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 24400,
@@ -93,10 +93,6 @@
     {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
-    },
-    {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 56040,
@@ -117,6 +113,10 @@
     {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 58879,
@@ -187,16 +187,16 @@
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
+      "asn_number": 59019,
+      "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
+    },
+    {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
     },
     {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
-    },
-    {
-      "asn_number": 59019,
-      "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
       "asn_number": 38283,
@@ -355,10 +355,6 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
-    },
-    {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
     },
@@ -413,6 +409,10 @@
     {
       "asn_number": 24133,
       "asn_name": "21vianet(China) Inc."
+    },
+    {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 141425,
@@ -573,10 +573,6 @@
     {
       "asn_number": 151397,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 151302,
-      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
       "asn_number": 139721,
@@ -811,12 +807,20 @@
       "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
+      "asn_number": 151302,
+      "asn_name": "Hebei Sea Whale Technology Co. Ltd."
+    },
+    {
       "asn_number": 149511,
       "asn_name": "Yamu Technologies Co., Ltd."
     },
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 141679,
+      "asn_name": "China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch"
     },
     {
       "asn_number": 140895,
@@ -1229,10 +1233,6 @@
     {
       "asn_number": 141998,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 141679,
-      "asn_name": "China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch"
     },
     {
       "asn_number": 141005,
