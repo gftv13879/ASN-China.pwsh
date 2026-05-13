@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-12 04:31:23",
+    "last_updated_utc": "2026-05-13 04:38:18",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5225
   },
@@ -35,24 +35,24 @@
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
-      "asn_number": 10111,
-      "asn_name": "Zeofast Network"
-    },
-    {
       "asn_number": 4809,
       "asn_name": "China Telecom Next Generation Carrier Network"
+    },
+    {
+      "asn_number": 10111,
+      "asn_name": "Zeofast Network"
     },
     {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
     },
     {
-      "asn_number": 209650,
-      "asn_name": "Wu Zhiyuan"
-    },
-    {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
+    },
+    {
+      "asn_number": 209650,
+      "asn_name": "Wu Zhiyuan"
     },
     {
       "asn_number": 4847,
@@ -99,10 +99,6 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
@@ -115,6 +111,10 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
+    },
+    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
     },
@@ -123,16 +123,16 @@
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 140633,
@@ -207,16 +207,16 @@
       "asn_name": "CHINANET SiChuan Telecom Internet Data Center"
     },
     {
+      "asn_number": 24406,
+      "asn_name": "China Internet Network Infomation Center"
+    },
+    {
       "asn_number": 24151,
       "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 24138,
       "asn_name": "China TieTong Telecommunications Corporation"
-    },
-    {
-      "asn_number": 24406,
-      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 136958,
@@ -229,6 +229,10 @@
     {
       "asn_number": 24409,
       "asn_name": "China Internet Network Infomation Center"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 24444,
@@ -347,12 +351,12 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
+    },
+    {
+      "asn_number": 140726,
+      "asn_name": "UNICOM AnHui province network"
     },
     {
       "asn_number": 138538,
@@ -425,10 +429,6 @@
     {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
-    },
-    {
-      "asn_number": 140726,
-      "asn_name": "UNICOM AnHui province network"
     },
     {
       "asn_number": 139148,
@@ -723,10 +723,6 @@
       "asn_name": "Zhejiang WuLian Network Technology Co.,Ltd."
     },
     {
-      "asn_number": 37942,
-      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
-    },
-    {
       "asn_number": 24547,
       "asn_name": "Hebei Mobile Communication Company Limited"
     },
@@ -761,10 +757,6 @@
     {
       "asn_number": 23771,
       "asn_name": "SXBCTV ,Internet Service Provider,"
-    },
-    {
-      "asn_number": 216224,
-      "asn_name": "Tianjin Tianzhan Technology Co., Ltd."
     },
     {
       "asn_number": 214899,
@@ -1111,6 +1103,10 @@
       "asn_name": "Bosch (China) Investment Ltd."
     },
     {
+      "asn_number": 37942,
+      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
+    },
+    {
       "asn_number": 24369,
       "asn_name": "CERNET2 IX at Northeast University"
     },
@@ -1133,6 +1129,10 @@
     {
       "asn_number": 23842,
       "asn_name": "Shenzhen Information and Network Center"
+    },
+    {
+      "asn_number": 216224,
+      "asn_name": "Tianjin Tianzhan Technology Co., Ltd."
     },
     {
       "asn_number": 213876,
