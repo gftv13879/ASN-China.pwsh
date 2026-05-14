@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-13 04:38:18",
+    "last_updated_utc": "2026-05-14 04:37:03",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5225
   },
@@ -75,12 +75,12 @@
       "asn_name": "China Education and Research Network Center"
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 4812,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 24400,
@@ -127,12 +127,12 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 140633,
@@ -167,6 +167,10 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
+    },
+    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
@@ -179,16 +183,8 @@
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
-    },
-    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 38365,
-      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
       "asn_number": 59019,
@@ -197,6 +193,10 @@
     {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
+    },
+    {
+      "asn_number": 38365,
+      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
       "asn_number": 59045,
@@ -231,16 +231,16 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 24444,
       "asn_name": "Shandong Mobile Communication Company Limited"
     },
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 139138,
@@ -277,10 +277,6 @@
     {
       "asn_number": 55966,
       "asn_name": "Post Savings Bank of China Tower A, No.3"
-    },
-    {
-      "asn_number": 42962,
-      "asn_name": "CoreLink Network"
     },
     {
       "asn_number": 24489,
@@ -329,6 +325,10 @@
     {
       "asn_number": 55992,
       "asn_name": "Beijing Qihu Technology Company Limited"
+    },
+    {
+      "asn_number": 42962,
+      "asn_name": "CoreLink Network"
     },
     {
       "asn_number": 38345,
@@ -433,10 +433,6 @@
     {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
-    },
-    {
-      "asn_number": 139080,
-      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
     },
     {
       "asn_number": 138421,
@@ -579,6 +575,10 @@
       "asn_name": "HeFei"
     },
     {
+      "asn_number": 139080,
+      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
+    },
+    {
       "asn_number": 138950,
       "asn_name": "Jiangsu Wuxi International IDC network"
     },
@@ -695,10 +695,6 @@
       "asn_name": "Magna Automotive Technology and Service(Shanghai)Co.,Ltd"
     },
     {
-      "asn_number": 51928,
-      "asn_name": "SHIZHE XU"
-    },
-    {
       "asn_number": 4816,
       "asn_name": "China Telecom (Group)"
     },
@@ -779,10 +775,6 @@
       "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
-      "asn_number": 199406,
-      "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
-    },
-    {
       "asn_number": 17969,
       "asn_name": "ChongQing Broadcast & TV Transfer Network Co. Ltd"
     },
@@ -807,10 +799,6 @@
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 151313,
       "asn_name": "Pacific Insurance Technology Co., Ltd"
     },
@@ -819,12 +807,12 @@
       "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
-      "asn_number": 149511,
-      "asn_name": "Yamu Technologies Co., Ltd."
-    },
-    {
       "asn_number": 148981,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 146814,
+      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141679,
@@ -1059,6 +1047,10 @@
       "asn_name": "Chinese Academy of Social Sciences"
     },
     {
+      "asn_number": 51928,
+      "asn_name": "SHIZHE XU"
+    },
+    {
       "asn_number": 4859,
       "asn_name": "The State Information Center of P.R.China"
     },
@@ -1147,6 +1139,10 @@
       "asn_name": "Licheng MAO"
     },
     {
+      "asn_number": 199406,
+      "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
+    },
+    {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
     },
@@ -1173,6 +1169,10 @@
     {
       "asn_number": 153911,
       "asn_name": "DuoTu Cloud"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152920,
@@ -1211,6 +1211,10 @@
       "asn_name": "The New Development Bank"
     },
     {
+      "asn_number": 149511,
+      "asn_name": "Yamu Technologies Co., Ltd."
+    },
+    {
       "asn_number": 149304,
       "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
     },
@@ -1233,10 +1237,6 @@
     {
       "asn_number": 146817,
       "asn_name": "Hubei Feixun Network Co., Ltd"
-    },
-    {
-      "asn_number": 146814,
-      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 146812,
