@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-23 04:33:13",
+    "last_updated_utc": "2026-05-24 04:57:24",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5225
   },
@@ -27,12 +27,12 @@
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
-      "asn_number": 146762,
-      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
-    },
-    {
       "asn_number": 4837,
       "asn_name": "China Unicom Backbone"
+    },
+    {
+      "asn_number": 146762,
+      "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
     },
     {
       "asn_number": 4809,
@@ -231,6 +231,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -285,10 +289,6 @@
     {
       "asn_number": 210352,
       "asn_name": "Yijia Xu"
-    },
-    {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 17623,
@@ -411,12 +411,8 @@
       "asn_name": "21vianet(China) Inc."
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
+      "asn_number": 214848,
+      "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
     },
     {
       "asn_number": 154648,
@@ -559,8 +555,8 @@
       "asn_name": "Beijing Guanghuan Xinwang Digital"
     },
     {
-      "asn_number": 214848,
-      "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 18241,
@@ -593,6 +589,10 @@
     {
       "asn_number": 151302,
       "asn_name": "Hebei Sea Whale Technology Co. Ltd."
+    },
+    {
+      "asn_number": 146814,
+      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141425,
@@ -731,6 +731,10 @@
       "asn_name": "Zhejiang WuLian Network Technology Co.,Ltd."
     },
     {
+      "asn_number": 37942,
+      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
+    },
+    {
       "asn_number": 24547,
       "asn_name": "Hebei Mobile Communication Company Limited"
     },
@@ -771,12 +775,20 @@
       "asn_name": "Ye Liliang"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 211843,
       "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
     },
     {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
+    },
+    {
+      "asn_number": 204211,
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
       "asn_number": 199406,
@@ -807,16 +819,16 @@
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
       "asn_number": 149511,
       "asn_name": "Yamu Technologies Co., Ltd."
     },
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 146814,
-      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141679,
@@ -1091,10 +1103,6 @@
       "asn_name": "Bosch (China) Investment Ltd."
     },
     {
-      "asn_number": 37942,
-      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
-    },
-    {
       "asn_number": 24369,
       "asn_name": "CERNET2 IX at Northeast University"
     },
@@ -1135,10 +1143,6 @@
       "asn_name": "Licheng MAO"
     },
     {
-      "asn_number": 204211,
-      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
-    },
-    {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
     },
@@ -1165,10 +1169,6 @@
     {
       "asn_number": 153911,
       "asn_name": "DuoTu Cloud"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152920,
@@ -1461,10 +1461,6 @@
     {
       "asn_number": 134542,
       "asn_name": "China Unicom IP network"
-    },
-    {
-      "asn_number": 134419,
-      "asn_name": "China Telecom Beihai"
     },
     {
       "asn_number": 134417,
@@ -2617,6 +2613,10 @@
     {
       "asn_number": 134421,
       "asn_name": "Yunnan Telecom"
+    },
+    {
+      "asn_number": 134419,
+      "asn_name": "China Telecom Beihai"
     },
     {
       "asn_number": 134413,
