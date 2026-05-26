@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-25 05:14:58",
+    "last_updated_utc": "2026-05-26 04:56:45",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5225
+    "entry_count": 5230
   },
   "asns": [
     {
@@ -43,10 +43,6 @@
       "asn_name": "Zeofast Network"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
     },
@@ -55,12 +51,12 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 9808,
@@ -99,6 +95,10 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
+    },
+    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
@@ -127,12 +127,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 140633,
@@ -187,16 +187,16 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 38365,
+      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
+    },
+    {
       "asn_number": 59019,
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
-    },
-    {
-      "asn_number": 38365,
-      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
       "asn_number": 59045,
@@ -415,10 +415,6 @@
       "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
     },
     {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
-    },
-    {
       "asn_number": 154648,
       "asn_name": "TermRat Network Limited"
     },
@@ -437,6 +433,10 @@
     {
       "asn_number": 139148,
       "asn_name": "China UnionPay Co., Ltd"
+    },
+    {
+      "asn_number": 139080,
+      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
     },
     {
       "asn_number": 138421,
@@ -559,6 +559,10 @@
       "asn_name": "Beijing Guanghuan Xinwang Digital"
     },
     {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
+    },
+    {
       "asn_number": 18241,
       "asn_name": "State Power Information Net"
     },
@@ -583,6 +587,10 @@
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -601,10 +609,6 @@
     {
       "asn_number": 139721,
       "asn_name": "HeFei"
-    },
-    {
-      "asn_number": 139080,
-      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
     },
     {
       "asn_number": 138950,
@@ -637,6 +641,10 @@
     {
       "asn_number": 134756,
       "asn_name": "CHINANET Nanjing Jishan IDC network"
+    },
+    {
+      "asn_number": 133475,
+      "asn_name": "New York University ASN"
     },
     {
       "asn_number": 9939,
@@ -731,10 +739,6 @@
       "asn_name": "Zhejiang WuLian Network Technology Co.,Ltd."
     },
     {
-      "asn_number": 37942,
-      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
-    },
-    {
       "asn_number": 24547,
       "asn_name": "Hebei Mobile Communication Company Limited"
     },
@@ -819,10 +823,6 @@
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
       "asn_number": 149511,
       "asn_name": "Yamu Technologies Co., Ltd."
     },
@@ -881,10 +881,6 @@
     {
       "asn_number": 133774,
       "asn_name": "China Telecom Fujian Fuzhou IDC"
-    },
-    {
-      "asn_number": 133475,
-      "asn_name": "New York University ASN"
     },
     {
       "asn_number": 133119,
@@ -957,6 +953,10 @@
     {
       "asn_number": 63695,
       "asn_name": "WeiYi Network Technology Co., Ltd"
+    },
+    {
+      "asn_number": 63689,
+      "asn_name": "Esun Technology(Shanghai) Co.,Ltd"
     },
     {
       "asn_number": 63634,
@@ -1103,6 +1103,10 @@
       "asn_name": "Bosch (China) Investment Ltd."
     },
     {
+      "asn_number": 37942,
+      "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
+    },
+    {
       "asn_number": 24369,
       "asn_name": "CERNET2 IX at Northeast University"
     },
@@ -1131,6 +1135,10 @@
       "asn_name": "Tianjin Tianzhan Technology Co., Ltd."
     },
     {
+      "asn_number": 213876,
+      "asn_name": "Qiyuan Chen"
+    },
+    {
       "asn_number": 212053,
       "asn_name": "ShiJI Tong"
     },
@@ -1141,6 +1149,10 @@
     {
       "asn_number": 210041,
       "asn_name": "Licheng MAO"
+    },
+    {
+      "asn_number": 209300,
+      "asn_name": "Wende Tan"
     },
     {
       "asn_number": 199392,
@@ -1575,10 +1587,6 @@
       "asn_name": "China Securities Co., Ltd"
     },
     {
-      "asn_number": 63689,
-      "asn_name": "Esun Technology(Shanghai) Co.,Ltd"
-    },
-    {
       "asn_number": 63655,
       "asn_name": "Huawei Technologies Co., Ltd"
     },
@@ -1979,10 +1987,6 @@
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
-      "asn_number": 213876,
-      "asn_name": "Qiyuan Chen"
-    },
-    {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
     },
@@ -2005,10 +2009,6 @@
     {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
-    },
-    {
-      "asn_number": 209300,
-      "asn_name": "Wende Tan"
     },
     {
       "asn_number": 207299,
@@ -2875,6 +2875,10 @@
       "asn_name": "Xing Qingyu"
     },
     {
+      "asn_number": 215315,
+      "asn_name": "LIZI LUO"
+    },
+    {
       "asn_number": 215007,
       "asn_name": "BOZHAN LIANG"
     },
@@ -2905,6 +2909,10 @@
     {
       "asn_number": 214740,
       "asn_name": "WENTAO FEI"
+    },
+    {
+      "asn_number": 214704,
+      "asn_name": "Xin Zhao"
     },
     {
       "asn_number": 214660,
@@ -2999,6 +3007,10 @@
       "asn_name": "Jun CAO"
     },
     {
+      "asn_number": 210903,
+      "asn_name": "Chengde TsingYao Network Technology Service Co., Ltd."
+    },
+    {
       "asn_number": 210773,
       "asn_name": "Xinyu Chen"
     },
@@ -3013,6 +3025,10 @@
     {
       "asn_number": 209645,
       "asn_name": "Jixian Zeng"
+    },
+    {
+      "asn_number": 209601,
+      "asn_name": "Yu ZuYuan"
     },
     {
       "asn_number": 209586,
@@ -20861,6 +20877,10 @@
     {
       "asn_number": 136725,
       "asn_name": "Chen Jitong"
+    },
+    {
+      "asn_number": 136591,
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 136535,
