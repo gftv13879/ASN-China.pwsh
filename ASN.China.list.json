@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-27 05:09:36",
+    "last_updated_utc": "2026-05-28 05:04:00",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5230
+    "entry_count": 5231
   },
   "asns": [
     {
@@ -227,12 +227,12 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 24409,
-      "asn_name": "China Internet Network Infomation Center"
-    },
-    {
       "asn_number": 209294,
       "asn_name": "Fan Zhang"
+    },
+    {
+      "asn_number": 24409,
+      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 139138,
@@ -1131,10 +1131,6 @@
       "asn_name": "Tianjin Tianzhan Technology Co., Ltd."
     },
     {
-      "asn_number": 213876,
-      "asn_name": "Qiyuan Chen"
-    },
-    {
       "asn_number": 212053,
       "asn_name": "ShiJI Tong"
     },
@@ -1157,6 +1153,10 @@
     {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
+    },
+    {
+      "asn_number": 198588,
+      "asn_name": "Hangzhou Tungsten Cloud Technology Co., Ltd."
     },
     {
       "asn_number": 18245,
@@ -1489,6 +1489,10 @@
     {
       "asn_number": 133776,
       "asn_name": "China Telecom Quanzhou"
+    },
+    {
+      "asn_number": 133775,
+      "asn_name": "China Telecom Xiamen"
     },
     {
       "asn_number": 133555,
@@ -1987,6 +1991,10 @@
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
     {
+      "asn_number": 213876,
+      "asn_name": "Qiyuan Chen"
+    },
+    {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
     },
@@ -2033,10 +2041,6 @@
     {
       "asn_number": 203236,
       "asn_name": "Mingyang Shen"
-    },
-    {
-      "asn_number": 198588,
-      "asn_name": "Hangzhou Tungsten Cloud Technology Co., Ltd."
     },
     {
       "asn_number": 18257,
@@ -2141,6 +2145,10 @@
     {
       "asn_number": 151232,
       "asn_name": "Sichuan Ruisu Technology Co., LTD"
+    },
+    {
+      "asn_number": 151229,
+      "asn_name": "Shenyang Aerospace University"
     },
     {
       "asn_number": 151185,
@@ -2629,10 +2637,6 @@
     {
       "asn_number": 133846,
       "asn_name": "IMLONGHAO"
-    },
-    {
-      "asn_number": 133775,
-      "asn_name": "China Telecom Xiamen"
     },
     {
       "asn_number": 133194,
