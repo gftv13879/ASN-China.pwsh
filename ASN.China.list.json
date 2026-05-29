@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-28 05:04:00",
+    "last_updated_utc": "2026-05-29 05:07:25",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5231
+    "entry_count": 5229
   },
   "asns": [
     {
@@ -27,12 +27,12 @@
       "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
-      "asn_number": 4837,
-      "asn_name": "China Unicom Backbone"
-    },
-    {
       "asn_number": 146762,
       "asn_name": "NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT"
+    },
+    {
+      "asn_number": 4837,
+      "asn_name": "China Unicom Backbone"
     },
     {
       "asn_number": 4809,
@@ -215,6 +215,10 @@
       "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 136958,
       "asn_name": "China Unicom Guangdong IP network"
     },
@@ -225,10 +229,6 @@
     {
       "asn_number": 24406,
       "asn_name": "China Internet Network Infomation Center"
-    },
-    {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 24409,
@@ -595,10 +595,6 @@
       "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
-      "asn_number": 146814,
-      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
-    },
-    {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
     },
@@ -779,10 +775,6 @@
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
-      "asn_number": 211843,
-      "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
-    },
-    {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
     },
@@ -825,6 +817,10 @@
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 146814,
+      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141679,
@@ -1031,6 +1027,10 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 56003,
+      "asn_name": "Beijing Century Union Network Technology Co.,LTD."
+    },
+    {
       "asn_number": 56002,
       "asn_name": "BEIJING MARINE COMMUNICATION AND NAVIGATION CO."
     },
@@ -1133,6 +1133,10 @@
     {
       "asn_number": 212053,
       "asn_name": "ShiJI Tong"
+    },
+    {
+      "asn_number": 211843,
+      "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
     },
     {
       "asn_number": 211265,
@@ -1491,10 +1495,6 @@
       "asn_name": "China Telecom Quanzhou"
     },
     {
-      "asn_number": 133775,
-      "asn_name": "China Telecom Xiamen"
-    },
-    {
       "asn_number": 133555,
       "asn_name": "DOORPOST Limited"
     },
@@ -1663,10 +1663,6 @@
       "asn_name": "CHINANET Qinghai province IDC network"
     },
     {
-      "asn_number": 59089,
-      "asn_name": "NO.18 Building University of Technology"
-    },
-    {
       "asn_number": 59084,
       "asn_name": "SHANXI CABLE&BROADCASTING INFORMATION NETWORK"
     },
@@ -1757,10 +1753,6 @@
     {
       "asn_number": 56005,
       "asn_name": "Zhengzhou Fastidc Technology Co.,Ltd."
-    },
-    {
-      "asn_number": 56003,
-      "asn_name": "Beijing Century Union Network Technology Co.,LTD."
     },
     {
       "asn_number": 56000,
@@ -2639,6 +2631,10 @@
       "asn_name": "IMLONGHAO"
     },
     {
+      "asn_number": 133775,
+      "asn_name": "China Telecom Xiamen"
+    },
+    {
       "asn_number": 133194,
       "asn_name": "Connections Hub Technology (Shanghai) Ltd. Company"
     },
@@ -2985,10 +2981,6 @@
     {
       "asn_number": 212793,
       "asn_name": "Xiwei Ye"
-    },
-    {
-      "asn_number": 212690,
-      "asn_name": "Enyu Li"
     },
     {
       "asn_number": 212532,
