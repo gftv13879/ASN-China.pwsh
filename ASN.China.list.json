@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-05-29 05:07:25",
+    "last_updated_utc": "2026-05-30 04:44:38",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5229
+    "entry_count": 5230
   },
   "asns": [
     {
@@ -123,16 +123,16 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 140633,
@@ -215,10 +215,6 @@
       "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 136958,
       "asn_name": "China Unicom Guangdong IP network"
     },
@@ -229,6 +225,10 @@
     {
       "asn_number": 24406,
       "asn_name": "China Internet Network Infomation Center"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 24409,
@@ -355,10 +355,6 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 138538,
       "asn_name": "VPSOR-GLOBAL"
     },
@@ -409,6 +405,10 @@
     {
       "asn_number": 24133,
       "asn_name": "21vianet(China) Inc."
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 201674,
@@ -595,6 +595,10 @@
       "asn_name": "Hebei Sea Whale Technology Co. Ltd."
     },
     {
+      "asn_number": 146814,
+      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
+    },
+    {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
     },
@@ -775,8 +779,16 @@
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
+      "asn_number": 211843,
+      "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
+    },
+    {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
+    },
+    {
+      "asn_number": 204211,
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
       "asn_number": 199406,
@@ -817,10 +829,6 @@
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 146814,
-      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141679,
@@ -1135,10 +1143,6 @@
       "asn_name": "ShiJI Tong"
     },
     {
-      "asn_number": 211843,
-      "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
-    },
-    {
       "asn_number": 211265,
       "asn_name": "GUI JIANG"
     },
@@ -1151,8 +1155,8 @@
       "asn_name": "Wende Tan"
     },
     {
-      "asn_number": 204211,
-      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
+      "asn_number": 207299,
+      "asn_name": "Zhijiang Zangque Trading Co., Ltd."
     },
     {
       "asn_number": 199392,
@@ -1409,10 +1413,6 @@
     {
       "asn_number": 137689,
       "asn_name": "IOT Jiangsu network, Chinatelecom, P.R.China."
-    },
-    {
-      "asn_number": 137264,
-      "asn_name": "Wingmark Matrix (Wuhan) Computer Systems Co Ltd"
     },
     {
       "asn_number": 136200,
@@ -2011,10 +2011,6 @@
       "asn_name": "Xiao Tan"
     },
     {
-      "asn_number": 207299,
-      "asn_name": "Zhijiang Zangque Trading Co., Ltd."
-    },
-    {
       "asn_number": 205651,
       "asn_name": "Hao Qiao"
     },
@@ -2539,6 +2535,10 @@
       "asn_name": "CHINATELECOM Hubei province Wuhan 5G network"
     },
     {
+      "asn_number": 137264,
+      "asn_name": "Wingmark Matrix (Wuhan) Computer Systems Co Ltd"
+    },
+    {
       "asn_number": 136959,
       "asn_name": "China Unicom Guangdong IP network"
     },
@@ -2981,6 +2981,10 @@
     {
       "asn_number": 212793,
       "asn_name": "Xiwei Ye"
+    },
+    {
+      "asn_number": 212690,
+      "asn_name": "Enyu Li"
     },
     {
       "asn_number": 212532,
