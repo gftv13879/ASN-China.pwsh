@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-06-06 04:48:00",
+    "last_updated_utc": "2026-06-07 05:16:44",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5233
   },
@@ -20204,7 +20204,7 @@
     },
     {
       "asn_number": 140915,
-      "asn_name": "Xiang Xuanchen"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 140863,
