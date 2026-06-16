@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-06-15 06:17:08",
+    "last_updated_utc": "2026-06-16 06:26:26",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5227
+    "entry_count": 5226
   },
   "asns": [
     {
@@ -107,12 +107,12 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 135426,
@@ -127,6 +127,10 @@
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
+    },
+    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
@@ -137,10 +141,6 @@
     {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 140633,
@@ -239,6 +239,10 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -281,10 +285,6 @@
     {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 17623,
@@ -559,6 +559,10 @@
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
+      "asn_number": 153911,
+      "asn_name": "DuoTu Cloud"
+    },
+    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -801,10 +805,6 @@
     {
       "asn_number": 17638,
       "asn_name": "ASN for TIANJIN Provincial Net of CT"
-    },
-    {
-      "asn_number": 153911,
-      "asn_name": "DuoTu Cloud"
     },
     {
       "asn_number": 153726,
@@ -1163,6 +1163,10 @@
       "asn_name": "Licheng MAO"
     },
     {
+      "asn_number": 209300,
+      "asn_name": "Wende Tan"
+    },
+    {
       "asn_number": 204211,
       "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
@@ -1173,10 +1177,6 @@
     {
       "asn_number": 199392,
       "asn_name": "SHIZHENG NIE"
-    },
-    {
-      "asn_number": 198588,
-      "asn_name": "Hangzhou Tungsten Cloud Technology Co., Ltd."
     },
     {
       "asn_number": 18245,
@@ -1209,10 +1209,6 @@
     {
       "asn_number": 151951,
       "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
-    },
-    {
-      "asn_number": 151673,
-      "asn_name": "Chen Xinyu"
     },
     {
       "asn_number": 151300,
@@ -1491,6 +1487,10 @@
       "asn_name": "China Unicom IP network"
     },
     {
+      "asn_number": 134477,
+      "asn_name": "Shaoxing Junruiyunjisuan Co Ltd"
+    },
+    {
       "asn_number": 134425,
       "asn_name": "China Telecom"
     },
@@ -1549,10 +1549,6 @@
     {
       "asn_number": 131506,
       "asn_name": "HEILONGJIANG RADIO & TV NETWORK CO.,LTD"
-    },
-    {
-      "asn_number": 131483,
-      "asn_name": "Jiangsu Dongyun Cloud computing co., LTD"
     },
     {
       "asn_number": 131325,
@@ -1975,6 +1971,10 @@
       "asn_name": "Peng Wang"
     },
     {
+      "asn_number": 215502,
+      "asn_name": "Xing Qingyu"
+    },
+    {
       "asn_number": 214439,
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
@@ -2011,10 +2011,6 @@
       "asn_name": "Xiao Tan"
     },
     {
-      "asn_number": 209300,
-      "asn_name": "Wende Tan"
-    },
-    {
       "asn_number": 207299,
       "asn_name": "Zhijiang Zangque Trading Co., Ltd."
     },
@@ -2037,6 +2033,10 @@
     {
       "asn_number": 199406,
       "asn_name": "Jin Han Shen trading as Yinyun Network Technology Studio"
+    },
+    {
+      "asn_number": 198588,
+      "asn_name": "Hangzhou Tungsten Cloud Technology Co., Ltd."
     },
     {
       "asn_number": 18257,
@@ -2093,6 +2093,10 @@
     {
       "asn_number": 151823,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 151673,
+      "asn_name": "Chen Xinyu"
     },
     {
       "asn_number": 151464,
@@ -2615,10 +2619,6 @@
       "asn_name": "CTJ's Global Network"
     },
     {
-      "asn_number": 134477,
-      "asn_name": "Shaoxing Junruiyunjisuan Co Ltd"
-    },
-    {
       "asn_number": 134421,
       "asn_name": "Yunnan Telecom"
     },
@@ -2735,6 +2735,10 @@
       "asn_name": "CERNET Corporation"
     },
     {
+      "asn_number": 131483,
+      "asn_name": "Jiangsu Dongyun Cloud computing co., LTD"
+    },
+    {
       "asn_number": 131482,
       "asn_name": "Hangzhou Aron Teconology Co.,Ltd."
     },
@@ -2765,10 +2769,6 @@
     {
       "asn_number": 49904,
       "asn_name": "Xiaodong Qi"
-    },
-    {
-      "asn_number": 49575,
-      "asn_name": "Dong Ran Yang"
     },
     {
       "asn_number": 45576,
@@ -2901,10 +2901,6 @@
     {
       "asn_number": 215507,
       "asn_name": "KAI BI"
-    },
-    {
-      "asn_number": 215502,
-      "asn_name": "Xing Qingyu"
     },
     {
       "asn_number": 215007,
