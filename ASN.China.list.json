@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-06-16 06:26:26",
+    "last_updated_utc": "2026-06-17 06:02:46",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5226
   },
@@ -107,12 +107,12 @@
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
-      "asn_number": 137753,
-      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
-    },
-    {
       "asn_number": 202782,
       "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 137753,
+      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
       "asn_number": 135426,
@@ -127,20 +127,20 @@
       "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 134578,
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 140633,
@@ -187,16 +187,20 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 38365,
-      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
-    },
-    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
+    },
+    {
+      "asn_number": 38365,
+      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 38283,
@@ -223,12 +227,12 @@
       "asn_name": "China Enterprise ICT Solutions Limited"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 63648,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
+    },
+    {
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 24406,
@@ -269,10 +273,6 @@
     {
       "asn_number": 56041,
       "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 24444,
@@ -439,10 +439,6 @@
       "asn_name": "China UnionPay Co., Ltd"
     },
     {
-      "asn_number": 139080,
-      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
-    },
-    {
       "asn_number": 138421,
       "asn_name": "China Unicom"
     },
@@ -577,6 +573,10 @@
     {
       "asn_number": 139721,
       "asn_name": "HeFei"
+    },
+    {
+      "asn_number": 139080,
+      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
     },
     {
       "asn_number": 138950,
@@ -1987,16 +1987,16 @@
       "asn_name": "Xuluo Chen"
     },
     {
+      "asn_number": 213404,
+      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 212371,
       "asn_name": "Huizhou HuiGu CloudTech Co., Ltd."
     },
     {
       "asn_number": 212164,
       "asn_name": "Jiaxian He"
-    },
-    {
-      "asn_number": 212053,
-      "asn_name": "ShiJI Tong"
     },
     {
       "asn_number": 210634,
@@ -2983,10 +2983,6 @@
       "asn_name": "Wang Lei"
     },
     {
-      "asn_number": 213404,
-      "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 213116,
       "asn_name": "Guangzhou Bigao Network Technology Co., Ltd."
     },
@@ -3005,6 +3001,10 @@
     {
       "asn_number": 212690,
       "asn_name": "Enyu Li"
+    },
+    {
+      "asn_number": 212053,
+      "asn_name": "ShiJI Tong"
     },
     {
       "asn_number": 211992,
