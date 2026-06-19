@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-06-18 05:49:05",
+    "last_updated_utc": "2026-06-19 06:08:56",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5227
   },
@@ -63,12 +63,12 @@
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
-      "asn_number": 133865,
-      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
       "asn_number": 9808,
       "asn_name": "China Mobile Communications Group Co., Ltd."
+    },
+    {
+      "asn_number": 133865,
+      "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
     },
     {
       "asn_number": 4538,
@@ -131,16 +131,16 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 140633,
@@ -159,20 +159,20 @@
       "asn_name": "Huawei Cloud Service data center"
     },
     {
-      "asn_number": 23724,
-      "asn_name": "IDC, China Telecommunications Corporation"
-    },
-    {
-      "asn_number": 4811,
-      "asn_name": "China Telecom (Group)"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
+      "asn_number": 23724,
+      "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
       "asn_number": 199310,
       "asn_name": "XIN BING XIAN"
+    },
+    {
+      "asn_number": 4811,
+      "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 137718,
@@ -187,16 +187,16 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 38365,
+      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
+    },
+    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 58466,
       "asn_name": "CHINANET Guangdong province network"
-    },
-    {
-      "asn_number": 38365,
-      "asn_name": "Beijing Baidu Netcom Science and Technology Co., Ltd."
     },
     {
       "asn_number": 209294,
@@ -567,6 +567,10 @@
       "asn_name": "HeFei"
     },
     {
+      "asn_number": 139080,
+      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
+    },
+    {
       "asn_number": 138950,
       "asn_name": "Jiangsu Wuxi International IDC network"
     },
@@ -833,10 +837,6 @@
     {
       "asn_number": 140061,
       "asn_name": "Qinghai Telecom"
-    },
-    {
-      "asn_number": 139080,
-      "asn_name": "The Internet Data Center of Sichuan Mobile Communication Company Limited"
     },
     {
       "asn_number": 138371,
@@ -1149,6 +1149,10 @@
     {
       "asn_number": 203309,
       "asn_name": "Liangyi Ma"
+    },
+    {
+      "asn_number": 202335,
+      "asn_name": "Zhanrui Tian"
     },
     {
       "asn_number": 199392,
@@ -2077,6 +2081,10 @@
     {
       "asn_number": 154010,
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
+    },
+    {
+      "asn_number": 152631,
+      "asn_name": "Xyhelper Inc"
     },
     {
       "asn_number": 152120,
@@ -3183,10 +3191,6 @@
       "asn_name": "Zeng Yukai"
     },
     {
-      "asn_number": 202335,
-      "asn_name": "Zhanrui Tian"
-    },
-    {
       "asn_number": 202256,
       "asn_name": "Dongyu Zhang"
     },
@@ -3389,10 +3393,6 @@
     {
       "asn_number": 152697,
       "asn_name": "Nanning Huifa Technology Co Ltd"
-    },
-    {
-      "asn_number": 152631,
-      "asn_name": "Xyhelper Inc"
     },
     {
       "asn_number": 152598,
