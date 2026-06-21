@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-06-20 05:05:15",
+    "last_updated_utc": "2026-06-21 05:54:40",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5226
   },
@@ -215,10 +215,6 @@
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 136958,
       "asn_name": "China Unicom Guangdong IP network"
     },
@@ -227,16 +223,16 @@
       "asn_name": "China Enterprise ICT Solutions Limited"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 63648,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
     {
       "asn_number": 56041,
       "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 139138,
@@ -257,6 +253,10 @@
     {
       "asn_number": 58461,
       "asn_name": "China Telecom HangZhou IDC"
+    },
+    {
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 24444,
@@ -771,10 +771,6 @@
       "asn_name": "Jin Shaohai"
     },
     {
-      "asn_number": 203309,
-      "asn_name": "Liangyi Ma"
-    },
-    {
       "asn_number": 17969,
       "asn_name": "ChongQing Broadcast & TV Transfer Network Co. Ltd"
     },
@@ -1153,6 +1149,10 @@
     {
       "asn_number": 204211,
       "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 203309,
+      "asn_name": "Liangyi Ma"
     },
     {
       "asn_number": 202335,
