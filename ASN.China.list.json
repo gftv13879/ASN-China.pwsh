@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-06-21 05:54:40",
+    "last_updated_utc": "2026-06-22 06:22:26",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5226
   },
@@ -99,12 +99,12 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 146788,
-      "asn_name": "China Broadcasting Network Co., Ltd"
-    },
-    {
       "asn_number": 7497,
       "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
+    },
+    {
+      "asn_number": 146788,
+      "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
       "asn_number": 137753,
@@ -115,12 +115,12 @@
       "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
-    },
-    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
+    },
+    {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 58879,
@@ -211,6 +211,10 @@
       "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 59019,
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
@@ -221,10 +225,6 @@
     {
       "asn_number": 10212,
       "asn_name": "China Enterprise ICT Solutions Limited"
-    },
-    {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 63648,
@@ -555,6 +555,10 @@
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
     },
     {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -805,10 +809,6 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 151302,
@@ -1151,10 +1151,6 @@
       "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
-      "asn_number": 203309,
-      "asn_name": "Liangyi Ma"
-    },
-    {
       "asn_number": 202335,
       "asn_name": "Zhanrui Tian"
     },
@@ -1205,10 +1201,6 @@
     {
       "asn_number": 151247,
       "asn_name": "HSBC Software Development (Guangdong) Limited Shanghai Branch"
-    },
-    {
-      "asn_number": 151232,
-      "asn_name": "Sichuan Ruisu Technology Co., LTD"
     },
     {
       "asn_number": 151231,
@@ -2023,6 +2015,10 @@
       "asn_name": "Han Dai"
     },
     {
+      "asn_number": 203309,
+      "asn_name": "Liangyi Ma"
+    },
+    {
       "asn_number": 203236,
       "asn_name": "Mingyang Shen"
     },
@@ -2153,6 +2149,10 @@
     {
       "asn_number": 151251,
       "asn_name": "Chengdu Qianzhiyunfu Technology Co., Ltd."
+    },
+    {
+      "asn_number": 151232,
+      "asn_name": "Sichuan Ruisu Technology Co., LTD"
     },
     {
       "asn_number": 151229,
