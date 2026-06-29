@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-06-28 05:11:57",
+    "last_updated_utc": "2026-06-29 05:24:21",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5230
   },
@@ -131,12 +131,12 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 140633,
@@ -199,10 +199,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
@@ -225,6 +221,10 @@
     {
       "asn_number": 136958,
       "asn_name": "China Unicom Guangdong IP network"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 63648,
@@ -1147,6 +1147,10 @@
       "asn_name": "Tianjin Tianzhan Technology Co., Ltd."
     },
     {
+      "asn_number": 215786,
+      "asn_name": "Peng Wang"
+    },
+    {
       "asn_number": 214848,
       "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
     },
@@ -1969,10 +1973,6 @@
     {
       "asn_number": 23611,
       "asn_name": "CHINANET Gansu province network"
-    },
-    {
-      "asn_number": 215786,
-      "asn_name": "Peng Wang"
     },
     {
       "asn_number": 215502,
