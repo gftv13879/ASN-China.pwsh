@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-06-29 05:24:21",
+    "last_updated_utc": "2026-06-30 04:57:07",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5230
+    "entry_count": 5229
   },
   "asns": [
     {
@@ -111,16 +111,16 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
+    },
+    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 202782,
       "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 58879,
@@ -199,6 +199,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
     },
@@ -221,10 +225,6 @@
     {
       "asn_number": 136958,
       "asn_name": "China Unicom Guangdong IP network"
-    },
-    {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 63648,
@@ -479,6 +479,10 @@
       "asn_name": "Shanghai Kuanhui Tech. Co.,ltd"
     },
     {
+      "asn_number": 59009,
+      "asn_name": "QingDao WangXin Telcom Corp. Limited"
+    },
+    {
       "asn_number": 58866,
       "asn_name": "China Financial Certification Authority"
     },
@@ -559,10 +563,6 @@
       "asn_name": "State Power Information Net"
     },
     {
-      "asn_number": 18239,
-      "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
-    },
-    {
       "asn_number": 18118,
       "asn_name": "CITIC Networks Management Co.,Ltd."
     },
@@ -585,6 +585,10 @@
     {
       "asn_number": 146814,
       "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
+    },
+    {
+      "asn_number": 142433,
+      "asn_name": "DATAWAVE GLOBAL LLC"
     },
     {
       "asn_number": 141425,
@@ -647,6 +651,10 @@
       "asn_name": "Data Management Centre National Bureau of Statistics of China"
     },
     {
+      "asn_number": 9389,
+      "asn_name": "BEIJING SHENZHOU GREATWALL COMMUNICATION"
+    },
+    {
       "asn_number": 7641,
       "asn_name": "China Broadcasting TV Net"
     },
@@ -685,10 +693,6 @@
     {
       "asn_number": 59012,
       "asn_name": "China Grain Reserves Group LTD.Company"
-    },
-    {
-      "asn_number": 59009,
-      "asn_name": "QingDao WangXin Telcom Corp. Limited"
     },
     {
       "asn_number": 58854,
@@ -781,6 +785,10 @@
     {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
+    },
+    {
+      "asn_number": 18239,
+      "asn_name": "NO.11 Xi San Huan Zhong Road,Beijing"
     },
     {
       "asn_number": 17969,
@@ -921,10 +929,6 @@
     {
       "asn_number": 9405,
       "asn_name": "Test platform Service Center"
-    },
-    {
-      "asn_number": 9389,
-      "asn_name": "BEIJING SHENZHOU GREATWALL COMMUNICATION"
     },
     {
       "asn_number": 9306,
@@ -1269,10 +1273,6 @@
     {
       "asn_number": 146758,
       "asn_name": "ShangHai Sensetime Technology Development Co., Ltd."
-    },
-    {
-      "asn_number": 142433,
-      "asn_name": "DATAWAVE GLOBAL LLC"
     },
     {
       "asn_number": 141998,
@@ -2801,10 +2801,6 @@
     {
       "asn_number": 49904,
       "asn_name": "Xiaodong Qi"
-    },
-    {
-      "asn_number": 49575,
-      "asn_name": "Dong Ran Yang"
     },
     {
       "asn_number": 45576,
