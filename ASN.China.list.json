@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-02 04:53:17",
+    "last_updated_utc": "2026-07-03 04:36:07",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5229
+    "entry_count": 5228
   },
   "asns": [
     {
@@ -159,16 +159,16 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 199310,
@@ -207,6 +207,10 @@
       "asn_name": "China TieTong Telecommunications Corporation"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 59019,
       "asn_name": "Beijing Kingsoft Cloud Internet Technology Co., Ltd"
     },
@@ -221,10 +225,6 @@
     {
       "asn_number": 10212,
       "asn_name": "China Enterprise ICT Solutions Limited"
-    },
-    {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 63648,
@@ -419,6 +419,14 @@
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
     },
     {
+      "asn_number": 204211,
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
+    },
+    {
       "asn_number": 154648,
       "asn_name": "TermRat Network Limited"
     },
@@ -525,14 +533,6 @@
     {
       "asn_number": 212532,
       "asn_name": "XIAO YANG WEN RUI"
-    },
-    {
-      "asn_number": 204211,
-      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
-    },
-    {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 18241,
@@ -879,6 +879,10 @@
       "asn_name": "China Telecom Fujian Fuzhou IDC"
     },
     {
+      "asn_number": 133478,
+      "asn_name": "Tencent Cloud Computing (Beijing) Co., Ltd"
+    },
+    {
       "asn_number": 133119,
       "asn_name": "China Unicom IP network"
     },
@@ -1021,6 +1025,10 @@
     {
       "asn_number": 58543,
       "asn_name": "China Telecom Guangdong IDC"
+    },
+    {
+      "asn_number": 58541,
+      "asn_name": "China Telecom Xiangtan"
     },
     {
       "asn_number": 58448,
@@ -1523,10 +1531,6 @@
       "asn_name": "DOORPOST Limited"
     },
     {
-      "asn_number": 133478,
-      "asn_name": "Tencent Cloud Computing (Beijing) Co., Ltd"
-    },
-    {
       "asn_number": 133465,
       "asn_name": "Duke Kunshan University"
     },
@@ -1733,10 +1737,6 @@
     {
       "asn_number": 58571,
       "asn_name": "CHINANET Guizhou province network"
-    },
-    {
-      "asn_number": 58541,
-      "asn_name": "China Telecom Xiangtan"
     },
     {
       "asn_number": 58539,
@@ -20917,10 +20917,6 @@
     {
       "asn_number": 131526,
       "asn_name": "XINJIANG BROADCAST NETWORK CO.,LTD"
-    },
-    {
-      "asn_number": 131521,
-      "asn_name": "Haitong Securities Company Limited"
     }
   ]
 }
