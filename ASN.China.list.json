@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-05 04:51:12",
+    "last_updated_utc": "2026-07-06 05:03:37",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5230
   },
@@ -55,12 +55,12 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 133865,
@@ -111,16 +111,16 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
+      "asn_number": 135426,
+      "asn_name": "ZTE Corporation"
+    },
+    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 202782,
       "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
-      "asn_number": 135426,
-      "asn_name": "ZTE Corporation"
     },
     {
       "asn_number": 58879,
@@ -147,10 +147,6 @@
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 23724,
-      "asn_name": "IDC, China Telecommunications Corporation"
-    },
-    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
     },
@@ -159,8 +155,8 @@
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
+      "asn_number": 23724,
+      "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
       "asn_number": 24490,
@@ -171,8 +167,8 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 137995,
@@ -219,16 +215,16 @@
       "asn_name": "CHINANET SiChuan Telecom Internet Data Center"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 136958,
       "asn_name": "China Unicom Guangdong IP network"
     },
     {
       "asn_number": 10212,
       "asn_name": "China Enterprise ICT Solutions Limited"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 63648,
@@ -425,6 +421,10 @@
     {
       "asn_number": 201674,
       "asn_name": "Wen ZhangYu"
+    },
+    {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 154648,
