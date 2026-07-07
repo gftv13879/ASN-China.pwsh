@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-06 05:03:37",
+    "last_updated_utc": "2026-07-07 04:43:06",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5230
+    "entry_count": 5232
   },
   "asns": [
     {
@@ -55,12 +55,12 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 4847,
       "asn_name": "China Networks Inter-Exchange"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 133865,
@@ -107,6 +107,10 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
+    },
+    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
@@ -117,10 +121,6 @@
     {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
-    },
-    {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 58879,
@@ -423,10 +423,6 @@
       "asn_name": "Wen ZhangYu"
     },
     {
-      "asn_number": 199310,
-      "asn_name": "XIN BING XIAN"
-    },
-    {
       "asn_number": 154648,
       "asn_name": "TermRat Network Limited"
     },
@@ -539,10 +535,6 @@
       "asn_name": "XIAO YANG WEN RUI"
     },
     {
-      "asn_number": 204211,
-      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
-    },
-    {
       "asn_number": 18241,
       "asn_name": "State Power Information Net"
     },
@@ -561,10 +553,6 @@
     {
       "asn_number": 153376,
       "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
-      "asn_number": 152711,
-      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
       "asn_number": 141425,
@@ -767,6 +755,10 @@
       "asn_name": "Ye Liliang"
     },
     {
+      "asn_number": 214848,
+      "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 214575,
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
@@ -781,6 +773,10 @@
     {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
+    },
+    {
+      "asn_number": 204211,
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
       "asn_number": 18239,
@@ -825,6 +821,10 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 152711,
+      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
       "asn_number": 151313,
@@ -1171,14 +1171,6 @@
       "asn_name": "Tianjin Tianzhan Technology Co., Ltd."
     },
     {
-      "asn_number": 215786,
-      "asn_name": "Peng Wang"
-    },
-    {
-      "asn_number": 214848,
-      "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
-    },
-    {
       "asn_number": 211265,
       "asn_name": "GUI JIANG"
     },
@@ -1233,6 +1225,10 @@
     {
       "asn_number": 152930,
       "asn_name": "Lin Xiangliang"
+    },
+    {
+      "asn_number": 152922,
+      "asn_name": "Zhang Fuyu"
     },
     {
       "asn_number": 152920,
@@ -1787,6 +1783,10 @@
       "asn_name": "China Telecom"
     },
     {
+      "asn_number": 58026,
+      "asn_name": "Xiamen Jiufu Network Co., Ltd."
+    },
+    {
       "asn_number": 56045,
       "asn_name": "China Mobile communications corporation"
     },
@@ -2015,6 +2015,10 @@
       "asn_name": "CHINANET Gansu province network"
     },
     {
+      "asn_number": 215786,
+      "asn_name": "Peng Wang"
+    },
+    {
       "asn_number": 215502,
       "asn_name": "Xing Qingyu"
     },
@@ -2061,6 +2065,10 @@
     {
       "asn_number": 203236,
       "asn_name": "Mingyang Shen"
+    },
+    {
+      "asn_number": 199310,
+      "asn_name": "XIN BING XIAN"
     },
     {
       "asn_number": 18257,
@@ -2113,10 +2121,6 @@
     {
       "asn_number": 153057,
       "asn_name": "Li Ruizhi"
-    },
-    {
-      "asn_number": 152922,
-      "asn_name": "Zhang Fuyu"
     },
     {
       "asn_number": 152598,
@@ -3329,6 +3333,10 @@
     {
       "asn_number": 198135,
       "asn_name": "YONG LI"
+    },
+    {
+      "asn_number": 198078,
+      "asn_name": ""
     },
     {
       "asn_number": 198025,
