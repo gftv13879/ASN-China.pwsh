@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-07 04:43:06",
+    "last_updated_utc": "2026-07-08 04:09:09",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5232
+    "entry_count": 5233
   },
   "asns": [
     {
@@ -55,12 +55,12 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 133865,
@@ -99,12 +99,12 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 146788,
       "asn_name": "China Broadcasting Network Co., Ltd"
+    },
+    {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 202782,
@@ -223,10 +223,6 @@
       "asn_name": "China Enterprise ICT Solutions Limited"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 63648,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
@@ -235,8 +231,8 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
-      "asn_number": 139138,
-      "asn_name": "Gopay Information Technology Co.,Ltd"
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 9814,
@@ -293,6 +289,10 @@
     {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
+    },
+    {
+      "asn_number": 139138,
+      "asn_name": "Gopay Information Technology Co.,Ltd"
     },
     {
       "asn_number": 137801,
@@ -599,10 +599,6 @@
       "asn_name": "CHINANET Nanjing Jishan IDC network"
     },
     {
-      "asn_number": 133475,
-      "asn_name": "New York University ASN"
-    },
-    {
       "asn_number": 9939,
       "asn_name": "DYXNET of Shenzhen Communication Co., Ltd."
     },
@@ -799,10 +795,6 @@
       "asn_name": "China Unicom IP network China169 Guangdong province"
     },
     {
-      "asn_number": 17789,
-      "asn_name": "CNCGROUP IP network of ShangHai IDC"
-    },
-    {
       "asn_number": 17781,
       "asn_name": "XINHUA NEWS AGENCY"
     },
@@ -901,6 +893,10 @@
     {
       "asn_number": 133478,
       "asn_name": "Tencent Cloud Computing (Beijing) Co., Ltd"
+    },
+    {
+      "asn_number": 133475,
+      "asn_name": "New York University ASN"
     },
     {
       "asn_number": 133119,
@@ -1207,6 +1203,10 @@
       "asn_name": "asn for Liaoning Provincial Net of CT"
     },
     {
+      "asn_number": 17789,
+      "asn_name": "CNCGROUP IP network of ShangHai IDC"
+    },
+    {
       "asn_number": 17739,
       "asn_name": "Shanghai Telecom Haplink Network Co., Ltd"
     },
@@ -1225,10 +1225,6 @@
     {
       "asn_number": 152930,
       "asn_name": "Lin Xiangliang"
-    },
-    {
-      "asn_number": 152922,
-      "asn_name": "Zhang Fuyu"
     },
     {
       "asn_number": 152920,
@@ -2123,6 +2119,10 @@
       "asn_name": "Li Ruizhi"
     },
     {
+      "asn_number": 152922,
+      "asn_name": "Zhang Fuyu"
+    },
+    {
       "asn_number": 152598,
       "asn_name": "Beijing Gong Gong Fa Technology Co Ltd"
     },
@@ -2137,6 +2137,10 @@
     {
       "asn_number": 151823,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 151490,
+      "asn_name": "GaonIT"
     },
     {
       "asn_number": 151464,
@@ -2927,6 +2931,10 @@
       "asn_name": "Xiang Zhou"
     },
     {
+      "asn_number": 219289,
+      "asn_name": "Jiang Songyang"
+    },
+    {
       "asn_number": 216412,
       "asn_name": "YANG FANG"
     },
@@ -3445,10 +3453,6 @@
     {
       "asn_number": 151674,
       "asn_name": "Cheng Yijia"
-    },
-    {
-      "asn_number": 151490,
-      "asn_name": "GaonIT"
     },
     {
       "asn_number": 151462,
