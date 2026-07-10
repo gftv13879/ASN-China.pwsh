@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-09 04:42:54",
+    "last_updated_utc": "2026-07-10 04:43:45",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5234
   },
@@ -3100,7 +3100,7 @@
     },
     {
       "asn_number": 210773,
-      "asn_name": "Xinyu Chen"
+      "asn_name": "Yujie Zhao"
     },
     {
       "asn_number": 210738,
