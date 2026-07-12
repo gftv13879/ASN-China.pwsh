@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-11 04:06:51",
+    "last_updated_utc": "2026-07-12 04:20:50",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5235
   },
@@ -143,8 +143,8 @@
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
-      "asn_number": 23724,
-      "asn_name": "IDC, China Telecommunications Corporation"
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 55990,
@@ -155,8 +155,8 @@
       "asn_name": "Shenzhen Tencent Computer Systems Company Limited"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
+      "asn_number": 23724,
+      "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
       "asn_number": 24490,
@@ -271,6 +271,10 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
     },
@@ -335,16 +339,8 @@
       "asn_name": "21vianet(China) Inc."
     },
     {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 209294,
@@ -353,10 +349,6 @@
     {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
-    },
-    {
-      "asn_number": 138538,
-      "asn_name": "VPSOR-GLOBAL"
     },
     {
       "asn_number": 137735,
@@ -417,6 +409,10 @@
     {
       "asn_number": 24424,
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 201674,
@@ -573,6 +569,10 @@
     {
       "asn_number": 138950,
       "asn_name": "Jiangsu Wuxi International IDC network"
+    },
+    {
+      "asn_number": 138538,
+      "asn_name": "VPSOR-GLOBAL"
     },
     {
       "asn_number": 137702,
@@ -827,6 +827,10 @@
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
     {
+      "asn_number": 152631,
+      "asn_name": "Xyhelper Inc"
+    },
+    {
       "asn_number": 151313,
       "asn_name": "Pacific Insurance Technology Co., Ltd"
     },
@@ -845,6 +849,10 @@
     {
       "asn_number": 146814,
       "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
+    },
+    {
+      "asn_number": 141429,
+      "asn_name": "Agatha Network"
     },
     {
       "asn_number": 140895,
@@ -1239,10 +1247,6 @@
       "asn_name": "Nanning Huifa Technology Co Ltd"
     },
     {
-      "asn_number": 152631,
-      "asn_name": "Xyhelper Inc"
-    },
-    {
       "asn_number": 152186,
       "asn_name": "Mintel Holding Limited"
     },
@@ -1299,10 +1303,6 @@
       "asn_name": "Hubei Feixun Network Co., Ltd"
     },
     {
-      "asn_number": 146813,
-      "asn_name": "Shanghai Suiji Networks Tech. Co. Ltd."
-    },
-    {
       "asn_number": 146812,
       "asn_name": "Deutsche Bank (China) Co., Ltd. Shanghai Branch"
     },
@@ -1329,10 +1329,6 @@
     {
       "asn_number": 141445,
       "asn_name": "Phoenix Network"
-    },
-    {
-      "asn_number": 141429,
-      "asn_name": "Agatha Network"
     },
     {
       "asn_number": 141005,
@@ -2245,6 +2241,10 @@
     {
       "asn_number": 146835,
       "asn_name": "Nanchang index technology development Co.,LTD"
+    },
+    {
+      "asn_number": 146813,
+      "asn_name": "Shanghai Suiji Networks Tech. Co. Ltd."
     },
     {
       "asn_number": 146810,
