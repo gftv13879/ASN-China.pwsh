@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-13 04:24:52",
+    "last_updated_utc": "2026-07-14 03:51:48",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5235
+    "entry_count": 5236
   },
   "asns": [
     {
@@ -87,6 +87,10 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
+      "asn_number": 208754,
+      "asn_name": "XingRui Li"
+    },
+    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
@@ -139,16 +143,16 @@
       "asn_name": "BILIBILI HK LIMITED"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 45090,
@@ -269,10 +273,6 @@
     {
       "asn_number": 24406,
       "asn_name": "China Internet Network Infomation Center"
-    },
-    {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
       "asn_number": 212237,
@@ -409,6 +409,10 @@
     {
       "asn_number": 24424,
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
+    },
+    {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
       "asn_number": 210352,
@@ -623,10 +627,6 @@
       "asn_name": "Data Management Centre National Bureau of Statistics of China"
     },
     {
-      "asn_number": 7721,
-      "asn_name": "Qin Cloud Networks"
-    },
-    {
       "asn_number": 7641,
       "asn_name": "China Broadcasting TV Net"
     },
@@ -765,10 +765,6 @@
     {
       "asn_number": 214848,
       "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 213625,
@@ -949,6 +945,10 @@
     {
       "asn_number": 9306,
       "asn_name": "RongHua Road No.11, Beijing Economy Technology Development Area, 100176"
+    },
+    {
+      "asn_number": 7721,
+      "asn_name": "Qin Cloud Networks"
     },
     {
       "asn_number": 7653,
@@ -1175,6 +1175,10 @@
       "asn_name": "Peng Wang"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 211265,
       "asn_name": "GUI JIANG"
     },
@@ -1245,6 +1249,10 @@
     {
       "asn_number": 152697,
       "asn_name": "Nanning Huifa Technology Co Ltd"
+    },
+    {
+      "asn_number": 152598,
+      "asn_name": "Beijing Gong Gong Fa Technology Co Ltd"
     },
     {
       "asn_number": 152186,
@@ -2127,10 +2135,6 @@
       "asn_name": "Zhang Fuyu"
     },
     {
-      "asn_number": 152598,
-      "asn_name": "Beijing Gong Gong Fa Technology Co Ltd"
-    },
-    {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
     },
@@ -2943,6 +2947,10 @@
       "asn_name": "Jiang Songyang"
     },
     {
+      "asn_number": 219283,
+      "asn_name": "Haohao Zhang"
+    },
+    {
       "asn_number": 216412,
       "asn_name": "YANG FANG"
     },
@@ -3141,10 +3149,6 @@
     {
       "asn_number": 209218,
       "asn_name": "Yang Qi"
-    },
-    {
-      "asn_number": 208754,
-      "asn_name": "XingRui Li"
     },
     {
       "asn_number": 208679,
