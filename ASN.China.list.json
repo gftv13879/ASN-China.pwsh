@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-14 03:51:48",
+    "last_updated_utc": "2026-07-15 03:52:57",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5236
+    "entry_count": 5238
   },
   "asns": [
     {
@@ -51,12 +51,12 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 133865,
@@ -119,12 +119,12 @@
       "asn_name": "China Netcom Backbone"
     },
     {
-      "asn_number": 58879,
-      "asn_name": "Shanghai ruisu network technology co.,LTD"
-    },
-    {
       "asn_number": 202782,
       "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 58879,
+      "asn_name": "Shanghai ruisu network technology co.,LTD"
     },
     {
       "asn_number": 134578,
@@ -139,20 +139,20 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
     },
     {
-      "asn_number": 55990,
-      "asn_name": "Huawei Cloud Service data center"
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 55990,
+      "asn_name": "Huawei Cloud Service data center"
     },
     {
       "asn_number": 45090,
@@ -199,12 +199,12 @@
       "asn_name": "CHINANET Guangdong province network"
     },
     {
-      "asn_number": 24151,
-      "asn_name": "China Internet Network Infomation Center"
-    },
-    {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
+    },
+    {
+      "asn_number": 24151,
+      "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 24138,
@@ -259,6 +259,10 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 38345,
+      "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
+    },
+    {
       "asn_number": 24489,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
@@ -277,6 +281,10 @@
     {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 17623,
@@ -327,10 +335,6 @@
       "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
     {
-      "asn_number": 38345,
-      "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
-    },
-    {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
     },
@@ -343,8 +347,8 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 17622,
@@ -413,10 +417,6 @@
     {
       "asn_number": 23911,
       "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 201674,
@@ -557,6 +557,10 @@
     {
       "asn_number": 153376,
       "asn_name": "Jilin Province Brick Business Service Limited"
+    },
+    {
+      "asn_number": 146814,
+      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141425,
@@ -841,10 +845,6 @@
     {
       "asn_number": 146842,
       "asn_name": "ChinaDataCom Corporation Limited"
-    },
-    {
-      "asn_number": 146814,
-      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141429,
@@ -1175,10 +1175,6 @@
       "asn_name": "Peng Wang"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 211265,
       "asn_name": "GUI JIANG"
     },
@@ -1297,6 +1293,10 @@
     {
       "asn_number": 149304,
       "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 148982,
+      "asn_name": "Bijie Qiulin Information Technology"
     },
     {
       "asn_number": 146841,
@@ -2031,6 +2031,10 @@
       "asn_name": "Xing Qingyu"
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 214439,
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
@@ -2217,10 +2221,6 @@
     {
       "asn_number": 149178,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 148982,
-      "asn_name": "Bijie Qiulin Information Technology"
     },
     {
       "asn_number": 148969,
@@ -2803,6 +2803,10 @@
       "asn_name": "Hangzhou Aron Teconology Co.,Ltd."
     },
     {
+      "asn_number": 10981,
+      "asn_name": "Educational Solutions LLC"
+    },
+    {
       "asn_number": 9425,
       "asn_name": "Future Internet Technology Infrastructure (FITI)"
     },
@@ -2941,6 +2945,10 @@
     {
       "asn_number": 219332,
       "asn_name": "Xiang Zhou"
+    },
+    {
+      "asn_number": 219300,
+      "asn_name": "Yan Xiangdong"
     },
     {
       "asn_number": 219289,
