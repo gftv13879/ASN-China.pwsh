@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-15 03:52:57",
+    "last_updated_utc": "2026-07-16 03:55:55",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5238
   },
@@ -87,10 +87,6 @@
       "asn_name": "China Unicom Shanghai network"
     },
     {
-      "asn_number": 208754,
-      "asn_name": "XingRui Li"
-    },
-    {
       "asn_number": 142111,
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
@@ -141,6 +137,10 @@
     {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 208754,
+      "asn_name": "XingRui Li"
     },
     {
       "asn_number": 140633,
@@ -199,12 +199,12 @@
       "asn_name": "CHINANET Guangdong province network"
     },
     {
-      "asn_number": 59045,
-      "asn_name": "Guangzhou navigation information technology co., LTD"
-    },
-    {
       "asn_number": 24151,
       "asn_name": "China Internet Network Infomation Center"
+    },
+    {
+      "asn_number": 59045,
+      "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 24138,
@@ -423,6 +423,10 @@
       "asn_name": "Wen ZhangYu"
     },
     {
+      "asn_number": 17962,
+      "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
+    },
+    {
       "asn_number": 154648,
       "asn_name": "TermRat Network Limited"
     },
@@ -543,10 +547,6 @@
       "asn_name": "State Power Information Net"
     },
     {
-      "asn_number": 17962,
-      "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
-    },
-    {
       "asn_number": 17775,
       "asn_name": "shanghai science and technology network communication limited company"
     },
@@ -557,10 +557,6 @@
     {
       "asn_number": 153376,
       "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
-      "asn_number": 146814,
-      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141425,
@@ -845,6 +841,10 @@
     {
       "asn_number": 146842,
       "asn_name": "ChinaDataCom Corporation Limited"
+    },
+    {
+      "asn_number": 146814,
+      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141429,
@@ -1771,6 +1771,10 @@
       "asn_name": "Beijing Yunlin Network Technology Co.,Ltd."
     },
     {
+      "asn_number": 58858,
+      "asn_name": "China Internet Network Infomation Center"
+    },
+    {
       "asn_number": 58851,
       "asn_name": "Priority of Fashion(Beijing)Information Technology Co.,Ltd"
     },
@@ -1889,10 +1893,6 @@
     {
       "asn_number": 38372,
       "asn_name": "Foshan Tongyuan Intelligent Technology Co., Ltd"
-    },
-    {
-      "asn_number": 38371,
-      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 38364,
