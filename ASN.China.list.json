@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-18 03:48:51",
+    "last_updated_utc": "2026-07-19 04:17:08",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5238
+    "entry_count": 5239
   },
   "asns": [
     {
@@ -51,12 +51,12 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 139799,
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 133865,
@@ -415,6 +415,10 @@
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
     },
     {
+      "asn_number": 204211,
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 201674,
       "asn_name": "Wen ZhangYu"
     },
@@ -533,10 +537,6 @@
     {
       "asn_number": 212532,
       "asn_name": "XIAO YANG WEN RUI"
-    },
-    {
-      "asn_number": 204211,
-      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
       "asn_number": 18241,
@@ -1245,10 +1245,6 @@
     {
       "asn_number": 152092,
       "asn_name": "Henan Angran Cloud Computing Technology Co. Ltd"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151300,
@@ -2143,6 +2139,10 @@
       "asn_name": "China Unicom TianJing GaoCun IDC network"
     },
     {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
+    },
+    {
       "asn_number": 151823,
       "asn_name": "China Telecom"
     },
@@ -2957,6 +2957,10 @@
     {
       "asn_number": 219283,
       "asn_name": "Haohao Zhang"
+    },
+    {
+      "asn_number": 219207,
+      "asn_name": "YIYUAN CHEN"
     },
     {
       "asn_number": 216412,
