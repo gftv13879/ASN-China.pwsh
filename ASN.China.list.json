@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-19 04:17:08",
+    "last_updated_utc": "2026-07-20 04:31:42",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5239
   },
@@ -51,12 +51,12 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 4847,
       "asn_name": "China Networks Inter-Exchange"
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 133865,
@@ -143,12 +143,12 @@
       "asn_name": "BILIBILI HK LIMITED"
     },
     {
-      "asn_number": 55990,
-      "asn_name": "Huawei Cloud Service data center"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 55990,
+      "asn_name": "Huawei Cloud Service data center"
     },
     {
       "asn_number": 45090,
@@ -355,10 +355,6 @@
       "asn_name": "China Unicom Guangzhou network"
     },
     {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
-    },
-    {
       "asn_number": 137735,
       "asn_name": "China Construction Bank"
     },
@@ -449,6 +445,10 @@
     {
       "asn_number": 138421,
       "asn_name": "China Unicom"
+    },
+    {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137746,
@@ -549,10 +549,6 @@
     {
       "asn_number": 17429,
       "asn_name": "BEIJING GEHUA CATV NETWORK CO.LTD"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 141425,
@@ -813,6 +809,10 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152711,
