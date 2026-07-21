@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-20 04:31:42",
+    "last_updated_utc": "2026-07-21 04:10:18",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5239
   },
@@ -351,8 +351,16 @@
       "asn_name": "Yijia Xu"
     },
     {
+      "asn_number": 204211,
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
+    },
+    {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137735,
@@ -411,10 +419,6 @@
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
     },
     {
-      "asn_number": 204211,
-      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
-    },
-    {
       "asn_number": 201674,
       "asn_name": "Wen ZhangYu"
     },
@@ -445,10 +449,6 @@
     {
       "asn_number": 138421,
       "asn_name": "China Unicom"
-    },
-    {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137746,
@@ -1181,6 +1181,10 @@
     {
       "asn_number": 209300,
       "asn_name": "Wende Tan"
+    },
+    {
+      "asn_number": 203309,
+      "asn_name": "Liangyi Ma"
     },
     {
       "asn_number": 202335,
@@ -2061,10 +2065,6 @@
     {
       "asn_number": 205152,
       "asn_name": "Han Dai"
-    },
-    {
-      "asn_number": 203309,
-      "asn_name": "Liangyi Ma"
     },
     {
       "asn_number": 203236,
