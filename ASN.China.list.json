@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-26 04:21:12",
+    "last_updated_utc": "2026-07-27 04:31:27",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5243
   },
@@ -55,12 +55,12 @@
       "asn_name": "China Networks Inter-Exchange"
     },
     {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 9808,
@@ -127,10 +127,6 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
@@ -139,12 +135,16 @@
       "asn_name": "BILIBILI HK LIMITED"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 55990,
@@ -223,6 +223,10 @@
       "asn_name": "China Enterprise ICT Solutions Limited"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 63648,
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
@@ -283,8 +287,8 @@
       "asn_name": "Changgong Zhang"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 204211,
@@ -345,10 +349,6 @@
     {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 17622,
@@ -521,10 +521,6 @@
     {
       "asn_number": 37942,
       "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
-    },
-    {
-      "asn_number": 24547,
-      "asn_name": "Hebei Mobile Communication Company Limited"
     },
     {
       "asn_number": 24430,
@@ -731,6 +727,10 @@
       "asn_name": "Zhejiang WuLian Network Technology Co.,Ltd."
     },
     {
+      "asn_number": 24547,
+      "asn_name": "Hebei Mobile Communication Company Limited"
+    },
+    {
       "asn_number": 24427,
       "asn_name": "Freecomm Corporation"
     },
@@ -769,6 +769,10 @@
     {
       "asn_number": 214848,
       "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 213625,
@@ -1071,10 +1075,6 @@
       "asn_name": "CONAC (China Organizational Name Administration Center)"
     },
     {
-      "asn_number": 56044,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
       "asn_number": 56042,
       "asn_name": "China Mobile communications corporation"
     },
@@ -1149,10 +1149,6 @@
     {
       "asn_number": 38367,
       "asn_name": "20/F.,Kuntai International Mansion,Buiding1 Yi No.12"
-    },
-    {
-      "asn_number": 24445,
-      "asn_name": "Henan Mobile Communications Co.,Ltd"
     },
     {
       "asn_number": 24369,
@@ -1607,10 +1603,6 @@
       "asn_name": "HEILONGJIANG RADIO & TV NETWORK CO.,LTD"
     },
     {
-      "asn_number": 131483,
-      "asn_name": "Jiangsu Dongyun Cloud computing co., LTD"
-    },
-    {
       "asn_number": 131325,
       "asn_name": "China Telecom KunMing"
     },
@@ -1807,6 +1799,10 @@
       "asn_name": "China Mobile communications corporation"
     },
     {
+      "asn_number": 56044,
+      "asn_name": "China Mobile communications corporation"
+    },
+    {
       "asn_number": 56015,
       "asn_name": "China Sports Lottery Technology Development Co., Ltd"
     },
@@ -1919,6 +1915,10 @@
       "asn_name": "15F,Ideal Plaza No.58 Bei Si Huan Xi Road"
     },
     {
+      "asn_number": 24445,
+      "asn_name": "Henan Mobile Communications Co.,Ltd"
+    },
+    {
       "asn_number": 24423,
       "asn_name": "No. 207 Hualin Road, Fuzhou, Fujian, China"
     },
@@ -2025,10 +2025,6 @@
     {
       "asn_number": 215502,
       "asn_name": "Xing Qingyu"
-    },
-    {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
       "asn_number": 214439,
@@ -2821,6 +2817,10 @@
     {
       "asn_number": 131490,
       "asn_name": "CERNET Corporation"
+    },
+    {
+      "asn_number": 131483,
+      "asn_name": "Jiangsu Dongyun Cloud computing co., LTD"
     },
     {
       "asn_number": 131482,
