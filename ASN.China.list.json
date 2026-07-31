@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-30 03:50:48",
+    "last_updated_utc": "2026-07-31 04:16:49",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5241
+    "entry_count": 5242
   },
   "asns": [
     {
@@ -103,12 +103,12 @@
       "asn_name": "China Broadcasting Network Co., Ltd"
     },
     {
-      "asn_number": 137753,
-      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
-    },
-    {
       "asn_number": 135426,
       "asn_name": "ZTE Corporation"
+    },
+    {
+      "asn_number": 137753,
+      "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
       "asn_number": 202782,
@@ -127,10 +127,6 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 4842,
-      "asn_name": "Tianhai InfoTech"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
@@ -139,12 +135,16 @@
       "asn_name": "BILIBILI HK LIMITED"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+      "asn_number": 4842,
+      "asn_name": "Tianhai InfoTech"
     },
     {
       "asn_number": 213605,
       "asn_name": "Liu HaoRan"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 55990,
@@ -163,16 +163,16 @@
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
+      "asn_number": 137995,
+      "asn_name": "Shuangyu Communications Technology Co., Limited"
+    },
+    {
       "asn_number": 4811,
       "asn_name": "China Telecom (Group)"
     },
     {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
-    },
-    {
-      "asn_number": 137995,
-      "asn_name": "Shuangyu Communications Technology Co., Limited"
     },
     {
       "asn_number": 137718,
@@ -467,6 +467,10 @@
       "asn_name": "Oriental Cable Network Co., Ltd."
     },
     {
+      "asn_number": 7641,
+      "asn_name": "China Broadcasting TV Net"
+    },
+    {
       "asn_number": 59083,
       "asn_name": "Shanghai Kuanhui Tech. Co.,ltd"
     },
@@ -501,10 +505,6 @@
     {
       "asn_number": 45062,
       "asn_name": "NetEase Building No.16 Ke Yun Road,"
-    },
-    {
-      "asn_number": 42962,
-      "asn_name": "CoreLink Network"
     },
     {
       "asn_number": 38381,
@@ -619,10 +619,6 @@
       "asn_name": "Data Management Centre National Bureau of Statistics of China"
     },
     {
-      "asn_number": 7641,
-      "asn_name": "China Broadcasting TV Net"
-    },
-    {
       "asn_number": 63701,
       "asn_name": "Jishi Media Co ., Ltd."
     },
@@ -701,6 +697,10 @@
     {
       "asn_number": 45061,
       "asn_name": "Shanghai Information Network Co.,Ltd."
+    },
+    {
+      "asn_number": 42962,
+      "asn_name": "CoreLink Network"
     },
     {
       "asn_number": 38358,
@@ -789,6 +789,10 @@
     {
       "asn_number": 17816,
       "asn_name": "China Unicom IP network China169 Guangdong province"
+    },
+    {
+      "asn_number": 17789,
+      "asn_name": "CNCGROUP IP network of ShangHai IDC"
     },
     {
       "asn_number": 17781,
@@ -1183,10 +1187,6 @@
       "asn_name": "asn for Liaoning Provincial Net of CT"
     },
     {
-      "asn_number": 17789,
-      "asn_name": "CNCGROUP IP network of ShangHai IDC"
-    },
-    {
       "asn_number": 17739,
       "asn_name": "Shanghai Telecom Haplink Network Co., Ltd"
     },
@@ -1215,10 +1215,6 @@
       "asn_name": "HSBC Software Development (Guangdong) Limited Shanghai Branch"
     },
     {
-      "asn_number": 151232,
-      "asn_name": "Sichuan Ruisu Technology Co., LTD"
-    },
-    {
       "asn_number": 151231,
       "asn_name": "GOOGLE CHINA INFOTECH OU"
     },
@@ -1233,10 +1229,6 @@
     {
       "asn_number": 149511,
       "asn_name": "Yamu Technologies Co., Ltd."
-    },
-    {
-      "asn_number": 149304,
-      "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
     },
     {
       "asn_number": 148982,
@@ -2175,6 +2167,10 @@
       "asn_name": "Chengdu Qianzhiyunfu Technology Co., Ltd."
     },
     {
+      "asn_number": 151232,
+      "asn_name": "Sichuan Ruisu Technology Co., LTD"
+    },
+    {
       "asn_number": 151229,
       "asn_name": "Shenyang Aerospace University"
     },
@@ -2201,6 +2197,14 @@
     {
       "asn_number": 149510,
       "asn_name": "Feng Libo"
+    },
+    {
+      "asn_number": 149464,
+      "asn_name": "CHINATELECOM Gansu province Jiayuguan 5G MAN network"
+    },
+    {
+      "asn_number": 149304,
+      "asn_name": "Shenzhen Qiyi Network Technology Co., Ltd."
     },
     {
       "asn_number": 149178,
