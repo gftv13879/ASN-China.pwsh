@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-07-31 04:16:49",
+    "last_updated_utc": "2026-08-01 04:16:20",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5242
   },
@@ -51,16 +51,16 @@
       "asn_name": "Wu Zhiyuan"
     },
     {
+      "asn_number": 139799,
+      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
+    },
+    {
       "asn_number": 4847,
       "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
-    },
-    {
-      "asn_number": 139799,
-      "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
       "asn_number": 9808,
@@ -127,16 +127,16 @@
       "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 4842,
       "asn_name": "Tianhai InfoTech"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 213605,
@@ -233,6 +233,10 @@
     {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 139138,
@@ -339,8 +343,8 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 17622,
@@ -465,10 +469,6 @@
     {
       "asn_number": 9812,
       "asn_name": "Oriental Cable Network Co., Ltd."
-    },
-    {
-      "asn_number": 7641,
-      "asn_name": "China Broadcasting TV Net"
     },
     {
       "asn_number": 59083,
@@ -619,6 +619,10 @@
       "asn_name": "Data Management Centre National Bureau of Statistics of China"
     },
     {
+      "asn_number": 7641,
+      "asn_name": "China Broadcasting TV Net"
+    },
+    {
       "asn_number": 63701,
       "asn_name": "Jishi Media Co ., Ltd."
     },
@@ -767,6 +771,10 @@
       "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
     },
     {
+      "asn_number": 214575,
+      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
+    },
+    {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
     },
@@ -789,10 +797,6 @@
     {
       "asn_number": 17816,
       "asn_name": "China Unicom IP network China169 Guangdong province"
-    },
-    {
-      "asn_number": 17789,
-      "asn_name": "CNCGROUP IP network of ShangHai IDC"
     },
     {
       "asn_number": 17781,
@@ -1185,6 +1189,10 @@
     {
       "asn_number": 17799,
       "asn_name": "asn for Liaoning Provincial Net of CT"
+    },
+    {
+      "asn_number": 17789,
+      "asn_name": "CNCGROUP IP network of ShangHai IDC"
     },
     {
       "asn_number": 17739,
@@ -1971,10 +1979,6 @@
       "asn_name": "Xing Qingyu"
     },
     {
-      "asn_number": 214575,
-      "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
       "asn_number": 214439,
       "asn_name": "Zhuhai Xiyun Cloud Technology Co., Ltd."
     },
@@ -1993,10 +1997,6 @@
     {
       "asn_number": 210634,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 210176,
