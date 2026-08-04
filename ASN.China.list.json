@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-08-03 04:24:23",
+    "last_updated_utc": "2026-08-04 03:58:29",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5241
   },
@@ -111,12 +111,12 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 202782,
-      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
-    },
-    {
       "asn_number": 9929,
       "asn_name": "China Netcom Backbone"
+    },
+    {
+      "asn_number": 202782,
+      "asn_name": "Yaoheng Digital (Shanghai) Technology Co., Ltd."
     },
     {
       "asn_number": 134578,
@@ -179,12 +179,12 @@
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
-      "asn_number": 55996,
-      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
-    },
-    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 55996,
+      "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
     },
     {
       "asn_number": 58466,
@@ -239,6 +239,10 @@
       "asn_name": "Fan Zhang"
     },
     {
+      "asn_number": 17623,
+      "asn_name": "China Unicom Shenzen network"
+    },
+    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -287,20 +291,12 @@
       "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
-      "asn_number": 17623,
-      "asn_name": "China Unicom Shenzen network"
-    },
-    {
       "asn_number": 17428,
       "asn_name": "21Vianet.Co.,Ltd"
     },
     {
       "asn_number": 134774,
       "asn_name": "CHINANET Guangdong province Shenzhen MAN network"
-    },
-    {
-      "asn_number": 63641,
-      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
     },
     {
       "asn_number": 59078,
@@ -347,10 +343,6 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 17622,
       "asn_name": "China Unicom Guangzhou network"
     },
@@ -389,6 +381,10 @@
     {
       "asn_number": 9308,
       "asn_name": "Abitcool(China) Inc."
+    },
+    {
+      "asn_number": 63641,
+      "asn_name": "Mega Vantage Information Consulting Co., Ltd."
     },
     {
       "asn_number": 63631,
@@ -471,6 +467,10 @@
       "asn_name": "Oriental Cable Network Co., Ltd."
     },
     {
+      "asn_number": 7641,
+      "asn_name": "China Broadcasting TV Net"
+    },
+    {
       "asn_number": 59083,
       "asn_name": "Shanghai Kuanhui Tech. Co.,ltd"
     },
@@ -541,6 +541,10 @@
     {
       "asn_number": 18241,
       "asn_name": "State Power Information Net"
+    },
+    {
+      "asn_number": 17816,
+      "asn_name": "China Unicom IP network China169 Guangdong province"
     },
     {
       "asn_number": 17775,
@@ -619,8 +623,8 @@
       "asn_name": "Data Management Centre National Bureau of Statistics of China"
     },
     {
-      "asn_number": 7641,
-      "asn_name": "China Broadcasting TV Net"
+      "asn_number": 63722,
+      "asn_name": "Hodo Telecom Co,Ltd."
     },
     {
       "asn_number": 63701,
@@ -795,10 +799,6 @@
       "asn_name": "Beijing Dian-Xin-Tong Network Technologies Co., Ltd."
     },
     {
-      "asn_number": 17816,
-      "asn_name": "China Unicom IP network China169 Guangdong province"
-    },
-    {
       "asn_number": 17781,
       "asn_name": "XINHUA NEWS AGENCY"
     },
@@ -961,10 +961,6 @@
     {
       "asn_number": 63727,
       "asn_name": "Huawei"
-    },
-    {
-      "asn_number": 63722,
-      "asn_name": "Hodo Telecom Co,Ltd."
     },
     {
       "asn_number": 63718,
@@ -1535,10 +1531,6 @@
       "asn_name": "Wal-mart (China) Investment Co., Ltd."
     },
     {
-      "asn_number": 131539,
-      "asn_name": "Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd"
-    },
-    {
       "asn_number": 131506,
       "asn_name": "HEILONGJIANG RADIO & TV NETWORK CO.,LTD"
     },
@@ -1997,6 +1989,10 @@
     {
       "asn_number": 210634,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
+    },
+    {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 210176,
@@ -2769,6 +2765,10 @@
     {
       "asn_number": 131541,
       "asn_name": "APNIC 32-bit ASN block"
+    },
+    {
+      "asn_number": 131539,
+      "asn_name": "Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd"
     },
     {
       "asn_number": 131524,
