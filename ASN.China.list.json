@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-08-04 03:58:29",
+    "last_updated_utc": "2026-08-05 03:53:32",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5241
+    "entry_count": 5240
   },
   "asns": [
     {
@@ -139,12 +139,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 37963,
       "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 55990,
@@ -239,10 +239,6 @@
       "asn_name": "Fan Zhang"
     },
     {
-      "asn_number": 17623,
-      "asn_name": "China Unicom Shenzen network"
-    },
-    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -289,6 +285,10 @@
     {
       "asn_number": 204211,
       "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
+    },
+    {
+      "asn_number": 17623,
+      "asn_name": "China Unicom Shenzen network"
     },
     {
       "asn_number": 17428,
@@ -467,10 +467,6 @@
       "asn_name": "Oriental Cable Network Co., Ltd."
     },
     {
-      "asn_number": 7641,
-      "asn_name": "China Broadcasting TV Net"
-    },
-    {
       "asn_number": 59083,
       "asn_name": "Shanghai Kuanhui Tech. Co.,ltd"
     },
@@ -541,10 +537,6 @@
     {
       "asn_number": 18241,
       "asn_name": "State Power Information Net"
-    },
-    {
-      "asn_number": 17816,
-      "asn_name": "China Unicom IP network China169 Guangdong province"
     },
     {
       "asn_number": 17775,
@@ -621,6 +613,10 @@
     {
       "asn_number": 9807,
       "asn_name": "Data Management Centre National Bureau of Statistics of China"
+    },
+    {
+      "asn_number": 7641,
+      "asn_name": "China Broadcasting TV Net"
     },
     {
       "asn_number": 63722,
@@ -779,6 +775,10 @@
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 209306,
       "asn_name": "Jin Shaohai"
     },
@@ -797,6 +797,10 @@
     {
       "asn_number": 17964,
       "asn_name": "Beijing Dian-Xin-Tong Network Technologies Co., Ltd."
+    },
+    {
+      "asn_number": 17816,
+      "asn_name": "China Unicom IP network China169 Guangdong province"
     },
     {
       "asn_number": 17781,
@@ -1217,6 +1221,10 @@
     {
       "asn_number": 151247,
       "asn_name": "HSBC Software Development (Guangdong) Limited Shanghai Branch"
+    },
+    {
+      "asn_number": 151232,
+      "asn_name": "Sichuan Ruisu Technology Co., LTD"
     },
     {
       "asn_number": 151231,
@@ -1991,10 +1999,6 @@
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 210176,
       "asn_name": "Haoyi Xiang"
     },
@@ -2161,10 +2165,6 @@
     {
       "asn_number": 151251,
       "asn_name": "Chengdu Qianzhiyunfu Technology Co., Ltd."
-    },
-    {
-      "asn_number": 151232,
-      "asn_name": "Sichuan Ruisu Technology Co., LTD"
     },
     {
       "asn_number": 151229,
@@ -2809,10 +2809,6 @@
     {
       "asn_number": 9425,
       "asn_name": "Future Internet Technology Infrastructure (FITI)"
-    },
-    {
-      "asn_number": 60666,
-      "asn_name": "Beijing Chuangzhijie Technology Co.,Ltd"
     },
     {
       "asn_number": 59265,
