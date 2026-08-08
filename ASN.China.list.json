@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-08-07 03:43:22",
+    "last_updated_utc": "2026-08-08 02:50:56",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5224
   },
@@ -55,12 +55,12 @@
       "asn_name": "Beijing Dajia Internet Information Technology Co., Ltd."
     },
     {
-      "asn_number": 4847,
-      "asn_name": "China Networks Inter-Exchange"
-    },
-    {
       "asn_number": 133865,
       "asn_name": "Beijing IQIYI Science & Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4847,
+      "asn_name": "China Networks Inter-Exchange"
     },
     {
       "asn_number": 9808,
@@ -171,12 +171,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 137718,
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 55996,
@@ -235,6 +235,10 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
+    },
+    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -277,10 +281,6 @@
     {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
-    },
-    {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 204211,
