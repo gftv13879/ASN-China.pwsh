@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-08-13 03:22:12",
+    "last_updated_utc": "2026-08-14 03:19:51",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5224
+    "entry_count": 5223
   },
   "asns": [
     {
@@ -79,12 +79,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 17621,
-      "asn_name": "China Unicom Shanghai network"
-    },
-    {
       "asn_number": 24400,
       "asn_name": "Shanghai Mobile Communications Co.,Ltd."
+    },
+    {
+      "asn_number": 17621,
+      "asn_name": "China Unicom Shanghai network"
     },
     {
       "asn_number": 142111,
@@ -191,16 +191,16 @@
       "asn_name": "CHINANET Guangdong province network"
     },
     {
+      "asn_number": 56046,
+      "asn_name": "China Mobile communications corporation"
+    },
+    {
       "asn_number": 24151,
       "asn_name": "China Internet Network Infomation Center"
     },
     {
       "asn_number": 59045,
       "asn_name": "Guangzhou navigation information technology co., LTD"
-    },
-    {
-      "asn_number": 56046,
-      "asn_name": "China Mobile communications corporation"
     },
     {
       "asn_number": 38365,
@@ -351,10 +351,6 @@
       "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
-    },
-    {
       "asn_number": 136237,
       "asn_name": "Shuangyu Communication Technology co.,Ltd."
     },
@@ -449,6 +445,10 @@
     {
       "asn_number": 137801,
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137746,
@@ -571,10 +571,6 @@
       "asn_name": "China Telecom"
     },
     {
-      "asn_number": 146814,
-      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
-    },
-    {
       "asn_number": 141425,
       "asn_name": "China Mobile Group Guangdong communications corporation"
     },
@@ -651,16 +647,16 @@
       "asn_name": "Data Management Centre National Bureau of Statistics of China"
     },
     {
-      "asn_number": 9389,
-      "asn_name": "BEIJING SHENZHOU GREATWALL COMMUNICATION"
-    },
-    {
       "asn_number": 7641,
       "asn_name": "China Broadcasting TV Net"
     },
     {
       "asn_number": 63838,
       "asn_name": "China Telecom Hengyang"
+    },
+    {
+      "asn_number": 63722,
+      "asn_name": "Hodo Telecom Co,Ltd."
     },
     {
       "asn_number": 63701,
@@ -867,10 +863,6 @@
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
     },
     {
-      "asn_number": 151640,
-      "asn_name": "Bengbu Qingye Technology"
-    },
-    {
       "asn_number": 151313,
       "asn_name": "Pacific Insurance Technology Co., Ltd"
     },
@@ -885,6 +877,10 @@
     {
       "asn_number": 146842,
       "asn_name": "ChinaDataCom Corporation Limited"
+    },
+    {
+      "asn_number": 146814,
+      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141998,
@@ -1075,6 +1071,10 @@
       "asn_name": "Test platform Service Center"
     },
     {
+      "asn_number": 9389,
+      "asn_name": "BEIJING SHENZHOU GREATWALL COMMUNICATION"
+    },
+    {
       "asn_number": 9306,
       "asn_name": "RongHua Road No.11, Beijing Economy Technology Development Area, 100176"
     },
@@ -1097,10 +1097,6 @@
     {
       "asn_number": 63727,
       "asn_name": "Huawei"
-    },
-    {
-      "asn_number": 63722,
-      "asn_name": "Hodo Telecom Co,Ltd."
     },
     {
       "asn_number": 63718,
@@ -2311,10 +2307,6 @@
       "asn_name": "China Unicom TianJing GaoCun IDC network"
     },
     {
-      "asn_number": 151814,
-      "asn_name": "Guo Chuang Xin Xing (Beijing) Technology Co Ltd"
-    },
-    {
       "asn_number": 151673,
       "asn_name": "Chen Xinyu"
     },
@@ -2341,6 +2333,10 @@
     {
       "asn_number": 151277,
       "asn_name": "China Broadcast Network International Co.,Ltd"
+    },
+    {
+      "asn_number": 151270,
+      "asn_name": "Sichuan Xiaoteyun Technology Co., Ltd"
     },
     {
       "asn_number": 151263,
@@ -2875,10 +2871,6 @@
       "asn_name": "Xiang Zhou"
     },
     {
-      "asn_number": 219289,
-      "asn_name": "Jiang Songyang"
-    },
-    {
       "asn_number": 219283,
       "asn_name": "Haohao Zhang"
     },
@@ -3401,6 +3393,10 @@
     {
       "asn_number": 151951,
       "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
+    },
+    {
+      "asn_number": 151814,
+      "asn_name": "Guo Chuang Xin Xing (Beijing) Technology Co Ltd"
     },
     {
       "asn_number": 151785,
