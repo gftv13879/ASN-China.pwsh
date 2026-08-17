@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-08-16 02:16:39",
+    "last_updated_utc": "2026-08-17 02:15:04",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5223
+    "entry_count": 5224
   },
   "asns": [
     {
@@ -35,12 +35,12 @@
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 10111,
       "asn_name": "Zeofast Network"
+    },
+    {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 4808,
@@ -139,12 +139,12 @@
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
-      "asn_number": 37963,
-      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
-    },
-    {
       "asn_number": 23724,
       "asn_name": "IDC, China Telecommunications Corporation"
+    },
+    {
+      "asn_number": 37963,
+      "asn_name": "Hangzhou Alibaba Advertising Co.,Ltd."
     },
     {
       "asn_number": 213605,
@@ -179,12 +179,12 @@
       "asn_name": "Beijing Volcano Engine Technology Co., Ltd."
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 55996,
       "asn_name": "CYPRESS TELECOM (CHINA) LIMITED"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 58466,
@@ -275,10 +275,6 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
@@ -301,10 +297,6 @@
     {
       "asn_number": 59078,
       "asn_name": "Yunify Technologies Inc."
-    },
-    {
-      "asn_number": 58850,
-      "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
     {
       "asn_number": 58593,
@@ -351,6 +343,10 @@
       "asn_name": "21vianet(China) Inc."
     },
     {
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
       "asn_number": 204211,
       "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
@@ -381,6 +377,10 @@
     {
       "asn_number": 63631,
       "asn_name": "Guangdong Cloudbase Technology Co., Ltd."
+    },
+    {
+      "asn_number": 58850,
+      "asn_name": "Bloomberg Financial Information (Beijing) Co Ltd"
     },
     {
       "asn_number": 58540,
@@ -619,10 +619,6 @@
       "asn_name": "China Telecom Fujian Fuzhou IDC"
     },
     {
-      "asn_number": 133478,
-      "asn_name": "Tencent Cloud Computing (Beijing) Co., Ltd"
-    },
-    {
       "asn_number": 131486,
       "asn_name": "Beijing Jingdong 360 Degree E-commerce Co., Ltd."
     },
@@ -809,10 +805,6 @@
     {
       "asn_number": 214575,
       "asn_name": "Curious Universe (Chongqing) Technology Co., Ltd"
-    },
-    {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
     },
     {
       "asn_number": 209306,
@@ -1013,6 +1005,10 @@
     {
       "asn_number": 133775,
       "asn_name": "China Telecom Xiamen"
+    },
+    {
+      "asn_number": 133478,
+      "asn_name": "Tencent Cloud Computing (Beijing) Co., Ltd"
     },
     {
       "asn_number": 133475,
@@ -2223,6 +2219,10 @@
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 209574,
       "asn_name": "Xiao Tan"
     },
@@ -2889,6 +2889,10 @@
     {
       "asn_number": 219016,
       "asn_name": ""
+    },
+    {
+      "asn_number": 218985,
+      "asn_name": "YU WANG"
     },
     {
       "asn_number": 216412,
