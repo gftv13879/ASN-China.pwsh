@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-08-19 02:13:14",
+    "last_updated_utc": "2026-08-20 02:12:03",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5224
+    "entry_count": 5225
   },
   "asns": [
     {
@@ -119,12 +119,12 @@
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
-    },
-    {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 4842,
@@ -167,12 +167,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24490,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
-    },
-    {
       "asn_number": 44421,
       "asn_name": "Yifu Yu"
+    },
+    {
+      "asn_number": 24490,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 137995,
@@ -283,10 +283,6 @@
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
     },
     {
-      "asn_number": 212237,
-      "asn_name": "Changgong Zhang"
-    },
-    {
       "asn_number": 17623,
       "asn_name": "China Unicom Shenzen network"
     },
@@ -345,6 +341,10 @@
     {
       "asn_number": 23911,
       "asn_name": "China Next Generation Internet Beijing IX"
+    },
+    {
+      "asn_number": 212237,
+      "asn_name": "Changgong Zhang"
     },
     {
       "asn_number": 204211,
@@ -541,10 +541,6 @@
     {
       "asn_number": 23844,
       "asn_name": "Beijing Guanghuan Xinwang Digital"
-    },
-    {
-      "asn_number": 212532,
-      "asn_name": "XIAO YANG WEN RUI"
     },
     {
       "asn_number": 18241,
@@ -803,8 +799,8 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
-      "asn_number": 214899,
-      "asn_name": "Ye Liliang"
+      "asn_number": 212532,
+      "asn_name": "XIAO YANG WEN RUI"
     },
     {
       "asn_number": 209306,
@@ -849,6 +845,10 @@
     {
       "asn_number": 153725,
       "asn_name": "Tenonet (Hangzhou) Co Ltd"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 151313,
@@ -1203,10 +1203,6 @@
       "asn_name": "Chinese Academy of Social Sciences"
     },
     {
-      "asn_number": 51928,
-      "asn_name": "SHIZHE XU"
-    },
-    {
       "asn_number": 4859,
       "asn_name": "The State Information Center of P.R.China"
     },
@@ -1291,16 +1287,16 @@
       "asn_name": "Tianjin Tianzhan Technology Co., Ltd."
     },
     {
+      "asn_number": 214899,
+      "asn_name": "Ye Liliang"
+    },
+    {
       "asn_number": 214848,
       "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
     },
     {
       "asn_number": 213625,
       "asn_name": "Xuluo Chen"
-    },
-    {
-      "asn_number": 211843,
-      "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
     },
     {
       "asn_number": 211265,
@@ -1347,14 +1343,6 @@
       "asn_name": "DuoTu Cloud"
     },
     {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
-    },
-    {
-      "asn_number": 152920,
-      "asn_name": "Zhao Chenglin"
-    },
-    {
       "asn_number": 152711,
       "asn_name": "Suike Information Technology SiChuan Co., Ltd"
     },
@@ -1369,6 +1357,10 @@
     {
       "asn_number": 151673,
       "asn_name": "Chen Xinyu"
+    },
+    {
+      "asn_number": 151640,
+      "asn_name": "Bengbu Qingye Technology"
     },
     {
       "asn_number": 151247,
@@ -1401,10 +1393,6 @@
     {
       "asn_number": 149837,
       "asn_name": "China Telecom"
-    },
-    {
-      "asn_number": 149511,
-      "asn_name": "Yamu Technologies Co., Ltd."
     },
     {
       "asn_number": 149178,
@@ -1595,10 +1583,6 @@
       "asn_name": "Zhejiang Geely Holding Group"
     },
     {
-      "asn_number": 139073,
-      "asn_name": "Fantasy Sky Internet eXchange"
-    },
-    {
       "asn_number": 138991,
       "asn_name": "China Telecom"
     },
@@ -1757,10 +1741,6 @@
     {
       "asn_number": 133952,
       "asn_name": "Zhengzhou longling technology ltd."
-    },
-    {
-      "asn_number": 133555,
-      "asn_name": "DOORPOST Limited"
     },
     {
       "asn_number": 133465,
@@ -2011,6 +1991,10 @@
       "asn_name": "1065-A Zhaojiabang Road"
     },
     {
+      "asn_number": 51928,
+      "asn_name": "SHIZHE XU"
+    },
+    {
       "asn_number": 50922,
       "asn_name": "SHI Li Li"
     },
@@ -2223,6 +2207,10 @@
       "asn_name": "Jiaxian He"
     },
     {
+      "asn_number": 211843,
+      "asn_name": "Nanjing Tiankai Information Technology Co.Ltd."
+    },
+    {
       "asn_number": 210634,
       "asn_name": "Suzhou Yesong Information Technology Co., Ltd."
     },
@@ -2319,6 +2307,10 @@
       "asn_name": "Lu Bin"
     },
     {
+      "asn_number": 152920,
+      "asn_name": "Zhao Chenglin"
+    },
+    {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
     },
@@ -2369,6 +2361,10 @@
     {
       "asn_number": 150374,
       "asn_name": "Jiang Men Shi Tian Da Cloud Co. Ltd"
+    },
+    {
+      "asn_number": 149511,
+      "asn_name": "Yamu Technologies Co., Ltd."
     },
     {
       "asn_number": 149510,
@@ -2535,6 +2531,10 @@
       "asn_name": "Wuxi Education Information Management Service Center"
     },
     {
+      "asn_number": 139073,
+      "asn_name": "Fantasy Sky Internet eXchange"
+    },
+    {
       "asn_number": 139019,
       "asn_name": "Henan Xinxiang MAN"
     },
@@ -2661,6 +2661,10 @@
     {
       "asn_number": 133846,
       "asn_name": "IMLONGHAO"
+    },
+    {
+      "asn_number": 133555,
+      "asn_name": "DOORPOST Limited"
     },
     {
       "asn_number": 133194,
