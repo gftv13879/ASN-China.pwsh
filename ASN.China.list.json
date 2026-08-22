@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-08-21 02:18:44",
+    "last_updated_utc": "2026-08-22 02:09:46",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5229
+    "entry_count": 5230
   },
   "asns": [
     {
@@ -43,16 +43,16 @@
       "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
-      "asn_number": 213605,
-      "asn_name": "Liu HaoRan"
-    },
-    {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
     },
     {
       "asn_number": 209650,
       "asn_name": "Wu Zhiyuan"
+    },
+    {
+      "asn_number": 213605,
+      "asn_name": "Liu HaoRan"
     },
     {
       "asn_number": 139799,
@@ -95,12 +95,12 @@
       "asn_name": "Zhejiang Aiyun Network Technology Co Ltd"
     },
     {
-      "asn_number": 7497,
-      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
-    },
-    {
       "asn_number": 56040,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 7497,
+      "asn_name": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)"
     },
     {
       "asn_number": 146788,
@@ -235,20 +235,8 @@
       "asn_name": "China Telecom HangZhou IDC"
     },
     {
-      "asn_number": 56041,
-      "asn_name": "China Mobile communications corporation"
-    },
-    {
-      "asn_number": 24489,
-      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
-    },
-    {
       "asn_number": 23848,
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
-    },
-    {
-      "asn_number": 204211,
-      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
       "asn_number": 139138,
@@ -267,12 +255,16 @@
       "asn_name": "Beijing Xiaoju Science and Technology Co., Ltd."
     },
     {
+      "asn_number": 56041,
+      "asn_name": "China Mobile communications corporation"
+    },
+    {
       "asn_number": 38345,
       "asn_name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd."
     },
     {
-      "asn_number": 24444,
-      "asn_name": "Shandong Mobile Communication Company Limited"
+      "asn_number": 24489,
+      "asn_name": "Trans-Eurasia Information Network (TEIN2) - North"
     },
     {
       "asn_number": 24409,
@@ -283,12 +275,12 @@
       "asn_name": "China Internet Network Infomation Center"
     },
     {
-      "asn_number": 23911,
-      "asn_name": "China Next Generation Internet Beijing IX"
-    },
-    {
       "asn_number": 23650,
       "asn_name": "AS Number for CHINANET jiangsu province backbone"
+    },
+    {
+      "asn_number": 204211,
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
       "asn_number": 17623,
@@ -343,16 +335,24 @@
       "asn_name": "GDS CHANGAN SERVICES Ltd."
     },
     {
+      "asn_number": 24444,
+      "asn_name": "Shandong Mobile Communication Company Limited"
+    },
+    {
       "asn_number": 24413,
       "asn_name": "263 Shanghai Communications Ltd."
     },
     {
-      "asn_number": 24133,
-      "asn_name": "21vianet(China) Inc."
+      "asn_number": 23911,
+      "asn_name": "China Next Generation Internet Beijing IX"
     },
     {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
+    },
+    {
+      "asn_number": 17622,
+      "asn_name": "China Unicom Guangzhou network"
     },
     {
       "asn_number": 136237,
@@ -399,8 +399,16 @@
       "asn_name": "tianjin Mobile Communication Company Limited"
     },
     {
+      "asn_number": 37965,
+      "asn_name": "Pacnet Business Solutions LTD"
+    },
+    {
       "asn_number": 24424,
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
+    },
+    {
+      "asn_number": 24133,
+      "asn_name": "21vianet(China) Inc."
     },
     {
       "asn_number": 201674,
@@ -409,10 +417,6 @@
     {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
-    },
-    {
-      "asn_number": 17622,
-      "asn_name": "China Unicom Guangzhou network"
     },
     {
       "asn_number": 154648,
@@ -519,10 +523,6 @@
       "asn_name": "GSGH security LLC"
     },
     {
-      "asn_number": 37965,
-      "asn_name": "Pacnet Business Solutions LTD"
-    },
-    {
       "asn_number": 37942,
       "asn_name": "3rd Floor, Wenbo Building, No.A2 Gaoyuan Street,"
     },
@@ -565,6 +565,10 @@
     {
       "asn_number": 148981,
       "asn_name": "China Telecom"
+    },
+    {
+      "asn_number": 146814,
+      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141425,
@@ -807,6 +811,10 @@
       "asn_name": "SXBCTV ,Internet Service Provider,"
     },
     {
+      "asn_number": 219289,
+      "asn_name": "Jiang Songyang"
+    },
+    {
       "asn_number": 214848,
       "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
     },
@@ -855,6 +863,10 @@
       "asn_name": "XINHUA NEWS AGENCY"
     },
     {
+      "asn_number": 154402,
+      "asn_name": "Fredyun Network"
+    },
+    {
       "asn_number": 153726,
       "asn_name": "Shanghai Huiduan Technology Co., LTD."
     },
@@ -881,10 +893,6 @@
     {
       "asn_number": 146842,
       "asn_name": "ChinaDataCom Corporation Limited"
-    },
-    {
-      "asn_number": 146814,
-      "asn_name": "Hong Kong University of Science and Technology, Dongchung Town,"
     },
     {
       "asn_number": 141998,
@@ -1267,10 +1275,6 @@
       "asn_name": "Hebei Mobile Communication Company Limited"
     },
     {
-      "asn_number": 24445,
-      "asn_name": "Henan Mobile Communications Co.,Ltd"
-    },
-    {
       "asn_number": 24369,
       "asn_name": "CERNET2 IX at Northeast University"
     },
@@ -1293,10 +1297,6 @@
     {
       "asn_number": 23842,
       "asn_name": "Shenzhen Information and Network Center"
-    },
-    {
-      "asn_number": 219289,
-      "asn_name": "Jiang Songyang"
     },
     {
       "asn_number": 219210,
@@ -1327,6 +1327,10 @@
       "asn_name": "Licheng MAO"
     },
     {
+      "asn_number": 209300,
+      "asn_name": "Wende Tan"
+    },
+    {
       "asn_number": 201944,
       "asn_name": "HaoRan Liu"
     },
@@ -1353,10 +1357,6 @@
     {
       "asn_number": 17633,
       "asn_name": "ASN for Shandong Provincial Net of CT"
-    },
-    {
-      "asn_number": 154402,
-      "asn_name": "Fredyun Network"
     },
     {
       "asn_number": 153911,
@@ -1677,6 +1677,10 @@
     {
       "asn_number": 137690,
       "asn_name": "Zaozhuang,Shandong Province, P.R.China."
+    },
+    {
+      "asn_number": 137571,
+      "asn_name": "arebz.com"
     },
     {
       "asn_number": 137266,
@@ -2083,6 +2087,10 @@
       "asn_name": "15F,Ideal Plaza No.58 Bei Si Huan Xi Road"
     },
     {
+      "asn_number": 24445,
+      "asn_name": "Henan Mobile Communications Co.,Ltd"
+    },
+    {
       "asn_number": 24423,
       "asn_name": "No. 207 Hualin Road, Fuzhou, Fujian, China"
     },
@@ -2231,10 +2239,6 @@
       "asn_name": "Xiao Tan"
     },
     {
-      "asn_number": 209300,
-      "asn_name": "Wende Tan"
-    },
-    {
       "asn_number": 208754,
       "asn_name": "XingRui Li"
     },
@@ -2325,6 +2329,10 @@
     {
       "asn_number": 152120,
       "asn_name": "China Unicom TianJing GaoCun IDC network"
+    },
+    {
+      "asn_number": 151951,
+      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151814,
@@ -2625,10 +2633,6 @@
     {
       "asn_number": 137687,
       "asn_name": "Luoyang, Henan Province, P.R.China."
-    },
-    {
-      "asn_number": 137571,
-      "asn_name": "arebz.com"
     },
     {
       "asn_number": 137539,
@@ -3295,6 +3299,10 @@
       "asn_name": "Yi Huang"
     },
     {
+      "asn_number": 198266,
+      "asn_name": "Yunrui Gu"
+    },
+    {
       "asn_number": 198135,
       "asn_name": "YONG LI"
     },
@@ -3421,10 +3429,6 @@
     {
       "asn_number": 152118,
       "asn_name": "Shenzhen Moesys Computer System Co Ltd"
-    },
-    {
-      "asn_number": 151951,
-      "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
     },
     {
       "asn_number": 151785,
